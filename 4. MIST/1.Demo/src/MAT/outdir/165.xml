@@ -1,0 +1,38 @@
+<RECORD ID="165">
+<TEXT>
+<ID>286567383</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>0023321</ID>
+<ID>846535</ID>
+<ID>767914</ID>
+<DATE>7/25/2000</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>VEANSAP , CINDO</PATIENT>
+MRN :
+<ID>0023321</ID>
+Age :
+51y
+REGISTRATION DATE :
+<DATE>07/25/2000</DATE> 02:36 PM
+Provider :
+<DOCTOR>N TLAND</DOCTOR> PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>07/25/2000</DATE> 17:25
+Patient States Complaint :
+LAC. TO R. LEG
+Diagnosis :
+laceration to anterior aspect of R lower leg secondary to falling after being swept by a gust of wind
+Treatment Rendered :
+Closure of laceration Disposition ,
+Follow up and Instructions to Patient :
+Follow up with Dr. <DOCTOR>Tland</DOCTOR> in the outpatient clinic in 2 weeks for evaluation and possibly removal of sutures
+This report was created by <DOCTOR>TLAND , N</DOCTOR> <DATE>07/25/2000</DATE> 05:27 PM
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,54 @@
+Identifier Recorder initialized, 2018-03-08#10.52.08AM
+        
+        
+    testcase.xml    SCRUBBING FILE:
+    FetchWordTokensVisitor    Doe
+    FetchWordTokensVisitor    John
+    FetchWordTokensVisitor    1940-01-01
+    FetchWordTokensVisitor    123456789
+    FetchWordTokensVisitor    05-0001D
+    FetchWordTokensVisitor    7654321
+    FetchWordTokensVisitor    ANY
+    Identifers    Doe
+    Names    John
+    REGEX:DATE    1940-01-01
+    REGEX:SSN    123456789
+    Identifers    05-0001D
+    REGEX:TELEPHONE1    7654321
+    Identifers    ANY
+    REGEX:TELEPHONE1    7654321
+    REGEX:DATE    1940-01-01
+    REGEX:DATE     2009-02-01
+    REGEX:DATE14    August 16
+    REGEX:DATE14    August 17
+    REGEX:DATE14    August 18
+    REGEX:DATE15    August 16th
+    REGEX:DATE15    August 17th
+    REGEX:DATE15    August 18th
+    REGEX:AGE5    68 year old 
+    REGEX:SSN    123456789
+    REGEX:SSN    018100135
+    REGEX:DOCTOR2    Jane Doe, M.D
+    REGEX:MR    Mr. Smith'
+    Names    "John
+    Identifers    Doe"
+    Identifers    05-0001D
+    Names    John
+    Names    John
+    Identifers    Doe
+    Names    Smith
+    REGEX:DATE1    04/29/09
+    REGEX:DOCTOR0_1    Dr. Notarealname
+    REGEX:DOCTOR2    Fake Notarealname, M.D
+    REGEX:TELEPHONE2     (800) 555-2368
+    REGEX:DATE1    1/20/91
+    REGEX:DATE1    12/01/05
+    REGEX:DATE1    4/29/09
+    REGEX:DATE12    10/6/66
+    REGEX:DATE12    8/9/1985
+    REGEX:DOCTOR0_00    Dr. Peter Venkman
+    REGEX:ADDRESS8    '01". 11,
+    Names    "John
+    Identifers    Doe"
+
+Identifier Recorder shutdown, 2018-03-08#10.52.09AM

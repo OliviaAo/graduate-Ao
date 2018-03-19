@@ -1,0 +1,69 @@
+<RECORD ID="86">
+<TEXT>
+<ID>582609572</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>35815343</ID>
+<ID>983914</ID>
+<DATE>8/24/2000</DATE> 12:00:00 AM
+s / p vaginal delivery
+DIS
+Admission Date :
+<DATE>08/24/2000</DATE>
+Report Status :
+Discharge Date :
+<DATE>08/26/2000</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>BRESEUNG , ANGTARO T.</PATIENT> <ID>641-94-16-5 V58</ID>
+Room :
+<HOSPITAL>POM7-883</HOSPITAL>
+Service :
+OBS
+DISCHARGE PATIENT ON :
+<DATE>08/26/00</DATE> AT 10:00 AM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ACETAMINOPHEN 500-1000 MG PO Q4-6H PRN DOCUSATE SODIUM 100 MG PO BID PRN IBUPROFEN 200-600 MG PO Q4-6H PRN PAIN
+DIET :
+No Restrictions
+Activity - As tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+<DOCTOR>a</DOCTOR> 6 weeks , No Known Allergies
+ADMIT DIAGNOSIS :
+Spontaneous vaginal delivery Episiotomy
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) s / p vaginal delivery
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+G2 T1 P0 A0 L1
+Estimated EDC :
+Maternal transfer :
+No
+Baby 1
+MRN :
+<ID>63950183</ID>
+Delivery date :
+<DATE>08/24/00</DATE> 01:01 PM
+Apgars 4,8
+Weight :
+9lb 11 oz 4394 grams
+Sex :
+Female
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+<DOCTOR>JAMKOTE , NADA R.</DOCTOR> , M.D. , PH .D. ( <ID>JN12</ID> )
+<DATE>08/25/00</DATE> 04:34 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

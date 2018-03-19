@@ -1,0 +1,54 @@
+<RECORD ID="172">
+<TEXT>
+<ID>927975330</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>6815740</ID>
+<ID>960826</ID>
+<ID>1362702</ID>
+<DATE>9/1/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>FREIERMFETHBREUN , HILDERINEMI</PATIENT>
+MRN :
+<ID>6815740</ID>
+Age :
+42y
+REGISTRATION DATE :
+<DATE>09/01/2005</DATE> 04:13 PM
+Provider :
+<DOCTOR>CARBON PIERNREUKOTEFILLE</DOCTOR> PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+<DATE>09/01/2005</DATE> 17:36
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+HEADACHE / SORE THROAT / BODY ACHES / FEVER
+Standardized Discharge Instructions :
+The patient was given printed instructions for sore throat ( English ) .
+Diagnosis :
+Strep throat
+Treatment Rendered :
+Observation , Rapid strep test ( Postitive )
+Discharge Medications :
+Amoxicillin 500 TID x 7 days
+Follow up Service :
+PCP Disposition ,
+Follow up and Instructions to Patient :
+Complete your course of antibiotics .
+Return to the ED for further fever , sore throat ( though it will take 2-3 days before you improve ) .
+PCP Name :
+<DOCTOR>FONGBAIN , NA</DOCTOR>
+Provider Number :
+<ID>87871</ID>
+This report was created by <DOCTOR>PIERNREUKOTEFILLE , MA</DOCTOR> <DATE>09/01/2005</DATE> 05:41 PM
+[ report_end ]
+</TEXT>
+</RECORD>

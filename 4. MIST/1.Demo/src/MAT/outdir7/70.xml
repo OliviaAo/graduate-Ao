@@ -1,0 +1,76 @@
+<RECORD ID="70">
+<TEXT>
+<ID>894502316</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>32542805</ID>
+<ID>917334</ID>
+<DATE>10/29/2000</DATE> 12:00:00 AM
+LABOR
+DIS
+Admission Date :
+<DATE>10/29/2000</DATE>
+Report Status :
+Discharge Date :
+<DATE>11/01/2000</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>ASTWIERSTHUH , FAYJEA</PATIENT> <ID>486-96-15-8 E44</ID>
+Room :
+<HOSPITAL>BCV2-257</HOSPITAL>
+Service :
+OBS
+DISCHARGE PATIENT ON :
+<DATE>11/01/00</DATE> AT 01:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+IBUPROFEN 200-600 MG PO Q4-6H PRN PAIN PNV ( STUARTNATAL 1+1 ) 1 TAB PO QD
+DIET :
+No Restrictions
+Activity - As tolerated
+RETURN TO WORK :
+IN 6 WEEKS
+FOLLOW UP APPOINTMENT ( S ) :
+OB 6 WKS , No Known Allergies
+ADMIT DIAGNOSIS :
+Spontaneous vaginal delivery
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) LABOR
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Epidural
+Vaginal delivery :
+Spontaneous
+Laceration :
+Labial
+Placenta :
+Delivery :
+Spontaneous
+Condition :
+Normal
+Staff Obstetrician ( supervising ) :
+<DOCTOR>SPARDRHALT , RIGILDELD ELN</DOCTOR> , M.D. Delivery
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+G3 T0 P0 A2 L0
+Estimated EDC :
+<DATE>11/02/00</DATE>
+Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+<DOCTOR>SPARDRHALT , RIGILDELD ELN</DOCTOR> , M.D. ( <ID>FK4</ID> )
+<DATE>10/30/00</DATE> 12:15 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,51 @@
+<RECORD ID="313">
+<TEXT>
+<ID>360646580</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>2183964</ID>
+<ID>167005</ID>
+<ID>0885626</ID>
+<DATE>2/17/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>BEATHEWIERSTJESC , JOWIL</PATIENT>
+MRN :
+<ID>2183964</ID>
+Age :
+66y
+REGISTRATION DATE :
+<DATE>02/17/2005</DATE> 10:41 PM
+Provider :
+<DOCTOR>CENEY NEIGHRHALTGERLE</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+Yes - Direct contact with PCP
+Benefits Assigned :
+N
+Discharge Note Date / Time :
+<DATE>02/18/2005</DATE> 02:24
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+FEVER
+Diagnosis :
+fever , no evidence of infectious process
+Treatment Rendered :
+IVF , labs , Chest x-ray
+Follow up Service :
+Dr <DOCTOR>Cauldhompmoyhulle</DOCTOR> &apos;s office will call for followup
+Disposition , Follow up and Instructions to Patient :
+Please continue to drink lots of fluids , tylenol for fever , call Dr <DOCTOR>Cauldhompmoyhulle</DOCTOR> or return to ED if new shortness of breath , increased fever &gt; 101
+PCP Name :
+<DOCTOR>LATREFYFEEDLEMOONE , UCUR</DOCTOR>
+Provider Number :
+<ID>97778</ID>
+This report was created by <DOCTOR>NEIGHRHALTGERLE , CENEY</DOCTOR> <DATE>02/18/2005</DATE> 02:27 AM
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="variable.xsd">
+    <Header>
+        <Identifiers>
+            <FirstName> xxxIDENTIFIERxxx </FirstName>
+            <LastName> xxxNAMExxx </LastName>
+            <DateOfBirth> xxxxDATExxxx </DateOfBirth>
+            <SSN> xxxxSSNxxxx </SSN>
+            <AccessionNumber> xxxIDENTIFIERxxx </AccessionNumber>
+            <LocalMRN> xxxxTELEPHONE1xxxx </LocalMRN>
+            <Source> xxxIDENTIFIERxxx </Source>
+        </Identifiers>
+    </Header>
+    <Body>
+        <PathologyCase TissueAcquisitionDate="2005-01-01">
+            <Codes>
+                <Code Source="UMLS">C0011900</Code>
+                <Code Source="UMLS">C0225317</Code>
+            </Codes>
+            <Clinical>
+                <Patient>
+                    <Age Units="years">65</Age>
+                    <Gender>M</Gender>
+                </Patient>
+            </Clinical>
+            <BillingDiagnosis Type="LightMicroscopy">
+                <Term Code="T1X010" Source="SNOMED" />
+                <Term Code="M88500" Source="SNOMED" />
+            </BillingDiagnosis>
+            <Specimen Key="00" Type="Surgical">
+                <SpecimenAcquisitionProcedure>
+                    <Term Code="C0011900" Source="UMLS">DIAGNOSIS</Term>
+                </SpecimenAcquisitionProcedure>
+            <Topology>
+                <Term Code="C0225317" Source="UMLS">Soft tissue</Term>
+            </Topology>
+            <Topology>
+                <Term Code="C0040300" Source="UMLS">tissue</Term>
+            </Topology>
+            <Topology>
+                <Term Code="C0003792" Source="UMLS">arm</Term>
+            </Topology>
+                <Diagnosis>
+                    <Term Code="C0206632" Source="UMLS">Angiolipomas</Term>
+                </Diagnosis>
+            </Specimen>
+            <Specimen Key="1">
+            </Specimen>
+            <GrossDescriptionText>
+                <![CDATA[SPECIMEN SUBMITTED: SKIN ARM X 2.Clinical:  None noted. Gross:
+                The specimen was received fresh labeled with xxxNAMExxx xxxIDENTIFIERxxx and "arm lesion" who is a xxxxAGE5xxxx patient  xxxxDATExxxx  with xxxxSSNxxxx and xxxxTELEPHONE1xxxx consists of two fragments of tan soft tissue measuring 1.1 x 1.1 x 1.0 cm and 1.4 x 0.5 x 0.4 cm respectively.
+                The larger lesion is inked in black the smaller lesion is inked in blue, both fragments of xxxIDENTIFIERxxx are serially sectioned and entirely submitted as follows: A B = larger fragments, C = smaller fragments.
+                xxxxMRxxxx s specimens were reviewed by Mrs. xxxxDOCTOR2xxxx  on xxxxDATExxxx 
+                Given .7 mg. of something.
+                Patient may be duplicate with social xxxxSSNxxxx   xxxNAMExxx s possesive test. xxxNAMExxx xxxIDENTIFIERxxx xxxNAMExxx hyphen test.
+               Test: The NG tube was discontinued on xxxxDATE15xxxx and the patient was increased on xxxxDATE15xxxx    On xxxxDATE15xxxx the patient had stable vital signs.
+               Test: xxxHOSPITALxxx in xxxPRIVATExxx, xxxPRIVATExxx. 
+                
+                
+                ]]>
+            </GrossDescriptionText>
+            <DiagnosisText><![CDATA[ xxxxDATE1xxxx xxxxDOCTOR0_1xxxx DIAGNOSIS: Soft tissue, arm  : Lipomas  two . Ms. xxxxDOCTOR2xxxx ]]></DiagnosisText>
+            <FullReportText><![CDATA[SPECIMEN SUBMITTED: SKIN ARM X 2. DIAGNOSIS: Soft tissue, arm  : Lipomas  two . Clinical:  None noted. Gross:
+            Patient admitted at 7:30 a.m. Height: 6 xxxxADDRESS8xxxx 000.  Given 2% milk p.o.b.i.d.
+            Other specimens collected on xxxxDATE1xxxx  xxxxDATE1xxxx  xxxxDATE12xxxx  xxxxDATE12xxxx 
+            5+ +K2 +3
+            For more information, call xxxxDOCTOR0_00xxxx at xxxxTELEPHONE2xxxx 
+            The specimen was received fresh labeled with xxxNAMExxx xxxIDENTIFIERxxx and "arm lesion" and consists of two fragments of tan soft tissue measuring 1.1 x 1.1 x 1.0 cm and 1.4 x 0.5 x 0.4 cm respectively. The larger lesion is inked in  black the smaller lesion is inked in blue, both fragments are serially sectioned and entirely submitted as follows: A B = larger fragments, C = smaller fragments. xxxxDATE1xxxx ]]>
+            </FullReportText>
+        </PathologyCase>
+    </Body>
+</Envelope>
+<!--SCRUBBED USING VERSION:HMS SPIN Scrubber 2.8
+BATCH:ao_2018-03-08#10.52.08AM
+[RESOURCES]
+Names conf/names.txt:KCRQHACpvX01aHOsQ1PrLKfjV1rBMXs1rdgl0dHD2q4=
+PrivateDictionary conf/private_dict.txt:7ykSJDHPq4AWXuTJ+GSB58cp+bKL9MgY/3FhnyQ9OnY=
+Institutions conf/hospital_names.txt:ALecoBOmVRz/IomL7eiGSB+T+DQg+WDPjoLGTfBojKY=
+REGEX_0 conf/regex.txt:JZ6livafuF7deJBMBAMYTAH+Qn2np6hV9SUh+eSC9HQ=
+-->

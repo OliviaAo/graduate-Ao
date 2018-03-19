@@ -1,0 +1,60 @@
+<RECORD ID="358">
+<TEXT>
+<ID>383404046</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>9312753</ID>
+<ID>291286</ID>
+<ID>947900</ID>
+<DATE>11/04/2001</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>FRIEDVUILLE , GANGE</PATIENT>
+MRN :
+<ID>9312753</ID>
+Age :
+25y
+REGISTRATION DATE :
+<DATE>11/04/2001</DATE> 01:25 PM
+Provider :
+<DOCTOR>STABLE LARDESPRABLEYL</DOCTOR>
+PRELIMINARY REPORT
+Discharge Date / Time :
+<DATE>11/04/2001</DATE> 15:11
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+UTI
+Standardized Discharge Instructions :
+The patient was given printed instructions for urinary tract infection ( English ) .
+Diagnosis :
+UTI
+Treatment Rendered :
+Examination .
+Urinanalysis :
+positive for white cells , red cells .
+Discharge Medications :
+Bactrim DS 1tab PO BID Pyridium 100mg PO TID
+Follow up Service :
+If your symptoms do not resolve in 1 week , follow up with your regular doctor .
+If you do not have a primary care physician , it is recommended that you select one .
+If you would like an <HOSPITAL>WGH</HOSPITAL> primary care physician , please call the <HOSPITAL>Eghelas Medical Centers</HOSPITAL> at <PHONE>265-573-2272</PHONE> .
+If you are unable to make an appointment , it is recommended that you receive follow-up care in the Medical Walk-in Unit .
+The hours are Mon-Fri 8:30a.m.-8:00p.m. , Sat and Sun 9:30a.m.-4:00p.m.
+Please call <PHONE>( 301 ) 448-9787</PHONE> for further information .
+Disposition , Follow up and Instructions to Patient :
+Take Bactrim and Pyridium as prescribed .
+Follow up with your regular doctor .
+Return if you have high fever , flank / back pain or any other concerning problems .
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+<ID>51669</ID>
+This report was created by <DOCTOR>LARDESPRABLEYL , VA</DOCTOR> <DATE>11/04/2001</DATE> 03:14 PM
+[ report_end ]
+</TEXT>
+</RECORD>

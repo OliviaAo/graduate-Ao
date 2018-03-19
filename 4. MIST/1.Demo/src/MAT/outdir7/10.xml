@@ -1,0 +1,65 @@
+<RECORD ID="10">
+<TEXT>
+<ID>688127038</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>47449520</ID>
+<ID>204512</ID>
+<DATE>3/5/2002</DATE> 12:00:00 AM
+TCA overdose
+DIS
+Admission Date :
+<DATE>03/05/2002</DATE>
+Report Status :
+Discharge Date :
+<DATE>03/07/2002</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>HULLEKOTE , AU</PATIENT> <ID>329-72-53-3 Z23</ID>
+Room :
+<HOSPITAL>29Z-191</HOSPITAL>
+Service :
+MED
+DISCHARGE PATIENT ON :
+<DATE>03/07/02</DATE> AT 11:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>UPHMADRE , CIOUSALE N.</DOCTOR> , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Rehabilitation
+DISCHARGE MEDICATIONS :
+FOLATE ( FOLIC ACID ) 1 MG PO QD ZANTAC ( RANITIDINE HCL ) 150 MG PO BID MVI THERAPEUTIC W / MINERALS ( THERAP VITS / MINERALS ) 1 TAB PO QD THIAMINE HCL 100 MG PO QD
+DIET :
+No Restrictions Activity - As tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. <DOCTOR>Ee</DOCTOR> , patient to arrange , No Known Allergies
+ADMIT DIAGNOSIS :
+TCA overdose
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) TCA overdose
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay depression ( depression )
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+None
+BRIEF RESUME OF HOSPITAL COURSE :
+32 y / o woman with h / o anxiety and depression and prior suicide attempt presents with TCA and celexa overdose , tremulous / light-headed , felt better post charcoal .
+No EKG changes , marijuana in urine , HCO3 22 .
+Transferred to floor on day of admission with no acute medical issues ; awaiting psych eval .
+Not actively suicidal .
+<DATE>3/7</DATE> -- repeat HCO3 24 and 26 without bicarb drip .
+EKG without changes .
+Patient felt well , tolerating POs .
+BEST team eval found bed at psych rehab facility .
+OF NOTE , Nortriptyline level came back as 43 ( SUBTHERAPEUTIC -- NORMAL 50-150 ) .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>KOTEKEESECRANKBERF , LA A.</DOCTOR> , M.D. ( <ID>JG92</ID> ) <DATE>03/07/02</DATE> 10:56 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

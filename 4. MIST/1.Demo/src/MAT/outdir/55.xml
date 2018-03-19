@@ -1,0 +1,126 @@
+<RECORD ID="55">
+<TEXT>
+<ID>947491802</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>71752866</ID>
+<ID>7285069</ID>
+<DATE>6/4/2004</DATE> 12:00:00 AM
+pancreatic CA , s / p J tube
+DIS
+Admission Date :
+<DATE>06/04/2004</DATE>
+Report Status :
+Discharge Date :
+<DATE>06/08/2004</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>RILLSCLANCEKOTE , TILITHIE X</PATIENT> <ID>922-88-98-8 U83</ID>
+Room :
+<HOSPITAL>10T-481</HOSPITAL>
+Service :
+GIX
+DISCHARGE PATIENT ON :
+<DATE>06/08/04</DATE> AT 01:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>ROCOMPELKSTHYS , RITA N.</DOCTOR> , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID DILAUDID ( HYDROMORPHONE HCL ) 2-4 MG PO Q4H
+Alert overridden :
+Override added on <DATE>06/04/04</DATE> by <DOCTOR>RAINAPPS , THAMEA G.</DOCTOR> , M.D.
+DEFINITE ALLERGY ( OR SENSITIVITY ) to NARCOTICS , PHENANTHRENES
+Reason for override :
+tolerates NPH
+INSULIN HUMAN ( INSULIN NPH HUMAN ) 6 UNITS SC QHS
+INSULIN REGULAR HUMAN Sliding Scale SC ( subcutaneously ) QAC and HS
+If BS is less than 150 , then give 0 units subcutaneously
+If BS is 151-200 , then give 2 units subcutaneously
+If BS is 201-250 , then give 4 units subcutaneously
+If BS is 251-300 , then give 6 units subcutaneously
+If BS is 301-350 , then give 8 units subcutaneously and call HO Call HO if BS is greater than 350 ATIVAN ( LORAZEPAM ) 0.25 MG PO BID
+HOLD IF :
+oversedated , respiratory depression
+MAALOX PLUS EXTRA STRENGTH
+15 milliliters PO Q6H PRN Indigestion
+MOM ( MAGNESIUM HYDROXIDE ) 30 milliliters PO QD PRN Constipation
+SERAX ( OXAZEPAM ) 15-30 MG PO QHS PRN Insomnia
+SENNA TABLETS 2 TAB PO BID MVI WITH MINERALS ( THERAP VITS / MINERALS ) 1 TAB PO QD
+METOPROLOL ( SUST. REL. ) 50 MG PO QD
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+Number of Doses Required ( approximate ) :
+3
+COMPAZINE ( PROCHLORPERAZINE ) 10 MG PO Q6H PRN Nausea
+OXYCONTIN ( OXYCODONE CONTROLLED RELEASE ) 20 MG PO BID
+Alert overridden :
+Override added on <DATE>06/04/04</DATE> by <DOCTOR>RAINAPPS , THAMEA G.</DOCTOR> , M.D.
+DEFINITE ALLERGY ( OR SENSITIVITY ) to NARCOTICS , PHENANTHRENES
+Reason for override :
+aware .
+tolerates PANCREASE ( PANCRELIPASE ) 2 TAB PO TID
+Instructions :
+with meals
+EFFEXOR SR ( VENLAFAXINE EXTENDED RELEASE ) 150 MG PO QD
+Number of Doses Required ( approximate ) :
+3
+NEXIUM ( ESOMEPRAZOLE ) 40 MG PO QD
+TUBE FEEDING :
+full strength
+JEVITY PLUS 20cc / hr
+Advance rate to 65cc / hr &lt; FDI &gt;
+FOLLOW UP APPOINTMENT ( S ) :
+<DOCTOR>Then</DOCTOR> <DATE>06/12/04</DATE> ,
+ALLERGY :
+Morphine
+ADMIT DIAGNOSIS :
+pancreatic CA
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) pancreatic CA , s / p J tube
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay Alcoholic PVD s / p B / L fem-pop Chronic panceatitis Pseudocysts RIGHT CVA <DATE>7/15/95</DATE> HTN DM MV CAD , LM dz
+OPERATIONS AND PROCEDURES :
+percutaneous J tube placement
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+64 y / o w/ n / v /abd pain 64 y / o man w/ mult med probs incl CAD , SCC head + neck s / p laryngectomy , recently diagnosed pancreatic cancer .
+Pt recently had CT guided biopsy <DATE>5/30</DATE> through abd wall , since that time has had n / v/abd pain .
+No fevers / chills , had some blood in stool once but no melena , denies diarrhea/ constip&apos;n , has chronic stable cough .
+Alk P elevated at 288 , though lower than recently ( 900 on <DATE>5/9</DATE> ) , T bili 1.9 ( was 3.0 on <DATE>5/9</DATE> ) CT abd showed increase in calcifications of pancreas RUQUS w/ thickened GB wall , sludge , complex collection at GB fundus , pneumobilia
+Sent Home <DATE>6/1</DATE> but cont&apos;d to have abd pain and not tolerating PO .
+He represents to have G tube placed .
+Onc :
+home hospice care
+GI :
+not tolerating PO .
+Got J tube yesterday .
+Rx Jevity tube feeds today .
+Compazine .
+MOM , maalox prn .
+- pain control w. oxycontin 20 BID and dilaudid 2-4 q4
+FEN :
+Gentle hydration , clear liquids
+PO CV :
+no active issues .
+Psych - very agitated .
+Cont effexor .
+Consider psych consullt if cont &apos;s to refuse exams etc ./
+ENDO :
+RISS and add NPH 6 u qHS given am high BG .
+Dispo :
+home w/ hospice
+FULL CODE
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Satisfactory
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>RAINAPPS , THAMEA G.</DOCTOR> , M.D. ( <ID>AJ89</ID> ) <DATE>06/08/04</DATE> 12:02 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,34 @@
+<RECORD ID="238">
+<TEXT>
+<ID>396349714</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>6477220</ID>
+<ID>435187</ID>
+<ID>5876919</ID>
+<DATE>7/8/2003</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>SWANKEGIERNILL , LAJAC</PATIENT>
+MRN :
+<ID>6477220</ID>
+Age :
+54y
+REGISTRATION DATE :
+<DATE>07/08/2003</DATE> 09:36 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>SWANKEGIERNILL , LAJAC</PATIENT> arrived in the Emergency Department at <HOSPITAL>Ponta,itri- University Medical Center</HOSPITAL> on <DATE>07/08/2003</DATE> 09:36 AM .
+The patient presented with a chief complaint of ABD PAIN .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>PONTA,ITRI- UNIVERSITY MEDICAL CENTER</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is <DOCTOR>MORCBREUTZ , RITENALD R</DOCTOR> and the preliminary diagnosis is APPENDICITIS .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>937-599-6520</PHONE> .
+PCP Name :
+<DOCTOR>BREUTZFREIERM , VIENNEE C</DOCTOR>
+Provider Number :
+<ID>38247</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

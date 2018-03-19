@@ -1,0 +1,61 @@
+<RECORD ID="922">
+<TEXT>
+<ID>903656777</ID>
+<HOSPITAL>GH</HOSPITAL>
+<ID>34921565</ID>
+<DATE>10/04/2000</DATE> 12:00:00 AM
+thorascopic drainage
+DIS
+Admission Date :
+<DATE>10/04/2000</DATE>
+Report Status :
+Discharge Date :
+<DATE>10/06/2000</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>NERSLET , BERISS D</PATIENT> <ID>248-43-87-2Q80</ID>
+Room :
+<ID>64G-067</ID>
+Service :
+THO DISCHARGE PATIENT ON :
+<DATE>10/06/00</DATE> AT 12:00 PM
+CONTINGENT UPON Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ASPIRIN ENTERIC COATED 325 MG PO QD HYDROXYZINE ( HYDROXYZINE HCL ) 50 MG PO QD ISORDIL ( ISOSORBIDE DINITRATE ) 20 MG PO TID
+HOLD IF :
+sbp &lt; 100 , HR &lt; 60
+LOPRESSOR ( METOPROLOL TARTRATE ) 25 MG PO Q6 H
+HOLD IF :
+sbp &lt; 100
+Food / Drug Interaction Instruction
+Take with food
+PRILOSEC ( OMEPRAZOLE ) 20 MG PO QD PAXIL ( PAROXETINE ) 20 MG PO QD
+DIET :
+No Restrictions
+Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. <DOCTOR>Sccrookes</DOCTOR> 7-14 days , No Known Allergies
+ADMIT DIAGNOSIS :
+s / p talc poudrage
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) thorascopic drainage
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay thorascopic drainage
+OPERATIONS AND PROCEDURES :
+<DATE>10/04/00</DATE> <DOCTOR>SCCROOKES , SLAINEDON</DOCTOR> , M.D. BRONCH L THORACOSCOPIC PLEURAL BX DRAINAGE OF PLEURAL EFFUSIONOTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+admitteed for thorascopic drainage and pleural biopsy , no complications , now ready for discharge
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+<DOCTOR>DOYLE , THAMETO</DOCTOR> , M.D. ( <ID>II56</ID> )
+<DATE>10/06/00</DATE> 09:13 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

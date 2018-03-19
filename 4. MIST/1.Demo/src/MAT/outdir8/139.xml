@@ -1,0 +1,47 @@
+<RECORD ID="139">
+<TEXT>
+<ID>149929020</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>8259334</ID>
+<ID>009226</ID>
+<ID>6917263</ID>
+<DATE>04/19/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>SWANKEGIERNILL , LAJAC</PATIENT>
+MRN :
+<ID>8259334</ID>
+Age :
+52y
+REGISTRATION DATE :
+<DATE>04/19/2005</DATE> 07:12 PM
+Provider :
+<DOCTOR>VITA LINKEKOTEMONES</DOCTOR> PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+<DATE>04/19/2005</DATE> 22:04
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+NEEDS URINE TOX
+Diagnosis :
+urine toxicology test
+Treatment Rendered :
+urine toxicology test
+Follow up Service :
+If you do not have a primary care physician , it is recommended that you select one .
+If you would like an <HOSPITAL>PUMC</HOSPITAL> primary care physician , please call the <HOSPITAL>I Medical Center</HOSPITAL> at <PHONE>826-159-8368</PHONE> .
+PCP Name :
+<DOCTOR>SELCJESCPINT , RYBAM</DOCTOR>
+Provider Number :
+<ID>03937</ID>
+This report was created by <DOCTOR>LINKEKOTEMONES , VITA</DOCTOR> <DATE>04/19/2005</DATE> 10:06 PM
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,59 @@
+<RECORD ID="299">
+<TEXT>
+<ID>110874821</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>9627305</ID>
+<ID>417341</ID>
+<ID>6106510</ID>
+<DATE>1/3/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>BOORMDRUDD , ZIERA</PATIENT>
+MRN :
+<ID>9627305</ID>
+Age :
+72y
+REGISTRATION DATE :
+<DATE>01/03/2005</DATE> 02:50 PM
+Provider :
+<DOCTOR>MAAAREA OBEROC</DOCTOR>
+PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+<DATE>01/03/2005</DATE> 18:41
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+LAC TO HEAD
+Standardized Discharge Instructions :
+The patient was given printed instructions for wound care ( English ) .
+Diagnosis :
+Laceration to scalp
+Treatment Rendered :
+Exam , Wound closed with staples
+Discharge Medications :
+NONE
+Follow up Service :
+It is recommended that you receive follow-up care in the <HOSPITAL>D Valley Health</HOSPITAL> with Dr <DOCTOR>Oberoc</DOCTOR> on <DATE>December 15</DATE>th .
+Please call <PHONE>350-059-2924</PHONE> to schedule an appt .
+Appointments are scheduled for early morning .
+If you have a managed care plan , check with your PCP before making this appt
+Disposition , Follow up and Instructions to Patient :
+As above .
+If you experience difficulty arousal from sleep , nausea vomiting , worsening headache , or have any concerns please call or return to the ER .
+Apply bacitracin three times a day until follow up .
+No shower until tuesday .
+PCP Name :
+<DOCTOR>SELCJESCPINT , RYBAM</DOCTOR>
+Provider Number :
+<ID>09271</ID>
+This report was created by <DOCTOR>OBEROC , MAAAREA</DOCTOR> <DATE>01/03/2005</DATE> 06:43 PM
+[ report_end ]
+</TEXT>
+</RECORD>

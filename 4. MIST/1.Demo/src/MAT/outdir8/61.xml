@@ -1,0 +1,75 @@
+<RECORD ID="61">
+<TEXT>
+<ID>385825271</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>42695632</ID>
+<ID>407551</ID>
+<DATE>11/6/2001</DATE> 12:00:00 AM
+vasovagal episode
+DIS
+Admission Date :
+<DATE>11/06/2001</DATE>
+Report Status :
+Discharge Date :
+<DATE>11/06/2001</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>FEDDNOORT , RIKEREUGE LASSHA</PATIENT> <ID>443-19-67-3 O82</ID>
+Room :
+<HOSPITAL>51Z-451</HOSPITAL>
+Service :
+MED
+DISCHARGE PATIENT ON :
+<DATE>11/06/01</DATE> AT 06:00 PM
+CONTINGENT UPON
+HO evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H PRN headache DIGOXIN 0.25 MG PO QD COUMADIN ( WARFARIN SODIUM ) 2 MG PO QD Starting Today ( <DATE>11/06</DATE> )
+Instructions :
+please resume coumadin in 2 days ; new regimen is 2mg every day ; except Mon / thurs when you should take 3mg .
+Food / Drug Interaction Instruction
+No high Vitamin-K containing foods
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+Dr <DOCTOR>A</DOCTOR> 1-2 wks , <DOCTOR>Maaarea Stable</DOCTOR> for coumadin recommendations Call tomorrow , No Known Allergies
+ADMIT DIAGNOSIS :
+syncope
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) vasovagal episode
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay H / o RHD w/ MR S / p MVR ( St. Jude &apos;s ) Atrial Fibrillation
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+43 yo F with history of Rheumatic Heart Disease s / p MVR ( St Judes valve ) adn chronic atrial fibrillation presented with syncopal episode .
+Last evening pt felt dizzy and then passed out and fell to kitchen floor .
+Pt hit cheek on counter .
+Patient denied any bowel or urinary incontinence .
+Denied any chest pain or shortness of breath .
+Denies any palpatations .
+No N / v .
+Decreased po intake and decreased sleep over the past few days secondary to stresses at home .
+Pt was hydrated in ED and r / o protocol instituted ; Lytes / cbc WNL .
+Cardiac enzymes flat and no ekg changes .
+Significantly INR elevated to 5.0 ; coumadin held .
+<DATE>11/6</DATE> Pt was asymptomatic with stable vital signs and EKGs ; pt had echo done to assess valve .
+Pt d / c home with f / u with Dr <DOCTOR>A</DOCTOR> and Coumadin Nurse <DOCTOR>Maaarea Stable</DOCTOR>
+ADDITIONAL COMMENTS :
+Please call <DOCTOR>Maaarea Stable</DOCTOR> for coumadin recommendations ; call tomorrow and discuss what dose of coumadin that should be taken .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+Stop coumadin for 2 days ; Resume coumadin as Dr <DOCTOR>A</DOCTOR> described ; New regimen is 2mg everyday except Mondays and Thursdays when you should take 3mg .
+Please call Coumadin nurse to arrange for PT blood draws .
+Call Dr <DOCTOR>A</DOCTOR> to arrange for appt .
+ENTERED BY :
+<DOCTOR>LEYNTHORECRANK , LYNRIS MARG</DOCTOR> , M.D , PH.D. ( <ID>WU92</ID> ) <DATE>11/06/01</DATE> 06:34 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

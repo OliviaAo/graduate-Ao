@@ -1,0 +1,31 @@
+<RECORD ID="78">
+<TEXT>
+<ID>205089883</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>4052366</ID>
+<ID>480723</ID>
+<ID>7014251</ID>
+<DATE>7/8/2003</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>GROKOTE , TRUCA</PATIENT>
+MRN :
+<ID>4052366</ID>
+Age :
+53y
+REGISTRATION DATE :
+<DATE>07/08/2003</DATE> 06:23 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>GROKOTE , TRUCA</PATIENT> arrived in the Emergency Department at <HOSPITAL>Daughtersvillshamen&apos;s Hospital</HOSPITAL> on <DATE>07/08/2003</DATE> 06:23 AM .
+The patient presented with a chief complaint of RASH .
+If you need additional information please call <PHONE>613-870-0699</PHONE> .
+PCP Name :
+<DOCTOR>BREUTZFREIERM , VIENNEE C</DOCTOR>
+Provider Number :
+<ID>44805</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

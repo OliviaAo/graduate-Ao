@@ -1,0 +1,45 @@
+<RECORD ID="123">
+<TEXT>
+<ID>718242875</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>8958295</ID>
+<ID>643080</ID>
+<ID>451734</ID>
+<DATE>8/4/2000</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>PIERNHEAGLEFREIERM , NANIROL</PATIENT>
+MRN :
+<ID>8958295</ID>
+Age :
+37y
+REGISTRATION DATE :
+<DATE>08/04/2000</DATE> 09:30 PM
+Provider :
+<DOCTOR>LEE GUIRRESIEW</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>08/05/2000</DATE> 01:08
+Discharge Status :
+Discharged
+Patient States Complaint :
+HA/ ALSO REQ APS
+Diagnosis :
+Headache and depression
+Treatment Rendered :
+Physical exam and psych exam within normal limits ; lytes normal
+Discharge Medications :
+Tylenol prn pain
+Disposition , Follow up and Instructions to Patient :
+Follow up as above ; please return to ER if any fever , worsening headache , changes in thinking , chills , nausea , vomitting , weakness , paralysis , or suicidal ideas .
+This report was created by <DOCTOR>GUIRRESIEW , DOTA</DOCTOR> <DATE>08/05/2000</DATE> 01:12 AM
+[ report_end ]
+</TEXT>
+</RECORD>

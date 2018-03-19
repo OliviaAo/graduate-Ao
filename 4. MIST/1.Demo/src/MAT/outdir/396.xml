@@ -1,0 +1,143 @@
+<RECORD ID="396">
+<TEXT>
+<ID>637771745</ID> <HOSPITAL>TH</HOSPITAL>
+<ID>61626230</ID>
+<ID>5706758</ID>
+<DATE>9/14/2005</DATE> 12:00:00 AM
+chest pain most likely MSK or GI related
+DIS
+Admission Date :
+<DATE>09/14/2005</DATE>
+Report Status :
+Discharge Date :
+<DATE>09/16/2005</DATE>
+****** FINAL DISCHARGE ORDERS ******
+<PATIENT>TROSVEINLAUNT , CIDY</PATIENT>
+<ID>359-92-80-3 U78</ID>
+Room :
+<HOSPITAL>06B-868</HOSPITAL>
+Service :
+MED
+DISCHARGE PATIENT ON :
+<DATE>09/16/05</DATE> AT 04:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>BAINMUH , GENTO M.</DOCTOR> , M.D. , PH.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+ACETYLSALICYLIC ACID 325 MG PO QD META-MUCIL ( PSYLLIUM ( METAMUCIL ) SUGAR FREE ) 1 PACKET PO QD SIMVASTATIN 20 MG PO QHS
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+LISINOPRIL 2.5 MG PO QD
+Alert overridden :
+Override added on <DATE>09/16/05</DATE> by :
+POTENTIALLY SERIOUS INTERACTION :
+POTASSIUM CHLORIDE and LISINOPRIL
+POTENTIALLY SERIOUS INTERACTION :
+POTASSIUM CHLORIDE and LISINOPRIL
+Reason for override :
+ok
+ATENOLOL 25 MG PO QD PRILOSEC ( OMEPRAZOLE ) 20 MG PO QD
+DIET :
+No Restrictions
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+pcp ,
+ALLERGY :
+METOCLOPRAMIDE HCL , PAROXETINE , NITROGLYCERIN , CEPHALEXIN , ALENDRONATE , DICLOXACILLIN , TRAMADOL , HYDROCODONE 5 MG + APAP
+ADMIT DIAGNOSIS :
+chest pain of unclear etiology
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) chest pain most likely MSK or GI related
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+HTN Osteoporosis back pain
+OPERATIONS AND PROCEDURES :
+none
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+stress test
+MRA CXR
+BRIEF RESUME OF HOSPITAL COURSE :
+ID :
+<AGE>94y</AGE> YO female
+--- CC :
+Chestpain
+--- DX :
+Chestpain / ROMI
+--- HPI :
+<AGE>114</AGE> YO female with no prior history of HTN who recently has been found to have BP ~ 200/100 .
+Had back pain in this setting so had CTA to eval for dissection that was negative .
+Otherwise no complaints .
+Now returns with chestpain X 1 day , intermittant .
+--- STATUS :
+T :
+99
+HR :
+80
+BP :
+184/80
+RR :
+18 O2:96% on RA
+GEN :
+NAD
+NECK :
+no JVD or bruits
+CHEST :
+CTA CV :
+RRR S1 , S2 2/6 HSM at apex
+ABD :
+soft , NT , ND , no bruits , EXT no edema or erthema .
+NEURO :
+A+OX3 , no focal deficit of strength or sensation
+--- EVENTS <DATE>9/14/2005</DATE>
+admitted to medicine
+--- TESTS / PROCEDURES :
+CXR :
+no acute findings
+EKG :
+No acute changes
+LABS :
+cardiac biomarkers negative X 3
+--- CONSULTS
+--- PROBLEM LIST
+--- 1.) Chestpain - Risk factors include hypertension .
+Admitted for ROMI and telemetry .
+All sets of cardiac biomarkers were negative .
+Pt had an episode of CP on hops day 2 , there were no EKG changes .
+Pain resolved with rest and maalox .
+Cardiac stress test done on <DATE>9/16</DATE> was neg for ischemia and EF &gt; 70% .
+Pt was discharged on BP meds to follow up with PCP .
+2.) HTN - new onset of labile HTN in 96 YO .
+Endocrine workup ( urine catechols / metaneph , aldo / renin ) during last hospitalization was neg .
+Pt maintained good BPs on lopressor and captopril during hospital stay .
+An MRA was done on <DATE>9/14</DATE> to r / o renal artery stenosis .
+Result was still pending at time of discharge .
+PCP to f / u
+--- 3.) Back pain - On prior admission was L sided by scapula .
+CTA negative for dissection .
+Possibly radicular .
+CT does not show bony lesions .
+Was well controlled on low dose oxycodone .Now with only minimal sxs .
+--- 4.) FULL CODE
+ADDITIONAL COMMENTS :
+please call your doctor or return to the hospital if you have worsening chest pain , shortness of breath , lightheadedness or any other concerning symptoms Pls follow up with your primary care doctor in 1-2 wks
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+follow up with pcp
+Follow up
+MRA result
+No dictated summary
+ENTERED BY :
+<DOCTOR>DREWENUK , AEA W</DOCTOR> , M.D. ( <ID>GJ0</ID> ) <DATE>09/16/05</DATE> 04:42 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

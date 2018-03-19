@@ -1,0 +1,39 @@
+<RECORD ID="244">
+<TEXT>
+<ID>029190343</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>0374038</ID>
+<ID>026192</ID>
+<ID>848070</ID>
+<DATE>01/04/1999</DATE> 12:00:00 AM
+Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+DISCHARGE SUMMARY NAME :
+<PATIENT>JESCFYFE , QUEL T</PATIENT>
+UNIT NUMBER :
+<ID>907-92-23</ID>
+ADMISSION DATE :
+<DATE>01/04/1999</DATE>
+DISCHARGE DATE :
+<DATE>01/08/1999</DATE>
+PRINCIPAL PROCEDURE :
+Patient underwent L3-5 decompression with L4-5 fusion .
+COMPLICATIONS :
+There were no complications intraoperatively or postoperatively
+HOSPITAL COURSE AND TREATMENT :
+The patient tolerated the procedure well and was discharged to home on <DATE>01/08/99</DATE> with no complaints .
+Follow up in 4 to 6 weeks .
+<DOCTOR>YELEAND DREPSGUYN</DOCTOR> , M.D. Unreviewed
+TR :
+<DOCTOR>st</DOCTOR>
+DD :
+<DATE>05/10/1999</DATE>
+TD :
+<DATE>05/14/1999</DATE> 2:15 P
+cc :
+<DOCTOR>YELEAND S DREPSGUYN</DOCTOR> , M.D.
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,49 @@
+<RECORD ID="242">
+<TEXT>
+<ID>673753536</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>2995858</ID>
+<ID>343325</ID>
+<ID>5841194</ID>
+<DATE>6/1/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>GNUSTRICK , MINCIEN</PATIENT>
+MRN :
+<ID>2995858</ID>
+Age :
+64y
+REGISTRATION DATE :
+<DATE>06/01/2002</DATE> 02:11 PM
+Provider :
+<DOCTOR>KOTETWISPEIGH</DOCTOR> , M.D. <DOCTOR>KOTEHARBE</DOCTOR>
+PRELIMINARY REPORT
+Discharge Date / Time :
+<DATE>06/01/2002</DATE> 18:22
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+L KNEE PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for sprains , fractures and bruises ( English ) .
+Diagnosis :
+left knee contusion
+Treatment Rendered :
+Examination , Xray , Immobilizer
+Follow up Service :
+Return with worsening of pain , difficulty moving .
+See orthopedic surgery if pain persists .
+Use immobilizer to improve symptoms
+PCP Name :
+<DOCTOR>PULESHUFF , SACA G</DOCTOR>
+Provider Number :
+<ID>27811</ID>
+This report was created by <DOCTOR>KOTEHARBE , THRYNE</DOCTOR> , M.D. <DATE>06/01/2002</DATE> 06:28 PM
+[ report_end ]
+</TEXT>
+</RECORD>

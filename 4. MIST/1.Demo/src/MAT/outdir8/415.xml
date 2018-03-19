@@ -1,0 +1,58 @@
+<RECORD ID="415">
+<TEXT>
+<ID>476032624</ID> <HOSPITAL>RWH</HOSPITAL>
+<ID>8161584</ID>
+<ID>435161</ID>
+<ID>3184038</ID>
+<DATE>7/11/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>DEALBISSAXT , ALFSHAE</PATIENT>
+MRN :
+<ID>8161584</ID>
+Age :
+47y
+REGISTRATION DATE :
+<DATE>07/11/2005</DATE> 02:38 PM
+Provider :
+<DOCTOR>ELEMA ZOCK</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+<DATE>07/11/2005</DATE> 21:57
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+RECTAL NUMBNESS STOOL INCONTINENT
+Standardized Discharge Instructions :
+The patient was given printed instructions for urinary tract infection ( English ) .
+The patient was given printed instructions for urinary tract infection ( Spanish ) .
+Diagnosis :
+UTI
+Treatment Rendered :
+Head CT .
+MRI L Spine .
+Potassium replacement for low K. Levofloxacin for UTI .
+Discharge Medications :
+Levofloxacin 250mg po qd for 7 days .
+Disposition , Follow up and Instructions to Patient :
+Please stop taking coumadin for next 3 days including today for your INR is high at 4.1 .
+Please follow up with your anticoagulation clinic ( <PHONE>880-213-8858</PHONE> ) or your PCP for your next blood draw in next 3 days .
+Please call your PCP or come to ED if worsening symptoms of rectal numbness , fever , chills , numbness down your legs , bowel or urine incontinence , severe low back pain , shortness of breath , chest pain , or any other symptoms or signs that are concerning to you .
+PCP Name :
+<DOCTOR>FYFE , PRERICK</DOCTOR>
+Provider Number :
+<ID>12400</ID>
+This report was created by <DOCTOR>ZOCK , ELEMA</DOCTOR> <DATE>07/11/2005</DATE> 10:01 PM
+[ report_end ]
+</TEXT>
+</RECORD>

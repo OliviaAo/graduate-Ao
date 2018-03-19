@@ -1,0 +1,59 @@
+<RECORD ID="186">
+<TEXT>
+<ID>574929904</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>6918053</ID>
+<ID>206951</ID>
+<ID>002765</ID>
+<DATE>2/5/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>SMANTVERGE , TAWNEN</PATIENT>
+MRN :
+<ID>6918053</ID>
+Age :
+53y
+REGISTRATION DATE :
+<DATE>02/05/2002</DATE> 11:04 PM
+Provider :
+<DOCTOR>WINDHO WALL</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Discharge Date / Time :
+<DATE>02/06/2002</DATE> 06:16
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+R / O TIA Diagnosis :
+1. palpitations ;
+2. L eye visual , L arm / hand numbness and weakness , speech changes ( ? TIA ) ;
+3. headache -- resolved
+Treatment Rendered :
+1. CAT scan of head :
+normal ;
+2. spinal tap :
+normal ;
+3. MRI of brain :
+normal
+Discharge Medications :
+aspirin 325mg by mouth once a day
+Follow up Service :
+Neurology clinic at <PHONE>146-718-7380</PHONE> ( should be able to follow up within the next month )
+Disposition , Follow up and Instructions to Patient :
+1. return for worsening or persistent symptoms ;
+2. follow up with Dr. <DOCTOR>Serresresh</DOCTOR> ;
+3. follow up with Neurology Clinic as above .
+PCP Name :
+<DOCTOR>SERRESRESH , OAN L</DOCTOR>
+Provider Number :
+<ID>21088</ID>
+This report was created by <DOCTOR>WALL , WINDHO</DOCTOR> <DATE>02/06/2002</DATE> 09:24 AM
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,80 @@
+<RECORD ID="125">
+<TEXT>
+<ID>336241215</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>39648708</ID>
+<ID>415613</ID>
+<DATE>06/25/2000</DATE> 12:00:00 AM
+normal delivery
+DIS
+Admission Date :
+<DATE>06/25/2000</DATE>
+Report Status :
+Discharge Date :
+<DATE>06/27/2000</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>DUOSSPALD , BRINI</PATIENT> <ID>454-33-80-8 A06</ID>
+Room :
+<HOSPITAL>WAM09-1395</HOSPITAL>
+Service :
+OBS
+DISCHARGE PATIENT ON :
+<DATE>06/27/00</DATE> AT 12:00 PM
+CONTINGENT UPON
+cnm rounds
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ACETAMINOPHEN 500-1000 MG PO Q4-6H PRN
+Instructions :
+not to exceed 4000mg per day IBUPROFEN 200-600 MG PO Q4-6H PRN PAIN
+DIET :
+No Restrictions
+Activity - As tolerated
+RETURN TO WORK :
+IN 6 WEEKS FOLLOW UP APPOINTMENT ( S ) :
+bchc 2 wk , No Known Allergies
+ADMIT DIAGNOSIS :
+Labor
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) normal delivery
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay normal delivery
+OPERATIONS AND PROCEDURES :
+Vaginal delivery :
+Spontaneous Laceration :
+Vaginal,2nd degree , Labial Placenta :
+Delivery :
+Spontaneous Condition :
+Normal Certified Nurse Midwife :
+<DOCTOR>JESCCOT , LA P.</DOCTOR> , CNM , MSN
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+G3 T0 P0 A2 L0
+Estimated EDC :
+<DATE>07/02/00</DATE>
+Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+Baby 1
+MRN :
+<ID>25933347</ID>
+Delivery date :
+<DATE>06/25/00</DATE> 01:55 PM
+Apgars 9,9
+Weight :
+7lb 2 oz 3232 grams
+Sex :
+Female
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+<DOCTOR>CREDKOTE , ALEN</DOCTOR> , CNM MSN ( )
+<DATE>06/26/00</DATE> 08:29 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

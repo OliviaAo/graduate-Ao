@@ -1,0 +1,52 @@
+<RECORD ID="374">
+<TEXT>
+<ID>108796730</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>2536187</ID>
+<ID>035645</ID>
+<ID>248446</ID>
+<DATE>2/27/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>FEDDNOORT , RIKEREUGE</PATIENT>
+MRN :
+<ID>2536187</ID>
+Age :
+25y
+REGISTRATION DATE :
+<DATE>02/27/2002</DATE> 08:59 AM
+Provider :
+<DOCTOR>VITA LINKEKOTEMONES</DOCTOR>
+PRELIMINARY REPORT
+Discharge Date / Time :
+<DATE>02/27/2002</DATE> 13:34
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+HEADACHE
+Standardized Discharge Instructions :
+The patient was given printed instructions for headache ( English ) .
+Diagnosis :
+headache
+Treatment Rendered :
+emergency evaluation intravenous valproic acid immetrex subcutaneously
+Discharge Medications :
+fiorocet 1-2 tablets every 6hours as needed
+Follow up Service :
+If you do not have a primary care physician , it is recommended that you select one .
+If you would like an <HOSPITAL>WGH</HOSPITAL> primary care physician , please call the <HOSPITAL>Eghelas Medical Centers</HOSPITAL> at <PHONE>265-573-2272</PHONE> .
+Disposition , Follow up and Instructions to Patient :
+return for worsening symptoms
+PCP Name :
+<DOCTOR>RENCDELSSNIL , A W</DOCTOR>
+Provider Number :
+<ID>27597</ID>
+This report was created by <DOCTOR>LINKEKOTEMONES , VITA</DOCTOR> <DATE>02/27/2002</DATE> 01:36 PM
+[ report_end ]
+</TEXT>
+</RECORD>

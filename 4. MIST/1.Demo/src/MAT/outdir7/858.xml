@@ -1,0 +1,33 @@
+<RECORD ID="858">
+<TEXT>
+100007275
+<HOSPITAL>OMH</HOSPITAL>
+<ID>4153022</ID>
+<ID>539937</ID>
+<DATE>1/4/2001</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>RHALTDEALBBREUTZ , STA</PATIENT>
+MRN :
+<ID>4153022</ID>
+Age :
+<AGE>94y</AGE>
+REGISTRATION DATE :
+<DATE>01/04/2001</DATE> 07:21 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>RHALTDEALBBREUTZ , STA</PATIENT> arrived in the Emergency Department at <HOSPITAL>Oaksgekesser/ Memorial Hospital</HOSPITAL> on <DATE>01/04/2001</DATE> 07:21 PM .
+The patient presented with a chief complaint of PNEUMONIA .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>OAKSGEKESSER/ MEMORIAL HOSPITAL</HOSPITAL> .
+Your patient was admitted under the care of <DOCTOR>TUBBOLM , LISSWHITI N</DOCTOR> with a preliminary diagnosis of PNEUMONIA .
+If you need additional information please call <PHONE>598-754-5083</PHONE> .
+PCP Name :
+<DOCTOR>AJESC , DARLMA MARGEA L</DOCTOR>
+Provider Number :
+<ID>63669</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

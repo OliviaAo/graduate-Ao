@@ -1,0 +1,34 @@
+//NCI specific regex terms
+
+//match for 'burkitt', 'burkit', 'burkitt-like'
+BURKITT=([B|b][U|u][R|r][K|k][I|i][T|t][T|t]?) 
+
+//match for 'High grade', 'High grade unclassified'
+HIGH_GRADE=([H|h][I|i][G|g]?[H|h]?)(\s+|-)([G|g][R|r][A|a][D|d][E|e])
+
+//match for 'large B-cell diffuse', 'large B-cell diffuse, immunoblastic, NOS'
+LARGE_B_CELL_DIFFUSE=([L|l][A|a][R|r][G|g][E|e])\s+([B|b])(\s+|-)([C|c][E|e][L|l][L|l])\s+([D|d][I|i][F|f][F|f]?[U|u][S|s][E|e])
+
+//match for 'Starry sky'
+STARRY_SKY=([S|s][T|t][A|a][R|r][R|r]?[Y|y]?)(\s+|-)([S|s][K|k][Y|y])
+
+//match for 'High mitotic rate'
+HIGH_MITOTIC_RATE=([H|h][I|i][G|g]?[H|h]?)(\s+|-)([M|m][I|i][T|t][O|o][T|t][I|i][C|c])\s+([R|r][A|a][T|t][E|e])
+
+//match 'Diffuse aggressive'
+DIFFUSE_AGGRESSIVE=([D|d][I|i][F|f][F|f]?[U|u][S|s][E|e])\s+([A|a][G|g][G|g]?[R|r][E|e][S|s][S|s]?[I|i][V|v][E|e])
+
+//match 'Highly proliferative'
+HIGHLY_PROLIFERATIVE=([H|h][I|i][G|g]?[H|h]?[L|l]?[Y|y]?)(\s+|-)([P|p][R|r][O|o][L|l][I|i][F|f][E|e][R|r][A|a][T|t][I|i][V|v][E|e])
+
+//Small non-cleaved cell lymphoma, Burkitt or non-Burkitt
+SMALL_NON_CLEAVE=(([S|s][M|m]\.?)|([S|s][M|m][A|a][L|l][L|l]))\s+([N|n][O|o][N|n])(\s*|-)([C|c][L|l][E|e][A|a][V|v][E|e][D|d]?)
+
+//Aggressive B-cell lymphoma
+AGGRESSIVE_B_CELL=([A|a][G|g][G|g]?[R|r][E|e][S|s][S|s]?[I|i][V|v][E|e])\s+([B|b])(\s+|-)([C|c][E|e][L|l][L|l])
+
+//acute lymphoblastic leukemia, mature B-cell type
+B_CELL_ALL=([A|a][C|c][U|u][T|t][E|e])\s+([L|l][Y|y][M|m][P|p][H|h][O|o][B|b][L|l][A|a][S|s][T|t][I|i][C|c])\s+([L|l])([E|e][U|u]|[U|u][E|e])([K|k][E|e][M|m][I|i][A|a])(\W?\s+)([M|m][A|a][T|t][U|u][R|r][E|e])\s+([B|b])(\s+|-)([C|c][E|e][L|l][L|l])
+
+//B-cell
+B_CELL=([B|b])(\s+|-)([C|c][E|e][L|l][L|l])

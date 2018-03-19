@@ -1,0 +1,56 @@
+<RECORD ID="156">
+<TEXT>
+<ID>084526097</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>1653177</ID>
+<ID>248902</ID>
+<ID>0864372</ID>
+<DATE>5/4/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>WURTH , BENSTEFFROB</PATIENT>
+MRN :
+<ID>1653177</ID>
+Age :
+36y
+REGISTRATION DATE :
+<DATE>05/04/2005</DATE> 10:03 AM
+Provider :
+<DOCTOR>Kema Cuchkote</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+<DATE>05/04/2005</DATE> 17:40
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+RLQ PAIN Standardized
+Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( English ) .
+Diagnosis :
+Abdominal pain
+Treatment Rendered :
+CBC with dif , lytes , LFTs , amylase lipase , abdominal CT Disposition ,
+Follow up and Instructions to Patient :
+Please follow up with your primary care physician .
+If your symptoms worsen please return to the <HOSPITAL>Pumc</HOSPITAL> ED for further care .
+PCP Name :
+<DOCTOR>CLOPKOORSFONGAYLES , NORBMADE G</DOCTOR>
+Provider Number :
+<ID>79174</ID>
+Resident Name :
+<DOCTOR>GLOTZTRACENOUN , NOREBROAHTA</DOCTOR>
+Provider Number :
+<ID>01797</ID>
+This report was created by <DOCTOR>Cuchkote , Kema</DOCTOR> <DATE>05/04/2005</DATE> 06:15 PM
+[ report_end ]
+</TEXT>
+</RECORD>

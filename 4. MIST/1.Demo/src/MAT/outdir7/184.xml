@@ -1,0 +1,48 @@
+<RECORD ID="184">
+<TEXT>
+<ID>011377688</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>2456255</ID>
+<ID>677328</ID>
+<ID>096242</ID>
+<DATE>5/20/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>STERPMOONE , NY</PATIENT>
+MRN :
+<ID>2456255</ID>
+Age :
+47y
+REGISTRATION DATE :
+<DATE>05/20/2002</DATE> 08:47 PM
+Provider :
+<DOCTOR>KARALL IERTHTIK</DOCTOR> PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>05/20/2002</DATE> 23:32
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+ANXIETY Standardized
+Discharge Instructions :
+Follow up with your psychiatric intake at <HOSPITAL>Megeau Hospital</HOSPITAL> .
+Diagnosis :
+Panic DO
+Treatment Rendered :
+Evaluation
+Discharge Medications :
+Paxil 20 mg-take one pill a day
+PCP Name :
+<DOCTOR>DOUET , LAH</DOCTOR>
+Provider Number :
+<ID>35002</ID>
+This report was created by <DOCTOR>IERTHTIK , KARALL</DOCTOR> <DATE>05/20/2002</DATE> 11:34 PM
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,101 @@
+<RECORD ID="29">
+<TEXT>
+<ID>521475420</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>39868484</ID>
+<ID>361109</ID>
+<DATE>12/22/2002</DATE> 12:00:00 AM
+sick sinus syndrome
+DIS
+Admission Date :
+<DATE>12/22/2002</DATE>
+Report Status :
+Discharge Date :
+<DATE>12/23/2002</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>NERA , DARUTHPA</PATIENT> <ID>555-27-95-4 N24</ID>
+Room :
+<HOSPITAL>92Z-596</HOSPITAL>
+Service :
+CAR
+DISCHARGE PATIENT ON :
+<DATE>12/23/02</DATE> AT 02:00 PM
+CONTINGENT UPON
+HO evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>SHOLL , MARG M.</DOCTOR> , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H PRN headache FUROSEMIDE 40 MG PO QD Starting IN AM ( <DATE>12/23</DATE> ) INSULIN NPH HUMAN 20 UNITS qam ; 5 UNITS qpm SC 20 UNITS qam 5 UNITS qpm ZESTRIL ( LISINOPRIL ) 5 MG PO QD Starting IN AM ( <DATE>12/23</DATE> )
+Alert overridden :
+Override added on <DATE>12/22/02</DATE> by <DOCTOR>KERTH , EDE</DOCTOR> , M.D. , M.B.A.
+POTENTIALLY SERIOUS INTERACTION :
+POTASSIUM CHLORIDE and LISINOPRIL
+POTENTIALLY SERIOUS INTERACTION :
+POTASSIUM CHLORIDE and LISINOPRIL
+Reason for override :
+will monitor
+LOPRESSOR ( METOPROLOL TARTRATE ) 25 MG PO BID
+Food / Drug Interaction Instruction
+Take consistently with meals or on empty stomach .
+PERCOCET 1-2 TAB PO Q4-6H PRN pain KEFLEX ( CEPHALEXIN ) 250 MG PO QID X 3 Days Starting on <DATE>12/22/02</DATE>
+Number of Doses Required ( approximate ) :
+20 KCL SLOW REL .
+20 MEQ X 1 PO QD Starting IN AM ( <DATE>12/23</DATE> ) As per <HOSPITAL>EH</HOSPITAL>
+Potassium Chloride Policy :
+each 20 mEq dose to be given with 4 oz of fluid
+Override Notice :
+Override added on <DATE>12/22/02</DATE> by <DOCTOR>KERTH , EDE</DOCTOR> , M.D. , M.B.A. on order for ZESTRIL PO ( ref # <ID>33022748</ID> )
+POTENTIALLY SERIOUS INTERACTION :
+POTASSIUM CHLORIDE and LISINOPRIL
+Reason for override :
+will monitor
+LIPITOR ( ATORVASTATIN ) 10 MG PO QD Activity - As tolerated
+RETURN TO WORK :
+After Appt with local physician
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. <DOCTOR>Ee</DOCTOR> <DATE>01/07/03</DATE> scheduled , PCP Please call for appointment in 1-2 weeks .
+, No Known Allergies
+ADMIT DIAGNOSIS :
+sick sinus syndrome
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) sick sinus syndrome
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay DM ( diabetes mellitus ) HTN ( hypertension ) hyperlipidemia ( hyperlipidemia ) PAF ( paroxysmal atrial fibrillation ) S / P hysterectomy ( fibroids ) ( S / P hysterectomy ) SSS ( sick sinus syndrome )
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+DDDR pacemaker implantation <DATE>12/22</DATE>
+BRIEF RESUME OF HOSPITAL COURSE :
+72 yo with h / o PAF / SSS presents today after pacemaker placement .
+Pt presented on <DATE>11/14</DATE> to <HOSPITAL>EH</HOSPITAL> c / o palpiatations , SOB , nausea , SSCP 4/10 , was found to be in afib .
+After rate control with Verapamil and lopressor , she converted to sinus rhythm .
+She ruled out for MI and was d / c&apos;ed to home the next day .
+She followed up in arrhythmia clinic on <DATE>12/7</DATE> after having no further CP or palpitations and was found to be bradycardic in the 40 &apos;s with competing junctional escape .
+She had inferolateral ST-T wave abnormalities c / w LVH .
+The patient returned one week later with an interpreter and decided to have PPM .
+Today DDDR PPM was placed without complications .
+Pt denied CP , SOB , noted min left shoulder pain relieved by meds .
+Hospital Course :
+1) CV-Pacemaker placed without complications .
+She will follow up with the electrophysiology service on <DATE>1/7</DATE> .
+2) ID-Pt ordered for post-PPM
+Antibiotics :
+Cefazolin overnight then Keflex for 3 days .
+Pt will resume home medications , including coumadin and should follow up with her primary care doctor and cardiologist .
+ADDITIONAL COMMENTS :
+Please continue medications as directed .
+Follow up with Dr. <DOCTOR>Ee</DOCTOR> as needed .
+Please resume coumadin tonight at your previous dosing .
+Call your primary care doctor for any dizziness , lightheadedness , fever , chills , or other worrisome symptoms .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>LEUBZINE , WIL NINAIE</DOCTOR> , M.D. ( <ID>TH27</ID> ) <DATE>12/23/02</DATE> 03:11 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

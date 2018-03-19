@@ -1,0 +1,59 @@
+<RECORD ID="329">
+<TEXT>
+<ID>461511774</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>7839733</ID>
+<ID>056951</ID>
+<ID>8492060</ID>
+<DATE>1/14/2003</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>LOAN , LYKEY</PATIENT>
+MRN :
+<ID>7839733</ID>
+Age :
+75y
+REGISTRATION DATE :
+<DATE>01/14/2003</DATE> 05:21 PM
+Provider :
+<DOCTOR>NYNANE FYFECHIRDBELB</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+N
+Discharge Date / Time :
+<DATE>01/14/2003</DATE> 21:34
+Discharge Status :
+Discharged Condition on Discharge :
+Stable
+Patient States Complaint :
+HA SLURRED SPEECH
+Standardized Discharge Instructions :
+Please take Aggrenox 1 caplet two times per day .
+Please stop taking your aspirin .
+If your dizziness returns or you have increased weakness or headache please return to the emergency department .
+Diagnosis :
+Residual deficits from past CVA .
+Treatment Rendered :
+Head CT and Brain MRI / MRA showing residual changes from past strokes .
+No evidence of acute stroke .
+Discharge Medications :
+Aggrenox 1 caplet 2 times per day .
+Please stop taking your apsirin .
+Continue your other medications .
+Follow up Service :
+Please call Dr. <DOCTOR>Kema Fossa</DOCTOR> at <PHONE>694-930-8785</PHONE> if you wish to see a neurologist .
+Disposition , Follow up and Instructions to Patient :
+Please see your primary care physician within the next week .
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+<ID>51669</ID>
+This report was created by <DOCTOR>FYFECHIRDBELB , NYNANE</DOCTOR> <DATE>01/14/2003</DATE> 09:44 PM
+[ report_end ]
+</TEXT>
+</RECORD>

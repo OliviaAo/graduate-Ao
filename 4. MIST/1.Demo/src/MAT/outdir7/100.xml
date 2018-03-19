@@ -1,0 +1,28 @@
+<RECORD ID="100">
+<TEXT>
+<ID>214735961</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>9791919</ID>
+<ID>379039</ID>
+<ID>549614</ID>
+<DATE>9/9/2000</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>CHURCUCHRHALT , LAQUE</PATIENT>
+MRN :
+<ID>9791919</ID>
+Age :
+52y
+REGISTRATION DATE :
+<DATE>09/09/2000</DATE> 11:09 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>CHURCUCHRHALT , LAQUE</PATIENT> arrived in the Emergency Department at <HOSPITAL>Daughtersvillshamen&apos;s Hospital</HOSPITAL> on <DATE>09/09/2000</DATE> 11:09 PM .
+The patient presented with a chief complaint of ABD PAIN/ WEAK .
+Following triage , the patient LEFT WITHOUT TREATMENT .
+If you need additional information please call <PHONE>379-496-9025.</PHONE>
+[ report_end ]
+</TEXT>
+</RECORD>

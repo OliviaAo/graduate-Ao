@@ -1,0 +1,124 @@
+<RECORD ID="259">
+<TEXT>
+<ID>869436718</ID> <HOSPITAL>SC</HOSPITAL>
+<ID>64806295</ID>
+<ID>6613471</ID>
+<DATE>10/1/2003</DATE> 12:00:00 AM
+post partum
+DIS
+Admission Date :
+<DATE>10/01/2003</DATE>
+Report Status :
+Discharge Date :
+<DATE>10/04/2003</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>KULRINNE , RYYELEGE N</PATIENT>
+<ID>386-85-38-0 X32</ID>
+Room :
+<HOSPITAL>JQL5-545</HOSPITAL>
+Service :
+OBS
+DISCHARGE PATIENT ON :
+<DATE>10/04/03</DATE> AT 10:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>KOTEJOASTHOREUPHKAYS , GAI</DOCTOR> , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H PRN PAIN
+Alert overridden :
+Override added on <DATE>10/01/03</DATE> by <DOCTOR>KOTEJOASTHOREUPHKAYS , GAI</DOCTOR> , M.D.
+POTENTIALLY SERIOUS INTERACTION :
+ACETAMINOPHEN and ACETAMINOPHEN
+Reason for override :
+ok
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID IBUPROFEN 600 MG PO Q4H PRN PAIN
+Food / Drug Interaction Instruction
+Take with food MILK OF MAGNESIA ( MAGNESIUM HYDROXIDE ) 30 MILLILITERS PO BID PRN Constipation PERCOCET 1-2 TAB PO Q4H PRN PAIN
+Override Notice :
+Override added on <DATE>10/01/03</DATE> by <DOCTOR>KOTEJOASTHOREUPHKAYS , GAI</DOCTOR> , M.D. on order for TYLENOL PO 650 MG Q4H ( ref # <ID>85225311</ID> )
+POTENTIALLY SERIOUS INTERACTION :
+ACETAMINOPHEN and ACETAMINOPHEN
+Reason for override :
+ok
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+<DOCTOR>kotejoasthoreuphkays</DOCTOR> 6 weeks ,
+ALLERGY :
+Sulfa , Bactrim
+ADMIT DIAGNOSIS :
+Pregnancy
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission )
+post partum
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay
+twins
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Spinal
+Vaginal delivery :
+Undelivered
+Cesarean Status :
+Primary
+Urgency :
+Scheduled
+Indications :
+Breech , Multiple gestation ,
+Uterine incision type :
+Transverse
+Placenta :
+Delivery :
+Spontaneous
+Condition :
+Normal
+Staff Obstetrician ( supervising ) :
+<DOCTOR>KOTEJOASTHOREUPHKAYS , GAI</DOCTOR> , M.D. Delivery
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+G3 T1 P0 A1 L1
+Estimated EDC :
+<DATE>10/14/03</DATE>
+Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+Baby 1
+MRN :
+<ID>76306248</ID>
+Delivery date :
+<DATE>10/01/03</DATE> 09:06 AM
+Apgars 8,9
+Weight :
+7lb 1 oz 3204 grams
+Sex :
+Male
+Baby 2
+MRN :
+<ID>62685780</ID>
+Delivery date :
+<DATE>10/01/03</DATE> 09:08 AM
+Apgars 8,8
+Weight :
+7lb 0 oz 3175 grams
+Sex :
+Female
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>KOTEJOASTHOREUPHKAYS , GAI</DOCTOR> , M.D. ( <ID>CT17</ID> ) <DATE>10/04/03</DATE> 07:11 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,52 @@
+<RECORD ID="173">
+<TEXT>
+<ID>007290324</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>4119350</ID>
+<ID>881525</ID>
+<ID>9323600</ID>
+<DATE>6/21/2003</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>A , MIFER</PATIENT>
+MRN :
+<ID>4119350</ID>
+Age :
+54y
+REGISTRATION DATE :
+<DATE>06/21/2003</DATE> 10:24 PM
+Provider :
+<DOCTOR>VITA LINKEKOTEMONES</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>06/22/2003</DATE> 01:23
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+( L ) FACE NUMBNESS
+Diagnosis :
+Left Bell &apos;s Palsy .
+Discharge Medications :
+Acyclovir and Presnisone Disposition ,
+Follow up and Instructions to Patient :
+Please call Dr <DOCTOR>Fraction</DOCTOR> for a follow up this week .
+Return with any new weakness , numbness / tingling , visual changes , vomiting , high fever or confusion .
+Please cover your eye keep lid closed with tape at night to prevent drying of your left eye for the next few weeks .
+Uses artifical tears during the day for comfort .
+PCP Name :
+<DOCTOR>FRACTION , JETA C</DOCTOR>
+Provider Number :
+<ID>18279</ID>
+This report was created by <DOCTOR>LINKEKOTEMONES , VITA</DOCTOR> <DATE>06/22/2003</DATE> 01:25 AM
+[ report_end ]
+</TEXT>
+</RECORD>
