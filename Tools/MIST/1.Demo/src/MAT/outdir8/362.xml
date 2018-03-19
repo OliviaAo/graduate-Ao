@@ -1,0 +1,54 @@
+<RECORD ID="362">
+<TEXT>
+<ID>745701560</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>2217927</ID>
+<ID>991462</ID>
+<ID>4257841</ID>
+<DATE>10/23/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>SMANTVERGE , TAWNEN</PATIENT>
+MRN :
+<ID>2217927</ID>
+Age :
+78y
+REGISTRATION DATE :
+<DATE>10/23/2005</DATE> 09:30 AM
+Provider :
+<DOCTOR>VONNELIBRY POUSSCROOKESSEILLE</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Note
+Date / Time :
+<DATE>10/23/2005</DATE> 10:35
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+APPT <DOCTOR>VONNELIBRY POUSSCROOKESSEILLE</DOCTOR>
+Diagnosis :
+Anxiety NOS
+Treatment Rendered :
+psychological assessment , past medication responses discussed .
+No new meds for now
+Discharge Medications :
+None today Disposition ,
+Follow up and Instructions to Patient :
+Keep follow-up medical appointments with Dr <DOCTOR>Trosgaugh</DOCTOR> .
+Continuing taking meds she prescribed .
+PCP Name :
+<DOCTOR>TROSGAUGH , NACOLE</DOCTOR>
+Provider Number :
+<ID>16660</ID>
+This report was created by <DOCTOR>POUSSCROOKESSEILLE , VONNELIBRY</DOCTOR> <DATE>10/23/2005</DATE> 10:51 AM
+[ report_end ]
+</TEXT>
+</RECORD>

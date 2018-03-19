@@ -1,0 +1,54 @@
+<RECORD ID="48">
+<TEXT>
+<ID>710586076</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>3207421</ID>
+<ID>721486</ID>
+<ID>455505</ID>
+<DATE>5/17/2001</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>SLEM , YGA</PATIENT>
+MRN :
+<ID>3207421</ID>
+Age :
+68y
+REGISTRATION DATE :
+<DATE>05/17/2001</DATE> 11:33 AM
+Provider :
+<DOCTOR>CAND FOOT</DOCTOR>
+PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>05/17/2001</DATE> 13:26
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+L 3RD FINGER INJURY
+Standardized Discharge Instructions :
+The patient was given printed instructions for non-steroidal anti-inflammatory drugs ( English ) .
+Diagnosis :
+left PIP joint swelling
+Treatment Rendered :
+X-Rays
+Discharge Medications :
+Ibuprofen 800 mg every 6 hours for 7 days
+Follow up Service :
+It is recommended that you receive follow-up care with the Department of Orthopaedics in 1-2 weeks if symptoms do not improve or they progress .
+Please call <PHONE>( 890 ) 541-3008</PHONE> to schedule an appointment .
+Disposition , Follow up and Instructions to Patient :
+Pt discharged to home to follow up with PCP and Orthopaedics if necessary .
+PCP Name :
+UNKNOWN , PHYSICIAN
+Provider Number :
+<ID>26328</ID>
+This report was created by <DOCTOR>FOOT , CAND</DOCTOR> <DATE>05/17/2001</DATE> 01:28 PM
+[ report_end ]
+</TEXT>
+</RECORD>

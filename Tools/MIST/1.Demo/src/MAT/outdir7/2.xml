@@ -1,0 +1,52 @@
+<RECORD ID="2">
+<TEXT>
+<ID>060376519</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>0649031</ID>
+<ID>323495</ID>
+<ID>3838556</ID>
+<DATE>4/5/2003</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>SELCFARST , NAORLY</PATIENT>
+MRN :
+<ID>0649031</ID>
+Age :
+49y
+REGISTRATION DATE :
+<DATE>04/05/2003</DATE> 11:47 AM
+Provider :
+<DOCTOR>STIEGE</DOCTOR> , M.D. <DOCTOR>TLANDJESC</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Discharge Date / Time :
+<DATE>04/05/2003</DATE> 22:06
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+DIZZINESS
+Standardized Discharge Instructions :
+The patient was given printed instructions for dizziness ( English ) .
+Diagnosis :
+Benign positional vertigo vs labyrinthitis
+Treatment Rendered :
+Head CT negative .
+Discharge Medications :
+Meclizine 25 mg po bid .
+Disposition , Follow up and Instructions to Patient :
+Return to ED or call PCP if symptoms worsen or if fever with headache .
+Pt d / c&apos;d home in stable condition .
+PCP Name :
+<DOCTOR>GUYNLORDSMANTDOUET , RYLA B</DOCTOR>
+Provider Number :
+<ID>26596</ID>
+This report was created by <DOCTOR>TLANDJESC , IECELANE</DOCTOR> , M.D. <DATE>04/05/2003</DATE> 10:09 PM
+[ report_end ]
+</TEXT>
+</RECORD>

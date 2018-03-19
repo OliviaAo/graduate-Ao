@@ -1,0 +1,85 @@
+<RECORD ID="351">
+<TEXT>
+<ID>750073671</ID> <HOSPITAL>SC</HOSPITAL>
+<ID>41557052</ID>
+<ID>938788</ID>
+<DATE>11/24/2002</DATE> 12:00:00 AM
+Previa
+DIS
+Admission Date :
+<DATE>11/24/2002</DATE>
+Report Status :
+Discharge Date :
+<DATE>11/28/2002</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>LINKECLOZ , RYJOTI</PATIENT> <ID>940-35-26-9 N74</ID>
+Room :
+<HOSPITAL>QKR8-036</HOSPITAL>
+Service :
+OBS
+DISCHARGE PATIENT ON :
+<DATE>11/28/02</DATE> AT 04:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>DOUETLEPSGISS , VALETO</DOCTOR> , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+IBUPROFEN 600 MG PO Q6H PRN breakthrough pain
+DIET :
+No Restrictions Activity - As tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+dr. <DOCTOR>douetlepsgiss</DOCTOR> 6 weeks , No Known Allergies
+ADMIT DIAGNOSIS :
+previa
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Previa
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay Primary C / S
+OPERATIONS AND PROCEDURES :
+Primary Anesthesia :
+Spinal Vaginal delivery :
+Undelivered Cesarean Status :
+Primary Urgency :
+Scheduled Indications :
+Other - previa
+Uterine incision type :
+Transverse
+Placenta :
+Delivery :
+Spontaneous
+Condition :
+Abnormal
+Staff Obstetrician ( supervising ) :
+<DOCTOR>DOUETLEPSGISS , VALETO</DOCTOR> , M.D. Delivery
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+2 units prbcs , 2 units FFP
+BRIEF RESUME OF HOSPITAL COURSE :
+G4 T2 P0 A1 L2
+Estimated EDC :
+<DATE>12/09/02</DATE>
+Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+Baby 1
+MRN :
+<ID>51532917</ID>
+Delivery date :
+<DATE>11/24/02</DATE> 10:03 AM Apgars 4,8
+Weight :
+6lb 13 oz 3090 grams
+Sex :
+Female
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>DOUETLEPSGISS , VALETO</DOCTOR> , M.D. ( <ID>AN26</ID> ) <DATE>11/27/02</DATE> 10:07 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,101 @@
+<RECORD ID="127">
+<TEXT>
+<ID>240417784</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>48067463</ID>
+<ID>9466660</ID>
+<DATE>7/30/2005</DATE> 12:00:00 AM
+hypoglycemia
+DIS
+Admission Date :
+<DATE>07/30/2005</DATE>
+Report Status :
+Discharge Date :
+<DATE>07/31/2005</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>AGNEAGURNE , TOFRAN</PATIENT> <ID>566-00-27-6 N83</ID>
+Room :
+<HOSPITAL>97H-228</HOSPITAL>
+Service :
+MED
+DISCHARGE PATIENT ON :
+<DATE>07/31/05</DATE> AT 04:00 PM
+CONTINGENT UPON
+Attending evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>JESC , ON</DOCTOR> , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+ACETYLSALICYLIC ACID 81 MG PO QD DIOVAN ( VALSARTAN ) 160 MG PO QD
+Number of Doses Required ( approximate ) :
+4 NEXIUM ( ESOMEPRAZOLE ) 20 MG PO QD LANTUS ( INSULIN GLARGINE ) 12 UNITS SC QHS METFORMIN 1,000
+MG PO BID
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. <DOCTOR>Trial</DOCTOR> 1 week , Diabetes Nurse- <DOCTOR>Night</DOCTOR> .
+<HOSPITAL>Dral And Man Valley Hospital</HOSPITAL> <PHONE>007-151-8823</PHONE> <DATE>Aug 2th</DATE> , 2:20pm ,
+ALLERGY :
+SIMVASTATIN , ACE Inhibitor
+ADMIT DIAGNOSIS :
+hypoglycemia
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) hypoglycemia
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay iddm ( diabetes mellitus ) etoh ( alcohol abuse ) polysubstance abuse ( substance abuse ) htn ( hypertension ) gout ( gout ) obesity
+OPERATIONS AND PROCEDURES :
+None
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+CC :
+low blood sugar
+HPI :
+47 M with h / o DM adult onset x7 yrs , EtOH abuse , hep C p / w diaphoresis , tachycardia and home fingersticks of 40s. Took normal doses of glyburide and metformin in AM .
+Denies injecting insulin .
+Is about to change to lantus , but has not yet .
+He called his clinic , was advised to drink orange juice , but had no relief .
+Also complains of mild chest pain , similar to prior episodes , not related to exertion , not relieved by rest , more related to position .
+Admits to drinking one pint of gin and two beers the night before .
+PMH :
+1. DM adult onset
+2. hep C
+3. HTN
+4. hyperlipidemia
+5. h / o high CK
+6. h / o heroin and cocaine use , none in last 2 years
+7. h / o of EtOH abuse ( sober x 2 years prior to recent episode )
+PE :
+afeb , BP144/80 , P82 , 97% RA NC / AT RRR , no m / r/g CTAB s / nt/nd Ext. well perfused , no c / c/e Neuro nonfocal
+ED course :
+FS at 50s despite 3 amps of 25 g D50
+Hospital course :
+1. Endocrine-C-peptide neg. , glucose levels recovered to 200-230s with D10 at 75 cc / hr , then stable at 170s with no D10 .
+We think that his hypoglycemia is likely attributable to his significant EtOH intake th e night prior to admission , along with his oral hypoglycemic meds .
+We discussed his DM management with his PCP who was planning to institute lantus instead of glyburide .
+Patient was discharged with lantus , test strips , lancets , and syringes and he will followup in <HOSPITAL>Kingsec Li Hospital</HOSPITAL> in 2 days for further DM teaching .
+2. CV Ischemia :
+enzymes neg. x3 , ECG unremarkable and unchanged since last .
+Very low suspicion for ACS. ? possible role of a chronic pancreat itis picture- patient had been scheduled for outpatient CT and he &apos;ll c all to schedule this in the near future .
+3. Neuro :
+given h / o EtOH , 0.5 mg ativan q6 hours , no evidence of withdrawal during admission .
+plans to followup with AA as an outpatient .
+ADDITIONAL COMMENTS :
+Please call <HOSPITAL>Riword Center</HOSPITAL> at <PHONE>781-587-2668</PHONE> to arrange for an outpatient CT scan of your abdomen in the future which Dr. <DOCTOR>Trial</DOCTOR> will followup on .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>AFARSTGINTEP , CILLYUN S.</DOCTOR> , M.D. , M.S. ( <ID>RD93</ID> )
+<DATE>07/31/05</DATE> 03:10 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

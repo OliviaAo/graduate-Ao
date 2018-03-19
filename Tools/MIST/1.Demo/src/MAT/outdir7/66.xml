@@ -1,0 +1,83 @@
+<RECORD ID="66">
+<TEXT>
+<ID>245908144</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>12261679</ID>
+<ID>6936577</ID>
+<DATE>3/30/2005</DATE> 12:00:00 AM
+pregnancy
+DIS
+Admission Date :
+<DATE>03/30/2005</DATE>
+Report Status :
+Discharge Date :
+<DATE>04/02/2005</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>ZUKTRIG , ALVE</PATIENT> <ID>913-55-94-6 Q70</ID>
+Room :
+<HOSPITAL>YJA96-1441</HOSPITAL>
+Service :
+OBS
+DISCHARGE PATIENT ON :
+<DATE>04/02/05</DATE> AT 01:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>KOTE , MITERY DELMRU</DOCTOR> , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+DOCUSATE SODIUM 100 MG PO BID PRN Constipation IBUPROFEN 400-600 MG PO Q6H PRN Pain
+Food / Drug Interaction Instruction
+Take with food
+OXYCODONE 5-10 MG PO Q3H PRN Pain
+Instructions :
+If pt received post partum spinal morphine , DO NOT administer Oxycodone for 18 hours after morphine administration .
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. <DOCTOR>Kote</DOCTOR> 6 wks ,
+ALLERGY :
+NKA ADMIT DIAGNOSIS :
+pregnancy
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) pregnancy
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay pregnancy
+OPERATIONS AND PROCEDURES :
+Cesarean section
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+Pregnancy
+BRIEF RESUME OF HOSPITAL COURSE :
+Pt had an unremarkable post-partum course .
+G2 T1 P0 A0 L1
+Estimated EDC :
+Maternal transfer :
+No
+Baby 1
+MRN :
+<ID>53707556</ID>
+Delivery date :
+<DATE>03/30/05</DATE> 09:50 AM Apgars 8,9
+Weight :
+8lb 10 oz 3912 grams
+Sex :
+Male
+ADDITIONAL COMMENTS :
+Nothing in the vagina for 6-8 wks ( tampons , douche , sex , etc ) .
+If you experience worsening abdominal pain , foul smelling vaginal discharge , bleeding or discharge from your incision , temperature greater than 100.4 &apos; F , please call your physician or go to the nearest ER .
+Do not operate heavy machinery , including a car , while taking narcotics such as percocet .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+Routine post-partum care .
+No dictated summary
+ENTERED BY :
+<DOCTOR>KOTE , MITERY DELMRU</DOCTOR> , M.D. <ID>( UW19 ) 22/13/84</ID> 01:06 PM
+REVIEWED BY :
+<DOCTOR>KOTE , MITERY DELMRU</DOCTOR> , M.D.
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

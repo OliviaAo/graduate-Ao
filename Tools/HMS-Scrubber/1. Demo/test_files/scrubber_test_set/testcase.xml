@@ -1,0 +1,71 @@
+<Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="variable.xsd" >
+    <Header>
+        <Identifiers>
+            <FirstName>Doe</FirstName>
+            <LastName>John</LastName>
+            <DateOfBirth>1940-01-01</DateOfBirth>
+            <SSN>123456789</SSN>
+            <AccessionNumber>05-0001D</AccessionNumber>
+            <LocalMRN>7654321</LocalMRN>
+            <Source>ANY</Source>
+        </Identifiers>
+    </Header>
+    <Body>
+        <PathologyCase TissueAcquisitionDate="2005-01-01" >
+            <Codes>
+                <Code Source="UMLS">C0011900</Code>
+                <Code Source="UMLS">C0225317</Code>
+            </Codes>
+            <Clinical>
+                <Patient>
+                    <Age Units="years" >65</Age>
+                    <Gender>M</Gender>
+                </Patient>
+            </Clinical>
+            <BillingDiagnosis Type="LightMicroscopy" >
+                <Term Code="T1X010"  Source="SNOMED" ></Term>
+                <Term Code="M88500"  Source="SNOMED" ></Term>
+            </BillingDiagnosis>
+            <Specimen Key="00" Type="Surgical">
+                <SpecimenAcquisitionProcedure>
+                    <Term Code="C0011900" Source="UMLS">DIAGNOSIS</Term>
+                </SpecimenAcquisitionProcedure>
+            <Topology>
+                <Term Code="C0225317" Source="UMLS">Soft tissue</Term>
+            </Topology>
+            <Topology>
+                <Term Code="C0040300" Source="UMLS">tissue</Term>
+            </Topology>
+            <Topology>
+                <Term Code="C0003792" Source="UMLS">arm</Term>
+            </Topology>
+                <Diagnosis>
+                    <Term Code="C0206632" Source="UMLS">Angiolipomas</Term>
+                </Diagnosis>
+            </Specimen>
+            <Specimen Key="1" >
+            </Specimen>
+            <GrossDescriptionText>
+                <![CDATA[SPECIMEN SUBMITTED: SKIN ARM X 2.Clinical:  None noted. Gross:
+                The specimen was received fresh labeled with "John Doe" and "arm lesion" who is a 68 year old patient "1940-01-01" with 123456789 and 7654321 consists of two fragments of tan soft tissue measuring 1.1 x 1.1 x 1.0 cm and 1.4 x 0.5 x 0.4 cm respectively.
+                The larger lesion is inked in black the smaller lesion is inked in blue, both fragments of 05-0001D are serially sectioned and entirely submitted as follows: A-B = larger fragments, C = smaller fragments.
+                Mr. Smith's specimens were reviewed by Mrs. Jane Doe, M.D. on 2009-02-01.
+                Given .7 mg. of something.
+                Patient may be duplicate with social 018100135.  John's possesive test. John Doe-Smith hyphen test.
+               Test: The NG tube was discontinued on August 16th and the patient was increased on August 17th.   On August 18th the patient had stable vital signs.
+               Test: Mercy Hospital in Devils Lake, North Dakota. 
+                
+                
+                ]]>
+            </GrossDescriptionText>
+            <DiagnosisText><![CDATA[04/29/09 Dr. Notarealname DIAGNOSIS: Soft tissue, arm  : Lipomas  two . Ms. Fake Notarealname, M.D.]]></DiagnosisText>
+            <FullReportText><![CDATA[SPECIMEN SUBMITTED: SKIN ARM X 2. DIAGNOSIS: Soft tissue, arm  : Lipomas  two . Clinical:  None noted. Gross:
+            Patient admitted at 7:30 a.m. Height: 6'01". 11,000.  Given 2% milk p.o.b.i.d.
+            Other specimens collected on 1/20/91, 12/01/05, 10/6/66, 8/9/1985.
+            5+ +K2 +3
+            For more information, call Dr. Peter Venkman at (800) 555-2368.
+            The specimen was received fresh labeled with "John Doe" and "arm lesion" and consists of two fragments of tan soft tissue measuring 1.1 x 1.1 x 1.0 cm and 1.4 x 0.5 x 0.4 cm respectively. The larger lesion is inked in  black the smaller lesion is inked in blue, both fragments are serially sectioned and entirely submitted as follows: A-B = larger fragments, C = smaller fragments. 4/29/09]]>
+            </FullReportText>
+        </PathologyCase>
+    </Body>
+</Envelope>

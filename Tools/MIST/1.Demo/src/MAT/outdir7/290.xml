@@ -1,0 +1,63 @@
+<RECORD ID="290">
+<TEXT>
+<ID>586220550</ID> <HOSPITAL>SC</HOSPITAL>
+<ID>18755484</ID>
+<ID>608461</ID>
+<DATE>1/11/2000</DATE> 12:00:00 AM
+ventral hernia
+DIS
+Admission Date :
+<DATE>01/11/2000</DATE>
+Report Status :
+Discharge Date :
+<DATE>01/15/2000</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>SLEM , YGA</PATIENT> <ID>839-24-69-1 K82</ID>
+Room :
+<HOSPITAL>94H-170</HOSPITAL>
+Service :
+ASC
+DISCHARGE PATIENT ON :
+<DATE>01/15/00</DATE> AT 12:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Home w/ services
+DISCHARGE MEDICATIONS :
+ATENOLOL 100 MG PO QD PERCOCET 1-2 TAB PO Q4H PRN PAIN KEFLEX ( CEPHALEXIN ) 500 MG PO QID X 7 Days
+Alert overridden :
+Override added on <DATE>01/15/00</DATE> by :
+POSSIBLE ALLERGY ( OR SENSITIVITY ) to CEPHALOSPORINS
+Reason for override :
+ok
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID
+DIET :
+No Restrictions Activity - As tolerated
+RETURN TO WORK :
+Not Applicable
+FOLLOW UP APPOINTMENT ( S ) :
+DR. <DOCTOR>KOTE</DOCTOR> 1 WEEK ,
+ALLERGY :
+Penicillins
+ADMIT DIAGNOSIS :
+ventral hernia
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) ventral hernia
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay
+OPERATIONS AND PROCEDURES :
+<DATE>01/12/00</DATE> <DOCTOR>KOTE , INA</DOCTOR> , M.D. REPAIR VENTAL HERNIA WITH MESH , SMALL BOWEL RESECTION
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+s / p incarcerated ventral hernia repair with mesh , requiring small bowel resection , doing well , tolerating po &apos;s discharged in stable condition on POD 3 .
+ADDITIONAL COMMENTS :
+<HOSPITAL>mh</HOSPITAL> for jp care and daily output measurement
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+ENTERED BY :
+<DOCTOR>LINKEWEERTSJESCLEASK , NASA</DOCTOR> , M.D. ( <ID>SH30</ID> ) <DATE>01/15/00</DATE> 11:13 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

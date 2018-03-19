@@ -1,0 +1,34 @@
+<RECORD ID="386">
+<TEXT>
+<ID>249583676</ID> <HOSPITAL>RWH</HOSPITAL>
+<ID>0543791</ID>
+<ID>621255</ID>
+<ID>681997</ID>
+<DATE>9/26/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>DRINBLIN , MICYRSTNAE</PATIENT>
+MRN :
+<ID>0543791</ID>
+Age :
+82y
+REGISTRATION DATE :
+<DATE>09/26/2002</DATE> 02:40 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>DRINBLIN , MICYRSTNAE</PATIENT> arrived in the Emergency Department at <HOSPITAL>Ro Woodma Healthcare</HOSPITAL> on <DATE>09/26/2002</DATE> 02:40 PM .
+The patient presented with a chief complaint of LOW HCT .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>RO WOODMA HEALTHCARE</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is <DOCTOR>KOTEJESC , NAE F</DOCTOR> and the preliminary diagnosis is LOW HEMATOCRIT .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>662-747-1199</PHONE> .
+PCP Name :
+<DOCTOR>COYTSERT , TAANG M</DOCTOR>
+Provider Number :
+<ID>75521</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

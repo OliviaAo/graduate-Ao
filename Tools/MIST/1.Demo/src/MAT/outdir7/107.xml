@@ -1,0 +1,33 @@
+<RECORD ID="107">
+<TEXT>
+<ID>914784308</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>5081630</ID>
+<ID>636472</ID>
+<ID>873519</ID>
+<DATE>9/11/2000</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>TWINOORT , RUTIS</PATIENT>
+MRN :
+<ID>5081630</ID>
+Age :
+65y
+REGISTRATION DATE :
+<DATE>09/11/2000</DATE> 02:40 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>TWINOORT , RUTIS</PATIENT> arrived in the Emergency Department at <HOSPITAL>Daughtersvillshamen&apos;s Hospital</HOSPITAL> on <DATE>09/11/2000</DATE> 02:40 AM .
+The patient presented with a chief complaint of RESP FAILURE .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>DAUGHTERSVILLSHAMEN&apos;S HOSPITAL</HOSPITAL> .
+Your patient was admitted under the care of <DOCTOR>GROCELETTEELKS , NASTON L</DOCTOR> with a preliminary diagnosis of RESP FAILURE .
+If you need additional information please call <PHONE>613-870-0699</PHONE> .
+PCP Name :
+<DOCTOR>PEAR , NA T</DOCTOR>
+Provider Number :
+<ID>08311</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

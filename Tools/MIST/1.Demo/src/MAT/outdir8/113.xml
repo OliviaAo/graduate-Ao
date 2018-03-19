@@ -1,0 +1,34 @@
+<RECORD ID="113">
+<TEXT>
+<ID>821349219</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>0395828</ID>
+<ID>479204</ID>
+<ID>9082893</ID>
+<DATE>6/9/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>SLEM , YGA</PATIENT>
+MRN :
+<ID>0395828</ID>
+Age :
+79y
+REGISTRATION DATE :
+<DATE>06/09/2005</DATE> 07:48 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>SLEM , YGA</PATIENT> arrived in the Emergency Department at <HOSPITAL>Daughtersvillshamen&apos;s Hospital</HOSPITAL> on <DATE>06/09/2005</DATE> 07:48 AM .
+The patient presented with a chief complaint of CP , SOB-RESOLVED .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was admitted as an inpatient to <HOSPITAL>Daughtersvillshamen&apos;s Hospital</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is <DOCTOR>RIVESHEW , SHASTA</DOCTOR> and the preliminary admitting diagnosis is CHEST PAIN / R/O MI .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>613-870-0699</PHONE> .
+PCP Name :
+<DOCTOR>RIVESHEW , SHASTA</DOCTOR>
+Provider Number :
+<ID>34837</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

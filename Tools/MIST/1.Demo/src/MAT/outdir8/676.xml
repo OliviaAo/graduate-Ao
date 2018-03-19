@@ -1,0 +1,63 @@
+<RECORD ID="676">
+<TEXT>
+<ID>164312247</ID>
+<HOSPITAL>NVH</HOSPITAL>
+<ID>47624330</ID>
+<DATE>1/19/2002</DATE> 12:00:00 AM
+Sepsis , myocardial infarction , ARDS , pneumonia
+DIS
+Admission Date :
+<DATE>01/19/2002</DATE>
+Report Status :
+Discharge Date :
+<DATE>01/20/2002</DATE>
+****** DISCHARGE ORDERS
+<DOCTOR>TROSPROB , STYEES</DOCTOR>
+<ID>650-29-95-3E45</ID>
+Room :
+<HOSPITAL>9V-851</HOSPITAL>
+Service :
+PUL
+DISCHARGE PATIENT ON :
+<DATE>01/20/02</DATE> AT 03:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>GLOMOBESAP , BAMJET ELLDAN</DOCTOR> , M.D.
+CODE STATUS :
+Other-Expired .
+DISPOSITION :
+Expired
+DISCHARGE MEDICATIONS :
+RETURN TO WORK :
+Not Applicable
+ALLERGY :
+Penicillins
+ADMIT DIAGNOSIS :
+Sepsis , ARDS , Pneumonia
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Sepsis , myocardial infarction , ARDS , pneumonia
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay DM2 , s / p splenectomy , depression
+OPERATIONS AND PROCEDURES :
+None .
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. ) None .
+BRIEF RESUME OF HOSPITAL COURSE :
+Patient received as transfer from outside hospital .
+Patient on vent , febrile , hypotensive .
+Developed requirement for multiple pressors , then arrhythmias .
+Full code carried out .
+Despite extraordinary measures , stable sinus rhythm could not be restored .
+Please see written medical record for complete report .
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Expired
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>NELLFYFE , SHATAYE I</DOCTOR> , M.D. , PH.D. ( <ID>IY150</ID> )
+<DATE>01/20/02</DATE> 03:35 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

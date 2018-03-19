@@ -1,0 +1,34 @@
+<RECORD ID="22">
+<TEXT>
+<ID>046045205</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>7186939</ID>
+<ID>866952</ID>
+<ID>194142</ID>
+<DATE>10/30/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>KAYSFREIERMVEQUEDUHE , THAATA</PATIENT>
+MRN :
+<ID>7186939</ID>
+Age :
+32y
+REGISTRATION DATE :
+<DATE>10/30/2002</DATE> 07:31 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>KAYSFREIERMVEQUEDUHE , THAATA</PATIENT> arrived in the Emergency Department at <HOSPITAL>Daughtersvillshamen&apos;s Hospital</HOSPITAL> on <DATE>10/30/2002</DATE> 07:31 PM .
+The patient presented with a chief complaint of RAPID HEART RATE .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>DAUGHTERSVILLSHAMEN&apos;S HOSPITAL</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is <DOCTOR>SAPREEFLINKE , NYTHA V</DOCTOR> and the preliminary diagnosis is A FIB .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>613-870-0699</PHONE> .
+PCP Name :
+<DOCTOR>USSLOW , MAEMA S</DOCTOR>
+Provider Number :
+<ID>28039</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

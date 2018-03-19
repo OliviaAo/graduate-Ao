@@ -1,0 +1,99 @@
+<RECORD ID="72">
+<TEXT>
+<ID>519450859</ID> <HOSPITAL>EH</HOSPITAL>
+<ID>57299670</ID>
+<ID>927947</ID>
+<DATE>5/28/2002</DATE> 12:00:00 AM
+term pregnancy , c-section delivery
+DIS
+Admission Date :
+<DATE>05/28/2002</DATE>
+Report Status :
+Discharge Date :
+<DATE>06/01/2002</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>FREIERMLINKENEIGHCAABLINFARST , ANEA</PATIENT> <ID>071-76-18-4 J69</ID>
+Room :
+<HOSPITAL>LZN47-5825</HOSPITAL>
+Service :
+OBS
+DISCHARGE PATIENT ON :
+<DATE>05/31/02</DATE> AT 06:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>HAXKOTE , A N.</DOCTOR> , M.D.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+TYLENOL ( ACETAMINOPHEN ) 650 MG PO Q4H PRN PAIN IBUPROFEN 800 MG PO Q6H PRN PAIN PERCOCET 1-2 TAB PO Q3-4H PRN PAIN
+DIET :
+No Restrictions
+Activity - As tolerated
+FOLLOW UP APPOINTMENT ( S ) :
+dr. <DOCTOR>haxkote</DOCTOR> 6 weeks ,
+ALLERGY :
+Penicillins
+ADMIT DIAGNOSIS :
+Pregnancy at term , previous classical c-section multiparity
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) term pregnancy , c-section delivery
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay none
+LABOR AND DELIVERY :
+Repeat
+C / S OPERATIONS AND PROCEDURES :
+Vaginal delivery :
+Undelivered
+Cesarean Status :
+Repeat
+Urgency :
+Scheduled
+Indications :
+Elective repeat ,
+Uterine incision type :
+Transverse post partum bilateral partial salpingectomy
+Placenta :
+Delivery :
+Manual
+Condition :
+Abnormal
+Staff Obstetrician ( supervising ) :
+<DOCTOR>HAXKOTE , A N.</DOCTOR> , M.D. Delivery
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+bilateral partial salpingectomy
+BRIEF RESUME OF HOSPITAL COURSE :
+G6 T2 P1 A2 L3
+Estimated EDC :
+<DATE>06/09/02</DATE>
+Maternal transfer :
+No
+Initial newborn exam :
+No observed abnormalities
+Baby 1
+MRN :
+<ID>10633283</ID>
+Delivery date :
+<DATE>05/28/02</DATE> 12:28 PM
+Apgars
+9,9
+Weight :
+8lb 0 oz 3629 grams
+Sex :
+Female
+ADDITIONAL COMMENTS :
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>HAXKOTE , A N.</DOCTOR> , M.D. ( <ID>QH35</ID> )
+<DATE>05/31/02</DATE> 07:35 AM
+REVIEWED BY :
+<DOCTOR>HAXKOTE , A N.</DOCTOR> , M.D.
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

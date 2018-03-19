@@ -1,0 +1,52 @@
+<RECORD ID="269">
+<TEXT>
+<ID>444786180</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>8995194</ID>
+<ID>034623</ID>
+<ID>750813</ID>
+<DATE>05/23/2001</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>ZUKTRIG , ALVE</PATIENT>
+MRN :
+<ID>8995194</ID>
+Age :
+59y
+REGISTRATION DATE :
+<DATE>05/23/2001</DATE> 09:47 AM
+Provider :
+<DOCTOR>MILLER BRAN</DOCTOR>
+PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>05/23/2001</DATE> 10:11
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint : ?
+SHINGLES
+Standardized Discharge Instructions :
+The patient was given printed instructions for viral illnesses ( English ) .
+Diagnosis :
+shingles
+Discharge Medications :
+percocet and acyclovir
+Follow up Service :
+If you do not have a primary care physician , it is recommended that you select one .
+If you would like an <HOSPITAL>WGH</HOSPITAL> primary care physician , please call the <HOSPITAL>Eghelas Medical Centers</HOSPITAL> at <PHONE>265-573-2272</PHONE> .
+Disposition , Follow up and Instructions to Patient :
+return if the shingles persists for 2 weeks or more or if the pain is severe
+PCP Name :
+<DOCTOR>WIERSTKOTEA , JETA C</DOCTOR>
+Provider Number :
+<ID>61399</ID>
+This report was created by <DOCTOR>BRAN , FLOSCHEL</DOCTOR> <DATE>05/23/2001</DATE> 10:15 AM
+[ report_end ]
+</TEXT>
+</RECORD>

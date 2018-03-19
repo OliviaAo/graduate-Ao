@@ -1,0 +1,29 @@
+<RECORD ID="63">
+<TEXT>
+<ID>226454262</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>9500146</ID>
+<ID>230633</ID>
+<ID>347272</ID>
+<DATE>1/20/2000</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>KOTE , YGA</PATIENT>
+MRN :
+<ID>9500146</ID>
+Age :
+35y
+REGISTRATION DATE :
+<DATE>01/20/2000</DATE> 10:16 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>KOTE , YGA</PATIENT> arrived in the Emergency Department at <HOSPITAL>Daughtersvillshamen&apos;s Hospital</HOSPITAL> on <DATE>01/20/2000</DATE> 10:16 AM .
+The patient presented with a chief complaint of ABD PAIN .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>DAUGHTERSVILLSHAMEN&apos;S HOSPITAL</HOSPITAL> .
+Your patient was admitted under the care of <DOCTOR>JAQUENATHE , MYA A</DOCTOR> with a preliminary diagnosis of APPENDICITIS .
+If you need additional information please call <PHONE>613-870-0699</PHONE> .
+[ report_end ]
+</TEXT>
+</RECORD>

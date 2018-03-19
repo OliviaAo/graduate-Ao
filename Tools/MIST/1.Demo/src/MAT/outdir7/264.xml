@@ -1,0 +1,54 @@
+<RECORD ID="264">
+<TEXT>
+<ID>503651854</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>4959433</ID>
+<ID>288418</ID>
+<ID>2823104</ID>
+<DATE>7/31/2004</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>A , WALINA</PATIENT>
+MRN :
+<ID>4959433</ID>
+Age :
+32y
+REGISTRATION DATE :
+<DATE>07/31/2004</DATE> 11:24 AM
+Provider :
+<DOCTOR>PADA MEEDHUANG</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>07/31/2004</DATE> 12:58
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+S / P MVA
+Diagnosis :
+head trauma - mva
+Treatment Rendered :
+history , physical , neuro exam normal
+Discharge Medications :
+tylenol as needed .
+refrain from motrin at this time .
+Follow up Service :
+f / u with dr. <DOCTOR>white</DOCTOR>
+Disposition , Follow up and Instructions to Patient :
+monitor / return for nausea / vomiting , headache , visual / mental status changes or other concerns .
+PCP Name :
+<DOCTOR>WHITE , ELVNO R</DOCTOR>
+Provider Number :
+<ID>70468</ID>
+This report was created by <DOCTOR>MEEDHUANG , PADA</DOCTOR> <DATE>07/31/2004</DATE> 12:59 PM
+[ report_end ]
+</TEXT>
+</RECORD>

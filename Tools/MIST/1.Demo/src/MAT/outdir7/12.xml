@@ -1,0 +1,53 @@
+<RECORD ID="12">
+<TEXT>
+<ID>708749419</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>9683664</ID>
+<ID>973221</ID>
+<ID>194857</ID>
+<DATE>11/17/2001</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>SPIELBOBETREAU , EYRI</PATIENT>
+MRN :
+<ID>9683664</ID>
+Age :
+22y
+REGISTRATION DATE :
+<DATE>11/17/2001</DATE> 04:35 AM
+Provider :
+<DOCTOR>DELPASTILD KOTE</DOCTOR>
+PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>11/17/2001</DATE> 05:32
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+REQUESTING MORNING AFTER
+Diagnosis :
+post-coital contraception
+Treatment Rendered :
+negative pregnancy test
+Discharge Medications :
+OCP pregnancy prophylaxis ( 2 now , 2 later )
+Follow up Service :
+Your regular physician Dr. <DOCTOR>Ninsrudes</DOCTOR> - see her before you begin taking the oral contraceptives on a regular basis ( to make sure you are not pregnant ) .
+See Dr. <DOCTOR>Ninsrudes</DOCTOR> within 1 week for further follow up .
+Disposition , Follow up and Instructions to Patient :
+Expect some mild nausea / vomiting ; this should resolve within a day .
+If vomiting , abdominal cramps , or other symptoms continue , return to the E.D .
+PCP Name :
+<DOCTOR>NINSRUDES , ELVNO R</DOCTOR>
+Provider Number :
+<ID>14602</ID>
+This report was created by <DOCTOR>KOTE , DELPASTILD</DOCTOR> <DATE>11/17/2001</DATE> 07:38 AM
+[ report_end ]
+</TEXT>
+</RECORD>

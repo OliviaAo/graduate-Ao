@@ -1,0 +1,59 @@
+<RECORD ID="80">
+<TEXT>
+<ID>829426955</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>9088460</ID>
+<ID>115102</ID>
+<ID>6418988</ID>
+<DATE>11/18/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>WIERSTKERTH , RI</PATIENT>
+MRN :
+<ID>9088460</ID>
+Age :
+59y
+REGISTRATION DATE :
+<DATE>11/18/2002</DATE> 08:31 PM
+Provider :
+<DOCTOR>Biri Weertluc</DOCTOR>
+PRELIMINARY REPORT PCP
+notified by MD :
+No - Other explanation
+Benefits Assigned :
+N
+Discharge Date / Time :
+<DATE>11/19/2002</DATE> 00:11
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+CP Standardized
+Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( English ) .
+Diagnosis :
+Epigastric discomfort
+Treatment Rendered :
+Medical evaluation .
+Your SGPT is 64 , SGOT is 96 .
+You x-ray , ekg , and other laboratories are normal .
+Discharge Medications :
+None
+Disposition , Follow up and Instructions to Patient :
+Followup with your primary care physician in Monday for repeat liver function testing .
+You may need an abdominal ultrasound as an outpatient .
+Return immediately for increasing abdominal pain , chest pain , shortness of breath , or otherwise feeling worse .
+Accepting / <HOSPITAL>DH</HOSPITAL> Admitting Physician :
+<DOCTOR>MAO THO</DOCTOR>
+PCP Name :
+<DOCTOR>SWANKEMANDESSKIAIS , SANTCINET E</DOCTOR>
+Provider Number :
+<ID>42283</ID>
+This report was created by <DOCTOR>Weertluc , Biri</DOCTOR> <DATE>11/19/2002</DATE> 12:13 AM
+[ report_end ]
+</TEXT>
+</RECORD>

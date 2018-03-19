@@ -1,0 +1,62 @@
+<RECORD ID="187">
+<TEXT>
+<ID>038783217</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>6431628</ID>
+<ID>537063</ID>
+<ID>8836926</ID>
+<DATE>3/4/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>RHALTA , XANNELOME NINERA</PATIENT>
+MRN :
+<ID>6431628</ID>
+Age :
+50y
+REGISTRATION DATE :
+<DATE>03/04/2005</DATE> 04:04 PM
+Provider :
+<DOCTOR>THRYNE KOTEHARBE</DOCTOR> PRELIMINARY REPORT
+PCP notified by MD :
+No PCP identified
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>03/04/2005</DATE> 21:04
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+NUMBNESS SP CP LAST WEEK Standardized
+Discharge Instructions :
+The patient was given printed instructions for chest pain ( English ) .
+The patient was given printed instructions for shortness of breath ( English ) .
+Diagnosis :
+Chest pain , shortness of breath
+Treatment Rendered :
+Labs , CT Chest , EKG , CXR , Urinalysis
+Discharge Medications :
+Motrin 600 mg three times a day as needed for pain .
+Tylenol 650 mg every 4-6 hours for pain .
+Do not take aspirin while taking these medications .
+Follow up Service :
+If you do not have a primary care physician , it is recommended that you select one .
+If you would like an <HOSPITAL>PUMC</HOSPITAL> primary care physician , please call the <HOSPITAL>PUMC</HOSPITAL> Physician Referral Service at <PHONE>826-159-8368</PHONE> .
+Disposition , Follow up and Instructions to Patient :
+You should follow up with your regular doctor in the next 3-4 days for further care .
+You chest ct did not show a pulmonary embolism your chest x-ray did not show a pneumonia / pneumothorax .
+your symptoms are likely due to muscle strain .
+Please return if you have any worsening symtpoms .
+Please read the instructions above for chest pain and shortness of breath .
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+<ID>44824</ID>
+This report was created by <DOCTOR>KOTEHARBE , THRYNE</DOCTOR> <DATE>03/04/2005</DATE> 09:10 PM
+[ report_end ]
+</TEXT>
+</RECORD>

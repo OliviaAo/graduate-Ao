@@ -1,0 +1,38 @@
+<RECORD ID="234">
+<TEXT>
+<ID>230037538</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>5593797</ID>
+<ID>019417</ID>
+<ID>6521997</ID>
+<DATE>11/4/2004</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>SCHOELLSULLKOTEFONG , MAUSTINIE</PATIENT>
+MRN :
+<ID>5593797</ID>
+Age :
+43y
+REGISTRATION DATE :
+<DATE>11/04/2004</DATE> 10:23 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>SCHOELLSULLKOTEFONG , MAUSTINIE</PATIENT> arrived in the Emergency Department at <HOSPITAL>Ponta,itri- University Medical Center</HOSPITAL> on <DATE>11/04/2004</DATE> 10:23 AM .
+The patient presented with a chief complaint of DIZZINESS NEAR SYNCOPE .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>PONTA,ITRI- UNIVERSITY MEDICAL CENTER</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is UNKNOWN , UNKNOWN and the preliminary diagnosis is PANCYTOPENIA .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>937-599-6520</PHONE> .
+PCP Name :
+<DOCTOR>AFRIPHAUTHCAUGHELKSAXCAUGH , LAA A</DOCTOR>
+Provider Number :
+<ID>48351</ID>
+Resident Name :
+<DOCTOR>Jescdrepsrhalt , Nael</DOCTOR>
+Provider Number :
+<ID>70250</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

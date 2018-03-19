@@ -1,0 +1,55 @@
+<RECORD ID="372">
+<TEXT>
+<ID>481168525</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>2223691</ID>
+<ID>500967</ID>
+<ID>8206408</ID>
+<DATE>Christmas</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>SCOSTGACMARV , HELAVEHARBRASTY</PATIENT>
+MRN :
+<ID>2223691</ID>
+Age :
+30y
+REGISTRATION DATE :
+<DATE>Christmas</DATE> 04:18 PM
+Provider :
+<DOCTOR>ARL STIREDELS</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>12/25/2004</DATE> 18:37
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+PAIN BELOW LT BREAST
+Standardized Discharge Instructions :
+The patient was given printed instructions for chest pain ( English ) .
+Diagnosis :
+Atypical chest pain
+Treatment Rendered :
+Patient had a normal Chest x-ray , normal EKG , normal urine test , normal labs .
+Discharge Medications :
+none
+Follow up Service :
+Please see your PCP and have your echo .
+Disposition , Follow up and Instructions to Patient :
+Return to ER if any worsening of chest pain .
+PCP Name :
+<DOCTOR>BOUGESLINKEBREUNKOTE , GLAYDSRY N</DOCTOR>
+Provider Number :
+<ID>48951</ID>
+This report was created by <DOCTOR>STIREDELS , ARL</DOCTOR> <DATE>12/25/2004</DATE> 06:40 PM
+[ report_end ]
+</TEXT>
+</RECORD>

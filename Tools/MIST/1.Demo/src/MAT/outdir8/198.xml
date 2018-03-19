@@ -1,0 +1,88 @@
+<RECORD ID="198">
+<TEXT>
+<ID>941179152</ID> <HOSPITAL>YC</HOSPITAL>
+<ID>45854497</ID>
+<ID>4888153</ID>
+<DATE>10/16/2005</DATE> 12:00:00 AM
+same
+DIS
+Admission Date :
+<DATE>10/16/2005</DATE>
+Report Status :
+Discharge Date :
+<DATE>10/18/2005</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>GELTNIQUE , TITRAMSILV</PATIENT> <ID>490-65-61-3 Q97</ID>
+Room :
+<HOSPITAL>24J-922</HOSPITAL>
+Service :
+GYN
+DISCHARGE PATIENT ON :
+<DATE>10/18/05</DATE> AT 10:00 AM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>GACH , GHITHEA</DOCTOR> , M.D. , M.B.A.
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+COLACE ( DOCUSATE SODIUM ) 100 MG PO BID MOTRIN ( IBUPROFEN ) 600 MG PO Q6H PRN Pain
+HOLD IF :
+receiving Ketorolac
+Food / Drug Interaction Instruction
+Take with food
+Override Notice :
+Override added on <DATE>10/16/05</DATE> by <DOCTOR>FELVWURTHBREIER , AFE R.</DOCTOR> , M.D. on order for KETOROLAC TROMETHAMINE IV 15 MG Q6H ( ref # <ID>02531355</ID> )
+SERIOUS INTERACTION :
+IBUPROFEN and KETOROLAC TROMETHAMINE , INJ
+Reason for override :
+won&apos;t give together OXYCODONE 5-10 MG PO Q4H PRN Pain
+DIET :
+No Restrictions
+ACTIVITY :
+Walking as tolerated Lift restrictions :
+Do not lift greater then 10 pounds
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. <DOCTOR>Felvwurthbreier</DOCTOR> 2 weeks , Dr. <DOCTOR>Condtrick</DOCTOR> <DATE>10/23</DATE> at 3:10pm ,
+ALLERGY :
+NKA ADMIT DIAGNOSIS :
+TAH , TVT , prolapse repair
+PRINCIPAL DISCHARGE DIAGNOSIS ;
+Responsible After Study for Causing Admission ) same
+OTHER DIAGNOSIS ;
+Conditions , Infections , Complications , affecting Treatment / Stay same
+OPERATIONS AND PROCEDURES :
+<DATE>10/16/05</DATE> <DOCTOR>GACH , GHITHEA</DOCTOR> , M.D. , M.B.A.
+TOTAL ABDOMINAL HYSTERECTOMY , UTEROSACRAL SUSPENSION , L0T
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+none
+BRIEF RESUME OF HOSPITAL COURSE :
+44 y.o. G3P2 w/ GSUI , menorrhagia , fibroids .
+PMH :
+anemia ( was 31 &gt;&gt; 36.7 pre-op )
+PSH :
+none
+Meds :
+Fe , MVI NKDA
+Hospital course :
+Pt underwent TAH , transobturator sling EBL 200 .
+Uncomplicated post-op course with Hct 33.8 .
+However , previously unsuspected diagnosis of HCV made secondary to routine testing after employee exposure .
+Pt understands , and will follow w/ PCP .
+ADDITIONAL COMMENTS :
+Por favor llame a la clinica de ginecologia ( <PHONE>345-453-2049</PHONE> ) con qualquier problema sobre su ciurgia .
+Por exemplo , temperatura mas de 100.4 grados , nausea , vomito , o dolor fuerte abdominal .
+Llame con dificuldades con urinacion .
+No levanta peso mas de 10 libros , y no mangeja mientras esta tomando medicamento para dolor ( oxycodone ) .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+* Una sita con un doctor Gastrointestinal ( por favor pide a Dr. <DOCTOR>Condtrick</DOCTOR> por quando es la sita ) No dictated summary
+ENTERED BY :
+<DOCTOR>CUL , SHERL LALUKE</DOCTOR> , M.D. ( <ID>EX566</ID> ) <DATE>10/18/05</DATE> 08:27 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

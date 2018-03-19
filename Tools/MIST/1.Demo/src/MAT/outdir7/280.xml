@@ -1,0 +1,121 @@
+<RECORD ID="280">
+<TEXT>
+<ID>638157550</ID> <HOSPITAL>SC</HOSPITAL>
+<ID>97308722</ID>
+<ID>6261929</ID>
+<DATE>1/22/2005</DATE> 12:00:00 AM
+gastritis
+DIS
+Admission Date :
+<DATE>01/22/2005</DATE>
+Report Status :
+Discharge Date :
+<DATE>01/24/2005</DATE>
+****** DISCHARGE ORDERS ******
+<PATIENT>AKOTE , NAO</PATIENT> <ID>630-65-64-5 Q39</ID>
+Room :
+<HOSPITAL>70B-157</HOSPITAL>
+Service :
+GGI
+DISCHARGE PATIENT ON :
+<DATE>01/24/05</DATE> AT 07:00 PM
+CONTINGENT UPON
+Not Applicable
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+Attending :
+<DOCTOR>GAETZFREIERM , DENA DA</DOCTOR> , M.D.
+CODE STATUS :
+Full code
+DISPOSITION :
+Home
+DISCHARGE MEDICATIONS :
+AMOXICILLIN 1,000 MG PO BID X 28 doses
+Instructions :
+for H.Pylori .
+Food / Drug Interaction Instruction
+May be taken without regard to meals
+CLARITHROMYCIN 500 MG PO BID X 28 doses
+Instructions :
+h.pylori tx .
+Food / Drug Interaction Instruction
+Take with food
+Alert overridden :
+Override added on <DATE>01/23/05</DATE> by <DOCTOR>DAINSAYLESNOORT , AGER</DOCTOR> , M.D. , PH.D.
+SERIOUS INTERACTION :
+SIMVASTATIN and CLARITHROMYCIN
+POTENTIALLY SERIOUS INTERACTION :
+SIMVASTATIN and CLARITHROMYCIN
+Reason for override :
+will monitor .
+HYDROCHLOROTHIAZIDE 25 MG PO QD ZOCOR ( SIMVASTATIN ) 40 MG PO QHS
+Food / Drug Interaction Instruction
+Avoid grapefruit unless MD instructs otherwise .
+Override Notice :
+Override added on <DATE>01/23/05</DATE> by <DOCTOR>DAINSAYLESNOORT , AGER</DOCTOR> , M.D. , PH.D. on order for CLARITHROMYCIN PO ( ref # <ID>99052380</ID> )
+SERIOUS INTERACTION :
+SIMVASTATIN and CLARITHROMYCIN
+POTENTIALLY SERIOUS INTERACTION :
+SIMVASTATIN and CLARITHROMYCIN
+Reason for override :
+will monitor .
+POTASSIUM CHLORIDE SLOW REL. ( KCL SLOW RELEASE ) 40 MEQ PO QD As per <HOSPITAL>SC</HOSPITAL>
+Potassium Chloride Policy :
+each 20 mEq dose to be given with 4 oz of fluid COZAAR ( LOSARTAN ) 50 MG PO QD
+Number of Doses Required ( approximate ) :
+2
+LAMICTAL ( LAMOTRIGINE ) 150 MG PO BID
+Number of Doses Required ( approximate ) :
+5
+WELLBUTRIN SR ( BUPROPION HCL SUSTAINED RELEASE ) 200 MG PO BID
+Number of Doses Required ( approximate ) :
+4
+ESOMEPRAZOLE 20 MG PO BID X 28 doses
+Instructions :
+H. Pylori tx .
+DIET :
+No Restrictions
+ACTIVITY :
+Resume regular exercise
+FOLLOW UP APPOINTMENT ( S ) :
+Dr. <DOCTOR>Gaetzfreierm</DOCTOR> 1-2 weeks ,
+ALLERGY :
+PERCOCET , IV Contrast , LISINOPRIL , ATENOLOL
+ADMIT DIAGNOSIS :
+Gastritis
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) gastritis
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay Obesity HTN High Cholesterol Tobacco Fhx of CAD ETT <DATE>12/94</DATE> ( - ) ischemia ECHO <DATE>02/89</DATE> nl ETT <DATE>03/89</DATE> , <DATE>07/90</DATE> c / w ND ische
+Takes hubby &apos;s sl ntg Barium Swallow <DATE>04/89</DATE> ( - ) UGI <DATE>06/91</DATE> ( - )
+OPERATIONS AND PROCEDURES :
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+MRI HIDA CT
+BRIEF RESUME OF HOSPITAL COURSE :
+The pt is a 55yo F s / p Roux en Y GBP in <DATE>12/20</DATE> presenting to the ED this AM c / o mod severe midepigastric pain .
+She notes that she has had this pain since Thursday , and that it becomes much worse within 15 min of consuming a meal .
+She has also had intermittent post-prandial nausea / satiety for which she had been scheduled for an outpt EGD with GI on <DATE>2/8</DATE> .
+She describes the pain as band-like / radiating to both sides but not the back .
+Her pain currently is 5/10 .
+ROS ( - ) emesis / BRBPR/melena / fever/chills / sob .
+Pt was seen by GI on <DATE>13</DATE> EGD was performed HD2 which was negative for gastritis , stricture or ulcer .
+Pt was found to be H. Pylori positive and therefore was started on empiric treatment .
+Afferent limb of the roux en y anastamosis was visualized however the efferent limb could not be explored .
+Pt had HIDA scan which was negative for obstruction , and CT was unremarkable .
+Pt was tolerating regular diet by HD4 , and GI felt that further workup could be continued as an outpatient .
+Pt was therefore discharged home in stable condition , voiding , ambulating and eating without difficulty .
+Plans to follow up with outpatient MRA to rule out ischemic causes of post prandial pain , as well as HIDA with CK challenge to evaluate for biliary dyskinesia without stasis .
+Pt will finish course of H. pylori treatment as well .
+ADDITIONAL COMMENTS :
+If fevers , chills , nausea , vomiting , diarrhea , increasing pain with food please call Dr. <DOCTOR>Gaetzfreierm</DOCTOR> &apos;s office or PCP .
+If severe , then proceed to ER for evaluation .
+Will need to call for outpatient MRA and HIDA with CCK challenge to evaluate biliary system and mesenteric vasculature .
+Please continue taking the antibiotics for H. Pylori for full course ( 26 more days ) .
+DISCHARGE CONDITION :
+Stable
+TO DO / PLAN :
+No dictated summary
+ENTERED BY :
+<DOCTOR>DOUETSHUFF , DE CLEEE</DOCTOR> , M.D. ( <ID>CP85</ID> ) <DATE>01/24/05</DATE> 06:53 PM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

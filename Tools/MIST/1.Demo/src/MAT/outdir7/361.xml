@@ -1,0 +1,56 @@
+<RECORD ID="361">
+<TEXT>
+<ID>245317863</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>9156109</ID>
+<ID>780576</ID>
+<ID>0720567</ID>
+<DATE>04/20/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>KOORSKOTE , RETCO</PATIENT>
+MRN :
+<ID>9156109</ID>
+Age :
+26y
+REGISTRATION DATE :
+<DATE>04/20/2005</DATE> 10:30 PM
+Provider :
+<DOCTOR>HE HERDES</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+E-mail PCP
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+<DATE>04/21/2005</DATE> 05:25
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+RLQ PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for kidney stones ( English ) .
+Diagnosis :
+likely recently passed kidney stone
+Treatment Rendered :
+history , physical , lab , Abdominal CT scan
+Discharge Medications :
+Motrin as needed
+Follow up Service :
+Please follow up with your primary care physician within the next week .
+Also please follow up with urology regarding management of your kidney stones .
+Disposition , Follow up and Instructions to Patient :
+Please return if your symptoms return , you develop a fever .
+PCP Name :
+<DOCTOR>KOTEKOTEPRUESS , SUSNUM</DOCTOR>
+Provider Number :
+<ID>43264</ID>
+This report was created by <DOCTOR>HERDES , NEWSHALIE</DOCTOR> <DATE>04/21/2005</DATE> 06:47 AM
+[ report_end ]
+</TEXT>
+</RECORD>

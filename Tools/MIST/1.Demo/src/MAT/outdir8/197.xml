@@ -1,0 +1,46 @@
+<RECORD ID="197">
+<TEXT>
+<ID>334585294</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>9977625</ID>
+<ID>31595</ID>
+<ID>770772</ID>
+<DATE>09/20/1999</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>GACH , WADE</PATIENT>
+MRN :
+<ID>9977625</ID>
+Age :
+64y
+REGISTRATION DATE :
+<DATE>09/20/1999</DATE> 05:08 PM
+Provider :
+<DOCTOR>Shaza Meedner</DOCTOR> PRELIMINARY REPORT
+PCP notified by MD :
+Yes - Direct contact with PCP
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>09/20/99</DATE> 9:13:44 PM
+Discharge Status :
+Discharged
+Patient States Complaint :
+SOB
+Diagnosis :
+Reactive airways exacerbation .
+Treatment Rendered :
+Nebulizers , lab and x-ray evaluation .
+Discharge Medications :
+Albuterol inhaler .
+2 puffs every 2-6 hours as needed for wheezing , shortness of breath .
+Disposition , Follow up and Instructions to Patient :
+Call Dr. <DOCTOR>Breutzreef</DOCTOR> in the morning for follow up .
+Return to the ER sooner for worsening breathing difficulties , chest pains , other concerns .
+This report was created by <DOCTOR>Meedner , Shaza</DOCTOR> <DATE>09/20/1999</DATE> 09:15 PM
+[ report_end ]
+</TEXT>
+</RECORD>

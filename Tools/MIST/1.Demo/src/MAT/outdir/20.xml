@@ -1,0 +1,51 @@
+<RECORD ID="20">
+<TEXT>
+<ID>146101365</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>2423526</ID>
+<ID>001073</ID>
+<ID>4234941</ID>
+<DATE>11/9/2004</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>ALEEB , LINEES</PATIENT>
+MRN :
+<ID>2423526</ID>
+Age :
+86y
+REGISTRATION DATE :
+<DATE>11/09/2004</DATE> 07:09 PM
+Provider :
+<DOCTOR>RONRIN SHUFF</DOCTOR>
+PRELIMINARY REPORT
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>11/09/2004</DATE> 22:22
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+S / P FALL
+Diagnosis :
+s / p fall
+Treatment Rendered :
+head ct - no acute bleed , interval resolution of SDH c / w <DATE>10/2</DATE> cspine ct - neg R humerus - old fx - no new fx
+Discharge Medications :
+no change
+Follow up Service :
+Transferred back to <HOSPITAL>Ttrill Panbri Hospital</HOSPITAL>
+Disposition , Follow up and Instructions to Patient :
+Please return to the ED with any worsening symptoms or further concerns .
+PCP Name :
+<DOCTOR>KOOGLERATHEA , DA L</DOCTOR>
+Provider Number :
+<ID>63024</ID>
+This report was created by <DOCTOR>SHUFF , RONRIN</DOCTOR> <DATE>11/09/2004</DATE> 10:23 PM
+[ report_end ]
+</TEXT>
+</RECORD>

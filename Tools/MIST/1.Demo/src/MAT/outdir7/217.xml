@@ -1,0 +1,61 @@
+<RECORD ID="217">
+<TEXT>
+<ID>887490141</ID> <HOSPITAL>PUMC</HOSPITAL>
+<ID>7511861</ID>
+<ID>453955</ID>
+<ID>079105</ID>
+<DATE>1/10/2001</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>RONG , ARV</PATIENT>
+MRN :
+<ID>7511861</ID>
+Age :
+46y
+REGISTRATION DATE :
+<DATE>01/10/2001</DATE> 12:16 PM
+Provider :
+<DOCTOR>BOKT AJAQUE SEMEN</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+Left message with answering service or PCP office
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>01/10/2001</DATE> 17:37
+Discharge Status :
+Discharged Condition on Discharge :
+Stable
+Patient States Complaint :
+ABD PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( English ) .
+Diagnosis :
+abdominal pain Treatment Rendered :
+Patient had pelvic ultrasound done in ED .
+Resident radiology review showed no gynecologic cause of lower abdominal pain .
+Hct checked and normal .
+Discharge Medications :
+Motrin 800 mg 1 po q6 hrs for abdominal pain
+Follow up Service :
+With Dr. <DOCTOR>Channel Semen</DOCTOR> next available appointment .
+Patient has number to make appointment ( <PHONE>157 513 8676</PHONE> )
+Disposition , Follow up and Instructions to Patient :
+Take motrin as prescribed .
+Keep follow-up apointment with Dr. <DOCTOR>Semen</DOCTOR>
+Return to ED for worsening pain or any further concerns .
+PCP Name :
+<DOCTOR>CHIRDWIERSTA , NANESPEBILLRA</DOCTOR>
+Provider Number :
+<ID>96827</ID>
+Resident Name :
+<DOCTOR>Semen , Niseta</DOCTOR>
+Provider Number :
+<ID>89974</ID> This report was created by <DOCTOR>AJAQUE SEMEN , BOKT</DOCTOR> <DATE>01/10/2001</DATE> 05:45 PM
+[ report_end ]
+</TEXT>
+</RECORD>

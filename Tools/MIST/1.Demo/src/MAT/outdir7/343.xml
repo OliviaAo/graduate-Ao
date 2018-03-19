@@ -1,0 +1,60 @@
+<RECORD ID="343">
+<TEXT>
+<ID>411474083</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>5782833</ID>
+<ID>338847</ID>
+<ID>2844036</ID>
+<DATE>01/31/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>ELKSFALCBAINKIH , ON</PATIENT>
+MRN :
+<ID>5782833</ID>
+Age :
+37y
+REGISTRATION DATE :
+<DATE>01/31/2002</DATE> 12:42 PM
+Provider :
+<DOCTOR>KNEE</DOCTOR> , M.D. <DOCTOR>KOTEHARBE</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by
+MD :
+No PCP identified
+Benefits Assigned :
+Y
+Discharge Date / Time :
+<DATE>01/31/2002</DATE> 14:03
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+R KNEE PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for sprains , fractures and bruises ( English ) .
+Diagnosis :
+right knee pain
+Treatment Rendered :
+History , examination , xray , knee immoblizer , crutches
+Discharge Medications :
+Percocet by mouth for pain .
+Do not drink or drive .
+Follow up Service :
+It is recommended that you receive follow-up care with the Department of Orthopaedics .
+Please call <PHONE>( 020 ) 489-0571</PHONE> to schedule an appointment .
+Assessment of meniscus .
+Disposition , Follow up and Instructions to Patient :
+Return if pain increases or knee cannot be bend .
+Keep leg elevated and non-weight bearing .
+PCP Name :
+NONE , PHYSICIAN
+Provider Number :
+<ID>51669</ID>
+This report was created by <DOCTOR>KOTEHARBE , THRYNE</DOCTOR> , M.D. <DATE>01/31/2002</DATE> 02:08 PM
+[ report_end ]
+</TEXT>
+</RECORD>

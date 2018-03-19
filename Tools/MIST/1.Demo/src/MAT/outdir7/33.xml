@@ -1,0 +1,53 @@
+<RECORD ID="33">
+<TEXT>
+<ID>597884497</ID> <HOSPITAL>DH</HOSPITAL>
+<ID>0057484</ID>
+<ID>922906</ID>
+<ID>7487904</ID>
+<DATE>11/23/2006</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>KOTECLAUSE , NORLINE</PATIENT>
+MRN :
+<ID>0057484</ID>
+Age :
+24y
+REGISTRATION DATE :
+<DATE>11/23/2006</DATE> 01:34 AM
+Provider :
+<DOCTOR>KEMA LOUD</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+Left message with answering service or PCP office
+Benefits Assigned :
+Y
+Discharge Note Date / Time :
+<DATE>11/23/2006</DATE> 07:31
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+ABD PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for vomiting and diarrhea in adults ( English ) .
+Diagnosis :
+Hyperemesis
+Treatment Rendered :
+History and physical , labs
+Discharge Medications :
+Reglan
+Disposition , Follow up and Instructions to Patient :
+Please call Dr. <DOCTOR>Breier</DOCTOR> &apos;s office today to schedule appointment for the next 1-2 weeks .
+PCP Name :
+<DOCTOR>BREIER , NACICHAE</DOCTOR>
+Provider Number :
+<ID>58920</ID>
+This report was created by <DOCTOR>LOUD , KEMA</DOCTOR> <DATE>11/23/2006</DATE> 07:35 AM
+[ report_end ]
+</TEXT>
+</RECORD>

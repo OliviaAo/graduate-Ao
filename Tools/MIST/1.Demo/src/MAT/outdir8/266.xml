@@ -1,0 +1,59 @@
+<RECORD ID="266">
+<TEXT>
+<ID>427732830</ID> <HOSPITAL>WGH</HOSPITAL>
+<ID>5617032</ID>
+<ID>451288</ID>
+<ID>8210924</ID>
+<DATE>08/06/2003</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION / SUMMARY
+<PATIENT>TYNNEVENOORT , ALT</PATIENT>
+MRN :
+<ID>5617032</ID>
+Age :
+48y
+REGISTRATION DATE :
+<DATE>08/06/2003</DATE> 06:07 PM
+Provider :
+<DOCTOR>VITA LINKEKOTEMONES</DOCTOR>
+PRELIMINARY REPORT
+PCP notified by MD :
+Yes - Direct contact with PCP
+Discharge Date / Time :
+<DATE>08/07/2003</DATE> 03:55
+Discharge Status :
+Discharged
+Condition on Discharge :
+Stable
+Patient States Complaint :
+RLQ ABD PAIN
+Standardized Discharge Instructions :
+The patient was given printed instructions for abdominal pain ( Spanish ) .
+Diagnosis :
+Abdominal pain
+Treatment Rendered :
+IV hydration , zofran , abdominal CT scan , CBC , electrolytes , LFTs , Amylase , Lipase
+Discharge Medications :
+flexeril 10mg po three times a day .
+Only take if severe abdominal pain .
+Follow up Service :
+Please follow up with your primary care physician Dr. <DOCTOR>Obesaephnerbrac</DOCTOR> within 2 days .
+Disposition , Follow up and Instructions to Patient :
+You are being treated for abdominal pain .
+Your abdominal CT scan did not show any evidence of appendicitis , any evidence of poor blood flow , diverticulitis , or any masses or tumors .
+You can take percocet or vicodin for the pain .
+If pain is severe , take flexeril as prescribed .
+If pain persists , follow up with your primary care physician .
+If pain is intractable and associated with nausea and vomiting , please return to <HOSPITAL>WGH</HOSPITAL> ED .
+PCP Name :
+<DOCTOR>OBESAEPHNERBRAC , ZE</DOCTOR>
+Provider Number :
+<ID>08764</ID>
+This report was created by <DOCTOR>LINKEKOTEMONES , VITA</DOCTOR> <DATE>08/07/2003</DATE> 03:59 AM
+[ report_end ]
+</TEXT>
+</RECORD>
