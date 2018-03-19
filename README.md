@@ -3,8 +3,8 @@ The perfomance analysis for De-identification and Colenda methods on Clinical te
 
 ## Tools Usage
 #### 1. HMS Scrubber
-
-   1.1 Requirements:
+   * **Requirements:** Java
+   
 
 #### 2. DE-ID
 #### 3. PHI-Reducer
