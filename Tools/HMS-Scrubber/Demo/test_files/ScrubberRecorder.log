@@ -1,0 +1,14 @@
+Identifier Recorder initialized, 2018-03-19#04.48.52PM
+    Scrubbing file:    /Users/ao/Desktop/graduate-Ao/Tools/HMS-Scrubber/Demo/test_files/scrubber_test_set/testcase.xml
+    REGEX:TELEPHONE2    >7654321</
+    REGEX:TELEPHONE2    7654321
+    REGEX:TELEPHONE2    555-2368
+    REGEX:DOCTOR     Dr. Notarealname DIAGNOSIS: Soft 
+    REGEX:DOCTOR     Dr. Peter Venkman 
+    REGEX:FACILITY_NAME     vital signs.               Test: Mercy Hospital 
+    REGEX:DATE_SEPERATORS     1/20/91, 12/01/05, 10/6/66, 8/9/1985.            5+ +
+    REGEX:DATE_SEPERATORS    . 4/29/09]]>            </
+    REGEX:DATE    >1940-01-01</
+    REGEX:DATE    ="2005-01-01
+    REGEX:DATE    1940-01-01
+    REGEX:DATE     2009-02-01

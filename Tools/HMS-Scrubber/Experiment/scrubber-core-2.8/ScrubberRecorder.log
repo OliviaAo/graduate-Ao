@@ -1,0 +1,3625 @@
+Identifier Recorder initialized, 2018-03-22#11.29.03AM
+        
+        
+    original_test50.xml    SCRUBBING FILE:
+    FetchWordTokensVisitor    Doe
+    FetchWordTokensVisitor    John
+    FetchWordTokensVisitor    1940-01-01
+    FetchWordTokensVisitor    05-0001D
+    FetchWordTokensVisitor    7654321
+    FetchWordTokensVisitor    2005-01-01
+    REGEX:TELEPHONE3    ">008-653-3263</
+    REGEX:TELEPHONE3    ">442-025-0303</
+    REGEX:TELEPHONE3    ">442-025-0303</
+    REGEX:TELEPHONE3    ">935-131-3314</
+    REGEX:TELEPHONE3    ">959-1490</
+    REGEX:TELEPHONE3    ">610-7597</
+    REGEX:TELEPHONE3    ">610-7597</
+    REGEX:TELEPHONE3    ">639-873-2993</
+    REGEX:TELEPHONE3    ">639-873-2993</
+    REGEX:TELEPHONE3    ">438-9748</
+    REGEX:TELEPHONE3    ">349-034-0703</
+    REGEX:TELEPHONE3    ">639-873-2993</
+    REGEX:TELEPHONE3    ">639-873-2993</
+    REGEX:TELEPHONE1    ">2878891</
+    REGEX:TELEPHONE1    ">1885323</
+    REGEX:TELEPHONE1    ">9881122</
+    REGEX:TELEPHONE1    ">6001356</
+    REGEX:TELEPHONE1    ">0571009</
+    REGEX:TELEPHONE1    ">0150441</
+    REGEX:TELEPHONE1    ">6932882</
+    REGEX:TELEPHONE1    ">8634097</
+    REGEX:TELEPHONE1    ">3895622</
+    REGEX:TELEPHONE1    ">2513486</
+    REGEX:TELEPHONE1    ">2513486</
+    REGEX:TELEPHONE1    ">0171413</
+    REGEX:TELEPHONE1    ">1225706</
+    REGEX:TELEPHONE1    ">6674056</
+    REGEX:TELEPHONE1    ">0626407</
+    REGEX:TELEPHONE1    ">8939200</
+    REGEX:TELEPHONE1    ">7958442</
+    REGEX:TELEPHONE1    ">7958442</
+    REGEX:TELEPHONE1    ">5442905</
+    REGEX:TELEPHONE1    ">5442905</
+    REGEX:TELEPHONE1    ">0750210</
+    REGEX:TELEPHONE1    ">7198495</
+    REGEX:TELEPHONE1    ">0239706</
+    REGEX:TELEPHONE1    ">9086106</
+    REGEX:TELEPHONE1    ">7432347</
+    REGEX:TELEPHONE1    ">5615474</
+    REGEX:TELEPHONE1    ">6676757</
+    REGEX:TELEPHONE1    ">2842701</
+    REGEX:TELEPHONE1    ">7961198</
+    REGEX:TELEPHONE1    ">6857671</
+    REGEX:TELEPHONE1    ">5569091</
+    REGEX:TELEPHONE1    ">5569091</
+    REGEX:TELEPHONE1    ">2137183</
+    REGEX:TELEPHONE1    ">7271129</
+    REGEX:TELEPHONE1    ">5669108</
+    REGEX:TELEPHONE1    ">7238685</
+    REGEX:TELEPHONE1    ">5345404</
+    REGEX:TELEPHONE1    ">9101799</
+    REGEX:TELEPHONE1    ">2427050</
+    REGEX:TELEPHONE1    ">2249928</
+    REGEX:TELEPHONE1    ">0520610</
+    REGEX:TELEPHONE1    ">4047430</
+    REGEX:TELEPHONE1    ">1207026</
+    REGEX:TELEPHONE1    ">6114063</
+    REGEX:TELEPHONE1    ">9075321</
+    REGEX:TELEPHONE1    ">7191549</
+    REGEX:TELEPHONE1    ">2766343</
+    REGEX:TELEPHONE1    ">8857096</
+    REGEX:TELEPHONE1    ">1585733</
+    REGEX:TELEPHONE1    ">1320527</
+    REGEX:TELEPHONE1    ">5647889</
+    REGEX:TELEPHONE1    ">4107358</
+    REGEX:TELEPHONE1    ">6344600</
+    REGEX:TELEPHONE1    ">0165210</
+    REGEX:TELEPHONE1    ">3053776</
+    REGEX:TELEPHONE1    ">1848548</
+    REGEX:TELEPHONE1    ">7377000</
+    REGEX:TELEPHONE1    ">7377000</
+    REGEX:TELEPHONE1    ">9441698</
+    REGEX:TELEPHONE1    ">5785142</
+    REGEX:TELEPHONE1    ">7140319</
+    REGEX:TELEPHONE1    ">7625956</
+    REGEX:TELEPHONE1    ">9506800</
+    REGEX:TELEPHONE1    ">3546292</
+    REGEX:TELEPHONE1    ">0641514</
+    REGEX:DATE    >1940-01-01</
+    REGEX:DATE4    ">11/28</
+    REGEX:DATE4    ">11/05</
+    REGEX:DATE4    ">11/08</
+    REGEX:DATE4    ">01/27</
+    REGEX:DATE4    ">10/13</
+    REGEX:DATE4    ">11/03</
+    REGEX:DATE4    ">10/30</
+    REGEX:DATE4    ">10/31</
+    REGEX:DATE4    ">11/03</
+    REGEX:DATE4    ">04/08</
+    REGEX:DATE4    ">03/26</
+    REGEX:DATE4    ">03/27</
+    REGEX:DATE4    ">03/29</
+    REGEX:DATE4    ">02/04</
+    REGEX:DATE4    ">02/04</
+    REGEX:DATE4    ">02/05</
+    REGEX:DATE4    ">12/13</
+    REGEX:DATE4    ">12/17</
+    REGEX:DATE4    ">12/17</
+    REGEX:DATE4    ">12/17</
+    REGEX:DATE4    ">10/04</
+    REGEX:DATE4    ">10/06</
+    REGEX:DATE4    ">10/13</
+    REGEX:DATE4    ">10/09</
+    REGEX:DATE4    ">03/29</
+    REGEX:DATE4    ">05/22</
+    REGEX:DATE4    ">03/29</
+    REGEX:DATE4    ">09/18</
+    REGEX:DATE4    ">10/15</
+    REGEX:DATE4    ">10/21</
+    REGEX:DATE4    ">10/29</
+    REGEX:DATE4    ">11/01</
+    REGEX:DATE4    ">06/10</
+    REGEX:DATE4    ">06/15</
+    REGEX:DATE4    ">01/30</
+    REGEX:DATE4    ">02/03</
+    REGEX:DATE4    ">01/30</
+    REGEX:DATE4    ">02/06</
+    REGEX:DATE4    ">05/13</
+    REGEX:DATE4    ">04/11</
+    REGEX:DATE4    ">08/03</
+    REGEX:DATE4    ">06/15</
+    REGEX:DATE4    ">03/06</
+    REGEX:DATE4    ">04/29</
+    REGEX:DATE4    ">05/28</
+    REGEX:DATE4    ">10/05</
+    REGEX:DATE4    ">06/03</
+    REGEX:DATE4    ">06/06</
+    REGEX:DATE4    ">10/08</
+    REGEX:DATE4    ">10/17</
+    REGEX:DATE4    ">10/18</
+    REGEX:DATE4    ">04/21</
+    REGEX:DATE4    ">04/21</
+    REGEX:DATE4    ">04/29</
+    REGEX:DATE4    ">04/29</
+    REGEX:DATE4    ">02/23</
+    REGEX:DATE4    ">02/28</
+    REGEX:DATE4    ">12/22</
+    REGEX:DATE4    ">12/22</
+    REGEX:DATE4    ">12/22</
+    REGEX:DATE4    ">12/15</
+    REGEX:DATE4    ">12/17</
+    REGEX:DATE4    ">12/16</
+    REGEX:DATE4    ">12/22</
+    REGEX:DATE4    ">12/23</
+    REGEX:DATE4    ">12/26</
+    REGEX:DATE4    ">07/15</
+    REGEX:DATE4    ">08/08</
+    REGEX:DATE4    ">08/22</
+    REGEX:DATE4    ">04/25</
+    REGEX:DATE4    ">04/27</
+    REGEX:DATE4    ">05/05</
+    REGEX:DATE4    ">05/03</
+    REGEX:DATE4    ">07/01</
+    REGEX:DATE4    ">01/19</
+    REGEX:DATE4    ">01/20</
+    REGEX:DATE4    ">06/07</
+    REGEX:DATE4    ">12/26</
+    REGEX:DATE4    ">06/07</
+    REGEX:DATE4    ">06/24</
+    REGEX:DATE4    ">07/01</
+    REGEX:DATE4    ">07/02</
+    REGEX:DATE4    ">07/19</
+    REGEX:DATE4    ">05/08</
+    REGEX:DATE4    ">05/08</
+    REGEX:DATE4    ">12/10</
+    REGEX:DATE4    ">12/13</
+    REGEX:DATE4    ">12/10</
+    REGEX:DATE4    ">12/12</
+    REGEX:DATE4    ">12/13</
+    REGEX:DATE4    ">10/05</
+    REGEX:DATE4    ">03/13</
+    REGEX:DATE4    ">04/21</
+    REGEX:DATE4    ">03/13</
+    REGEX:DATE4    ">04/03</
+    REGEX:DATE4    ">02/08</
+    REGEX:DATE4    ">11/22</
+    REGEX:DATE4    ">11/13</
+    REGEX:DATE4    ">11/15</
+    REGEX:DATE4    ">11/20</
+    REGEX:DATE4    ">10/21</
+    REGEX:DATE4    ">11/23</
+    REGEX:DATE4    ">11/22</
+    REGEX:DATE4    ">06/29</
+    REGEX:DATE4    ">10/19</
+    REGEX:DATE4    ">08/15</
+    REGEX:DATE4    ">08/10</
+    REGEX:DATE4    ">08/12</
+    REGEX:DATE4    ">11/26</
+    REGEX:DATE4    ">11/26</
+    REGEX:DATE4    ">11/26</
+    REGEX:DATE4    ">11/30</
+    REGEX:DATE4    ">08/12</
+    REGEX:DATE4    ">11/14</
+    REGEX:DATE4    ">03/17</
+    REGEX:DATE4    ">03/17</
+    REGEX:DATE4    ">03/17</
+    REGEX:DATE4    ">11/17</
+    REGEX:DATE4    ">12/22</
+    REGEX:DATE4    ">12/21</
+    REGEX:DATE4    ">06/22</
+    REGEX:DATE4    ">07/24</
+    REGEX:DATE4    ">10/18</
+    REGEX:DATE4    ">11/16</
+    REGEX:DATE4    ">11/17</
+    REGEX:DATE4    ">12/13</
+    REGEX:DATE4    ">11/22</
+    REGEX:DATE4    ">12/15</
+    REGEX:DATE4    ">12/01</
+    REGEX:DATE4    ">12/09</
+    REGEX:DATE4    ">12/21</
+    REGEX:DATE4    ">12/24</
+    REGEX:DATE4    ">08/24</
+    REGEX:DATE4    ">08/24</
+    REGEX:DATE4    ">05/26</
+    REGEX:DATE4    ">05/17</
+    REGEX:DATE4    ">06/04</
+    REGEX:DATE4    ">06/04</
+    REGEX:DATE4    ">06/10</
+    REGEX:DATE4    ">06/10</
+    REGEX:DATE4    ">02/10</
+    REGEX:DATE4    ">02/10</
+    REGEX:DATE4    ">03/11</
+    REGEX:DATE4    ">03/25</
+    REGEX:DATE4    ">05/01</
+    REGEX:DATE4    ">10/28</
+    REGEX:DATE4    ">05/12</
+    REGEX:DATE4    ">07/31</
+    REGEX:DATE4    ">01/02</
+    REGEX:DATE4    ">01/03</
+    REGEX:DATE4    ">01/02</
+    REGEX:DATE4    ">01/07</
+    REGEX:DATE4    ">01/07</
+    REGEX:DATE4    ">10/23</
+    REGEX:DATE4    ">10/10</
+    REGEX:DATE4    ">10/10</
+    REGEX:DATE4    ">10/17</
+    REGEX:DATE4    ">10/19</
+    REGEX:DATE4    ">10/20</
+    REGEX:DATE4    ">10/15</
+    REGEX:DATE4    ">10/23</
+    REGEX:DATE4    ">10/18</
+    REGEX:DATE4    ">10/18</
+    REGEX:DATE4    ">10/23</
+    REGEX:DATE4    ">10/16</
+    REGEX:DATE4    ">10/19</
+    REGEX:DATE4    ">01/20</
+    REGEX:DATE4    ">12/23</
+    REGEX:DATE4    ">01/24</
+    REGEX:DATE4    ">03/30</
+    REGEX:DATE4    ">05/11</
+    REGEX:DATE4    ">05/15</
+    REGEX:DATE4    ">01/07</
+    REGEX:DATE4    ">01/07</
+    REGEX:DATE4    ">01/27</
+    REGEX:DATE4    ">03/02</
+    REGEX:DATE4    ">02/11</
+    REGEX:DATE4    ">09/05</
+    REGEX:DATE4    ">09/05</
+    REGEX:DATE4    ">09/09</
+    REGEX:DATE4    ">09/02</
+    REGEX:DATE4    ">09/05</
+    REGEX:DATE4    ">09/02</
+    REGEX:DATE4    ">09/09</
+    REGEX:DATE4    ">10/13</
+    REGEX:DATE4    ">02/08</
+    REGEX:DATE4    ">02/18</
+    REGEX:DATE4    ">02/06</
+    REGEX:DATE4    ">02/06</
+    REGEX:DATE4    ">02/10</
+    REGEX:DATE4    ">02/10</
+    REGEX:DATE4    ">02/11</
+    REGEX:DATE4    ">02/11</
+    REGEX:DATE4    ">02/16</
+    REGEX:DATE4    ">02/15</
+    REGEX:DATE4    ">02/18</
+    REGEX:DATE4    ">02/18</
+    REGEX:DATE4    ">02/20</
+    REGEX:DATE4    ">06/16</
+    REGEX:DATE4    ">06/21</
+    REGEX:DATE4    ">07/28</
+    REGEX:DATE4    ">01/25</
+    REGEX:DATE4    ">01/30</
+    REGEX:DATE4    ">12/15</
+    REGEX:DATE4    ">12/29</
+    REGEX:DATE4    ">12/26</
+    REGEX:DATE4    ">12/26</
+    REGEX:DATE4    ">06/09</
+    REGEX:DATE4    ">04/14</
+    REGEX:DATE4    ">09/15</
+    REGEX:DATE4    ">09/26</
+    REGEX:DATE4    ">09/29</
+    REGEX:DATE4    ">07/05</
+    REGEX:DATE4    ">09/08</
+    REGEX:DATE4    ">09/08</
+    REGEX:DATE4    ">09/17</
+    REGEX:DATE4    ">09/16</
+    REGEX:DATE4    ">02/26</
+    REGEX:DATE4    ">01/04</
+    REGEX:DATE4    ">01/10</
+    REGEX:DATE4    ">01/26</
+    REGEX:DATE4    ">12/05</
+    REGEX:DATE4    ">12/11</
+    REGEX:DATE4    ">12/11</
+    REGEX:DATE4    ">12/11</
+    REGEX:DATE4    ">12/26</
+    REGEX:DATE4    ">10/12</
+    REGEX:DATE4    ">10/14</
+    REGEX:DATE4    ">11/10</
+    REGEX:DATE4    ">11/11</
+    REGEX:DATE4    ">09/13</
+    REGEX:DATE4    ">10/06</
+    REGEX:DATE4    ">09/26</
+    REGEX:DATE4    ">09/27</
+    REGEX:DATE4    ">04/26</
+    REGEX:DATE4    ">04/26</
+    REGEX:DATE4    ">03/30</
+    REGEX:DATE4    ">08/01</
+    REGEX:DATE4    ">08/05</
+    REGEX:DATE4    ">01/18</
+    REGEX:DATE4    ">01/18</
+    REGEX:DATE4    ">10/20</
+    REGEX:DATE4    ">10/30</
+    REGEX:DATE4    ">10/13</
+    REGEX:DATE4    ">10/24</
+    REGEX:DATE4    ">03/31</
+    REGEX:DATE4    ">11/12</
+    REGEX:DATE4    ">11/12</
+    REGEX:DATE4    ">11/12</
+    REGEX:DATE4    ">02/01</
+    REGEX:DATE4    ">02/08</
+    REGEX:DATE4    ">03/16</
+    REGEX:DATE4    ">02/09</
+    REGEX:DATE4    ">11/22</
+    REGEX:DATE4    ">11/27</
+    REGEX:DATE4    ">11/27</
+    REGEX:DATE4    ">04/15</
+    REGEX:DATE4    ">01/09</
+    REGEX:DATE4    ">08/19</
+    REGEX:DATE4    ">11/26</
+    REGEX:DATE4    ">11/06</
+    REGEX:DATE4    ">11/06</
+    REGEX:DATE4    ">10/17</
+    REGEX:DATE4    ">10/17</
+    REGEX:DATE4    ">10/20</
+    REGEX:DATE4    ">10/19</
+    REGEX:DATE4    ">10/20</
+    REGEX:DATE4    ">07/16</
+    REGEX:DATE4    ">01/08</
+    REGEX:DATE4    ">01/21</
+    REGEX:DATE4    ">01/10</
+    REGEX:DATE4    ">01/11</
+    REGEX:DATE4    ">01/11</
+    REGEX:DATE4    ">01/11</
+    REGEX:DATE4    ">03/13</
+    REGEX:DATE4    ">03/17</
+    REGEX:DATE4    ">04/17</
+    REGEX:DATE4    ">07/15</
+    REGEX:DATE4    ">03/13</
+    REGEX:DATE4    ">03/14</
+    REGEX:DATE4    ">03/15</
+    REGEX:DATE4    ">03/16</
+    REGEX:DATE4    ">03/17</
+    REGEX:DATE4    ">05/23</
+    REGEX:DATE4    ">05/22</
+    REGEX:DATE4    ">05/01</
+    REGEX:DATE4    ">05/01</
+    REGEX:DATE4    ">03/13</
+    REGEX:DATE4    ">03/21</
+    REGEX:DATE4    ">01/22</
+    REGEX:DATE4    ">01/31</
+    REGEX:DATE4    ">02/20</
+    REGEX:DATE4    ">03/21</
+    REGEX:DATE4    ">12/07</
+    REGEX:DATE4    ">12/14</
+    REGEX:DATE4    ">12/12</
+    REGEX:DATE4    ">01/22</
+    REGEX:DATE4    ">01/20</
+    REGEX:DATE4    ">08/29</
+    REGEX:DATE4    ">08/29</
+    REGEX:DATE4    ">08/25</
+    REGEX:DATE4    ">08/29</
+    REGEX:DATE4    ">08/29</
+    REGEX:DATE4    ">08/22</
+    REGEX:DATE4    ">09/06</
+    REGEX:DATE4    ">08/15</
+    REGEX:DATE4    ">08/21</
+    REGEX:DATE4    ">08/25</
+    REGEX:DATE4    ">10/04</
+    REGEX:DATE4    ">10/03</
+    REGEX:DATE4    ">10/07</
+    REGEX:DATE4    ">05/05</
+    REGEX:DATE4    ">05/04</
+    REGEX:DATE4    ">02/11</
+    REGEX:DATE4    ">02/28</
+    REGEX:DATE4    ">09/01</
+    REGEX:DATE4    ">09/18</
+    REGEX:DATE4    ">03/16</
+    REGEX:DATE4    ">11/24</
+    REGEX:DATE4    ">11/24</
+    REGEX:DATE4    ">11/20</
+    REGEX:DATE4    ">11/28</
+    REGEX:DATE4    ">07/02</
+    REGEX:DATE4    ">07/08</
+    REGEX:DATE4    ">07/09</
+    REGEX:DATE4    ">07/09</
+    REGEX:DATE4    ">07/09</
+    REGEX:DATE4    ">12/10</
+    REGEX:DATE4    ">12/13</
+    REGEX:DATE4    ">08/19</
+    REGEX:DATE4    ">10/22</
+    REGEX:DATE4    ">10/29</
+    REGEX:DATE4    ">10/29</
+    REGEX:DATE4    ">02/27</
+    REGEX:DATE4    ">07/09</
+    REGEX:DATE4    ">07/27</
+    REGEX:DATE4    ">07/26</
+    REGEX:DATE4    ">05/08</
+    REGEX:DATE4    ">05/14</
+    REGEX:DATE4    ">05/17</
+    REGEX:DATE4    ">03/22</
+    REGEX:DATE4    ">08/16</
+    REGEX:DATE4    ">08/16</
+    REGEX:DATE4    ">05/21</
+    REGEX:DATE4    ">02/08</
+    REGEX:DATE4    ">02/13</
+    REGEX:DATE4    ">02/13</
+    REGEX:DATE4    ">11/30</
+    REGEX:DATE4    ">12/27</
+    REGEX:DATE4    ">05/19</
+    REGEX:DATE4    ">05/22</
+    REGEX:DATE4    ">07/16</
+    REGEX:DATE4    ">09/01</
+    REGEX:DATE4    ">07/29</
+    REGEX:DATE4    ">02/28</
+    REGEX:DATE4    ">01/20</
+    REGEX:DATE4    ">01/13</
+    REGEX:DATE4    ">01/21</
+    REGEX:DATE4    ">07/30</
+    REGEX:DATE4    ">07/20</
+    REGEX:DATE4    ">08/10</
+    REGEX:DATE4    ">07/20</
+    REGEX:DATE4    ">07/24</
+    REGEX:DATE4    ">06/11</
+    REGEX:DATE4    ">06/11</
+    REGEX:DATE4    ">06/14</
+    REGEX:DATE4    ">06/19</
+    REGEX:DATE4    ">06/18</
+    REGEX:DATE4    ">07/21</
+    REGEX:DATE4    ">04/02</
+    REGEX:DATE4    ">09/15</
+    REGEX:DATE4    ">02/06</
+    REGEX:DATE4    ">02/11</
+    REGEX:DATE4    ">02/15</
+    REGEX:DATE4    ">10/14</
+    REGEX:DATE4    ">10/14</
+    REGEX:DATE4    ">10/18</
+    REGEX:DATE4    ">10/21</
+    REGEX:DATE4    ">07/20</
+    REGEX:DATE4    ">07/22</
+    REGEX:DATE4    ">11/09</
+    REGEX:DATE4    ">11/23</
+    REGEX:DATE4    ">11/24</
+    REGEX:DATE4    ">01/03</
+    REGEX:DATE4    ">12/19</
+    REGEX:DATE4    ">01/06</
+    REGEX:DATE4    ">01/08</
+    REGEX:DATE4    ">05/25</
+    REGEX:DATE4    ">05/30</
+    REGEX:DATE4    ">09/12</
+    REGEX:DATE4    ">09/14</
+    REGEX:DATE4    ">09/15</
+    REGEX:DATE4    ">06/17</
+    REGEX:DATE4    ">01/01</
+    REGEX:DATE4    ">01/30</
+    REGEX:DATE4    ">08/02</
+    REGEX:DATE4    ">08/02</
+    REGEX:DATE4    ">07/30</
+    REGEX:DATE4    ">07/31</
+    REGEX:DATE4    ">08/05</
+    REGEX:DATE4    ">12/26</
+    REGEX:DATE4    ">12/26</
+    REGEX:DATE4    ">12/28</
+    REGEX:DATE4    ">04/07</
+    REGEX:DATE4    ">05/14</
+    REGEX:DATE4    ">05/17</
+    REGEX:DATE4    ">02/09</
+    REGEX:DATE4    ">08/25</
+    REGEX:DATE4    ">10/09</
+    REGEX:DATE4    ">10/11</
+    REGEX:DATE4    ">10/11</
+    REGEX:DATE4    ">01/29</
+    REGEX:DATE4    ">08/29</
+    REGEX:DATE4    ">09/06</
+    REGEX:DATE4    ">09/06</
+    REGEX:DATE4    ">06/27</
+    REGEX:DATE4    ">06/28</
+    REGEX:DATE4    ">06/02</
+    REGEX:DATE4    ">02/25</
+    REGEX:DATE4    ">02/27</
+    REGEX:DATE4    ">02/20</
+    REGEX:DATE4    ">03/13</
+    REGEX:DATE4    ">02/20</
+    REGEX:DATE4    ">02/22</
+    REGEX:DATE4    ">03/09</
+    REGEX:DATE4    ">03/10</
+    REGEX:DATE4    ">03/13</
+    REGEX:DATE4    ">03/09</
+    REGEX:DATE4    ">03/09</
+    REGEX:DATE4    ">09/23</
+    REGEX:DATE4    ">09/23</
+    REGEX:DATE4    ">09/23</
+    REGEX:DATE4    ">05/18</
+    REGEX:DATE4    ">11/17</
+    REGEX:DATE4    ">12/04</
+    REGEX:DATE4    ">10/04</
+    REGEX:DATE4    ">01/16</
+    REGEX:DATE4    ">05/18</
+    REGEX:DATE4    ">02/27</
+    REGEX:DATE4    ">01/19</
+    REGEX:DATE4    ">01/19</
+    REGEX:DATE4    ">07/15</
+    REGEX:DATE4    ">07/30</
+    REGEX:DATE4    ">07/30</
+    REGEX:DATE4    ">11/30</
+    REGEX:DATE4    ">11/30</
+    REGEX:DATE4    ">12/11</
+    REGEX:DATE4    ">01/09</
+    REGEX:DATE4    ">12/11</
+    REGEX:DATE4    ">04/04</
+    REGEX:DATE4    ">04/04</
+    REGEX:DATE4    ">09/24</
+    REGEX:DATE4    ">08/25</
+    REGEX:DATE4    ">08/25</
+    REGEX:DATE4    ">02/21</
+    REGEX:DATE4    ">06/30</
+    REGEX:DATE4    ">07/01</
+    REGEX:DATE4    ">07/02</
+    REGEX:DATE4    ">06/02</
+    REGEX:DATE4    ">04/17</
+    REGEX:DATE4    ">10/05</
+    REGEX:DATE4    ">02/04</
+    REGEX:DATE4    ">02/03</
+    REGEX:DATE4    ">03/15</
+    REGEX:DATE4    ">08/28</
+    REGEX:DATE4    ">02/16</
+    REGEX:DATE4    ">02/28</
+    REGEX:DATE4    ">09/20</
+    REGEX:DATE4    ">07/31</
+    REGEX:DATE4    ">06/29</
+    REGEX:DATE4    ">05/05</
+    REGEX:DATE4    ">05/08</
+    REGEX:DATE4    ">05/01</
+    REGEX:DATE4    ">01/24</
+    REGEX:DATE4    ">05/05</
+    REGEX:DATE4    ">05/08</
+    REGEX:DATE4    ">09/07</
+    REGEX:DATE4    ">08/23</
+    REGEX:DATE4    ">08/25</
+    REGEX:DATE4    ">08/08</
+    REGEX:DATE4    ">09/07</
+    REGEX:DATE4    ">09/09</
+    REGEX:DATE4    ">07/03</
+    REGEX:DATE4    ">07/10</
+    REGEX:DATE7    ">January 31</
+    REGEX:DATE7    ">November 26</
+    REGEX:DATE7    ">April 9</
+    REGEX:DATE7    ">March 5</
+    REGEX:DATE7    ">May 2</
+    REGEX:DATE7    ">June 4</
+    REGEX:DATE7    ">January 3</
+    REGEX:DATE7    ">March 26</
+    REGEX:DATE7    ">January 4</
+    REGEX:DATE7    ">Jul 24</
+    REGEX:DATE7    ">Jul 25</
+    REGEX:DATE7    ">Jul 26</
+    REGEX:DATE7    ">January 25</
+    REGEX:DATE7    ">January 26</
+    REGEX:DATE7    ">January 8</
+    REGEX:DATE7    ">September 17</
+    REGEX:DATE7    ">September 6</
+    REGEX:DATE7    ">October 3</
+    REGEX:DATE7    ">January 17</
+    REGEX:DATE7    ">December 7</
+    REGEX:DATE7    ">May 4</
+    REGEX:DATE7    ">May 14</
+    REGEX:DATE7    ">December 4</
+    REGEX:DATE7    ">December 11</
+    REGEX:DATE7    ">December 6</
+    REGEX:DATE7    ">December 25</
+    REGEX:DATE7    ">Mar 30</
+    REGEX:DATE7    ">October 18</
+    REGEX:DATE7    ">October 19</
+    REGEX:DATE7    ">May 11</
+    REGEX:DATE7    ">May 13</
+    REGEX:DATE7    ">May 17</
+    REGEX:DATE7    ">May 18</
+    REGEX:DATE7    ">May 21</
+    REGEX:DATE7    ">June 1</
+    REGEX:DATE7    ">April 14</
+    REGEX:DATE7    ">February 11</
+    REGEX:DATE7    ">March 21</
+    REGEX:DATE7    ">April 7</
+    REGEX:DATE7    ">April 19</
+    REGEX:DATE7    ">October 16</
+    REGEX:DATE7    ">November 20</
+    REGEX:DATE7    ">November 9</
+    REGEX:DATE7    ">November 20</
+    REGEX:DATE7    ">November 20</
+    REGEX:DATE7    ">November 30</
+    REGEX:DATE7    ">December 3</
+    REGEX:DATE7    ">May 2</
+    REGEX:DATE7    ">October 13</
+    REGEX:DATE7    ">October 27</
+    REGEX:DATE7    ">May 13</
+    REGEX:DATE7    ">May 14</
+    REGEX:DATE7    ">October 27</
+    REGEX:DATE12    2-2.5
+    REGEX:DATE12    13.4/37.
+    REGEX:DATE12    1.2-1.
+    REGEX:DATE12    1-1/2
+    REGEX:DATE12    16/1.2
+    REGEX:DATE12    25/1.9
+    REGEX:DATE12    22/9.1
+    REGEX:DATE12    26/1.4
+    REGEX:DATE12    .3/1.3
+    REGEX:DATE14    March 29
+    REGEX:DATE14    March 24
+    REGEX:DATE14    June 25
+    REGEX:DATE14    November 27
+    REGEX:DATE14    July 15
+    REGEX:DATE14    July 15
+    REGEX:DATE14    July 30
+    REGEX:DATE15    March 29th
+    REGEX:DATE15    March 24th
+    REGEX:DATE15    June 25th
+    REGEX:DATE15    November 27th
+    REGEX:DATE15    July 15th
+    REGEX:DATE15    July 15th
+    REGEX:DATE15    July 30th
+    REGEX:DATE16    ">16th of November
+    REGEX:DATE16    ">6th of December
+    REGEX:DATE16    ">7th of December
+    REGEX:DATE16    ">14th of March
+    REGEX:DATE16    ">14th of February
+    REGEX:DATE16    ">17th of February
+    REGEX:DATE16    ">26th of February
+    REGEX:DATE16    ">27th of February
+    REGEX:DATE17    ">075-71-01</
+    REGEX:DATE17    ">243-56-35-
+    REGEX:DATE17    ">096-50-15</
+    REGEX:DATE17    ">650-29-95-
+    REGEX:DATE17    ">582-96-88</
+    REGEX:DATE17    ">961-90-81</
+    REGEX:DATE17    ">042-35-66-
+    REGEX:DATE17    ">033-62-04</
+    REGEX:DATE17    ">370-15-25</
+    REGEX:DATE17    56/23/39
+    REGEX:DATE17    24/26/21
+    REGEX:DATE17    ">665-07-74-
+    REGEX:DATE17    ">274-60-45</
+    REGEX:DATE17    ">948-14-32</
+    REGEX:DATE17    ">825-78-07</
+    REGEX:DATE17    ">363-79-23</
+    REGEX:DATE17    ">171-46-12</
+    REGEX:DATE17    ">390-36-80</
+    REGEX:DATE17    ">882-95-20</
+    REGEX:DATE17    ">690-02-35</
+    REGEX:DATE17    ">452-05-72-
+    REGEX:DATE17    ">149-05-30-
+    REGEX:DATE17    ">966-63-89</
+    REGEX:DATE17    ">589-25-50</
+    REGEX:DATE17    ">125-10-86</
+    REGEX:DATE17    ">870-46-38</
+    REGEX:DATE17    ">404-91-65</
+    REGEX:DATE17    ">499-91-11</
+    REGEX:DATE21    ">3/25</
+    REGEX:DATE21    ">9/27</
+    REGEX:DATE21    ">3/31</
+    REGEX:DATE21    ">7/17</
+    REGEX:DATE21    ">7/20</
+    REGEX:DATE21    ">9/28</
+    REGEX:DATE21    ">9/22</
+    REGEX:DATE21    ">3/17</
+    REGEX:DATE21    ">9/12</
+    REGEX:DATE21    ">3/26</
+    REGEX:DATE21    ">4/10</
+    REGEX:DATE21    ">2/11</
+    REGEX:DATE21    ">2/14</
+    REGEX:DATE21    ">3/25</
+    REGEX:DATE21    ">3/25</
+    REGEX:DATE21    ">7/21</
+    REGEX:DATE21    ">7/13</
+    REGEX:DATE21    ">8/15</
+    REGEX:DATE21    ">1/19</
+    REGEX:DATE21    ">3/11</
+    REGEX:DATE21    ">3/29</
+    REGEX:DATE21    ">7/22</
+    REGEX:DATE21    ">7/19</
+    REGEX:DATE21    ">8/13</
+    REGEX:DATE21    ">6/10</
+    REGEX:DATE21    ">6/10</
+    REGEX:DATE21    ">2/10</
+    REGEX:DATE21    ">3/22</
+    REGEX:DATE21    ">5/12</
+    REGEX:DATE21    ">1/19</
+    REGEX:DATE21    ">1/17</
+    REGEX:DATE21    ">2/23</
+    REGEX:DATE21    ">2/21</
+    REGEX:DATE21    ">7/10</
+    REGEX:DATE21    ">1/25</
+    REGEX:DATE21    ">9/21</
+    REGEX:DATE21    ">5/30</
+    REGEX:DATE21    ">5/23</
+    REGEX:DATE21    ">9/15</
+    REGEX:DATE21    ">1/10</
+    REGEX:DATE21    ">5/24</
+    REGEX:DATE21    ">9/21</
+    REGEX:DATE21    ">9/21</
+    REGEX:DATE21    ">4/15</
+    REGEX:DATE21    ">8/21</
+    REGEX:DATE21    ">4/17</
+    REGEX:DATE21    ">4/17</
+    REGEX:DATE21    ">4/28</
+    REGEX:DATE21    ">4/16</
+    REGEX:DATE21    ">4/17</
+    REGEX:DATE21    ">4/28</
+    REGEX:DATE21    ">4/28</
+    REGEX:DATE21    ">5/14</
+    REGEX:DATE21    ">5/11</
+    REGEX:DATE21    ">5/18</
+    REGEX:DATE21    ">3/13</
+    REGEX:DATE21    ">1/21</
+    REGEX:DATE21    ">9/26</
+    REGEX:DATE21    ">6/22</
+    REGEX:DATE21    ">6/25</
+    REGEX:DATE21    ">6/26</
+    REGEX:DATE21    ">8/10</
+    REGEX:DATE21    ">4/11</
+    REGEX:DATE21    ">5/17</
+    REGEX:DATE21    ">6/20</
+    REGEX:DATE21    ">7/18</
+    REGEX:DATE21    ">3/10</
+    REGEX:DATE21    ">5/21</
+    REGEX:DATE21    ">5/23</
+    REGEX:DATE21    ">8/29</
+    REGEX:DATE21    ">4/27</
+    REGEX:DATE21    ">1/21</
+    REGEX:DATE21    ">3/31</
+    REGEX:DATE21    ">6/19</
+    REGEX:DATE21    ">7/23</
+    REGEX:DATE21    ">7/24</
+    REGEX:DATE21    ">7/24</
+    REGEX:DATE21    ">3/30</
+    REGEX:DATE21    ">3/23</
+    REGEX:DATE21    ">3/30</
+    REGEX:DATE21    ">9/14</
+    REGEX:DATE21    ">9/14</
+    REGEX:DATE21    ">7/18</
+    REGEX:DATE21    ">9/20</
+    REGEX:DATE21    ">1/16</
+    REGEX:DATE21    ">3/13</
+    REGEX:DATE21    ">7/30</
+    REGEX:DATE21    ">8/18</
+    REGEX:DATE21    ">1/31</
+    REGEX:DATE21    ">9/13</
+    REGEX:DATE21    ">5/18</
+    REGEX:DATE21    ">2/19</
+    REGEX:DATE21    ">1/11</
+    REGEX:DATE21    ">1/14</
+    REGEX:DATE21    ">7/15</
+    REGEX:DATE21    ">7/15</
+    REGEX:DATE21    ">7/16</
+    REGEX:DATE21    ">7/27</
+    REGEX:DATE21    ">3/23</
+    REGEX:DATE21    ">3/23</
+    REGEX:DATE21    ">3/28</
+    REGEX:DATE21    ">3/24</
+    REGEX:DATE21    ">9/24</
+    REGEX:DATE21    ">4/27</
+    REGEX:DATE21    ">4/27</
+    REGEX:DATE21    ">4/25</
+    REGEX:DATE21    ">8/25</
+    REGEX:DATE21    ">5/14</
+    REGEX:DATE21    ">4/15</
+    REGEX:DATE21    ">4/14</
+    REGEX:DATE21    ">1/25</
+    REGEX:DATE21    ">8/20</
+    REGEX:DATE21    ">9/23</
+    REGEX:DATE21    ">9/23</
+    REGEX:DATE21    ">7/31</
+    REGEX:DATE21    ">6/21</
+    REGEX:DATE21    ">8/31</
+    REGEX:DATE22    ">10/3</
+    REGEX:DATE22    2/6
+    REGEX:DATE22    4/5
+    REGEX:DATE22    2/6
+    REGEX:DATE22    ">4/4</
+    REGEX:DATE22    ">9/8</
+    REGEX:DATE22    ">9/9</
+    REGEX:DATE22    2/5
+    REGEX:DATE22    4/5
+    REGEX:DATE22    ">3/3</
+    REGEX:DATE22    ">10/8</
+    REGEX:DATE22    ">4/4</
+    REGEX:DATE22    33/1.
+    REGEX:DATE22    1/2
+    REGEX:DATE22    32/10
+    REGEX:DATE22    ">4/4</
+    REGEX:DATE22    5/5
+    REGEX:DATE22    ">11/2</
+    REGEX:DATE22    ">3/7</
+    REGEX:DATE22    ">3/7</
+    REGEX:DATE22    ">3/2</
+    REGEX:DATE22    ">3/5</
+    REGEX:DATE22    1/2
+    REGEX:DATE22    4/5
+    REGEX:DATE22    ">11/8</
+    REGEX:DATE22    ">11/8</
+    REGEX:DATE22    ">5/4</
+    REGEX:DATE22    ">1/2</
+    REGEX:DATE22    ">1/6</
+    REGEX:DATE22    ">1/6</
+    REGEX:DATE22    2/6
+    REGEX:DATE22    ">4/1</
+    REGEX:DATE22    ">1/3</
+    REGEX:DATE22    ">1/5</
+    REGEX:DATE22    ">11/2</
+    REGEX:DATE22    9/4
+    REGEX:DATE22    24/7
+    REGEX:DATE22    24/12
+    REGEX:DATE22    12/9
+    REGEX:DATE22    ">11/4</
+    REGEX:DATE22    ">11/6</
+    REGEX:DATE22    ">6/5</
+    REGEX:DATE22    2/6
+    REGEX:DATE22    ">7/3</
+    REGEX:DATE22    ">7/5</
+    REGEX:DATE22    ">11/8</
+    REGEX:DATE22    ">11/6</
+    REGEX:DATE22    ">1/9</
+    REGEX:DATE22    ">12/3</
+    REGEX:DATE22    ">12/3</
+    REGEX:DATE22    ">1/8</
+    REGEX:DATE22    ">12/7</
+    REGEX:DATE22    ">9/2</
+    REGEX:DATE22    33/2.
+    REGEX:DATE22    ">10/2</
+    REGEX:DATE22    ">7/3</
+    REGEX:DATE22    ">12/3</
+    REGEX:DATE22    ">7/2</
+    REGEX:DATE22    ">7/8</
+    REGEX:DATE22    ">12/4</
+    REGEX:DATE22    ">12/4</
+    REGEX:DATE22    ">4/6</
+    REGEX:DATE22    ">7/9</
+    REGEX:DATE22    ">7/8</
+    REGEX:DATE22    ">6/5</
+    REGEX:DATE22    ">5/8</
+    REGEX:DATE22    ">2/8</
+    REGEX:DATE22    ">2/8</
+    REGEX:DATE22    2/6
+    REGEX:DATE22    ">6/2</
+    REGEX:DATE22    5/5
+    REGEX:DATE22    ">2/6</
+    REGEX:DATE22    ">11/9</
+    REGEX:DATE22    ">10/9</
+    REGEX:DATE22    ">10/9</
+    REGEX:DATE22    ">9/5</
+    REGEX:DATE22    ">3/1</
+    REGEX:DATE22    ">9/2</
+    REGEX:DATE22    1/6
+    REGEX:DATE22    ">10/2</
+    REGEX:DATE22    ">10/4</
+    REGEX:DATE22    52/10
+    REGEX:DATE22    ">12/9</
+    REGEX:DATE22    ">12/9</
+    REGEX:DATE22    ">4/2</
+    REGEX:DATE22    ">4/3</
+    REGEX:DATE22    ">4/4</
+    REGEX:DATE22    ">4/5</
+    REGEX:DATE22    ">4/3</
+    REGEX:DATE22    ">4/5</
+    REGEX:DATE22    1/2
+    REGEX:DATE22    ">5/2</
+    REGEX:DATE22    1/3
+    REGEX:DATE22    ">2/3</
+    REGEX:DATE22    ">10/6</
+    REGEX:DATE22    ">10/4</
+    REGEX:DATE22    ">5/1</
+    REGEX:DATE22    ">7/3</
+    REGEX:DATE22    ">7/4</
+    REGEX:WRITTEN_AGE_10_100_DIV10     twenty years 
+    REGEX:WRITTEN_AGE_10_100_DIV10     ten days 
+    REGEX:WRITTEN_AGE_10_100_DIV10     ten day 
+    REGEX:WRITTEN_AGE_10_100_DIV10     ten days 
+    REGEX:WRITTEN_AGE_20_TO_99     seventy seven year old 
+    REGEX:WRITTEN_AGE_1_TO_19     five day 
+    REGEX:WRITTEN_AGE_1_TO_19     three weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     seven days 
+    REGEX:WRITTEN_AGE_1_TO_19     three days 
+    REGEX:WRITTEN_AGE_1_TO_19     six weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     nine years 
+    REGEX:WRITTEN_AGE_1_TO_19     three years 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     one-year 
+    REGEX:WRITTEN_AGE_1_TO_19     six years 
+    REGEX:WRITTEN_AGE_1_TO_19     six month 
+    REGEX:WRITTEN_AGE_1_TO_19     one month 
+    REGEX:WRITTEN_AGE_1_TO_19     three days 
+    REGEX:WRITTEN_AGE_1_TO_19     two months 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     three weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     three months 
+    REGEX:WRITTEN_AGE_1_TO_19     eight years 
+    REGEX:WRITTEN_AGE_1_TO_19     two years 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     one day 
+    REGEX:WRITTEN_AGE_1_TO_19     one week 
+    REGEX:WRITTEN_AGE_1_TO_19     three days 
+    REGEX:WRITTEN_AGE_1_TO_19     five days 
+    REGEX:WRITTEN_AGE_1_TO_19     six weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     two week 
+    REGEX:WRITTEN_AGE_1_TO_19     three days 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     one year 
+    REGEX:WRITTEN_AGE_1_TO_19     six weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two months 
+    REGEX:WRITTEN_AGE_1_TO_19     one week 
+    REGEX:WRITTEN_AGE_1_TO_19     one week 
+    REGEX:WRITTEN_AGE_1_TO_19     four weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     fourteen days 
+    REGEX:WRITTEN_AGE_1_TO_19     seven day 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     two years 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     five day 
+    REGEX:WRITTEN_AGE_1_TO_19     three day 
+    REGEX:WRITTEN_AGE_1_TO_19     three days 
+    REGEX:WRITTEN_AGE_1_TO_19     one week 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     three weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     six weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     six weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     three years 
+    REGEX:WRITTEN_AGE_1_TO_19     six weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     six months 
+    REGEX:WRITTEN_AGE_1_TO_19     one month 
+    REGEX:WRITTEN_AGE_1_TO_19     five days 
+    REGEX:WRITTEN_AGE_1_TO_19     one weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     one week 
+    REGEX:WRITTEN_AGE_1_TO_19     five days 
+    REGEX:WRITTEN_AGE_1_TO_19     one year 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     two years 
+    REGEX:WRITTEN_AGE_1_TO_19     six weeks 
+    REGEX:WRITTEN_AGE_1_TO_19     two days 
+    REGEX:WRITTEN_AGE_1_TO_19     one month 
+    REGEX:WRITTEN_AGE_1_TO_19     two weeks 
+    REGEX:AGE    :00 M
+
+    REGEX:AGE    -5-W 
+    REGEX:AGE4    age 12
+    REGEX:AGE4    age 18
+    REGEX:AGE5    66-year-old 
+    REGEX:AGE5    60-year-old male
+    REGEX:AGE5    80-year-old 
+    REGEX:AGE5    68 year old 
+    REGEX:AGE5    58 year old 
+    REGEX:AGE5    70 year old 
+    REGEX:AGE5    63 year old 
+    REGEX:AGE5    76 year old man
+    REGEX:AGE5    58 year old female
+    REGEX:AGE5    50-year-old 
+    REGEX:AGE5    77-year-old woman
+    REGEX:AGE5    79 year old female
+    REGEX:AGE5    80 year old female
+    REGEX:AGE5    70-year-old woman
+    REGEX:AGE5    57-year-old female
+    REGEX:AGE5    64-year-old 
+    REGEX:AGE5    77 year old female
+    REGEX:AGE5    65-year-old male
+    REGEX:AGE5    47 years old 
+    REGEX:AGE5    83-year-old woman
+    REGEX:AGE5    55 year old woman
+    REGEX:AGE5    70 year old 
+    REGEX:AGE5    70-year-old female
+    REGEX:AGE5    75 year old female
+    REGEX:AGE5    83-year-old female
+    REGEX:AGE5    83-year-old female
+    REGEX:AGE5    60 year old female
+    REGEX:AGE5    46 year old 
+    REGEX:AGE5    39 year old 
+    REGEX:AGE5    82 year old woman
+    REGEX:AGE5    69-year-old male
+    REGEX:AGE5    72-year-old male
+    REGEX:AGE5    67 year old woman
+    REGEX:AGE5    60 year old 
+    REGEX:AGE5    60-year-old woman
+    REGEX:AGE5    63-year-old 
+    REGEX:AGE5    60 year-old 
+    REGEX:AGE5    82-year-old male
+    REGEX:AGE5    76-year-old male
+    REGEX:AGE5    70 year old 
+    REGEX:AGE5    50 year old 
+    REGEX:AGE5    78-year-old female
+    REGEX:AGE5    59-year-old 
+    REGEX:AGE5    71-year-old 
+    REGEX:AGE5    75 year old woman
+    REGEX:AGE5    72-year-old 
+    REGEX:AGE5    25 year old 
+    REGEX:AGE5    59-year-old 
+    REGEX:AGE5    88-year-old woman
+    REGEX:AGE5    58 year old 
+    REGEX:AGE5    58 year old 
+    REGEX:AGE5    5 year old male
+    REGEX:AGE5    28 year old 
+    REGEX:AGE5    49 year old 
+    REGEX:AGE5    79-year-old 
+    REGEX:AGE5    61-year-old 
+    REGEX:AGE5    81-year-old 
+    REGEX:AGE5    65-year-old man
+    REGEX:AGE5    65-year-old man
+    REGEX:AGE5    47 year old 
+    REGEX:AGE5    63 year old 
+    REGEX:AGE5    57 years old 
+    REGEX:AGE5    71 year old <
+    REGEX:AGE5    40 year old male
+    REGEX:AGE5    81-year-old 
+    REGEX:AGE5    74-year-old 
+    REGEX:AGE5    48-year-old female
+    REGEX:AGE5    87 year old 
+    REGEX:AGE5    55-year-old man
+    REGEX:AGE5    74 year old 
+    REGEX:AGE5    38 year old male
+    REGEX:AGE5    76-year-old woman
+    REGEX:AGE5    68-year-old 
+    REGEX:AGE5    67 year old 
+    REGEX:AGE5    28 year old <
+    REGEX:AGE5    50 year old man
+    REGEX:AGE6     3 days
+    REGEX:AGE6     30 years
+    REGEX:AGE6     15 years
+    REGEX:AGE6     15 years
+    REGEX:AGE6     2 weeks
+    REGEX:AGE6     5 days
+    REGEX:AGE6     14 days
+    REGEX:AGE6     2 months
+    REGEX:AGE6     45 years
+    REGEX:AGE6     5 days
+    REGEX:AGE6     1 day
+    REGEX:AGE6     4 weeks
+    REGEX:AGE6     3 weeks
+    REGEX:AGE6    :
+1 year
+    REGEX:AGE6     76-year-
+    REGEX:AGE6     10 years
+    REGEX:AGE6     10 years
+    REGEX:AGE6     65-year-
+    REGEX:AGE6     7 days
+    REGEX:AGE6    -2 weeks
+    REGEX:AGE6     10 day
+    REGEX:AGE6     40 years
+    REGEX:AGE6     25 years
+    REGEX:AGE6     6 months
+    REGEX:AGE6     27 years
+    REGEX:AGE6     2 weeks
+    REGEX:AGE6    -6 months
+    REGEX:AGE6     15 years
+    REGEX:AGE6     3 days
+    REGEX:AGE6     11 months
+    REGEX:AGE6     18 days
+    REGEX:AGE6     18 months
+    REGEX:AGE6     10 day
+    REGEX:AGE6     9 years
+    REGEX:AGE6     7 days
+    REGEX:AGE6     28 day
+    REGEX:AGE6     14 day
+    REGEX:AGE6     3 Days
+    REGEX:AGE6     3 weeks
+    REGEX:AGE6     1 week
+    REGEX:AGE6     10 years
+    REGEX:AGE6     10 days
+    REGEX:AGE6    -5 days
+    REGEX:AGE6     3 days
+    REGEX:AGE6     3 days
+    REGEX:AGE6     20 days
+    REGEX:AGE6     30 days
+    REGEX:AGE6     1 week
+    REGEX:AGE6     44 years
+    REGEX:AGE6     8 days
+    REGEX:AGE6     4 days
+    REGEX:AGE6     2 week
+    REGEX:AGE6     1 day
+    REGEX:AGE6     15 years
+    REGEX:AGE6    -3 months
+    REGEX:AGE6     30 years
+    REGEX:AGE6    -5 months
+    REGEX:AGE7    age fifty , the
+    REGEX:AGE8    57 yo
+    REGEX:AGE8    87 yo
+    REGEX:AGE8    77 yo
+    REGEX:SSN    >123456789</
+    REGEX:SSN    ">123547445</
+    REGEX:SSN    ">026738007</
+    REGEX:SSN    ">721206493</
+    REGEX:SSN    ">220792313</
+    REGEX:SSN    ">073729749</
+    REGEX:SSN    ">667269143</
+    REGEX:SSN    ">722228618</
+    REGEX:SSN    ">289724916</
+    REGEX:SSN    ">551969782</
+    REGEX:SSN    ">244815666</
+    REGEX:SSN    ">498710998</
+    REGEX:SSN    ">220536305</
+    REGEX:SSN    ">035975288</
+    REGEX:SSN    ">757085252</
+    REGEX:SSN    ">715578964</
+    REGEX:SSN    ">164312247</
+    REGEX:SSN    ">262182942</
+    REGEX:SSN    ">374064578</
+    REGEX:SSN    ">578368205</
+    REGEX:SSN    ">539780773</
+    REGEX:SSN    ">013725183</
+    REGEX:SSN    ">763428002</
+    REGEX:SSN    ">154187451</
+    REGEX:SSN    ">316810105</
+    REGEX:SSN    ">113718360</
+    REGEX:SSN    ">564222370</
+    REGEX:SSN    ">622086964</
+    REGEX:SSN    ">655488444</
+    REGEX:SSN    ">418520250</
+    REGEX:SSN    ">488202469</
+    REGEX:SSN    ">335422736</
+    REGEX:SSN    ">006544894</
+    REGEX:SSN    ">421179499</
+    REGEX:SSN    ">596437842</
+    REGEX:SSN    ">320422564</
+    REGEX:SSN    ">048526074</
+    REGEX:SSN    ">602064980</
+    REGEX:SSN    ">019024771</
+    REGEX:SSN    ">614746156</
+    REGEX:SSN    ">180414134</
+    REGEX:SSN    ">544677599</
+    REGEX:SSN    ">071051340</
+    REGEX:SSN    ">337483886</
+    REGEX:SSN    ">125721767</
+    REGEX:SSN    ">301599100</
+    REGEX:SSN    ">688439328</
+    REGEX:SSN    ">040076444</
+    REGEX:SSN    ">736743101</
+    REGEX:SSN    ">301443520</
+    REGEX:SSN    ">417244133</
+    REGEX:SSN    ">274237993</
+    REGEX:SSN    ">599923748</
+    REGEX:SSN    ">669952543</
+    REGEX:SSN    ">377932938</
+    REGEX:SSN    ">262473207</
+    REGEX:SSN    ">269463740</
+    REGEX:SSN    ">025897906</
+    REGEX:SSN    ">478865872</
+    REGEX:SSN    ">366812021</
+    REGEX:SSN    ">203669293</
+    REGEX:SSN    ">664280897</
+    REGEX:SSN    ">382851192</
+    REGEX:SSN    ">237916498</
+    REGEX:SSN    ">348301810</
+    REGEX:SSN    ">186937457</
+    REGEX:SSN    ">625739584</
+    REGEX:SSN    ">494826897</
+    REGEX:SSN    ">355169172</
+    REGEX:SSN    ">349557229</
+    REGEX:SSN    ">638701643</
+    REGEX:SSN    ">561945916</
+    REGEX:SSN    ">163688755</
+    REGEX:SSN    ">129714460</
+    REGEX:TITLES    JR</
+    REGEX:TITLES    JR</
+    REGEX:TITLES    SR
+    REGEX:TITLES    JR</
+    REGEX:TITLES    SR
+    REGEX:ACCESSION_KP    154-58
+    REGEX:ACCESSION_KP    292-03
+    REGEX:SUSPICIOUS_NUM    ">977146916</
+    REGEX:SUSPICIOUS_NUM    ">22832</
+    REGEX:SUSPICIOUS_NUM    ">085995</
+    REGEX:SUSPICIOUS_NUM    ">946468228</
+    REGEX:SUSPICIOUS_NUM    ">250503</
+    REGEX:SUSPICIOUS_NUM    ">995720</
+    REGEX:SUSPICIOUS_NUM    ">72108223</
+    REGEX:SUSPICIOUS_NUM    ">205025</
+    REGEX:SUSPICIOUS_NUM    ">00614780</
+    REGEX:SUSPICIOUS_NUM    ">86164445</
+    REGEX:SUSPICIOUS_NUM    ">86837/
+    REGEX:SUSPICIOUS_NUM    ">56075/
+    REGEX:SUSPICIOUS_NUM    ">28531/
+    REGEX:SUSPICIOUS_NUM    ">05215/
+    REGEX:SUSPICIOUS_NUM    ">14172445</
+    REGEX:SUSPICIOUS_NUM    ">94624418</
+    REGEX:SUSPICIOUS_NUM    ">75036391</
+    REGEX:SUSPICIOUS_NUM    ">42936272</
+    REGEX:SUSPICIOUS_NUM    ">18705/
+    REGEX:SUSPICIOUS_NUM    ">23293/
+    REGEX:SUSPICIOUS_NUM    ">74405/
+    REGEX:SUSPICIOUS_NUM    ">825330116</
+    REGEX:SUSPICIOUS_NUM    ">10615/
+    REGEX:SUSPICIOUS_NUM    ">47624330</
+    REGEX:SUSPICIOUS_NUM    ">67043</
+    REGEX:SUSPICIOUS_NUM    ">923091</
+    REGEX:SUSPICIOUS_NUM    ">78369</
+    REGEX:SUSPICIOUS_NUM    ">872885145</
+    REGEX:SUSPICIOUS_NUM    ">417454</
+    REGEX:SUSPICIOUS_NUM    62106</
+    REGEX:SUSPICIOUS_NUM    ">067266</
+    REGEX:SUSPICIOUS_NUM    ">30326277</
+    REGEX:SUSPICIOUS_NUM    ">026215</
+    REGEX:SUSPICIOUS_NUM    ">237558</
+    REGEX:SUSPICIOUS_NUM    ">73101</
+    REGEX:SUSPICIOUS_NUM    ">40906</
+    REGEX:SUSPICIOUS_NUM    ">61562872</
+    REGEX:SUSPICIOUS_NUM    59762</
+    REGEX:SUSPICIOUS_NUM    ">07201936</
+    REGEX:SUSPICIOUS_NUM    ">23731718</
+    REGEX:SUSPICIOUS_NUM    ">71920299</
+    REGEX:SUSPICIOUS_NUM    62156</
+    REGEX:SUSPICIOUS_NUM    62848</
+    REGEX:SUSPICIOUS_NUM    ">23238893</
+    REGEX:SUSPICIOUS_NUM    ">770923</
+    REGEX:SUSPICIOUS_NUM    ">87686746</
+    REGEX:SUSPICIOUS_NUM    ">107011</
+    REGEX:SUSPICIOUS_NUM    ">887427</
+    REGEX:SUSPICIOUS_NUM    ">63056604</
+    REGEX:SUSPICIOUS_NUM    ">547591</
+    REGEX:SUSPICIOUS_NUM    ">09300549</
+    REGEX:SUSPICIOUS_NUM    ">340424</
+    REGEX:SUSPICIOUS_NUM    ">56777</
+    REGEX:SUSPICIOUS_NUM    ">197796</
+    REGEX:SUSPICIOUS_NUM    ">538354</
+    REGEX:SUSPICIOUS_NUM    ">290757</
+    REGEX:SUSPICIOUS_NUM    ">20144/
+    REGEX:SUSPICIOUS_NUM    ">339700</
+    REGEX:SUSPICIOUS_NUM    ">25509903</
+    REGEX:SUSPICIOUS_NUM    ">860320</
+    REGEX:SUSPICIOUS_NUM    ">25377366</
+    REGEX:SUSPICIOUS_NUM    ">00449</
+    REGEX:SUSPICIOUS_NUM    ">513332</
+    REGEX:SUSPICIOUS_NUM    ">39627</
+    REGEX:SUSPICIOUS_NUM    ">936967</
+    REGEX:SUSPICIOUS_NUM    ">75066875</
+    REGEX:SUSPICIOUS_NUM    ">828710</
+    REGEX:SUSPICIOUS_NUM    ">14540</
+    REGEX:SUSPICIOUS_NUM    ">187867</
+    REGEX:SUSPICIOUS_NUM    ">419156</
+    REGEX:SUSPICIOUS_NUM    ">176065</
+    REGEX:SUSPICIOUS_NUM    ">370376</
+    REGEX:SUSPICIOUS_NUM    ">234750</
+    REGEX:SUSPICIOUS_NUM    ">118602</
+    REGEX:SUSPICIOUS_NUM    ">59100048</
+    REGEX:SUSPICIOUS_NUM    ">219781</
+    REGEX:SUSPICIOUS_NUM    ">79633097</
+    REGEX:SUSPICIOUS_NUM    ">242187</
+    REGEX:SUSPICIOUS_NUM    ">57857</
+    REGEX:SUSPICIOUS_NUM    ">607079</
+    REGEX:SUSPICIOUS_NUM    ">921814879</
+    REGEX:SUSPICIOUS_NUM    ">746160</
+    REGEX:SUSPICIOUS_NUM    ">812890</
+    REGEX:SUSPICIOUS_NUM    ">996091</
+    REGEX:SUSPICIOUS_NUM    ">129959</
+    REGEX:SUSPICIOUS_NUM    ">226051</
+    REGEX:SUSPICIOUS_NUM    ">911942046</
+    REGEX:SUSPICIOUS_NUM    ">952027</
+    REGEX:SUSPICIOUS_NUM    ">73662633</
+    REGEX:SUSPICIOUS_NUM    ">164980</
+    REGEX:SUSPICIOUS_NUM    ">236384</
+    REGEX:SUSPICIOUS_NUM    ">27897</
+    REGEX:SUSPICIOUS_NUM    ">95601/
+    REGEX:SUSPICIOUS_NUM    ">602566</
+    REGEX:SUSPICIOUS_NUM    ">418074</
+    REGEX:SUSPICIOUS_NUM    ">908556207</
+    REGEX:SUSPICIOUS_NUM    ">329869</
+    REGEX:SUSPICIOUS_NUM    ">974381789</
+    REGEX:SUSPICIOUS_NUM    ">390115</
+    REGEX:SUSPICIOUS_NUM    ">84525163</
+    REGEX:SUSPICIOUS_NUM    ">435128</
+    REGEX:SUSPICIOUS_NUM    ">099712</
+    REGEX:SUSPICIOUS_NUM    ">89648727</
+    REGEX:SUSPICIOUS_NUM    ">909677552</
+    REGEX:SUSPICIOUS_NUM    ">86965002</
+    REGEX:SUSPICIOUS_NUM    ">07676</
+    REGEX:SUSPICIOUS_NUM    ">448922</
+    REGEX:SUSPICIOUS_NUM    ">649008161</
+    REGEX:SUSPICIOUS_NUM    ">07519742</
+    REGEX:SUSPICIOUS_NUM    ">728467</
+    REGEX:SUSPICIOUS_NUM    ">66232708</
+    REGEX:SUSPICIOUS_NUM    ">800550</
+    REGEX:SUSPICIOUS_NUM    ">849659</
+    REGEX:SUSPICIOUS_NUM    ">813598</
+    REGEX:SUSPICIOUS_NUM    ">97371/
+    REGEX:SUSPICIOUS_NUM    ">38167897</
+    REGEX:SUSPICIOUS_NUM    ">488517</
+    REGEX:SUSPICIOUS_NUM    ">08673735</
+    REGEX:SUSPICIOUS_NUM    ">837898389</
+    REGEX:SUSPICIOUS_NUM    ">394521</
+    REGEX:SUSPICIOUS_NUM    ">32395/
+    REGEX:SUSPICIOUS_NUM    ">265407</
+    REGEX:SUSPICIOUS_NUM    ">77619</
+    REGEX:SUSPICIOUS_NUM    ">287810</
+    REGEX:SUSPICIOUS_NUM    ">901751538</
+    REGEX:SUSPICIOUS_NUM    ">71624078</
+    REGEX:SUSPICIOUS_NUM    ">64704/
+    REGEX:SUSPICIOUS_NUM    ">704384</
+    REGEX:SUSPICIOUS_NUM    ">50474925</
+    REGEX:SUSPICIOUS_NUM    ">713307</
+    REGEX:SUSPICIOUS_NUM    ">26248578</
+    REGEX:SUSPICIOUS_NUM    ">130467</
+    REGEX:SUSPICIOUS_NUM    ">81247987</
+    REGEX:SUSPICIOUS_NUM    ">625670</
+    REGEX:SUSPICIOUS_NUM    ">73434966</
+    REGEX:SUSPICIOUS_NUM    ">882750483</
+    REGEX:SUSPICIOUS_NUM    ">81536/
+    REGEX:SUSPICIOUS_NUM    ">462491</
+    REGEX:SUSPICIOUS_NUM    ">991193550</
+    REGEX:SUSPICIOUS_NUM    ">16900/
+    REGEX:SUSPICIOUS_NUM    ">39243271</
+    REGEX:SUSPICIOUS_NUM    ">492022</
+    REGEX:SUSPICIOUS_NUM    ">954181</
+    REGEX:SUSPICIOUS_NUM    ">963818</
+    REGEX:SUSPICIOUS_NUM    ">09470/
+    REGEX:SUSPICIOUS_NUM    ">718483</
+    REGEX:SUSPICIOUS_NUM    ">139846</
+    REGEX:SUSPICIOUS_NUM    ">82331</
+    REGEX:SUSPICIOUS_NUM    ">408058</
+    REGEX:SUSPICIOUS_NUM    ">894281954</
+    REGEX:SUSPICIOUS_NUM    ">385056</
+    REGEX:SUSPICIOUS_NUM    ">84164942</
+    REGEX:SUSPICIOUS_NUM    ">960919</
+    REGEX:SUSPICIOUS_NUM    ">29532565</
+    REGEX:SUSPICIOUS_NUM    ">494938</
+    REGEX:SUSPICIOUS_NUM    ">857888116</
+    REGEX:SUSPICIOUS_NUM    ">36320247</
+    REGEX:SUSPICIOUS_NUM    ">22849/
+    REGEX:SUSPICIOUS_NUM    ">818603</
+    REGEX:SUSPICIOUS_NUM    ">67705359</
+    REGEX:SUSPICIOUS_NUM    ">428222</
+    REGEX:SUSPICIOUS_NUM    ">807782</
+    REGEX:SUSPICIOUS_NUM    ">198283</
+    REGEX:SUSPICIOUS_NUM    ">510666</
+    REGEX:SUSPICIOUS_NUM    ">80437051</
+    REGEX:SUSPICIOUS_NUM    ">61664</
+    REGEX:SUSPICIOUS_NUM    ">619530</
+    REGEX:SUSPICIOUS_NUM    ">588703</
+    REGEX:SUSPICIOUS_NUM    ">09250515</
+    REGEX:SUSPICIOUS_NUM    ">982011</
+    REGEX:SUSPICIOUS_NUM    ">81702/
+    REGEX:SUSPICIOUS_NUM    ">901425</
+    REGEX:SUSPICIOUS_NUM    /564649</
+    REGEX:SUSPICIOUS_NUM    ">42669672</
+    REGEX:SUSPICIOUS_NUM    ">421501</
+    REGEX:SUSPICIOUS_NUM    ">93618376</
+    REGEX:SUSPICIOUS_NUM    ">016906</
+    REGEX:SUSPICIOUS_NUM    ">738587</
+    REGEX:SUSPICIOUS_NUM    ">79284819</
+    REGEX:SUSPICIOUS_NUM    ">794008</
+    REGEX:SUSPICIOUS_NUM    ">83199/
+    REGEX:SUSPICIOUS_NUM    ">335870</
+    REGEX:SUSPICIOUS_NUM    ">543180</
+    REGEX:SUSPICIOUS_NUM    ">260740</
+    REGEX:SUSPICIOUS_NUM    ">42516916</
+    REGEX:SUSPICIOUS_NUM    ">07635398</
+    REGEX:SUSPICIOUS_NUM    ">11893/
+    REGEX:SUSPICIOUS_NUM    ">464389</
+    REGEX:SUSPICIOUS_NUM    ">651486</
+    REGEX:SUSPICIOUS_NUM    ">79401/
+    REGEX:SUSPICIOUS_NUM    ">366324</
+    REGEX:SUSPICIOUS_NUM    ">536432</
+    REGEX:SUSPICIOUS_NUM    ">279659</
+    REGEX:SUSPICIOUS_NUM2    ">27-518</
+    REGEX:SUSPICIOUS_NUM2    80-120
+    REGEX:SUSPICIOUS_NUM2    70-140
+    REGEX:SUSPICIOUS_NUM2    50-200
+    REGEX:YEAR_CENTURY    /2001/
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    1998
+    REGEX:YEAR_CENTURY    1998
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    1998
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2005
+    REGEX:YEAR_CENTURY    >/2005
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    1968
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    1989
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    1993
+    REGEX:YEAR_CENTURY    1993
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    1999
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    1999
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    1972
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    1998
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    1947
+    REGEX:YEAR_CENTURY    1979
+    REGEX:YEAR_CENTURY    1986
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2005
+    REGEX:YEAR_CENTURY    >/2005
+    REGEX:YEAR_CENTURY    >/2005
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    1984
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    1988
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    1982
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    1988
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1996
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    1991
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    1989
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    >/1999
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1977
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    1988
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    1988
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    2001
+    REGEX:YEAR_CENTURY    >/1999
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    1977
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    1989
+    REGEX:YEAR_CENTURY    1990
+    REGEX:YEAR_CENTURY    1990
+    REGEX:YEAR_CENTURY    l990
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    1988
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    1996
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1999
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    >/1999
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    1996
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    1993
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    1993
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    1991
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    1991
+    REGEX:YEAR_CENTURY    >/1999
+    REGEX:YEAR_CENTURY    >/1999
+    REGEX:YEAR_CENTURY    >/1999
+    REGEX:YEAR_CENTURY    1991
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    l986
+    REGEX:YEAR_CENTURY    l987
+    REGEX:YEAR_CENTURY    l987
+    REGEX:YEAR_CENTURY    l987
+    REGEX:YEAR_CENTURY    l988
+    REGEX:YEAR_CENTURY    l989
+    REGEX:YEAR_CENTURY    2006</
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    l990
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    1990
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/2001
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    1991
+    REGEX:YEAR_CENTURY    1983
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    1996
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    1984
+    REGEX:YEAR_CENTURY    1984
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    1991
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    1998
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    1991
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    1990
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/2004
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    1989
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    >/1997
+    REGEX:YEAR_CENTURY    1993
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    1996
+    REGEX:YEAR_CENTURY    1996
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    >/1990
+    REGEX:YEAR_CENTURY    1988
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    2002
+    REGEX:YEAR_CENTURY    2002
+    REGEX:YEAR_CENTURY    2005
+    REGEX:YEAR_CENTURY    1989
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    1992
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    1987
+    REGEX:YEAR_CENTURY    1995
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    1993
+    REGEX:YEAR_CENTURY    2000
+    REGEX:YEAR_CENTURY    2000
+    REGEX:YEAR_CENTURY    2000
+    REGEX:YEAR_CENTURY    2000
+    REGEX:YEAR_CENTURY    2000
+    REGEX:YEAR_CENTURY    2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    1997
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    2001
+    REGEX:YEAR_CENTURY    2001
+    REGEX:YEAR_CENTURY    2002
+    REGEX:YEAR_CENTURY    2002
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    1967
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/1996
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/1993
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    1993
+    REGEX:YEAR_CENTURY    1988
+    REGEX:YEAR_CENTURY    2000
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2003
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    >/2005
+    REGEX:YEAR_CENTURY    >/2005
+    REGEX:YEAR_CENTURY    >/1995
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    >/2002
+    REGEX:YEAR_CENTURY    l991
+    REGEX:YEAR_CENTURY    l994
+    REGEX:YEAR_CENTURY    l994
+    REGEX:YEAR_CENTURY    1994
+    REGEX:YEAR_CENTURY    l994
+    REGEX:YEAR_CENTURY    l994
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    1983
+    REGEX:YEAR_CENTURY    1985
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/2000
+    REGEX:YEAR_CENTURY    >/1991
+    REGEX:YEAR_CENTURY    1985
+    REGEX:YEAR_CENTURY    >/1994
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1992
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:YEAR_CENTURY    >/1998
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">April</
+    REGEX:MONTH    ">March</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">January</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">February</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">July</
+    REGEX:MONTH    ">April</
+    REGEX:MONTH    ">January</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">November</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">July</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">January</
+    REGEX:MONTH    ">August</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">February</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">March</
+    REGEX:MONTH    ">April</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">July</
+    REGEX:MONTH    ">September</
+    REGEX:MONTH    ">September</
+    REGEX:MONTH    ">September</
+    REGEX:MONTH    ">November</
+    REGEX:MONTH    ">March</
+    REGEX:MONTH    ">April</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">July</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">November</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">January</
+    REGEX:MONTH    ">January</
+    REGEX:MONTH    ">August</
+    REGEX:MONTH    ">November</
+    REGEX:MONTH    ">June</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">February</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">November</
+    REGEX:MONTH    ">July</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">December</
+    REGEX:MONTH    ">September</
+    REGEX:MONTH    ">April</
+    REGEX:MONTH    ">September</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">January</
+    REGEX:MONTH    ">March</
+    REGEX:MONTH    ">March</
+    REGEX:MONTH    ">March</
+    REGEX:MONTH    ">August</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">October</
+    REGEX:MONTH    ">October</
+    REGEX:SURGEON8    surgeon using a
+    REGEX:CC2    cc in 2.5 cc normal saline q4h prn
+    REGEX:CC2    cc p.o. q.2h. , and home O2 two liters via nasal prong with increase to four liters as needed for symptoms p.r.n
+    REGEX:CC2    cc swish and swallow q.i.d. , Serax 50 mg p.o. q. 6 hours p.r.n
+    REGEX:DOCTOR2    his primary MD
+    REGEX:DOCTOR2    forwarded to MD
+    REGEX:DOCTOR2    notified by MD
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ZIE M. ZONE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AJO C. CUCHKOTE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AZEL USANNE WALL</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">BIE OODSHUFFPREHE</PHI> , 
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">FIGEBREUNQINKITH , GI</PHI> <
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SKILUCRE , CINEJEANALF NALDDEDE 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Li Rhalttland</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">VITRA E. LINKE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LI RIJARRED STABLE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SC , JUSONKIM N</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. BREUTZOLN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. BREUTZOLN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SAP , HU E</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ANRUCHELLE JO BERGER</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ELKSREIDL , CAELL</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ELKSREIDL , CAELL</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DOLL M. BRIDGES</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">zro</PHI>
+TD :
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENCHERMOI D TA 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENCHERMOI D TA 
+    REGEX:DOCTOR_OLDER    Dr <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K. SWATLLEEBTIK</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CENTESHA SKIFOLM</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">vb / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RENLAN N. FYFEZEIS</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ywj / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA LEFT</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">nj / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">sq / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
+WORK 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">STA T. TITCHEGRIESESC</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DO JOASSCCHIRD</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RASHANEMAR S. LANCEDUHE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NA BENGSTEN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LUPEVICKETTE L. MELENA</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENTNY M. FARSTNAPPSSHEE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">BIRAY A. KINKEDOUETKOOGLE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">IETA CARE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CHPO CARE</PHI> , 
+    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
+Lasix 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Wierst</PHI> and 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">go / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    doctors regarding our recommendations .
+
+    REGEX:DOCTOR_OLDER    doctor , to keep the 
+    REGEX:DOCTOR_OLDER    doctor there .
+<PHI TYPE="
+    REGEX:DOCTOR_OLDER    DOCTOR">NIE THREATSJESCDREPS</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA STONGE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI BREUTZOLN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CHPO JESCOBEA</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Collea Douetscarv</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Gittetumn Darnnaman Graft</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Asha Vengloan</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Lupevickette L. Ca</
+    REGEX:DOCTOR_OLDER    doctor &apos;s office 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">jb / bmot</PHI>
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TROSPROB , STYEES</PHI>
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">GLOMOBESAP , BAMJET ELLDAN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NELLFYFE , SHATAYE I</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE LARSEN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ACKCA , SLAINEAEE L</
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">khu</PHI>
+TD :
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CHITLLIK WINA KOTE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AO RIELNAKA CONEY 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAKO C SCARVTWI</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DOJE EED PARA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DOJE EED PARA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DOJE EED PARA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">war</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">MONAHA SCREEN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHONDMAGSHAO ANDLI SINGLE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">tm</PHI>
+<PHI 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ASHA ERELLEDEN LALANIE 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHONDMAGSHAO ANDLI SINGLE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DREPSFEL , MA TERA</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LEUNG , LUANME A.</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. HODGKIN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. HODGKIN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AVEJOH IRY SUCH</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AVEJOH IRY SUCH</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHIDOYLEFLICH , LIZUSHANETTE I.</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SPEEGLESTRAPE , LIRA D.</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Nabeth Glyncred</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NABETH GLYNCRED</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RIODE REYAZA ZETLLILLE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">en</PHI>
+TD :
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RIODE REYAZA ZETLLILLE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">OBE , SHAA</PHI> 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">HEAGLEINCHIRD , JEANSIA S</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DAY SECOND</PHI> 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">FOORDRIG , LA BOMA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SECOND , CA</PHI> 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TLANDFLENT , MAREN S</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NIQUE , TOYA N</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SLAINEAEE S CHABECHIRD ,
+    REGEX:DOCTOR_OLDER    ="DOCTOR">OLE STREET</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">OLE STREET</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">wc</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">REEFRAUP , JA Y</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ANNETIFF MOST</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">EM Z. TIMES</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">enp / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">VE BECKESTOOKS</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">MOST , ANNETIFF SIAYUDE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TIKNEAV , JEFFCI SUOT 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">KOTESLENT , ANT ODEWYJU</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">STENVERS , IMARL</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    doctor in <PHI TYPE="
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SAY REKE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">vr</PHI>
+TD :
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NABETH NA GLYNCRED</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">MI T THULRO</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Fordwoodall Stick</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">MI CUCHSLI</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">MI CUCHSLI</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K. PAP</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">dzn</PHI>
+<PHI 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RENLAN N PLAIN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E BE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DWAINCO LEEAN RALLSVERSGACH</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL DELTA</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TAKO C. INSKE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LATO L. TIKFREIERM</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LILLBI FYFEBREUN</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TAMYRCLEO KOTE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TAMYRCLEO NADON KOTE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RYNVI A AREAS</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">zs</PHI>
+TD :
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DORLLA THORESTEE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ves / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Royneo Walla</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Heifer Freieslowkays</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ETI MULKEVI</PHI> , 
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">KOTE</PHI> , M.
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RIEEA ODEE SAPMAL</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CEALME LEOE MARESSYTHE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CHIRD , GRAJORD C</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">FTLOYD , LETTE D</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">DRICNE B IE 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ETI LOSS</PHI> , 
+    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SUOT N. DRAGTENTE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AZEL USANNE HIBBSKAYS</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">EARNRA HAWNSPANTKOTE</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CORI LOUELLPASCGACH</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ye / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">py</PHI>
+<PHI 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">MA Q. MEED</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NU L. JESCRALN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CAGHALA UINTEELE</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LYNA WALKING</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CA NA CEA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CA NA CEA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">WIN E HOME</
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LITALUCRE AKAYSNOUN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">kv</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RIODE REYAZA CALL</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE ASLINKE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">EDRY YELLOW</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">EDRY R YELLOW</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CENTESHA SKIFOLM</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">xi</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NYJO SKIZUKDALE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAKO SCARVTWI</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">KIVERL N. STANDARD</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">rap</PHI>
+cc :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">KIVERL NA STANDARD</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">A L. RALLSCHIRD</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RAMAG L. TROISQUARCKAYS</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">GUABENFRANDA D. PATCH</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">I DRAIN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LIASUN L. MASS</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ICECA RHALTKAAISPEHBREUN</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">sip</PHI>
+TD :
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ICECA RHALTKAAISPEHBREUN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">EEEN L. KEY</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. CAGE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">rc</PHI>
+<PHI 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LEICKKOTE , CI ABOB</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NORFJESCSTOOKS , SALENE MARGGAY</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ROYNEO WALLA</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LI RHALTTLAND</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">hbq</PHI>
+TD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LI RIJARRED RHALTTLAND</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ROYNEO MAMAIRE WALLA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Monaha Jesc</PHI> 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">FYFEOBVI , CICI CLAIREA</
+    REGEX:DOCTOR_OLDER    doctor with persistent complaints 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">A L. OR</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TRANGCA F. OR</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">JIMCHARL B. BUN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL D. FLOWAYLES ,
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ELDJOH CHYS</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CIE S. FALESCOURC</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">dfn</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">I L. STERPSKOLK</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K. BASE</
+    REGEX:DOCTOR_OLDER    doctor &apos;s office , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RORIEZAILA HOLES</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENTNY FARSTNAPPSSHEE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE WHITE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TAMYRCLEO N. BACK</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI BREUTZOLN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAURE MEDIATE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SUSHA I. RHIM</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHUFFCUCH , SEYSHARMSE N</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RALLSVERSGACH , DWAINCO</PHI>
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SA D. JESCWIERST</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RA S. BOTH</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CUCHDRIG , VATA TOLA</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">BREUN , DEANAURETHON S</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">wj / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RORIEZAILA KOTEKAYSKOTEKAYSCOA</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Reg Cranka</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Ca Shuff</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Win Shufffyfe</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CA SHUFF</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">REG CRANKA</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RA LEICKGREND</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI EENAHILDE BREUTZOLN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI EENAHILDE BREUTZOLN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">BOBSTON R SINTNIEVES</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">REAHA FIRST</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI EENAHILDE BREUTZOLN</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">JUSONKIM SC</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
+The 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Laymie Aslinke</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">HIENSON FIELDS</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">EARLLAMARG S. MIELKE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">vr / bmot</PHI>
+<
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">BESTI KOTEBREUN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">WILFTAM AUSGUALL</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">zbb</PHI>
+<PHI 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">fcz</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TI SHEMAU CALL</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ASHA E VENGLOAN</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LYDELL R WORCE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RO Z. BURL</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RO Z. BURL</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">STISIE H. TIKFREIERMDREPS</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">I L. STERPSKOLK</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">vcp</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SWATLLEEBTIK , TELSHEY</PHI> 
+    REGEX:DOCTOR_OLDER    doctor if he had 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">Telshey Swatlleebtik</PHI> 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">KOTERUDES , CONRELLIE</PHI>
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SWATLLEEBTIK , TELSHEY</PHI> 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ACHASTHA N. DAIZSMAELLILLE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ssx / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ok</PHI>
+<PHI 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AKA G MAM</
+    REGEX:DOCTOR_OLDER    doctor , Dr. <PHI TYPE="
+    REGEX:DOCTOR_OLDER    DOCTOR">Royneo Walla</PHI> .
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ER SPALDJESCSAPELKSGLOTZA</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">WIN AGNE</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">REST N. GOODPASTURE</
+    REGEX:DOCTOR_OLDER    Doctor <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Doctor <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA MALES</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">ix</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA K MALES</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RORI CORE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RIELLEUS GUM</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LINDDIE CA DEEP</
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AO R. FOLK</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">fd</PHI>
+<PHI 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TAARNNA SHERL SERVICE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SEAN SLUSSLASHGODLE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AO RIELNAKA FOLK</
+    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
+Percocet 
+    REGEX:DOCTOR_OLDER    Dr <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CA G. NERMOONE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA KACHOLERA STONGE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LA K. SKI</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RAMAG SAMPLE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">RAMAG LOUIMI SAMPLE</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">CA X. SCGACH</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">BRITTLE SAGEPL</PHI>
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SAGEPL , SHASQUALENA</PHI> <
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAKO C. COMA</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">uev</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">KETYVI L LIFTJESC</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K VITAL</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL D FLOWAYLES</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SAY REKE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AE Z. TIVELOYDHERDES</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">rmk</PHI>
+DD :
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LUPEVICKETTE L LIST</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SA JESCWIERST</PHI> , 
+    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">pz / bmot</PHI>
+<
+    REGEX:DOCTOR_OLDER    ="DOCTOR">AGLE , ETTELOREJA L</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">YEERYNUGER PLANTEAIS</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TRI I. MNONKOTE</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">cp / bmot</PHI>
+<
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TIANSHA KOTE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL D. FLOWAYLES ,
+    REGEX:DOCTOR_OLDER    ="DOCTOR">REG V. CRANKA</
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">STISIE H. MEIGS</
+    REGEX:DOCTOR_OLDER    ="DOCTOR">SHONDMAGSHAO M. H. 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">TVI NORTSPALDFYFE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">NU JESCRALN</PHI> , 
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
+    REGEX:DOCTOR_OLDER    ="DOCTOR">STIE FYFE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">iek / bmot</PHI>
+
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE ASLINKE</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LIASUN THEN</PHI> , 
+    REGEX:DOCTOR_OLDER    ="DOCTOR">LANETTE SC</PHI> , 
+    REGEX:ADDRESS2    :00 AM
+MEDIASTINAL ADENOPATHY RT. LUNG MASS
+DIS
+<PHI TYPE="
+    REGEX:ADDRESS6    >-90 and EKG changes with ST 
+    REGEX:ADDRESS7    80 mg per meter square
+    REGEX:ADDRESS7    ">05-01</PHI>-92 she was taken to the operating room at which time she underwent an aortic valve replacement with a # 19 St
+    REGEX:ADDRESS7    >/96 , the patient had a hypotensive bradycardic arrest at the end of a dialysis run
+    REGEX:ADDRESS7    1-mm of ST
+    REGEX:ADDRESS7    >/04 <PHI TYPEPHI> , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT
+    REGEX:ADDRESS7    3-0 Shiley in place
+    REGEX:ADDRESS7    >/98 , during which the bowel was run
+    REGEX:ADDRESS7    12 h. as well as IV steroids for the first 24 hours consisting of Decadron 8 mg q. 8 h. X 3 doses in addition to 10 mg that she received in the Emergency Room on the way
+    REGEX:ADDRESS7    6 square
+    REGEX:ADDRESS7    >/91 , where he underwent a #21 St
+    REGEX:ADDRESS8    .3 .
+The
+    REGEX:ADDRESS8    22 .
+His
+    REGEX:ADDRESS8    6 .
+He
+    REGEX:ADDRESS8    .48 .
+The
+    REGEX:ADDRESS8    74 .
+prothrombin
+    REGEX:ADDRESS8    35 .
+HOSPITAL
+    REGEX:ADDRESS8    >/02 .
+The
+    REGEX:ADDRESS8    18 .
+Pupils
+    REGEX:ADDRESS8    +/5 .
+The
+    REGEX:ADDRESS8    >/02 .
+No
+    REGEX:ADDRESS8    >/98 .
+He
+    REGEX:ADDRESS8    >/02 .
+Recent
+    REGEX:ADDRESS8    169 .
+Complete
+    REGEX:ADDRESS8    78 .
+His
+    REGEX:ADDRESS8    .6 .
+She
+    REGEX:ADDRESS8    .9 .
+Peripheral
+    REGEX:ADDRESS8    200 .
+Her
+    REGEX:ADDRESS8    14 .
+Cardiovascular
+    REGEX:ADDRESS8    1 .
+On
+    REGEX:ADDRESS8    /90 .
+There
+    REGEX:ADDRESS8    ,000 .
+EKG
+    REGEX:ADDRESS8    .4 .
+SKIN
+    REGEX:ADDRESS8    20 .
+Her
+    REGEX:ADDRESS8    /60 .
+It
+    REGEX:ADDRESS8    ,000 .
+The
+    REGEX:ADDRESS8    .4 .
+He
+    REGEX:ADDRESS8    53 .
+He
+    REGEX:ADDRESS8    60 .
+At
+    REGEX:ADDRESS8    10 .
+Left
+    REGEX:ADDRESS8    75 .
+The
+    REGEX:ADDRESS8    3 .
+He
+    REGEX:ADDRESS8    -16 .
+She
+    REGEX:ADDRESS8    >-93 .
+The
+    REGEX:ADDRESS8    >-93 .
+She
+    REGEX:ADDRESS8    >-93 .
+She
+    REGEX:ADDRESS8    ,000 .
+He
+    REGEX:ADDRESS8    ,000 .
+HOSPITAL
+    REGEX:ADDRESS8    >/00 .
+Dictated
+    REGEX:ADDRESS8    6 .
+HIS
+    REGEX:ADDRESS8    .0 .
+FOLLOW
+    REGEX:ADDRESS8    >/02 .
+The
+    REGEX:ADDRESS8    >/02 .
+He
+    REGEX:ADDRESS8    5 .
+Lower
+    REGEX:ADDRESS8    .5 .
+Aspirin
+    REGEX:ADDRESS8    28 .
+HEENT
+    REGEX:ADDRESS8    3 .
+Cranial
+    REGEX:ADDRESS8    0 .
+Small
+    REGEX:ADDRESS8    50 .
+Normal
+    REGEX:ADDRESS8    64 .
+The
+    REGEX:ADDRESS8    .0 .
+Low
+    REGEX:ADDRESS8    .0 .
+Need
+    REGEX:ADDRESS8    .7 .
+HOSPITAL
+    REGEX:ADDRESS8    .3 .
+She
+    REGEX:ADDRESS8    02 s 96
+    REGEX:ADDRESS8    .5 .
+The
+    REGEX:ADDRESS8    ,000 .
+The
+    REGEX:ADDRESS8    48 .
+Work
+    REGEX:ADDRESS8    .0 .
+No
+    REGEX:ADDRESS8    >/03 .
+The
+    REGEX:ADDRESS8    .1 .
+PAST
+    REGEX:ADDRESS8    >/03 .
+Once
+    REGEX:ADDRESS8    >/03 .
+The
+    REGEX:ADDRESS8    20 .
+Saturation
+    REGEX:ADDRESS8    360 .
+He
+    REGEX:ADDRESS8    130 .
+This
+    REGEX:ADDRESS8    160 .
+Therefore
+    REGEX:ADDRESS8    65 .
+On
+    REGEX:ADDRESS8    .0 .
+We
+    REGEX:ADDRESS8    96 .
+Neck
+    REGEX:ADDRESS8    :1 .
+Non
+    REGEX:ADDRESS8    2 .
+The
+    REGEX:ADDRESS8    >/97 .
+Laser
+    REGEX:ADDRESS8    30 .
+After
+    REGEX:ADDRESS8    461 .
+GI
+    REGEX:ADDRESS8    >/97 .
+The
+    REGEX:ADDRESS8    .03 .
+The
+    REGEX:ADDRESS8    .9 .
+FEN
+    REGEX:ADDRESS8    /64 .
+Pulse
+    REGEX:ADDRESS8    82 .
+Skin
+    REGEX:ADDRESS8    286 .
+LDH
+    REGEX:ADDRESS8    806 .
+Calcium
+    REGEX:ADDRESS8    .8 .
+Hematocrit
+    REGEX:ADDRESS8    .6 .
+PT
+    REGEX:ADDRESS8    .2 .
+The
+    REGEX:ADDRESS8    805 .
+The
+    REGEX:ADDRESS8    89 .
+Her
+    REGEX:ADDRESS8    394 .
+Her
+    REGEX:ADDRESS8    1514 .
+Total
+    REGEX:ADDRESS8    .1 .
+Albumin
+    REGEX:ADDRESS8    .3 .
+Calcium
+    REGEX:ADDRESS8    .1 .
+Hematocrit
+    REGEX:ADDRESS8    .5 .
+White
+    REGEX:ADDRESS8    .89 .
+PT
+    REGEX:ADDRESS8    .9 .
+MEDICATIONS
+    REGEX:ADDRESS8    102 .
+She
+    REGEX:ADDRESS8    3 .
+A
+    REGEX:ADDRESS8    10 .
+She
+    REGEX:ADDRESS8    74 .
+There
+    REGEX:ADDRESS8    70 .
+Jugular
+    REGEX:ADDRESS8    20 .
+She
+    REGEX:ADDRESS8    12 .
+She
+    REGEX:ADDRESS8    >/94 .
+The
+    REGEX:ADDRESS8    72 .
+Normal
+    REGEX:ADDRESS8    103 .
+Creatinine
+    REGEX:ADDRESS8    .2 .
+White
+    REGEX:ADDRESS8    .7 .
+Hematocrit
+    REGEX:ADDRESS8    .9 .
+MCV
+    REGEX:ADDRESS8    82 .
+CK
+    REGEX:ADDRESS8    137 .
+Urinalysis
+    REGEX:ADDRESS8    74 .
+The
+    REGEX:ADDRESS8    101 .
+SKIN
+    REGEX:ADDRESS8    >/91 .
+On
+    REGEX:ADDRESS8    >/91 .
+The
+    REGEX:ADDRESS8    >/91 .
+These
+    REGEX:ADDRESS8    >/91 .
+Patient
+    REGEX:ADDRESS8    35 .
+AST
+    REGEX:ADDRESS8    454 .
+The
+    REGEX:ADDRESS8    55 .
+Her
+    REGEX:ADDRESS8    270 .
+BUN
+    REGEX:ADDRESS8    104 .
+A
+    REGEX:ADDRESS8    30 .
+Her
+    REGEX:ADDRESS8    .4 .
+Her
+    REGEX:ADDRESS8    .2 .
+At
+    REGEX:ADDRESS8    32 .
+She
+    REGEX:ADDRESS8    388 .
+She
+    REGEX:ADDRESS8    .3 .
+Her
+    REGEX:ADDRESS8    55 .
+HOSPITAL
+    REGEX:ADDRESS8    80 .
+The
+    REGEX:ADDRESS8    124 .
+The
+    REGEX:ADDRESS8    37 .
+The
+    REGEX:ADDRESS8    .4 .
+The
+    REGEX:ADDRESS8    ,000 .
+BUN
+    REGEX:ADDRESS8    .4 .
+EKG
+    REGEX:ADDRESS8    10 .
+Cardiac
+    REGEX:ADDRESS8    .7 .
+SVR
+    REGEX:ADDRESS8    943 .
+The
+    REGEX:ADDRESS8    >/92 .
+It
+    REGEX:ADDRESS8    >-96 .
+HISTORY
+    REGEX:ADDRESS8    18 .
+Neck
+    REGEX:ADDRESS8    .5 .
+She
+    REGEX:ADDRESS8    >/95 .
+Thispresents
+    REGEX:ADDRESS8    .8 .
+TR
+    REGEX:ADDRESS8    >/99 .
+Head
+    REGEX:ADDRESS8    >/92 .
+REVIEW
+    REGEX:ADDRESS8    453 .
+Head
+    REGEX:ADDRESS8    101 .
+PT
+    REGEX:ADDRESS8    .6 .
+Urinalysis
+    REGEX:ADDRESS8    ,000 .
+PT
+    REGEX:ADDRESS8    .0 .
+The
+    REGEX:ADDRESS8    45 .
+The
+    REGEX:ADDRESS8    .2 .
+Consultation
+    REGEX:ADDRESS8    .4 .
+Clear
+    REGEX:ADDRESS8    .8 .
+Her
+    REGEX:ADDRESS8    .8 .
+Her
+    REGEX:ADDRESS8    132 .
+Dilantin
+    REGEX:ADDRESS8    .7 .
+SMA
+    REGEX:ADDRESS8    .1 .
+By
+    REGEX:ADDRESS8    196 .
+The
+    REGEX:ADDRESS8    .2 .
+The
+    REGEX:ADDRESS8    >/93 .
+COMPLICATIONS
+    REGEX:ADDRESS8    /70 .
+Heart
+    REGEX:ADDRESS8    86 .
+Oxygen
+    REGEX:ADDRESS8    63 .
+White
+    REGEX:ADDRESS8    12 .
+The
+    REGEX:ADDRESS8    >/96 .
+MEDICATIONS
+    REGEX:ADDRESS8    48 .
+The
+    REGEX:ADDRESS8    .4 .
+The
+    REGEX:ADDRESS8    .1 .
+HOSPITAL
+    REGEX:ADDRESS8    >/96 .
+DICTATING
+    REGEX:ADDRESS8    :30 .
+Code
+    REGEX:ADDRESS8    2 .
+An
+    REGEX:ADDRESS8    128 .
+Hematocrit
+    REGEX:ADDRESS8    .6 .
+WBC
+    REGEX:ADDRESS8    >/95 .
+He
+    REGEX:ADDRESS8    >/95 .
+He
+    REGEX:ADDRESS8    ,961 .
+The
+    REGEX:ADDRESS8    10 .
+He
+    REGEX:ADDRESS8    /63 .
+Lungs
+    REGEX:ADDRESS8    ,230 .
+On
+    REGEX:ADDRESS8    >/95 .
+The
+    REGEX:ADDRESS8    .6 .
+IMPRESSION
+    REGEX:ADDRESS8    .8 .
+She
+    REGEX:ADDRESS8    >/98 .
+She
+    REGEX:ADDRESS8    8 .
+Her
+    REGEX:ADDRESS8    1 .
+The
+    REGEX:ADDRESS8    .9 .
+Endocrine
+    REGEX:ADDRESS8    48 .
+He
+    REGEX:ADDRESS8    .6 .
+1
+    REGEX:ADDRESS8    1 .
+He
+    REGEX:ADDRESS8    31 .
+Has
+    REGEX:ADDRESS8    >/04 .
+Also
+    REGEX:ADDRESS8    250 .
+DISCHARGE
+    REGEX:ADDRESS8    96 .
+White
+    REGEX:ADDRESS8    141 .
+Potassium
+    REGEX:ADDRESS8    .2 .
+Platelet
+    REGEX:ADDRESS8    ,000 .
+ALT
+    REGEX:ADDRESS8    52 .
+AST
+    REGEX:ADDRESS8    65 .
+Chest
+    REGEX:ADDRESS8    85 .
+HOSPITAL
+    REGEX:ADDRESS8    .6 .
+TSH
+    REGEX:ADDRESS8    234 .
+His
+    REGEX:ADDRESS8    .8 .
+Chest
+    REGEX:ADDRESS8    -90 .
+HOSPITAL
+    REGEX:ADDRESS8    >/90 .
+The
+    REGEX:ADDRESS8    >/89 .
+Since
+    REGEX:ADDRESS8    >/90 .
+She
+    REGEX:ADDRESS8    >/94 .
+Aboutprior
+    REGEX:ADDRESS8    >/92 .
+7
+    REGEX:ADDRESS8    28 .
+Magnesium
+    REGEX:ADDRESS8    .7 .
+Chest
+    REGEX:ADDRESS8    >/94 .
+He
+    REGEX:ADDRESS8    .5 .
+The
+    REGEX:ADDRESS8    .5 .
+He
+    REGEX:ADDRESS8    >-90 .
+The
+    REGEX:ADDRESS8    1080 .
+The
+    REGEX:ADDRESS8    13 .
+He
+    REGEX:ADDRESS8    /88 .
+Heart
+    REGEX:ADDRESS8    90 .
+Lungs
+    REGEX:ADDRESS8    179 .
+Microscopic
+    REGEX:ADDRESS8    >/95 .
+This
+    REGEX:ADDRESS8    >/96 .
+She
+    REGEX:ADDRESS8    20 .
+Attending
+    REGEX:ADDRESS8    .4 .
+over
+    REGEX:ADDRESS8    88 .
+EXTREMITIES
+    REGEX:ADDRESS8    88 .
+Urinalysis
+    REGEX:ADDRESS8    .1 .
+The
+    REGEX:ADDRESS8    50 .
+The
+    REGEX:ADDRESS8    .1 .
+AST
+    REGEX:ADDRESS8    .8 .
+Coagulation
+    REGEX:ADDRESS8    .5 .
+The
+    REGEX:ADDRESS8    >-94 .
+OTHER
+    REGEX:ADDRESS8    >-94 .
+HISTORY
+    REGEX:ADDRESS8    8 .
+Ciprofloxacin
+    REGEX:ADDRESS8    99 .
+Blood
+    REGEX:ADDRESS8    /66 .
+Oxygen
+    REGEX:ADDRESS8    .7 .
+Her
+    REGEX:ADDRESS8    59 .
+Hemoglobin
+    REGEX:ADDRESS8    ,0000 .
+A
+    REGEX:ADDRESS8    87 .
+Neck
+    REGEX:ADDRESS8    14 .
+HOSPITAL
+    REGEX:ADDRESS8    >/90 .
+DISCHARGE
+    REGEX:ADDRESS8    20 .
+The
+    REGEX:ADDRESS8    .2 .
+The
+    REGEX:ADDRESS8    .2 .
+On
+    REGEX:ADDRESS8    .6 .
+The
+    REGEX:ADDRESS8    >/88 .
+status
+    REGEX:ADDRESS8    >/92 .
+Hernia
+    REGEX:ADDRESS8    >/88 .
+Hydronephrosis
+    REGEX:ADDRESS8    >/90 .
+Chronic
+    REGEX:ADDRESS8    7 .
+Spinal
+    REGEX:ADDRESS8    ,000 .
+DICTATING
+    REGEX:ADDRESS8    ,000 .
+PT
+    REGEX:ADDRESS8    26 .
+HOSPITAL
+    REGEX:ADDRESS8    >/95 .
+Briefly
+    REGEX:ADDRESS8    .39 .
+A
+    REGEX:ADDRESS8    ,000 .
+Postoperative
+    REGEX:ADDRESS8    >/96 .
+THER
+    REGEX:ADDRESS8    1 .
+His
+    REGEX:ADDRESS8    /80 .
+General
+    REGEX:ADDRESS8    80 .
+His
+    REGEX:ADDRESS8    .3 .
+The
+    REGEX:ADDRESS8    >/97 .
+An
+    REGEX:ADDRESS8    >-90 .
+At
+    REGEX:ADDRESS8    20 .
+The
+    REGEX:ADDRESS8    .1 .
+Her
+    REGEX:ADDRESS8    -16 .
+With
+    REGEX:ADDRESS8    .2 .
+She
+    REGEX:ADDRESS8    .1 .
+All
+    REGEX:ADDRESS8    ,000 .
+The
+    REGEX:ADDRESS8    243 .
+Cholesterol
+    REGEX:ADDRESS8    23 .
+The
+    REGEX:ADDRESS8    /40 .
+He
+    REGEX:ADDRESS8    >-92 .
+DISPOSITION
+    REGEX:ADDRESS8    >/91 .
+The
+    REGEX:ADDRESS8    137 .
+The
+    REGEX:ADDRESS8    >/97 .
+The
+    REGEX:ADDRESS8    52 .
+Her
+    REGEX:ADDRESS8    .9 .
+The
+    REGEX:ADDRESS8    9 .
+postoperatively
+    REGEX:ADDRESS8    33 .
+The
+    REGEX:ADDRESS8    387 .
+Consequently
+    REGEX:ADDRESS8    16 .
+Furthermore
+    REGEX:ADDRESS8    >/94 .
+Note
+    REGEX:ADDRESS8    >/94 .
+This
+    REGEX:ADDRESS8    >/94 .
+Hospital
+    REGEX:ADDRESS8    80 .
+There
+    REGEX:ADDRESS8    100 .
+He
+    REGEX:ADDRESS8    .6 .
+Patient
+    REGEX:ADDRESS8    >/96 .
+PAST
+    REGEX:ADDRESS8    .8 .
+The
+    REGEX:ADDRESS8    36 .
+Her
+    REGEX:ADDRESS8    .5 .
+Electrocardiogram
+    REGEX:ADDRESS8    26 .
+He
+    REGEX:ADDRESS8    34 .
+DISPOSITION
+    REGEX:ADDRESS8    >/98 .
+Mr
+    REGEX:ADDRESS8    3 .
+Sensory
+    REGEX:ADDRESS8    ,188 .
+HOSPITAL
+    REGEX:ADDRESS8    ,000 .
+66
+    REGEX:ADDRESS8    1056 .
+Sodium
+    REGEX:ADDRESS8    .7 .
+The
+    REGEX:ADDRESS8    88 .
+His
+    REGEX:ADDRESS8    .2 .
+His
+    REGEX:ADDRESS8    .1 .
+Glucose
+    REGEX:ADDRESS8    97 .
+His
+    REGEX:ADDRESS8    222 .
+His
+    REGEX:ADDRESS8    /12 .
+Coronary
+    REGEX:ADDRESS8    >/91 .
+The
+    REGEX:ADDRESS8    .5 .
+After
+    REGEX:ADDRESS8    39 .
+He
+    REGEX:ADDRESS8    40 .
+PAST
+    REGEX:ADDRESS8    >-91 .
+Ultrasound
+    REGEX:ADDRESS8    17 .
+He
+    REGEX:ADDRESS8    ,000 .
+His
+    REGEX:ADDRESS8    .9 .
+Urinalysis
+    REGEX:ADDRESS8    >-91 .
+The
+    REGEX:ADDRESS8    >-91 .
+The
+    REGEX:ADDRESS8    .9 .
+Electrolytes
+    REGEX:ADDRESS8    .8 .
+GENERAL
+    REGEX:ADDRESS8    .6 .
+The
+    REGEX:ADDRESS8    110 .
+The
+    REGEX:ADDRESS8    .4 .
+1
+    REGEX:ADDRESS8    252 .
+Chest
+    REGEX:ADDRESS8    >/94 .
+Gastrojejunostomy
+    REGEX:ADDRESS8    >/94 .
+The
+    REGEX:ADDRESS8    3 .
+Cranial
+    REGEX:ADDRESS8    ,000 .
+PT
+    REGEX:ADDRESS8    .9 .
+KUB
+    REGEX:ADDRESS8    16 .
+O2
+    REGEX:ADDRESS8    .7 .
+Urinalysis
+    REGEX:ADDRESS8    .8 .
+The
+    REGEX:ADDRESS8    18 .
+SKIN
+    REGEX:ADDRESS8    452 .
+HOSPITAL
+    REGEX:ADDRESS8    3 .
+O
+    REGEX:POBOX    . x.
+8
+    REGEX:ROOM    room air 92
+    REGEX:ROOM    room on <PHI TYPE="DATEPHI>/90
+    REGEX:ROOM    ROOM ON <PHI TYPE="DATEPHI>/01
+    REGEX:ROOM    room on <PHI TYPE="DATEPHI>/02
+    REGEX:ROOM    room , vitals were temperature 96.
+    REGEX:ROOM    room air , 99
+    REGEX:ROOM    room the patient had a hematocrit of 29.
+    REGEX:ROOM    Room , he was found to be in atrial fibrillation with a rate of 120
+    REGEX:ROOM    Room on <PHI TYPE="DATEPHI> ,, where she underwent resection and repair of chronic aortic dissection and reconstruction of the super coronary tube graft Hemashield # 28
+    REGEX:ROOM    room bySuot N. Dragtente</PHI> on <PHI TYPE="DATE">02-
+    REGEX:ROOM    room on the evening of <PHI TYPE="DATEPHI>/00
+    REGEX:ROOM    room on <PHI TYPE="DATEPHI>/00
+    REGEX:ROOM    room on <PHI TYPE="DATEPHI>/99
+    REGEX:ROOM    Room with 400
+    REGEX:ROOM    room air was 92
+    REGEX:ROOM    room on the first hospital day , being <PHI TYPE="DATEPHI>/90
+    REGEX:ROOM    room air O2
+    REGEX:ROOM    room as well as 2
+    REGEX:ROOM    room on <PHI TYPE="DATEPHI>/98
+    REGEX:ROOM    room air sitting upright PO2
+    REGEX:ROOM    room and the implant was loaded with 55
+    REGEX:ROOM    room air , 82.
+    REGEX:ROOM    room to the floor and was transfused two units of packed red blood cells to bring up her hematocrit to approximatelysat was 94
+    REGEX:ROOM    Room on <PHI TYPE="DATE">2-
+    REGEX:ROOM    room air , and weight was 73.
+    REGEX:ROOM    room on <PHI TYPE="DATE">8-
+    Institutions    Memorial
+    Institutions    no
+    Institutions    Memorial
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    PrivateDictionary    University
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    ADA
+    Institutions    no
+    Institutions    no
+    Names    ADA
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    doing
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    NC
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    Jude
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Names    Bruce
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    basil
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    Thus
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Names    Jude
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No.
+    Institutions    NO
+    Institutions    NO
+    Institutions    NO
+    PrivateDictionary    UNIVERSITY
+    Institutions    NO
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    PrivateDictionary    University
+    Institutions    no
+    Institutions    no
+    Names    walker
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    PrivateDictionary    Huntington
+    Institutions    No
+    PrivateDictionary    University
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    doing
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    child
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    PrivateDictionary    Hancock
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Names    ADA
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Names    Mallory
+    Names    Weiss
+    Institutions    no
+    Institutions    NO
+    Institutions    no
+    Names    amina
+    Institutions    no
+    Institutions    no
+    Names    Erica
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    doing
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    MEMORIAL
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    doing
+    Institutions    doing
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    Blakemore
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    No
+    Institutions    no
+    Names    vera
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    doing
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No.
+    Institutions    no
+    Institutions    UNION
+    Names    Kay
+    Names    GRAVIS
+    Institutions    No
+    Institutions    Memorial
+    Institutions    Memorial
+    Names    lan
+    Institutions    no
+    Institutions    no
+    Names    Lupus
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    Kay
+    Names    Luther
+    Names    King
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    cook
+    Names    grammer
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No.
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Names    Mallory
+    Names    Weiss
+    Institutions    no
+    Names    walker
+    Institutions    OA
+    Institutions    OA
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Names    TIPPS
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    No
+    Institutions    doing
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    walker
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    doing
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    doing
+    Institutions    no
+    Institutions    NO
+    Institutions    doing
+    Names    Greenfield
+    Institutions    no
+    Institutions    no
+    Names    Asha
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Names    Len
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Names    Pfannenstiel
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    child
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    Thus
+    Institutions    No
+    Institutions    no
+    Names    walker
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Names    Jackson
+    Names    Pratt
+    Names    Jackson
+    Names    Pratt
+    Institutions    no
+    Institutions    No
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    ori
+    Names    Hiter
+    Institutions    no
+    Institutions    no
+    Names    WOOD
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    FYFE
+    Names    Wolfe
+    Names    Wolfe
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    CHILD
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    No.
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Names    Lato
+    Names    vitro
+    Institutions    no
+    Names    vessell
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    Lato
+    Names    Jude
+    Names    Collea
+    Institutions    no
+    Institutions    NC
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    Memorial
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+    Names    clay
+    Institutions    HCHP
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    no
+    Names    Kay
+    Institutions    No
+    Institutions    no
+    Institutions    no
+    Institutions    No
+
+Identifier Recorder shutdown, 2018-03-22#11.31.09AM

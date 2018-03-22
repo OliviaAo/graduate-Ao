@@ -1,0 +1,398 @@
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+_________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">VT9</PHI>
+1. xxxxDOCTOR_OLDERxxxx SHOCK</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="ID xxxxDATE17xxxx 5V80</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx CARLT</PHI> , M.D. , PH.D. ( <PHI TYPE="ID">BW48</PHI> )
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+She has sustained a right inter trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">Hoseocon Medical Center</PHI> and transferred to the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> for further care by xxxxDOCTOR_OLDERxxxx Stable</PHI> .
+She was slow to mobilize with physical therapy due to weakness and proprioceptive difficulties . xxxxDOCTOR_OLDERxxxx Stable</PHI> elected to start her on Bactrim for a xxxxWRITTEN_AGE_1_TO_19xxxx course .
+She gets a 1500 cal xxxNAMExxx diet . xxxxDOCTOR_OLDERxxxx ORDERS :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. STAT
+XRT , Friday , 10am  <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 scheduled , xxxxDOCTOR_OLDERxxxx Xellcaugh</PHI> , call next week , xxxPOSITIONxxx Known Allergies
+Pt initially presented with cough and hemoptysis to xxxxDOCTOR2xxxx .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">MY4 PO734/8975</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">VI3</PHI>
+Your patient was admitted under the care of <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> with a preliminary diagnosis of NAUSEA .
+In <PHI TYPE="DATE xxxxMONTHxxxx PHI> xxxxYEAR_CENTURYxxxx , the patient underwent an APR with excision of liver nodule , intraoperative radiation therapy , and pelvic omentoplasty with descending colostomy by xxxxDOCTOR_OLDERxxxx Berger</PHI> .
+The patient will have follow up with xxxxDOCTOR_OLDERxxxx Berger</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">BB32</PHI> )
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">BB32</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 04:48 PM
+The patient was evaluated at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> by xxxxDOCTOR_OLDERxxxx Do Joasscchird</PHI> for progressive worsening attacks and he was found to have progressive supranuclear palsy .
+_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
+The patient was discharged home with nursing care and will be followed by xxxxDOCTOR_OLDERxxxx Fyfesaul</PHI> with her first appointment on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+Electronically Signed <PHI TYPE xxxxDOCTOR_OLDERxxxx FYFESAUL</PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx FYFESAUL</PHI> , M.D.
+She will follow up with her primary oncologists , xxxxDOCTOR_OLDERxxxx A</PHI> and xxxxDOCTOR_OLDERxxxx Dark</PHI> , at <PHI TYPE="HOSPITAL">IVMC</PHI> , after her discharge .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">NJ38 ME089/6922</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx Ca Shuff</PHI> STAT
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx NU L. GALL</PHI> , <PHI TYPE="HOSPITAL">LI HOSPITAL</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+TD : xxxxDOCTOR_OLDERxxxx Namarce Aldridge</PHI> <PHI TYPE="HOSPITAL">Pasi</PHI> STAT
+The patient is to return to the follow up care of xxxxDOCTOR_OLDERxxxx Ko Kollciem</PHI> at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TD :
+1. Gait ataxia . xxxxDOCTOR_OLDERxxxx DISABILITY AND PROBABLE DURATION :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">HA14</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">HW8 VE160/3653</PHI>
+Her letter was referred to xxxxDOCTOR_OLDERxxxx Earllamarg Para</PHI> who saw her in the office and recommended vaginal hysterectomy .
+Significant for a lower left saphenous vein thrombosis diagnosed with lower extremity non invasives and on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx with xxxPOSITIONxxx evidence of deep venous thrombosis and clearance by xxxxDOCTOR_OLDERxxxx Ribreefcheampner</PHI> for further intervention .
+The patient was also seen by xxxxDOCTOR_OLDERxxxx Nusc</PHI> from General Surgery for evaluation of micro calcifications in the right breast .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D , <PHI TYPE="ID">HM72</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">YL7 TD803/0252</PHI>
+Patient is to be subsequently followed up by xxxxDOCTOR_OLDERxxxx Memory</PHI> .
+She will be followed up by xxxxDOCTOR_OLDERxxxx Liermfelsbelb</PHI> .
+The patient is being discharged in stable condition , and is to be followed up with xxxxDOCTOR_OLDERxxxx Liermfelsbelb</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">CT20</PHI>
+Digoxin 0.25 mg p.o. daily ; Ecotrin one tab p.o. daily ; captopril 12.5 mg p.o. t.i.d. ; Percocet 1-2 tabs p.o. q4-6h p.r.n. pain . xxxxDOCTOR_OLDERxxxx Right</PHI> will see him in xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">JB72</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">UG0</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+ALLERGIES : xxxxDOCTOR_OLDERxxxx 40 mg qd ; Digoxin 0.25 mg qd ; aspirin 325 mg qd ; Isordil 10 mg tid .
+These findings were reviewed with xxxxDOCTOR_OLDERxxxx Patella</PHI> and together we decided that conservative therapy would be the appropriate first choice in Mr. <PHI TYPE="PATIENT">Breun</PHI> &apos;s management .
+We will see how far we can get with medical therapy although Mr. <PHI TYPE xxxxDOCTOR_OLDERxxxx his family clearly understand the long term implications of his aortic stenosis .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx Raba Kote</PHI>
+She was referred to xxxxDOCTOR_OLDERxxxx Stonge</PHI> for evaluation .
+A letter will be sent following the sarcoma conference to her local xxxxDOCTOR_OLDERxxxx Plans are for followup by her local xxxxDOCTOR_OLDERxxxx PT between 14 xxxxADDRESS8xxxx needs to have a mammogram in <PHI TYPE="LOCATION">Usyork</PHI> and followup with her local xxxxDOCTOR_OLDERxxxx xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M .D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+2. relook coronary angiogram , <PHI TYPE="DATE">08-18</PHI xxxxADDRESS8xxxx patient is a xxxxAGE5xxxx female with a history of Parkinson &apos;s disease for more than xxxxWRITTEN_AGE_10_100_DIV10xxxx who presented to the <PHI TYPE="HOSPITAL">Gemenadentoolpai Medical Center</PHI> with a revolving anterolateral wall myocardial infarction on <PHI TYPE="DATE">08-01</PHI xxxxADDRESS8xxxx had xxxPOSITIONxxx prior significant cardiac history and presented to her local medical xxxxDOCTOR_OLDERxxxx with an episode of severe retrosternal chest pain .
+The patient remained stable during the rest of the hospitalization . xxxxDOCTOR_OLDERxxxx Aalv Lorjes Salv Manual</PHI> <PHI TYPE="HOSPITAL">Pasi</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx RECORD ID="676">
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="ID xxxxDATE17xxxx 3E45</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D. ( <PHI TYPE="ID">IY150</PHI> )
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">EM08</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
+HE WAS REFERRED BACK TO xxxxDOCTOR_OLDERxxxx KOTE</PHI> FOR REDO AORTIC VALVE REPLACEMENT .
+HE IS SCHEULED TO FOLLOW UP WITH xxxxDOCTOR_OLDERxxxx KOTE</PHI> , HIS CARDIOLOGIST AND HIS PRIMARY CARE PHYSICIAN .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx Pcc :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx LEINA ATNEROBE</PHI> , M.D.
+We contacted the patient &apos;s primary care physician , xxxxDOCTOR_OLDERxxxx Aslinke</PHI> ______ , regarding his cardiac medication management .
+2. The patient will have follow up with xxxxDOCTOR_OLDERxxxx Para</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 4:22 P <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">YR61</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx VENGLOAN</PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+Follow up with xxxxDOCTOR_OLDERxxxx Briz</PHI> within xxxxAGE6xxxx , xxxPOSITIONxxx Known Allergies
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">RW156</PHI> )
+Excellent suggestions from xxxxDOCTOR_OLDERxxxx Pa</PHI> of the Renal Service included repeating anticardiolipin and lupus anticoagulant , given the patient &apos;s weakly positive lupus anticoagulant in the past and the fact that this could be associated with severe and rapid cognitive decline that was observed in this patient .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D
+_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. STAT
+ATENOLOL 25 MG PO QD DURAGESIC ( FENTANYL ( PATCH ) ) 25 MCG / HR TP Q72H DILAUDID ( HYDROMORPHONE HCL ) 2-4 MG PO Q4H PRN pain xxxPOSITIONxxx Restrictions xxxxDOCTOR_OLDERxxxx Shidoyleflich</PHI> in xxxxAGE6xxxx , xxxPOSITIONxxx Known Allergies
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. DIAG .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">WX58</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 05:19
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+She had recently seen xxxxDOCTOR_OLDERxxxx Zetllille</PHI> approximately xxxxWRITTEN_AGE_10_100_DIV10xxxx prior and offered an operation at that time which she refused and wanted to further consider her options .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx and the preliminary diagnosis is TIA .
+The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> and the preliminary diagnosis is HIP FRACTURE .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx MD
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx Dictation ID <PHI TYPE="ID xxxxTELEPHONE1xxxx PHI>
+The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> and the preliminary diagnosis is SHORTNESS OF BREATH .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
+At this point she had an elevated CA 125 at 440 and came to xxxxDOCTOR_OLDERxxxx Chabechird</PHI> for further consultation .
+The patient was instructed to follow up with xxxxDOCTOR_OLDERxxxx Slaineaee Chabechird</PHI> .
+_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx xxxxTITLESxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+Electronically Signed <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <RECORD ID="703">
+Your patient was admitted under the care of <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> with a preliminary diagnosis of SYNCOPE .
+He was discharged on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> with follow up of his PT / PTT values on Friday , the <PHI TYPE="DATE">25th</PHI> , as well as three times a week in the following week , and follow up with xxxxDOCTOR_OLDERxxxx Most</PHI> within xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">XC45 DN236/9105</PHI>
+This patient is a xxxxAGE5xxxx who has had a xxxxPRIVATExxx mitral valve replacement on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/76 by xxxxDOCTOR_OLDERxxxx Melvean Ace</PHI> .
+In xxxxYEAR_CENTURYxxxx , she developed chronic obstructive pulmonary disease and asthma , and has been followed by xxxxDOCTOR_OLDERxxxx Times</PHI> , as well as the pulmonologist down where she lives .
+If she remains stable over the next couple of days , she will be discharged on this program , to be followed jointly by xxxxDOCTOR_OLDERxxxx Avejoh Wierst</PHI> and xxxxDOCTOR_OLDERxxxx Em Neighburce</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TD :
+For the patient , at <PHI TYPE="LOCATION">Dalee , Alaska</PHI> , for xxxxDOCTOR_OLDERxxxx Avejoh Wierst</PHI> , c / o <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , in <PHI TYPE="LOCATION">Stumphi Road , Biinss , xxxxPRIVATExxx xxxxSUSPICIOUS_NUMxxxx PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">GX83</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE xxxxDOCTOR_OLDERxxxx A.</PHI> , M.D. on order for AMIODARONE PO ( ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
+Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. on order for ZOCOR PO ( ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
+Walking as tolerated FOLLOW UP APPOINTMENT ( S ) : xxxxDOCTOR_OLDERxxxx Levels</PHI> ( Electrophysiology  xxxxAGE6xxxx , PCP 1 xxxxAGE6xxxx ,
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">AW45</PHI> ) <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 02:14 PM
+I have spoken with the patient in detail , and he will be getting in touch with his primary care physician , xxxxDOCTOR_OLDERxxxx Fordwoodall Stick</PHI> , in <PHI TYPE="LOCATION">Ranegei Pkwy , Verertliet , xxxxPRIVATExxx xxxxSUSPICIOUS_NUMxxxx PHI> .
+The patient is to arrange follow up with a GI xxxxDOCTOR_OLDERxxxx LOCATION">Jotar Boulevard , Cunahtampfordama , xxxxPRIVATExxx xxxxSUSPICIOUS_NUMxxxx PHI> through his primary care physician .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx Pcc :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. / <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">7922</PHI>
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she was seen by xxxxDOCTOR_OLDERxxxx Stonge</PHI> at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> where a 3 x 7 cm left mid clavicular mass was noted .
+Per the patient &apos;s wishes , xxxxDOCTOR_OLDERxxxx Dalywoo Droreite</PHI> the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> was consulted for a second opinion regarding the management of her malignancy .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">IK06</PHI>
+The patient is a xxxxAGE5xxxx under the care of xxxxDOCTOR_OLDERxxxx Lenni Be</PHI> with a diagnosis of rheumatic mitral stenosis .
+She will follow up with her primary care physician , xxxxDOCTOR_OLDERxxxx Lupevickette Ca</PHI> and her Cardiologist , xxxxDOCTOR_OLDERxxxx Lenni Be</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx TD :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">NZ86</PHI>
+<PHI TYPE="ID">WE221/9850</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH. <PHI TYPE="ID">JT2 FF2</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+Follow up with xxxxDOCTOR_OLDERxxxx Loydsadd</PHI> in one to xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">KE15 TB326/0625</PHI>
+I will get in touch with xxxxDOCTOR_OLDERxxxx Areas</PHI> and please do not hesitate to contact me if I can provide any additional information .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+She is to follow up with xxxxDOCTOR_OLDERxxxx Acrookesjo</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx and xxxxDOCTOR_OLDERxxxx Work</PHI> the gastrointestinal fellow here at <PHI TYPE="HOSPITAL">PUOMC</PHI> in xxxxAGE6xxxx .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
+The testing was performed by a staff neuropsychologist , xxxxDOCTOR_OLDERxxxx Lornsook Trusmoag</PHI> , PhD , telephone number <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> .
+The ENT physician who saw the patient is xxxxDOCTOR_OLDERxxxx Freieslowkays</PHI> .
+The patient was scheduled to follow up with xxxxDOCTOR_OLDERxxxx Freieslowkays</PHI> on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx at 1:20 p.m. at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. , Reproductive Endocrinology <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. , <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , phone number <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> STAT
+He is to be discharged home on <PHI TYPE="DATE xxxxDATE22xxxx PHI> with follow up with xxxxDOCTOR_OLDERxxxx Kote</PHI> , his cardiologist and with xxxxDOCTOR_OLDERxxxx Right</PHI> , his hematologist .
+1. <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+2. xxxxDOCTOR_OLDERxxxx RIGHT</PHI> / <PHI TYPE="LOCATION">Pla</PHI>
+3. <PHI TYPE xxxxDOCTOR_OLDERxxxx D.
+She has been seen by xxxxDOCTOR_OLDERxxxx Tokbelb</PHI> , her primary care physician in <PHI TYPE="HOSPITAL">Itgreenredan Hospital</PHI> , and also xxxxDOCTOR_OLDERxxxx Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
+1. laparoscopic cholecystectomy <PHI TYPE="DATE">03</PHI>/93 by xxxxDOCTOR_OLDERxxxx Sapmal</PHI> ,
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> xxxxDOCTOR_OLDERxxxx Tokbelb</PHI> <PHI TYPE="HOSPITAL">Welle Health</PHI> <PHI TYPE="LOCATION">Sonsant</PHI> .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95 xxxxDOCTOR_OLDERxxxx The Vein</PHI>
+The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> and the preliminary diagnosis is PNA .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx A LOSS</PHI> , M.D. <PHI TYPE="ID">IF63</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">TI68 HJ543/4282</PHI>
+Digoxin 0.25 mg . xxxxDOCTOR_OLDERxxxx ORDERS :
+The patient was taken to the operating room by xxxxDOCTOR_OLDERxxxx Suot N. Dragtente</PHI> on <PHI TYPE="DATE">02-21</PHI>-91 , where a left radical nephrectomy was performed .
+FOLLOW UP will be with xxxxDOCTOR_OLDERxxxx Suot N. Dragtente</PHI> and with her <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> oncology fellows .
+<PHI TYPE="ID">PL926/1533</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">GJ7</PHI>
+The patient was admitted to the hospital for ureteral stent placement . xxxxDOCTOR_OLDERxxxx Jescdrig</PHI> was called and a consultation was done and he placed bilateral ureteral stents in her kidneys .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+She will return to xxxxDOCTOR_OLDERxxxx Fossa</PHI> &apos;s office .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+STAT to <PHI TYPE="HOSPITAL">Goman 10</PHI> edited <PHI TYPE="DATE xxxxDATE21xxxx PHI>/94 <PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI>
+The patient was therefore started on pressure controlled ventilation resulting in a decrease in his PIP from 60 to xxxxADDRESS8xxxx patient was also noted to have decreased urine output with an acute increase in his creatinine from 1.5 to 2 xxxxADDRESS8xxxx with xxxxDOCTOR_OLDERxxxx Test</PHI> led to a plan to begin aerosolized Pentamidine 100 mg nebilized q.d. for xxxxWRITTEN_AGE_1_TO_19xxxx while therapeutic levels of Pentamidine could be build up in the lungs via IV .
+<PHI TYPE="ID">VF679/2975</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">EJ5</PHI>
+By xxxxDOCTOR_OLDERxxxx Friednantflirt</PHI> revealed regrowth of the pelvic tumor .
+The patient was to FOLLOW UP with xxxxDOCTOR_OLDERxxxx Sta O. Tongue</PHI> for staple removal .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">SZ23</PHI>
+He was instructed to follow up with his outpatient physician , xxxxDOCTOR_OLDERxxxx Walking</PHI> , at the <PHI TYPE="HOSPITAL">Chorlasonmor Normooreanks Tioutsocin xxxHOSPITALxxx</PHI> at <PHI TYPE="LOCATION">Uingno Dar</PHI> as well as his <PHI TYPE="HOSPITAL">VLH</PHI> Hematologist .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">FS14 BQ197/7410</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. / xxxxDOCTOR_OLDERxxxx HOME</PHI> <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , <PHI TYPE="LOCATION">Ka Pemco</PHI>
+Her incisions were healing well and she was transferred to rehab on IV heparin and will be followed up by xxxxDOCTOR_OLDERxxxx Call</PHI> in the office .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+The ulcer was managed conservatively at <PHI TYPE="HOSPITAL">Har Hospital</PHI> by xxxxDOCTOR_OLDERxxxx Holes</PHI> with Silvadene b.i.d. lower extremity non invasive study obtained at that time showed poor distal right extremity perfusion .
+The patient was referred back to xxxxDOCTOR_OLDERxxxx Pop</PHI> for the possibility of a revascularization procedure .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE">Thanksgiving</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. MEDICINE RESIDENT MED <PHI TYPE="HOSPITAL">NLM</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. PULMONARY / CRITICAL CARE UNIT <PHI TYPE="HOSPITAL">BARLDI HEALTH</PHI> STAT
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+Multiple discussions were held between xxxxDOCTOR_OLDERxxxx Mass</PHI> , the rest of the surgical team , and the patient &apos;s wife , with this same result .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+The patient will follow up with xxxxDOCTOR_OLDERxxxx Ther Ludzjesc</PHI> at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> in <PHI TYPE="LOCATION">Connecticut</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">UP72</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">UW63 TF697/1141</PHI>
+Discharge follow up will be with xxxxDOCTOR_OLDERxxxx Burgeshuff</PHI> &apos;s service ( <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> ) .
+The patient should also follow up with xxxxDOCTOR_OLDERxxxx Cord</PHI> of Cardiology .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 
+The patient came in with a creatinine that was elevated at 2 xxxxADDRESS8xxxx  The patient is to follow up with PCP , xxxxDOCTOR_OLDERxxxx Toob Obestimeuph</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> Dictation ID <PHI TYPE="ID xxxxTELEPHONE1xxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96 9:00 A
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx as scheduled ,
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">YW821</PHI> )
+In <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she presented to her primary local Medical xxxxDOCTOR_OLDERxxxx of right lower extremity weakness .
+<PHI TYPE="ID">MJ092/0660</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">BI89</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OU12</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OC33</PHI>
+<PHI TYPE="ID">DX608/0614</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx xxxxTITLESxxxx PHI> , M.D. <PHI TYPE="ID">CD0</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+_______________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 11:44 P
+The patient was seen in consultation by a variety of consultants including Infectious Disease , Cardiology , Endocrine , Psychiatry , ENT , and Neuro ophthalmology . xxxPOSITIONxxx acute pathology was noted and xxxPOSITIONxxx treatment was necessary at this time . xxxxDOCTOR_OLDERxxxx Koteelks</PHI> indicated that the patient did not have sinus problems currently but thought that the trigeminal pain might be investigated further and that the sphenoid might account for some of the patient &apos;s discomfort .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+On the day of admission , the patient was taken to the operative suite , where she underwent a sigmoid resection by xxxxDOCTOR_OLDERxxxx Kotefooksshuff</PHI> and xxxxDOCTOR_OLDERxxxx Ischird</PHI> .
+The patient was instructed to call xxxxDOCTOR_OLDERxxxx Kotefooksshuff</PHI> to schedule an appointment in xxxxWRITTEN_AGE_1_TO_19xxxx following the date of discharge .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">RH5 XH616/5421</PHI>
+On the day of admission in <PHI TYPE="HOSPITAL">Rogas Medical Center</PHI> medical xxxxDOCTOR_OLDERxxxx  the patient had 2 episodes of chest pain associated with shortness of breath without radiation or other associated symptoms .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+LEFT TOTAL KNEE ARTHROPLASTY ON <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx patient is a xxxxAGE5xxxx who has had osteoarthritis and noted the sudden onset of left knee pain in <PHI TYPE="DATE">09</PHI xxxxADDRESS8xxxx that time , she has used a cane and she was referred to xxxxDOCTOR_OLDERxxxx Koors</PHI> .
+The patient was cleared for surgery by xxxxDOCTOR_OLDERxxxx Lupevickette Ca</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">WE01</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">GP0 EA855/4665</PHI>
+FOLLOW UP APPOINTMENT ( S ) : xxxxDOCTOR_OLDERxxxx Valo Freiermplauchefelv</PHI> ( <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> ) within xxxxAGE6xxxx , xxxPOSITIONxxx Known Allergies
+Renal function and electrolytes should be checked next week and results xxxxDOCTOR2xxxx .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+Your patient was admitted under the care of <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> with a preliminary diagnosis of VERTEBRAL FRACTURES .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx Provider Number :
+She underwent a sigmoid resection on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/96 by xxxxDOCTOR_OLDERxxxx Lenni Pain</PHI> .
+She was receiving daily radiation treatments under the care of xxxxDOCTOR_OLDERxxxx Aacent Slentjae</PHI> of the <PHI TYPE="HOSPITAL">Linatpromehack Worth Hospital</PHI> for Radiation Therapy .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">AW64 AB668/0455</PHI>
+The Foley should be in place until a follow up appointment with xxxxDOCTOR_OLDERxxxx Aarhalt</PHI> can be scheduled in approximately one to xxxxWRITTEN_AGE_1_TO_19xxxx at which time a decision regarding the status of the patient &apos;s urinary obstruction will be addressed .
+The patient will be followed at rehabilitation by her primary care physician , xxxxDOCTOR_OLDERxxxx Both</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">YT79 WH234/2364</PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT PLEUREX CATH
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">QC514</PHI> )
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+The patient will follow up with xxxxDOCTOR_OLDERxxxx Friednantflirt</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">SE85</PHI>
+esophagoscopy , bronchoscopy , pericardectomy , excision of gastric ulcer , repair of gastric ulcer and pectoralis major myocutaneous flap performed on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx by xxxxDOCTOR_OLDERxxxx Reg Cranka</PHI> and xxxxDOCTOR_OLDERxxxx Win Shufffyfe</PHI> .
+There is xxxPOSITIONxxx fistula seen . xxxxDOCTOR_OLDERxxxx xxxNAMExxx Vengloan</PHI> of General Surgery consulted on the patient and concluded the patient does not require any surgical treatment of this problem at the current time and the best treatment for this situation would be to increase the patient &apos;s nutrition .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. xxxxDOCTOR_OLDERxxxx Jesc</PHI> .
+Pain Service : xxxxDOCTOR_OLDERxxxx Shuff</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">RJ12 OY792/4208</PHI>
+The patient was discharged in improved , stable , satisfactory condition with the expectation that she will call xxxxDOCTOR_OLDERxxxx First</PHI> &apos;s office for a followup visit in about xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+Electronically Signed <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+The patient will follow up with xxxxDOCTOR_OLDERxxxx Number</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx and with the patient &apos;s own cardiologist in xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE="HOSPITAL">Ca County Health Center</PHI> of <PHI TYPE="LOCATION">Hocall Plao</PHI> xxxxDOCTOR_OLDERxxxx Vernn Drepsloyd</PHI> and xxxxDOCTOR_OLDERxxxx Agold Jaquesube</PHI>
+The patient was a difficult intubation and it was finally performed by a thoracic xxxxSURGEON8xxxx 3.5 endotracheal tube . xxxxDOCTOR_OLDERxxxx Fields</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton xxxNAMExxx N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Pediatric Intensive Care Unit for evaluation and management by xxxxDOCTOR_OLDERxxxx Fields</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI> in the p.m.
+The patient is still being maintained on Ancef at the request of xxxxDOCTOR_OLDERxxxx Fields</PHI> &apos;s team . xxxxDOCTOR_OLDERxxxx patient has a xxxxADDRESS7xxxx that is stitched to his neck and also has trach ties in places .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. , at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Pediatric Intensive Care Unit .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE="ID">ZQ233/5272</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">RP75</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+Patient will follow up with xxxxDOCTOR_OLDERxxxx Ausguall</PHI> , in about 4 xxxxAGE6xxxx , at which time the JP drain will be removed .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 xxxxDOCTOR_OLDERxxxx Ausguall</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI>/97
+The patient is to follow up with xxxxDOCTOR_OLDERxxxx Ria</PHI> in clinic on xxxxWRITTEN_AGE_1_TO_19xxxx time and the family is to call me if there were any questions in the interim .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. / STAT
+________________________________ <PHI TYPE="ID">JW167/3190</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+Follow up will be with xxxxDOCTOR_OLDERxxxx Sick</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx time .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">BA87</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+<PHI TYPE xxxxDOCTOR_OLDERxxxx MD , PHD
+In addition , he was told to call his xxxxDOCTOR_OLDERxxxx any fevers , chills , severe headache , lightheadedness , dizziness , cold or flu like symptoms , cough , shortness of breath , chest discomfort , stomach ache , nausea , vomiting , persistent loose bowel movements , pain or difficulty with his urination , bleeding , skin rash or if he is unable to take his medication for any reason .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx MD , PHD <PHI TYPE="LOCATION">xxxxPRIVATExxx</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx Attending :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx Dictation ID <PHI TYPE="ID xxxxTELEPHONE1xxxx PHI>
+The patient is a xxxxAGE5xxxx patient of xxxxDOCTOR_OLDERxxxx Laymie Fournier</PHI> and xxxxDOCTOR_OLDERxxxx Leebjescobe</PHI> in <PHI TYPE="LOCATION">Co In Saorlirv Frea , xxxxPRIVATExxx</PHI> who was well until a bout of double pneumonia in <PHI TYPE="DATE">May</PHI> xxxxYEAR_CENTURYxxxx , at which time he was hospitalized at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
+The patient was seen in consultation by the Electrophysiology service , xxxxDOCTOR_OLDERxxxx Slusslashgodle</PHI> , who said that he had xxxPOSITIONxxx indication for patch placement at the time of surgery .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
+Patient &apos;s mother was informed by xxxxDOCTOR_OLDERxxxx Vessels</PHI> . xxxxDOCTOR_OLDERxxxx ORDERS :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+This was discussed with the patient &apos;s local medical doctor , xxxxDOCTOR_OLDERxxxx Royneo Walla</PHI> .
+<PHI TYPE="ID">RW629/4018</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">JS8 RW2</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+She had a bronchoscopy by xxxxDOCTOR_OLDERxxxx Cranka</PHI> , which showed diffuse involvement and narrowing of the bronchi to the right lung by extrinsic compression .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95 xxxxDOCTOR_OLDERxxxx Breutzoln</PHI>
+________________________________ <PHI TYPE="ID">DG052/1418</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">KJ50</PHI>
+<PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , xxxxDOCTOR_OLDERxxxx Lou</PHI> , <PHI TYPE="DATE">02-15</PHI>-90 , operated and removed the tumor via craniotomy incision .
+She had a shunt series which shows an intact , and she should be followed up for this with xxxxDOCTOR_OLDERxxxx Besti Lou</PHI> .
+BUN 28 , creatinine 1.5 , hematocrit 32.9 , platelets xxxxADDRESS8xxxx x ray showed cardiomegaly with haziness at the left base and a left pleural effusion . xxxxDOCTOR_OLDERxxxx ORDERS :
+A PICC line was placed , XRT was begun on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , as coordinated by xxxxDOCTOR_OLDERxxxx Brittsdiss</PHI> .
+_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx cc :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ORTHOPAEDIC SURGERY <PHI TYPE="HOSPITAL">ANNENTESAUBEOR RINERS xxxNAMExxx RAELLFORDGET COMMUNITY HOSPITAL</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx R.N.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+The patient was to FOLLOW UP with xxxxDOCTOR_OLDERxxxx Linddie Ca Deep</PHI> .
+<PHI TYPE="ID">TO709/1590</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">ET86</PHI>
+1. xxxxDOCTOR_OLDERxxxx xxxNAMExxx STIE</PHI> , <PHI TYPE="LOCATION">Texas</PHI>
+He underwent an electrophysiology study which identified an accessory pathway with multiple attempts at ablation by xxxxDOCTOR_OLDERxxxx Slusslashgodle</PHI> which were unsuccessful .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx TD :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. CARDIAC UNIT <PHI TYPE="HOSPITAL">SHARPTIESSONI HEALTH CENTER</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. CARDIAC EP LAB <PHI TYPE="HOSPITAL">ANWARENLA GLENWER xxxPOSITIONxxx HOSPITAL OF</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="HOSPITAL">SHARPTIESSONI HEALTH CENTER</PHI>
+PRINCIPAL PROCEDURE : xxxxDOCTOR_OLDERxxxx 1-2 PO Q4 hours PRN , Dilantin 100mg. PO BID , Phenobarbital 30mg. PO BID , Penicillin VK 250mg. PO Q6 hours and Indocin 25mg. PO BID .
+He is being evaluated by xxxxDOCTOR_OLDERxxxx Fyfesaul</PHI> for possible adjuvant therapy .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , a family meeting with patient &apos;s daughter and spouse , along with primary oncologist , xxxxDOCTOR_OLDERxxxx Tomedankell Bile</PHI> , attending physician , xxxxDOCTOR_OLDERxxxx Mellerny Close</PHI> , and house staff , was held to discuss patient &apos;s critical condition and inability to prevent progression of skin , sinus and neurological Acanthamoeba infection on maximal antimicrobial therapy .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">LN00</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OF1 WS584 xxxxSUSPICIOUS_NUMxxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+He is to see xxxxDOCTOR_OLDERxxxx Ench</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx to check his PT and INR , also to check for potassium .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">YG59</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PCP xxxxDOCTOR2xxxx :
+This report was created by <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 09:06 PM
+<PHI TYPE="ID">YM263/3597</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">TH0</PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Ms. <PHI TYPE="PATIENT">Less</PHI> was initially admitted to the Vascular Surgery Service for xxxxDOCTOR_OLDERxxxx Scosthuang</PHI> and was recently transferred to the Neurosurgery Service under the care of xxxxDOCTOR_OLDERxxxx Pae</PHI> .
+Cardiovascularly , he developed atrial fibrillation and hypertension during the hospital course and was managed by xxxxDOCTOR_OLDERxxxx Gach</PHI> of Cardiology .
+His family had a meeting with xxxxDOCTOR_OLDERxxxx Liftjesc</PHI> , xxxxDOCTOR_OLDERxxxx Telshey Vital</PHI> , and xxxxDOCTOR_OLDERxxxx Tineara Rhalt</PHI> of the Neurosurgical ICU .
+The <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Admitting Desk was also notified as were xxxxDOCTOR_OLDERxxxx Liftjesc</PHI> , xxxxDOCTOR_OLDERxxxx Telshey Vital</PHI> , xxxxDOCTOR_OLDERxxxx Azel Hibbskays</PHI> , and the patient &apos;s primary care physician , xxxxDOCTOR_OLDERxxxx Tomedankell Flowayles</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , Ph.D <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. STAT
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">ZC5 GI592/4-03</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+are Glyburide 5-15 mg po q a.m. and 0-10 mg po q p.m. , depending on amount of oral intake ; Celesone 1 xxxxDATE22xxxx tablets po q day , Tagamet 400 mg PO b.i.d. , ofloxacin 400 mg PO b.i.d. , CZI sliding scale which will not be continued on discharge , and Flagyl 500 mg PO t.i.d. for a total of xxxxWRITTEN_AGE_1_TO_19xxxx  xxxxDOCTOR_OLDERxxxx OCK</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+He was ; therefore , seen in consultation by xxxxDOCTOR_OLDERxxxx xxxNAMExxx Tikfreierm</PHI> of the Hematology Service to evaluate him further for a possible hypocoagulable condition versus primary and secondary platelet abnormality which could explain his recurrent coronary events .
+Therefore , on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , the patient underwent left thorascopic thoracic sympathectomy by xxxxDOCTOR_OLDERxxxx Aalv Sctroi</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+CC : xxxxDOCTOR_OLDERxxxx xxxNAMExxx Tikfreierm</PHI> of Pediatric Hematology .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">OZ06</PHI>
+<PHI TYPE="ID">AY268/3325</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx xxxxTITLESxxxx PHI> , M.D. <PHI TYPE="ID">CD0</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OF22</PHI>
+He talked to xxxxDOCTOR_OLDERxxxx xxxNAMExxx R. Douetscarv</PHI> yesterday on the phone , who instructed the patient to take 60 milligrams of Lasix on the morning of admission , his usual dose was xxxxADDRESS8xxxx MEDICAL HISTORY was remarkable for coronary artery disease .
+His congestive heart failure most recently he had an ejection fraction of 30% , per xxxxDOCTOR_OLDERxxxx Pain</PHI> .
+<PHI TYPE="ID">WH968/1141</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">CX1</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PAIN</PHI> , M.D.
+The patient will be discharged to a rehabilitation center and will be followed up by xxxxDOCTOR_OLDERxxxx Nu Jescraln</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx from discharge .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">CH771/8971</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">TK5</PHI>
+She was subsequently referred to xxxxDOCTOR_OLDERxxxx Riode Zetllille</PHI> for evaluation and workup of her aneurysm .
+The patient will follow up with xxxxDOCTOR_OLDERxxxx Riode Zetllille</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TD :
+1. <PHI TYPE xxxxDOCTOR_OLDERxxxx MD <PHI TYPE="HOSPITAL">LIODIMAN BASSPRINGTY HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , Utah</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
+Total_Doctor: 449, TP: 288, FP: 160
