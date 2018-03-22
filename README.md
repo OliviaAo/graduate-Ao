@@ -11,7 +11,7 @@ The perfomance analysis for De-identification and Colenda methods on Clinical te
 #### 4. MIST
 
 ## Articles:
-- ["Automatic de-identification of textual documents in the electronic health record: a review of recent research"] (https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1471-2288-1070.pdf)
+- [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1471-2288-1070.pdf)
 
 ## Author
 * **Ao Li** 
