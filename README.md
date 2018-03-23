@@ -60,6 +60,38 @@ The perfomance analysis for De-identification and Colenda methods on Clinical te
         
       
 #### 2. DE-ID
+    * Environment: perl
+    * Usage       
+        * Scrub on the test dataset:
+        ```
+        (i)  Open Terminal and work under scrubber folder
+        ```
+        ```
+        (ii) Run 'sh scrubber.sh inputFile scrubberConfigurationFile'
+             Example: sh scrubber.sh test.xml conf/ScrubberConfiguration.xml
+        ```
+        ```
+        (iii) System will create a new file under the root folder
+              The scrubbed text is in under 'success' Folder.
+        ```
+        
+        ```diff
+        + Note: dictionary should under the 'conf' folder
+        ```
+        
+        * Analyse on the scubbed text:
+        ```
+        (i) Open process/analysis.py
+        ```
+        ```
+        (ii) Set the output path for the results and Run the file.
+             It will show the Total scubbed number, True positive number, False positive number for each category
+        ```
+        ```diff
+        + If you want to calculate the Recall, you need to mannualy calculate the total number of the PHI.
+        + I use Sublime Text3 and use command+F to find the PHI I interested, 
+        + It will show you the total number in the left corner.
+        ```
 #### 3. PHI-Reducer
 #### 4. MIST
 
