@@ -2,24 +2,26 @@
 The perfomance analysis for De-identification and Colenda methods on Clinical texts.
 
 ## Dictionary Training User Guide
-#### 1.Generate training and test dataset ---- 90%/ 80%/ 70%/ 60%/ 50% of original:
-```
-(i)  Open process/generateTrainFiles.py
-```
-```
-(ii) Set percentage & output path you want and Run the file
-```
+* Environment: python 2.7
+* Usage:
+     * Generate training and test dataset ---- 90%/ 80%/ 70%/ 60%/ 50% of original:
+     ```
+     (i)  Open process/generateTrainFiles.py
+     ```
+     ```
+     (ii) Set percentage & output path you want and Run the file
+     ```
 
-#### 2. Establish external dictionary from the training dataset:
-```
-(i) Open process/dictionaryTraining.py
-```
-```
-(ii) Set the output path for the dictionary and Run the file
-```
-```
-(iii) Add the dictionary in the scrubberConfigurationFile --- conf/ScrubberConfiguration.xml
-```
+     * Establish external dictionary from the training dataset:
+     ```
+     (i) Open process/dictionaryTraining.py
+     ```
+     ```
+     (ii) Set the output path for the dictionary and Run the file
+     ```
+     ```
+     (iii) Add the dictionary in the scrubberConfigurationFile --- conf/ScrubberConfiguration.xml
+     ```
 
 ## Tools User Guide
 #### 1. HMS Scrubber
