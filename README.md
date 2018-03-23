@@ -25,7 +25,7 @@ The perfomance analysis for De-identification and Colenda methods on Clinical te
 
 ## Tools User Guide
 #### 1. HMS Scrubber
-   * Environment: Java 1.8, python 2.7, Apple MacBook
+   * Environment: Java 1.8
    * Usage       
         * Scrub on the test dataset:
         ```
