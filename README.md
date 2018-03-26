@@ -115,7 +115,13 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         (i) Add the dictionary file path to the running file phi_reducer.py line 252,
             as showed in the following image 
         ```
-        <img src="Documents/References/images/phi_reducer.jpg" alt="Drawing" width="800" height="70"/>
+        ```python
+        f_PHI_indictor = open('positionDictionary/positionDictionary.txt','r')
+        linesPHI = f_PHI_indictor.readlines()
+        phi_indicator = []
+        for line in linesPHI:
+            phi_indicator.append(line.rstrip())
+        ```
         
         
         * Scrub on the test dataset:
@@ -123,7 +129,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         (i)  Open Terminal and work under the Working Path
         ```
         ```
-        (ii) Run 'python3 phi_reducer.py'
+        (ii) Run python3 phi_reducer.py
         ```
         ```diff
         + Note: Need to create two folders <input_test> and <output_test>. 
