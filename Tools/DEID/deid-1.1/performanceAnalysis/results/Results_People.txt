@@ -1,0 +1,100 @@
+She has sustained a right inter-trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">[**Hospital 16**] Medical Center</PHI> and transferred to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> for further care by Dr. <PHI TYPE="DOCTOR">Stable</PHI> .
+<PHI TYPE="DOCTOR">VITRA [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 20**]</PHI> , M.D.
+Diet is as tolerated which [**First Name9 (NamePattern2) 23**] [**Female First Name (un) 19**] 1800 calorie diet .
+This is to notify you that your patient , <PHI TYPE="PATIENT">HUHTLAND , CIE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> on <PHI TYPE="DATE">[**09-18**]</PHI>/2001 10:52 AM .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">HEAONBOBURG [**First Name9 (NamePattern2) **] [**Male First Name (un) **] MEDICAL CENTER</PHI> .
+<PHI TYPE="ID">OIYOVF2 [**Last Name (un) 26**]</PHI>
+The patient was evaluated at <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> by Dr. <PHI TYPE="DOCTOR">Do Joasscchird</PHI> for progressive worsening attacks and he was found to have progressive supranuclear palsy .
+This was read as poorly differentiated adenocarcinoma , signet ring cell type with focal intestinal metaplasia that was read by the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> pathologist .
+Dr. <PHI TYPE="DOCTOR">Ca [**Last Name (un) 40**]</PHI> STAT
+He was taken to <PHI TYPE="HOSPITAL">[**Location 44**] Talmi</PHI> and transferred to <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> with a computerized tomography scan showing a 1x2 thalamic capsular hemorrhage without superficial mass effect .
+Dr. <PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) 46**] [**Last Name (un) 47**]</PHI> <PHI TYPE="HOSPITAL">Pasi</PHI> STAT
+She subsequently could not urinate and was in pain secondary to [**Last Name 54**] problem .
+The patient was a 50 year old , right handed , white male with a history of resection of left cerebellar medulloblastoma , resected six years ago and status post chemotherapy and radiation therapy , with a six month history of 30 pound weight loss , who was admitted to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> with a left basilar ganglion hemorrhage .
+He was transferred to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> after being found in the bathroom , on the floor at 8 a.m. , unresponsive .
+Thus , he should return to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> to have a repeat head computerized tomography scan in one month to further evaluate a possible mass lesion behind the hematoma .
+She was referred to Dr. <PHI TYPE="DOCTOR">[**Last Name (un) 64**]</PHI> for evaluation .
+Her case will be discussed at the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> sarcoma conference on <PHI TYPE="DATE">[**05-05**]</PHI>/92 , at which time the radiation therapists , oncologists , pathologists , and orthopedic surgeons will present the case and discuss all options .
+<PHI TYPE="DOCTOR">[**Last Name (un) 66**] THREATSJESCDREPS</PHI> , M.D.
+<PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) 45**] [**Last Name (un) **]</PHI> , M .D.
+<PHI TYPE="DOCTOR">[**Last Name (un) 68**] Douetscarv</PHI> , M.D.
+<PHI TYPE="DOCTOR">[**First Name5 (NamePattern1) 69**] [**Last Name (NamePattern1) 70**]</PHI> , M.D.
+The patient was transferred to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> for consideration of coronary angioplasty .
+<PHI TYPE="DOCTOR">[**Last Name (un) 84**]</PHI>
+<PHI TYPE="DOCTOR">CHITLLIK WINA KOTE</PHI> , M.D. <PHI TYPE="DOCTOR">AO [**First Name9 (NamePattern2) 85**] [**Last Name (un) 86**] LEINA ATNEROBE</PHI> , M.D.
+<PHI TYPE="PATIENT">[**Last Name (LF) 88**] , [**First Name3 (LF) **]</PHI>
+<PHI TYPE="DOCTOR">[**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 92**] LALANIE [**Last Name (NamePattern1) **]</PHI> , M.D. <PHI TYPE="DOCTOR">SHONDMAGSHAO ANDLI SINGLE</PHI> , M.D.
+Follow up with Dr. <PHI TYPE="DOCTOR">[**Last Name (un) 94**]</PHI> within 4 weeks , No Known Allergies
+<PHI TYPE="DOCTOR">[**Last Name (un) 96**] , LUANME A.</PHI> , M.D. ( <PHI TYPE="ID">RW156</PHI> )
+<PHI TYPE="DOCTOR">SPEEGLESTRAPE , [**Last Name (un) 103**] D.</PHI> , M.D. ( <PHI TYPE="ID">WX58</PHI> ) on <PHI TYPE="DATE">[**11-30**]</PHI>/02 05:19
+The patient &apos;s preliminary admitting physician [**Initials (NamePattern4) **] <PHI TYPE="DOCTOR">OBE , [**Initials (NamePattern4) 45**]</PHI> and the preliminary diagnosis is TIA .
+The patient &apos;s preliminary admitting physician [**Initials (NamePattern4) **] <PHI TYPE="DOCTOR">HEAGLEINCHIRD , JEANSIA S</PHI> and the preliminary diagnosis is HIP FRACTURE .
+[**First Name (Titles) 111**] [**Last Name (Titles) 112**] goes through <PHI TYPE="DATE">[**12-21**]</PHI>/03 .
+<PHI TYPE="DOCTOR">FOORDRIG , [**Name Prefix (Prefixes) **] [**Last Name (Prefixes) 114**]</PHI>
+The patient &apos;s preliminary admitting physician [**Initials (NamePattern4) **] <PHI TYPE="DOCTOR">[**Last Name (LF) 118**] , [**First Name3 (LF) 119**] S</PHI> and the preliminary diagnosis is SHORTNESS OF BREATH .
+<PHI TYPE="DOCTOR">[**Last Name (LF) 122**] , [**First Name3 (LF) 123**] N</PHI>
+Your patient was admitted under the care of <PHI TYPE="DOCTOR">[**Last Name (LF) 130**] , [**First Name3 (LF) 131**] Y</PHI> with a preliminary diagnosis of SYNCOPE .
+This patient is a 77 year old female who has had [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 136**] mitral valve replacement on <PHI TYPE="DATE">[**10-28**]</PHI>/76 by Dr. <PHI TYPE="DOCTOR">Melvean Ace</PHI> .
+For the patient , at <PHI TYPE="LOCATION">[**Last Name (un) 137**] , Alaska</PHI> , for Dr. <PHI TYPE="DOCTOR">Avejoh Wierst</PHI> , c / o <PHI TYPE="HOSPITAL">Pedines Community Hospital</PHI> , in <PHI TYPE="LOCATION">[**Street Address 138**] , Biinss , [**State/Zipcode 139**]</PHI> .
+On <PHI TYPE="DATE">[**12-23**]</PHI> , she was seen by Dr. <PHI TYPE="DOCTOR">[**Last Name (un) 64**]</PHI> at <PHI TYPE="HOSPITAL">Bri Health</PHI> where a 3 x 7 cm left mid clavicular mass was noted .
+<PHI TYPE="ID">WE221/9850</PHI> <PHI TYPE="DOCTOR">[**Last Name (un) 160**] C. INSKE</PHI> , M.D. , PH. <PHI TYPE="ID">JT2 FF2</PHI>
+<PHI TYPE="DOCTOR">[**Last Name (un) 161**] L. TIKFREIERM</PHI> , M.D.
+She was started on Pitressin , [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 168**] tube was inserted .
+<PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) 174**] [**Last Name (un) 175**]</PHI> , M.D. , Reproductive Endocrinology <PHI TYPE="DOCTOR">Heifer Freieslowkays</PHI> , M.D. , <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 172**] [**Hospital 5**] Hospital</PHI> , phone number <PHI TYPE="PHONE">[**Telephone/Fax (1) 173**]</PHI> STAT
+She has been seen by Dr. <PHI TYPE="DOCTOR">Tokbelb</PHI> , her primary care physician [**Initials (NamePattern4) **] <PHI TYPE="HOSPITAL">[**Hospital 176**] Hospital</PHI> , and also Dr. <PHI TYPE="DOCTOR">Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> .
+<PHI TYPE="DOCTOR">RIEEA ODEE SAPMAL</PHI> , M.D. <PHI TYPE="DOCTOR">CEALME LEOE MARESSYTHE</PHI> Dr. <PHI TYPE="DOCTOR">Tokbelb</PHI> <PHI TYPE="HOSPITAL">[**Last Name (un) 177**] Health</PHI> <PHI TYPE="LOCATION">Sonsant</[**Name2 (NI) 30**]> .
+The patient &apos;s preliminary admitting physician [**Initials (NamePattern4) **] <PHI TYPE="DOCTOR">CHIRD , GRAJORD C</PHI> and the preliminary diagnosis is PNA .
+7) Coumadin equal to 2.0 , [**First Name5 (NamePattern1) 202**] [**Last Name (NamePattern1) 203**] 20 mEq. per day .
+MYASTHENIA [**Last Name (un) 205**] .
+Unsigned See Complete Discharge Summary for <PHI TYPE="DATE">[**01-09**]</PHI>/97 - <PHI TYPE="DATE">[**First Name8 (NamePattern2) 212**] [**First Name4 (NamePattern1) 213**] [**Last Name (NamePattern1) **] [**Last Name (NamePattern1) 214**]</PHI> .
+She has four children , ages 22 through 27 , and works as a cook at [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 218**] school .
+Findings showed [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 144**] [**Last Name (NamePattern1) 236**] tear , nonspecific duodenitis .
+<PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) **] [**Last Name (un) **]</PHI> , M.D.
+<PHI TYPE="DOCTOR">LI RIJARRED RHALTTLAND</PHI> , M.D. <PHI TYPE="DOCTOR">[**Month/Year (2) **] [**First Name9 (NamePattern2) 237**] [**Last Name (un) **]</PHI> , M.D.
+Also pt needs to have fbs checked by <PHI TYPE="HOSPITAL">AH</PHI> with results called to PCP [**Initials (NamePattern4) 241**] &gt; 250 .
+In <PHI TYPE="DATE">[**09-06**]</PHI> , she presented to her primary local Medical doctor [**First Name (Titles) 242**] [**Last Name (Titles) 243**] complaints of right lower extremity weakness .
+He has not been considered as a candidate for [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 245**] or for pleurodesis , given his position at the top of the transplant list for his blood type , B .
+Since that time , she has used a cane and she was referred to Dr. <PHI TYPE="DOCTOR">[**Last Name (un) 248**]</PHI> .
+<PHI TYPE="PATIENT">[**Last Name (LF) **] , [**First Name3 (LF) 250**]</PHI> <PHI TYPE="ID">452-05-72-1 P40</PHI>
+<PHI TYPE="DOCTOR">SUSHA [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 256**]</PHI> , M.D.
+<PHI TYPE="DATE">[**05-21**]</PHI>/04 <PHI TYPE="DOCTOR">CUCHDRIG , VATA [**Last Name (un) 260**]</PHI> , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT PLEUREX CATH
+The patient has [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 266**] filter in .
+Dr. <PHI TYPE="DOCTOR">[**First Name5 (NamePattern1) 69**] [**Last Name (NamePattern1) 70**]</PHI> of General Surgery consulted on the patient and concluded the patient does not require any surgical treatment of this problem at the current time and the best treatment for this situation would be to increase the patient &apos;s nutrition .
+<PHI TYPE="DOCTOR">Ca [**Last Name (un) 40**]</PHI> , M.D.
+Dr. <PHI TYPE="DOCTOR">[**Last Name (un) 40**]</PHI> .
+<PHI TYPE="DOCTOR">CA [**Last Name (un) **]</PHI> , M.D.
+Dr. <PHI TYPE="DOCTOR">Fields</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton [**Last Name (un) **] N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Pediatric Intensive Care Unit for evaluation and management by Dr. <PHI TYPE="DOCTOR">Fields</PHI> on <PHI TYPE="DATE">[**07-20**]</PHI> in the p.m.
+Well healed [**Last Name (un) 276**] scars and no masses .
+<PHI TYPE="ID">ZQ233/5272</PHI> <PHI TYPE="DOCTOR">EARLLAMARG [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 277**]</PHI> , M.D. <PHI TYPE="ID">RP75</PHI>
+<PHI TYPE="PATIENT">[**Last Name (un) **] , RONHUM</PHI>
+<PHI TYPE="DOCTOR">TI SHEMAU CALL</PHI> , M.D. <PHI TYPE="DOCTOR">[**First Name7 (NamePattern1) **] [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **]</PHI> , M.D. <PHI TYPE="DOCTOR">LYDELL R WORCE</PHI> , M.D. / STAT
+[**Signature 244**] <PHI TYPE="ID">JW167/3190</PHI> <PHI TYPE="DOCTOR">RO [**Initials (NamePattern4) 280**] [**Last Name (NamePattern4) 281**]</PHI> , M.D.
+<PHI TYPE="DOCTOR">RO [**Initials (NamePattern4) 280**] [**Last Name (NamePattern4) 281**]</PHI> , M.D.
+The patient is a 47 year old patient of Dr. <PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) **] [**Last Name (un) 289**]</PHI> and Dr. <PHI TYPE="DOCTOR">Leebjescobe</PHI> in <PHI TYPE="LOCATION">Co In Saorlirv Frea , [**Location 290**]</PHI> who was well until a bout of double pneumonia in <PHI TYPE="DATE">May</PHI> 1992 , at which time he was hospitalized at <PHI TYPE="HOSPITAL">[**Hospital 291**] [**Hospital 292**] Hospital Medical Center</PHI> .
+This was discussed with the patient &apos;s local medical doctor , Dr. <PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) 174**] [**Last Name (un) 175**]</PHI> .
+<PHI TYPE="DOCTOR">WIN [**Last Name (un) 295**]</PHI> , M.D.
+<PHI TYPE="DATE">[**First Name4 (NamePattern1) 298**] [**Last Name (NamePattern1) 214**]</PHI>
+She &apos;s alert , [**Last Name (un) **]-ented times two .
+She had a shunt series which shows an intact , and she should be followed up for this with Doctor <PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) **] [**Male First Name (un) **]</PHI> .
+<PHI TYPE="PATIENT">[**Last Name (un) 299**] , MAPI T</PHI>
+The patient had [**Initials (NamePattern4) **] [**Last Name (NamePattern4) 300**] scan which was negative and it was thought that the right upper quadrant pain was due to liver congestion .
+<PHI TYPE="PATIENT">[**Last Name (un) 301**] , BRIETHAN B</PHI>
+Mr. <PHI TYPE="PATIENT">[**Last Name (un) **]</PHI> then became lethargic and decompensated neurologically .
+1. DR. <PHI TYPE="DOCTOR">[**Last Name (un) 305**] , [**Last Name (un) **]</PHI> , <PHI TYPE="LOCATION">Texas</PHI>
+<PHI TYPE="DOCTOR">[**First Name5 (NamePattern1) 311**] [**Last Name (NamePattern1) **]</PHI> , M.D. CARDIAC EP LAB <PHI TYPE="HOSPITAL">ANWARENLA GLENWER CHILD HOSPITAL OF</PHI>
+<PHI TYPE="DOCTOR">AO [**Last Name (NamePattern1) 85**] FOLK</PHI> , M.D. <PHI TYPE="HOSPITAL">[**Hospital 310**] HEALTH CENTER</PHI>
+<PHI TYPE="DOCTOR">[**Month Day 45**] [**First Name9 (NamePattern2) 121**] [**Last Name (un) **]</PHI> , M.D. <PHI TYPE="ID">LN00</PHI>
+<PHI TYPE="DOCTOR">[**Name Prefix (Prefixes) **] [**Last Name (Prefixes) **]. SKI</PHI> , M.D. <PHI TYPE="ID">OF1 WS584/564649</PHI>
+Cardiovascularly , he developed atrial fibrillation and hypertension during the hospital course and was managed by Dr. <PHI TYPE="DOCTOR">[**Last Name (un) 318**]</PHI> of Cardiology .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Last Name (un) 324**] , LLNO</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-24**]</PHI>/2005 08:04 AM .
+[**First Name (Titles) 325**] [**Last Name (Titles) 326**] and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
+<PHI TYPE="DOCTOR">[**Last Name (un) 327**] , ETTELOREJA L</PHI>
+<PHI TYPE="PATIENT">Cean Leach</PHI> is a 38 year old male who is admitted in transfer from the <PHI TYPE="HOSPITAL">[**Location 335**]Hospital</PHI> in <PHI TYPE="LOCATION">[**Last Name (LF) **] , [**First Name3 (LF) **]</PHI> for further evaluation and management of accelerating chest pains syndrome .
+He was ; therefore , seen in consultation by Dr. <PHI TYPE="DOCTOR">[**Last Name (un) **] Tikfreierm</PHI> of the Hematology Service to evaluate him further for a possible hypocoagulable condition versus primary and secondary platelet abnormality which could explain his recurrent coronary events .
+Repeat in [**Last Name (un) 338**] testing of Mr. <PHI TYPE="PATIENT">Leach</PHI> &apos;s platelets suggested that although they remained refractory to aspirin , they did demonstrate reduced hyperaggragability spontaneously which was felt to be possible reflective of the ticlopidine effect .
+Rheumatology felt that there was no good evidence of a primary vasculitic process as the source of his presumed small [**Last Name (un) 339**] coronary disease and no further rheumatologic work-up was undertaken .
+Dr. <PHI TYPE="DOCTOR">[**Last Name (un) **] Tikfreierm</PHI> of Pediatric Hematology .
+He talked to Dr. <PHI TYPE="DOCTOR">[**Last Name (un) 68**] R. Douetscarv</PHI> yesterday on the phone , who instructed the patient to take 60 milligrams of Lasix on the morning of admission , his usual dose was 40 .
+<PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) **] [**Last Name (un) 305**]</PHI> , M.D.
+This is to notify you that your patient , <PHI TYPE="PATIENT">FYFEUARDFEL , [**Last Name (un) 344**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-20**]</PHI>/2000 12:41 PM .
+Total_People: 146, TP: 14, FP: 132

@@ -1,0 +1,82 @@
+<PHI TYPE="ID">[**Telephone/Fax (1) 8**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 15**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 22**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 25**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 27**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 29**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 36**]</PHI>
+Pro-time with INR on <PHI TYPE="DATE">[**02-03**]</PHI>/2000 with the report faxed to <PHI TYPE="PHONE">[**Telephone/Fax (2) 37**]</PHI> , and VNA administration of Fragmin subcutaneously b.i.d.
+<PHI TYPE="ID">[**Telephone/Fax (1) 43**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 62**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 76**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 76**]</PHI>
+If you need additional information please call <PHI TYPE="PHONE">[**Telephone/Fax (2) 77**]</PHI> .
+<PHI TYPE="ID">[**Telephone/Fax (1) 79**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 90**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 91**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 98**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 104**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 106**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 106**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 108**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 108**]</PHI>
+If you need additional information please call <PHI TYPE="PHONE">[**Telephone/Fax (2) 77**]</PHI> .
+<PHI TYPE="DOCTOR">SECOND , CA</PHI> Dictation ID <PHI TYPE="ID">[**Telephone/Fax (1) 115**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 117**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 120**]</PHI>
+<PHI TYPE="PATIENT">JUNK , [**Telephone/Fax (1) 121**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 126**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 129**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 135**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 143**]</PHI>
+<PHI TYPE="PATIENT">JUNK , [**Telephone/Fax (1) 121**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 156**]</PHI>
+My direct pager is <PHI TYPE="PHONE">[**Telephone/Fax (2) 165**]</PHI> .
+<PHI TYPE="ID">[**Telephone/Fax (1) 166**]</PHI>
+The testing was performed by a staff neuropsychologist , Dr. <PHI TYPE="DOCTOR">Lornsook Trusmoag</PHI> , PhD , telephone number <PHI TYPE="PHONE">[**Telephone/Fax (1) 171**]</PHI> .
+The phone number is <PHI TYPE="PHONE">[**Telephone/Fax (1) 173**]</PHI> .
+<PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) 174**] [**Last Name (un) 175**]</PHI> , M.D. , Reproductive Endocrinology <PHI TYPE="DOCTOR">Heifer Freieslowkays</PHI> , M.D. , <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 172**] [**Hospital 5**] Hospital</PHI> , phone number <PHI TYPE="PHONE">[**Telephone/Fax (1) 173**]</PHI> STAT
+<PHI TYPE="ID">[**Telephone/Fax (1) 178**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 179**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 179**]</PHI>
+If you need additional information please call <PHI TYPE="PHONE">[**Telephone/Fax (2) 180**]</PHI> .
+<PHI TYPE="ID">[**Telephone/Fax (1) 192**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 195**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 207**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 209**]</PHI>
+If you need additional information please call <PHI TYPE="PHONE">[**Telephone/Fax (2) 180**]</PHI> .
+<PHI TYPE="ID">[**Telephone/Fax (1) 211**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 216**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 221**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 225**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 227**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 229**]</PHI>
+Discharge follow up will be with Dr. <PHI TYPE="DOCTOR">Burgeshuff</PHI> &apos;s service ( <PHI TYPE="PHONE">[**Telephone/Fax (1) 230**]</PHI> ) .
+<PHI TYPE="ID">[**Telephone/Fax (1) 232**]</PHI>
+<PHI TYPE="DOCTOR">NORFJESCSTOOKS , SALENE MARGGAY</PHI> Dictation ID <PHI TYPE="ID">[**Telephone/Fax (1) 234**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 235**]</PHI>
+Dr. <PHI TYPE="DOCTOR">Valo Freiermplauchefelv</PHI> ( <PHI TYPE="PHONE">[**Telephone/Fax (2) 251**]</PHI> ) within 1 week , No Known Allergies
+<PHI TYPE="ID">[**Telephone/Fax (1) 252**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 253**]</PHI>
+If you need additional information please call <PHI TYPE="PHONE">[**Telephone/Fax (2) 180**]</PHI> .
+<PHI TYPE="ID">[**Telephone/Fax (1) 262**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 265**]</PHI>
+Hemoglobin 12.2 , hematocrit 36.6 , MCV 89 , platelets [**Telephone/Fax (1) 268**] .
+<PHI TYPE="ID">[**Telephone/Fax (1) 272**]</PHI>
+<PHI TYPE="DOCTOR">SWATLLEEBTIK , TELSHEY</PHI> Dictation ID <PHI TYPE="ID">[**Telephone/Fax (1) 288**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 294**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 297**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 313**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 314**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 317**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 323**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 323**]</PHI>
+If you need additional information please call <PHI TYPE="PHONE">[**Telephone/Fax (2) 180**]</PHI> .
+<PHI TYPE="ID">[**Telephone/Fax (1) 328**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 330**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 332**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 334**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 343**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 345**]</PHI>
+<PHI TYPE="ID">[**Telephone/Fax (1) 349**]</PHI>
+Total_Telephone: 81, TP: 13, FP: 68

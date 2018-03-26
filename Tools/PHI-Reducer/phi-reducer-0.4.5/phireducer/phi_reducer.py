@@ -181,7 +181,7 @@ def namecheck(word_output, name_set, screened_words, safe):
            # fout.write(word_output + '\n')
         # print('Name:', word_output)
         screened_words.append(word_output)
-        word_output = "**PHI**"
+        word_output = "**PHIName**"
         safe = False
 
     else:
@@ -199,7 +199,7 @@ def namecheck(word_output, name_set, screened_words, safe):
             # print('Name:', word_output)
             screened_words.append(word_output)
             name_set.add(word_output.title())
-            word_output = "**PHI**"
+            word_output = "**PHIName**"
             safe = False
 
     return word_output, name_set, screened_words, safe
@@ -249,7 +249,11 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                             'causeway', 'canyon', 'parkway', 'esplanade', 'approach', 'parade', 'park',
                             'plaza', 'promenade', 'quay', 'bypass']
 
-
+        f_PHI_indictor = open('positionDictionary/positionDictionary.txt','r')
+        linesPHI = f_PHI_indictor.readlines()
+        phi_indicator = []
+        for line in linesPHI:
+            phi_indicator.append(line.rstrip())
                          
         note = fin.read()
         # Begin Step 1: saluation check
@@ -263,8 +267,14 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
        
         # Begin Step 3: Pattern checking
         for sent in note: 
+
+            # add dictionary:
+            for item in phi_indicator:
+                if (sent.find(item) != -1):
+                    screened_words.append(item)
+                    sent = sent.replace(item, '**PHIDictionary**')
+
             # postal code check
-           
             if pattern_postal.findall(sent) != []:
                 safe = False
                 for item in pattern_postal.findall(sent):
@@ -277,7 +287,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                     if (re.search(r'\d', item) is not None and
                         re.search(r'[A-Z]',item) is not None):
                         screened_words.append(item)
-                        sent = sent.replace(item, '**PHI**')
+                        sent = sent.replace(item, '**PHIPostal**')
 
             # number check
             if pattern_number.findall(sent) != []:
@@ -285,7 +295,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                 for item in pattern_number.findall(sent):
                     # print(item)
                     #if pattern_date.match(item[0]) is None:
-                    sent = sent.replace(item[0], '**PHI**')
+                    sent = sent.replace(item[0], '**PHINumber**')
                     screened_words.append(item[0])
                     #print(item[0])
             #sent = str(pattern_number.sub('**PHI**', sent))
@@ -330,13 +340,13 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                 safe = False
                 for item in pattern_4digits.findall(sent):
                     screened_words.append(item)
-            sent = str(pattern_4digits.sub('**PHI**', sent))
+            sent = str(pattern_4digits.sub('**PHINumber**', sent))
             # email check
             if pattern_email.findall(sent) != []:
                 safe = False
                 for item in pattern_email.findall(sent):
                     screened_words.append(item)
-            sent = str(pattern_email.sub('**PHI**', sent))
+            sent = str(pattern_email.sub('**PHIEmail**', sent))
             # url check
             if pattern_url.findall(sent) != []:
                 safe = False
@@ -348,7 +358,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                         len(item[0])>10):
                         print(item[0])
                         screened_words.append(item[0])
-                        sent = sent.replace(item[0], '**PHI**')
+                        sent = sent.replace(item[0], '**PHIURL**')
                         #print(item[0])
             #sent = str(pattern_url.sub('**PHI**', sent))
             # dob check
@@ -366,6 +376,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                         screened_words.append(re_list[i][1])
                     i += 2
             '''
+
             
             # Begin Step 4
             # substitute spaces for special characters 
@@ -376,6 +387,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
 
             # split sentences into words
             sent = [word_tokenize(sent)]
+
             #print(sent)
             # Begin Step 5: context level pattern matching with regex 
             for position in range(0, len(sent[0])):
@@ -394,7 +406,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                     age_string = str(word_previous) + str(word_after)
                     if pattern_age.findall(age_string) != []:
                         screened_words.append(sent[0][position])
-                        sent[0][position] = '**PHI**'
+                        sent[0][position] = '**PHIAge**'
                         safe = False
                 # check if the context around comma is name
 
@@ -407,7 +419,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
 
                     if sent[0][position - 1].istitle() or sent[0][position-1].isupper():
                         screened_words.append(sent[0][position - 1])
-                        sent[0][position - 1] = '**PHI**'
+                        sent[0][position - 1] = '**PHIAddress**'
                         i = position - 1
                         # find the closet number, should be the number of street
                         while True:
@@ -436,7 +448,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                         for i in range(begin_position, end_position):
                             #if sent[0][i] != '**PHIPostal**':
                             screened_words.append(sent[0][i])
-                            sent[0][i] = '**PHI**'
+                            sent[0][i] = '**PHIPosition**'
                             safe = False
 
 
@@ -520,7 +532,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                           
                             if word_check.lower() not in whitelist_dict:
                                 screened_words.append(word_output)
-                                word_output = "**PHI**"
+                                word_output = "**PHIName**"
                                 safe = False
                             else:
                                 # For words that are in whitelist, check to make sure that we have not identified them as names
@@ -545,7 +557,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                                 if pattern_mname.search(j[0]) is not None:
                                     screened_words.append(word_output)
                                     #print(word_output)
-                                    word_output = "**PHI**"
+                                    word_output = "**PHIDate**"
                                     safe = False
                                     break
                         else:
@@ -555,7 +567,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
                     except:
                         print(word_output, sys.exc_info())
                     if word_output.lower()[0] == '\'s':
-                        if phi_reduced[-7:] != '**PHI**':
+                        if phi_reduced[-7:] != '**PHIName**':
                             phi_reduced = phi_reduced + word_output
                         #print(word_output)
                     else:
@@ -575,7 +587,9 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
             if pattern_mname.findall(phi_reduced) != []:
                 for item in pattern_mname.findall(phi_reduced):
                     screened_words.append(item[0])
-            phi_reduced = pattern_mname.sub('**PHI**', phi_reduced)
+            phi_reduced = pattern_mname.sub('**PHIName**', phi_reduced) +'\n'
+            # print (phi_reduced)
+
 
             #if pattern_middle.findall(phi_reduced) != []:
                 #for item in pattern_middle.findall(phi_reduced):
@@ -592,6 +606,7 @@ def filter_task(f, whitelist_dict, foutpath, key_name):
         filepath = os.path.join(foutpath, filename)
         with open(filepath, "w") as phi_reduced_note:
             phi_reduced_note.write(phi_reduced)
+           
 
         # save filtered words
         #screened_words = list(filter(lambda a: a!= '**PHI**', screened_words))
@@ -667,7 +682,7 @@ def main():
     with open(filepath, 'w') as fout:
         fout.write("")
     # start multiprocess
-    pool = Pool(processes=process_number)
+    # pool = Pool(processes=process_number)
 
     results_list = []
     filter_time = time.time()
@@ -684,11 +699,15 @@ def main():
 
    
     try:
-        total_records, phi_containing_records = [filter_task (f, whitelist, foutpath, key_name) for f in glob.glob(finpath+"/*.xml")]
+        # f = "./input_test/original_test50.txt"
+        # total_records, phi_containing_records = filter_task (f, whitelist, foutpath, key_name)
+        total_records, phi_containing_records = [filter_task (f, whitelist, foutpath, key_name) for f in glob.glob(finpath+"*.txt")]
         # results_list = [r.get() for r in results]
         # total_records, phi_containing_records = zip(*results_list)
         # total_records = sum(total_records)
+       
         phi_containing_records = sum(phi_containing_records)
+        
         print("total records:", total_records, "--- %s seconds ---" % (time.time() - start_time_all))
         print('filter_time', "--- %s seconds ---" % (time.time() - filter_time))
         print('total records processed: {}'.format(total_records))
@@ -697,8 +716,8 @@ def main():
         print("No txt file in the input folder.")
         pass
     
-    pool.close()
-    pool.join()
+    # pool.close()
+    # pool.join()
 
 
     # close multiprocess
