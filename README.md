@@ -77,7 +77,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```      
         ```diff
         + Note: The easiest way to add dictionary for this method is just copy and paste our 
-                dictionary content into that files already existed.             
+        +       dictionary content into that files already existed.             
         ```
         
         * Scrub on the test dataset:
@@ -126,7 +126,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         ```diff
         + Note: Need to create two folders <input_test> and <output_test>. 
-                Put all of the text you want to scrub into the <input_test> folder         
+        +       Put all of the text you want to scrub into the <input_test> folder         
         ```
         
         ```
