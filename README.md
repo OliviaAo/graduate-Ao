@@ -114,8 +114,9 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         (i) Add the dictionary file path to the running file phi_reducer.py line 252,
             as showed in the following image 
-            ![alt text](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/images/phi_reducer.jpg)
-        ```    
+        ```
+        <img src="Documents/References/images/phi_reducer.jpg" alt="Drawing" width="800" height="70"/>
+        
         
         * Scrub on the test dataset:
         ```
