@@ -115,13 +115,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         (i) Add the dictionary file path to the running file phi_reducer.py line 252,
             as showed in the following image 
         ```
-        ```python
-        f_PHI_indictor = open('positionDictionary/positionDictionary.txt','r')
-        linesPHI = f_PHI_indictor.readlines()
-        phi_indicator = []
-        for line in linesPHI:
-            phi_indicator.append(line.rstrip())
-        ```
+        <img src="Documents/References/images/phi_reducer.jpg" alt="Drawing" width="1000" height="70"/>
         
         
         * Scrub on the test dataset:
