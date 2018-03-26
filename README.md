@@ -54,7 +54,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         
         * Analyse on the scubbed texts:
         ```
-        (i) Open performanceAnalysis/analysis.py
+        (i) Open performanceAnalysis/hms_analysis.py
         ```
         ```
         (ii) Set the output path for the results and Run the file.
@@ -99,7 +99,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         
         * Analyse on the scubbed text:
         ```
-        (i) Open performanceAnalysis/analysis.py
+        (i) Open performanceAnalysis/deid_analysis.py
         ```
         ```
         (ii) Set the output path for the results and Run the file.
@@ -135,7 +135,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         
         * Analyse on the scubbed text:
         ```
-        (i) Open performanceAnalysis/analysis.py
+        (i) Open performanceAnalysis/phi_reducer_analysis.py
         ```
         ```
         (ii) Set the output path for the results and Run the file.
