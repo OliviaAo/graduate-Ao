@@ -201,7 +201,8 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
        ```
 
 ## Articles:
-- [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1471-2288-1070.pdf)
+- [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1.pdf)
+- [BoB, a best-of-breed automated text de-identification system for VHA clinical documents'] (https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/2.pdf)
 
 ## Author
 * **Ao Li** 
