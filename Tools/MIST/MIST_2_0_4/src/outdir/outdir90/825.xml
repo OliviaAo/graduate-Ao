@@ -1,0 +1,33 @@
+<RECORD ID="825">
+<TEXT>
+<ID>494826897</ID>
+<HOSPITAL>PUOMC</HOSPITAL>
+<ID>7377000</ID>
+<ID>061775</ID>
+<ID>9693405</ID>
+<DATE>9/24/2005</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+<PATIENT>BURCE , LLNO</PATIENT>
+MRN :
+<ID>7377000</ID>
+Age :
+74y
+REGISTRATION DATE :
+<DATE>09/24/2005</DATE> 08:04 AM
+PRELIMINARY REPORT
+The patient presented with a chief complaint of FEVER / CHANGE IN MS.
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>PH UNIVERSITY OF MEDICAL CENTER</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is <DOCTOR>SHUFFFYFE , LIE</DOCTOR> and the preliminary diagnosis is CHANGE IN MS.
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>639-873-2993</PHONE> .
+PCP Name :
+<DOCTOR>AGLE , ETTELOREJA L</DOCTOR>
+Provider Number :
+<ID>60159</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

@@ -1,0 +1,33 @@
+<RECORD ID="827">
+<TEXT>
+<ID>355169172</ID>
+<HOSPITAL>PUOMC</HOSPITAL>
+<ID>5785142</ID>
+<ID>543180</ID>
+<ID>822860</ID>
+<DATE>8/25/2002</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+ED DISCHARGE NOTIFICATION
+<PATIENT>CHESNECHESNEWIERST , AMESAND</PATIENT>
+MRN :
+<ID>5785142</ID>
+Age :
+85y
+REGISTRATION DATE :
+<DATE>08/25/2002</DATE> 01:40 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>CHESNECHESNEWIERST , AMESAND</PATIENT> arrived in the Emergency Department at <HOSPITAL>Ph University Of Medical Center</HOSPITAL> on <DATE>08/25/2002</DATE> 01:40 PM .
+The patient presented with a chief complaint of L HIP PAIN S / P PAIN .
+The patient &apos;s preliminary admitting physician is <DOCTOR>RHALTTLAND , LI R</DOCTOR> and the preliminary diagnosis is L HIP FX .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>639-873-2993</PHONE> .
+PCP Name :
+<DOCTOR>SHUFFFYFE , LIE</DOCTOR>
+Provider Number :
+<ID>72033</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

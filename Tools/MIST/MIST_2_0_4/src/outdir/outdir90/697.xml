@@ -1,0 +1,32 @@
+<RECORD ID="697">
+<TEXT>
+<ID>113718360</ID>
+<HOSPITAL>BH</HOSPITAL>
+<ID>7198495</ID>
+<ID>872738</ID>
+<DATE>8/24/2004</DATE> 12:00:00 AM
+ED Discharge Summary
+Unsigned
+DIS
+Report Status :
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>CARD , I</PATIENT>
+MRN :
+<ID>7198495</ID>
+Age :
+REGISTRATION DATE :
+<DATE>08/24/2004</DATE> 03:43 AM
+PRELIMINARY REPORT
+The patient presented with a chief complaint of DIFF. BREATH .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>BRI HEALTH</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is <DOCTOR>TLANDFLENT , MAREN S</DOCTOR> and the preliminary diagnosis is SHORTNESS OF BREATH .
+Please note this information may have been updated on the inpatient unit .
+If you need additional information please call <PHONE>442-025-0303</PHONE> .
+PCP Name :
+<DOCTOR>ROGONDLUC , DAVELUZTI A</DOCTOR>
+Provider Number :
+<ID>73101</ID>
+[ report_end ]
+</TEXT>
+</RECORD>

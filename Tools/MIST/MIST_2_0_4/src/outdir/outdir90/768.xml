@@ -1,0 +1,77 @@
+<RECORD ID="768">
+<TEXT>
+<ID>919585859</ID>
+<HOSPITAL>CTMC</HOSPITAL>
+<ID>13174343</ID>
+<DATE>7/2/2001</DATE> 12:00:00 AM
+diastolic dysfunction
+DIS
+Report Status :
+Discharge Date :
+<DATE>07/08/2001</DATE>
+<PATIENT>REEF , SANTA</PATIENT> <ID>452-05-72-1 P40</ID>
+Room :
+<HOSPITAL>97V-082</HOSPITAL>
+Service :
+MED
+DISCHARGE PATIENT ON :
+<DATE>07/08/01</DATE> AT 12:00 PM CONTINGENT UPON HO evaluation
+WILL D / C ORDER BE USED AS THE D / C SUMMARY :
+YES
+DISPOSITION :
+Nursing home
+DISCHARGE MEDICATIONS :
+ECASA ( ASPIRIN ENTERIC COATED ) 81 MG PO QD Starting IN AM ( <DATE>07/09</DATE> )
+LASIX ( FUROSEMIDE ) 80 MG PO QD Starting on <DATE>7/8</DATE>
+GLUCOTROL ( GLIPIZIDE ) 2.5 MG PO QAM Starting IN AM ( <DATE>07/09</DATE> )
+ZESTRIL ( LISINOPRIL ) 40 MG PO QAM Starting IN AM ( <DATE>07/09</DATE> )
+Override Notice :
+Override added on <DATE>07/04/01</DATE> by <DOCTOR>MAAG , TRUDERA</DOCTOR> , M.D. , MPH on order for K-DUR PO 20 MEQ x1 ( ref <ID>68420713</ID> )
+POTENTIALLY SERIOUS INTERACTION :
+LISINOPRIL and POTASSIUM CHLORIDE
+Reason for override :
+med aware :
+Previous override information :
+Override added on <DATE>07/03/01</DATE> by <DOCTOR>MAAG , TRUDERA</DOCTOR> , M.D. , MPH on order for KCL IV ( ref <ID>34939302</ID> )
+POTENTIALLY SERIOUS INTERACTION :
+LISINOPRIL and POTASSIUM CHLORIDE
+Reason for override :
+med aware
+LISINOPRIL and POTASSIUM CITRATE
+Reason for override :
+K = 4.0 , on lasix
+MAGNESIUM OXIDE ( MAGNESIUM OXIDE ( HEAVY ) ) 420 MG PO QD Starting IN AM ( <DATE>07/&apos;06</DATE> )
+NORVASC ( AMLODIPINE ) 2.5 MG PO QD Starting IN AM ( <DATE>07/&apos;06</DATE> )
+Avoid grapefruit unless MD instructs otherwise .
+Food / Drug Interaction Instruction
+Give on an empty stomach ( give 1hr before or 2hr after food ) TOPROL XL ( METOPROLOL ( SUST. REL. ) )
+Food / Drug Interaction Instruction
+PREVACID ( LANSOPRAZOLE ) 30 MG PO QD Starting IN AM ( <DATE>07/09</DATE> ) Activity-As tolerated
+RETURN TO WORK :
+Not Applicable
+Dr. <DOCTOR>Valo Freiermplauchefelv</DOCTOR> ( <PHONE>349-034-0703</PHONE> ) within 1 week , No Known Allergies
+ADMIT DIAGNOSIS :
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) diastolic dysfunction
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay DM ( diabetes mellitus ) , GERD ( gastroesophageal reflux disease ) CHF congestive heart failure ) , HTN
+OTHER TREATMENTS / PROCEDURES ( NOT IN O.R. )
+BRIEF RESUME OF HOSPITAL COURSE :
+87 yo female with PMHx diastolic dysfunction , HTN , DM , recent OSH admit for pulmonary edema , admitted with dyspnea , desat to 68% RA , severe HTN , and ? chest pain .
+In CHF with acute respiratory distress , and markedly hypertensive to ~ 220/120 , improved with nitropaste and lasix ( responds well to 60 IV ) to sat of 95% 2L .
+After became euvolemic , again had episode of flash pulmonary edema , this time without severe HTN .
+Also had an asymptomatic run of NSVT on monitor .
+Echo showed EF 35-40% , LVH , mild MR , mild-mod TR .
+Ruled out for MI with EKG showing sinus bradycardia , mild ST depressions inferolaterally with diffuse TWF / TWI ( suspected strain pattern ) .
+Pharmacologic MIBI showed diastolic dysfunction , with no evidence of major-vessel coronary insufficiency , and transient increase in right sided pressures especially with exercise .
+Renal function remained stable throughout hospital course .
+Sat 92% RA upon discharge .
+ADDITIONAL COMMENTS :
+It is important that diet is always SALT RESTRICTED to avoid precipitating CHF .
+Follow blood pressure , and notify doctor if SBP is consistently above 130 .
+Stable
+ENTERED BY :
+<DOCTOR>FONG , CONEY N</DOCTOR> , MD ( <ID>ZY63</ID> )
+<DATE>07/08/01</DATE> 10:50 AM
+****** END OF DISCHARGE ORDERS ******
+[ report_end ]
+</TEXT>
+</RECORD>

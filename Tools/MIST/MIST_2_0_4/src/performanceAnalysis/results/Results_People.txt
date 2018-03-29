@@ -1,0 +1,430 @@
+<PHI TYPE="DOCTOR">ZIE M. [DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]
+_________________________ <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">AZEL [DOCTOR] , M.D.
+ACUTE MYELOGENOUS [DOCTOR] .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">SKILUCRE , CINEJEANALF [DOCTOR] , M.D. , PH.D. ( <PHI TYPE="ID">[DATE] )
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+She has sustained a right inter-trochanteric hip fracture both treated at <PHI TYPE="[HOSPITAL]/PHI> and transferred to the <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> for further care by Dr. [DOCTOR]"DOCTOR">Stable</PHI> .
+Dr. [DOCTOR]"DOCTOR">Stable</PHI> elected to start her on Bactrim for a five day course .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. STAT
+XRT , Friday , 10am  <PHI TYPE="DATE">[DATE] scheduled , Dr. [DOCTOR]"DOCTOR">Xellcaugh</PHI> , call next week , No Known Allergies
+He subsequently underwent bronchoscopy and bx revealed non-small cell adeno [DOCTOR] .
+[DOCTOR] , LBP. ENDO--Glucose control monitored while on decadron with SSRI coverage .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">HEAONBOBURG [DOCTOR] [HOSPITAL][DATE] .
+Mr. [PATIENT] TYPE="PATIENT">Tlandpiernshi</PHI> underwent coronary artery bypass grafting x2 with saphenous vein graft to the obtuse marginal , and saphenous vein graft to the left anterior descending artery on <PHI TYPE="DATE">[DATE] .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="PATIENT">[PATIENT] [ID]
+In <PHI TYPE="DATE">[DATE] , the patient underwent an APR with excision of liver nodule , intraoperative radiation therapy , and pelvic omentoplasty with descending colostomy by Dr. [DOCTOR]"DOCTOR">Berger</PHI> .
+The patient will have follow-up with Dr. [DOCTOR]"DOCTOR">Berger</PHI> in three weeks .
+<PHI TYPE="DOCTOR">ANRUCHELLE [DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE] 12:07 P <PHI TYPE="ID">205025</PHI>
+<PHI TYPE="DOCTOR">ELKSREIDL , CAELL<[DOCTOR] , M.D. ( <PHI TYPE="ID">[DATE] )
+<PHI TYPE="DOCTOR">ELKSREIDL , CAELL<[DOCTOR] , M.D. ( <PHI TYPE="ID">[DATE] ) on <PHI TYPE="DATE">[DATE] 04:48 PM
+The patient was evaluated at <PHI TYPE="HOSPITAL">[HOSPITAL][ID] by Dr. [DOCTOR]"DOCTOR">Do [DATE] for progressive worsening attacks and he was found to have progressive supranuclear palsy .
+_____________________________ <PHI TYPE="DOCTOR">DOLL M. [DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">zro</PHI>
+The patient was discharged home with nursing care and will be followed by Dr. [DOCTOR]"DOCTOR">Fyfesaul</PHI> with her first appointment on <PHI TYPE="DATE">[DATE] .
+Electronically Signed <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+Dr. [DOCTOR]"DOCTOR">Ca Shuff</PHI> STAT
+DR. <PHI TYPE="DOCTOR">[DOCTOR] , <PHI TYPE="HOSPITAL">LI HOSPITAL</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DATE]
+Dr. [DOCTOR]"DOCTOR">Namarce Aldridge</PHI> <PHI TYPE="HOSPITAL">Pasi</PHI> STAT
+The patient is to return to the follow up care of Dr. [DOCTOR]"DOCTOR">[DATE] at the <PHI TYPE="HOSPITAL">Diy Hospital</PHI> .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] [ID] DATA :
+On <PHI TYPE="DATE">[DATE]</PHI>[DATE] she was taken to the operating room at which time she underwent an aortic valve replacement with a # 19 St. [DOCTOR] valve , coronary artery bypass graft times one with saphenous vein graft from the posterior descending artery to the obtuse marginal and right carotid endarterectomy .
+<PHI TYPE="DOCTOR">DO [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+Her letter was referred to Dr. [DOCTOR]"DOCTOR">Earllamarg Para</PHI> who saw her in the office and recommended vaginal hysterectomy .
+Significant for a lower left saphenous vein thrombosis diagnosed with lower extremity non-invasives and on [DATE]"DATE">[DATE] with no evidence of deep venous thrombosis and clearance by Dr. [DOCTOR]"DOCTOR">Ribreefcheampner</PHI> for further intervention .
+The patient was also seen by Dr. [DOCTOR]"DOCTOR">Nusc</PHI> from General Surgery for evaluation of micro calcifications in the right breast .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D , <PHI TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+[DOCTOR] TYPE="DATE">[DATE]
+Patient is to be subsequently followed up by Dr. [DOCTOR]"DOCTOR">Memory</PHI> .
+She will be followed up by Dr. [DOCTOR]"DOCTOR">Liermfelsbelb</PHI> .
+The patient is being discharged in stable condition , and is to be followed up with Dr. [DOCTOR]"DOCTOR">Liermfelsbelb</PHI> .
+<PHI TYPE="DOCTOR">LENTNY M. [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+Dr. [DOCTOR]"DOCTOR">Right</PHI> will see him in one week .
+CABG TIMES THREE [DOCTOR] .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+These findings were reviewed with Dr. [DOCTOR]"DOCTOR">Patella</PHI> and together we decided that conservative therapy would be the appropriate first choice in Mr. <PHI TYPE="PATIENT">Breun</PHI> &apos;s management .
+Dr. [DOCTOR]"DOCTOR">[DOCTOR]/PHI>
+She was referred to Dr. [DOCTOR]"DOCTOR">Stonge</PHI> for evaluation .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M .D.
+[DOCTOR]"DATE">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="HOSPITAL">HLGMC</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">Gittetumn [DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+Dr. [DOCTOR]"DOCTOR">Aalv [DOCTOR] [ID] [DOCTOR] TYPE="HOSPITAL">Pasi</PHI>
+[DOCTOR]"DOCTOR">jb / bmot</PHI>
+<PHI TYPE="DOCTOR">GLOMOBESAP , BAMJET [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">NELLFYFE , [DOCTOR] , M.D. , PH.D. ( <PHI TYPE="ID">[DATE] )
+Mr. [PATIENT] TYPE="PATIENT">Larsen</PHI> was a 50-year-old salesman who in <PHI TYPE="DATE">[DATE] was noted to have an elevated platelet count of 778,000 .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">ACKCA , [DOCTOR][ID]
+[DOCTOR] TYPE="ID">78369</PHI>
+<PHI TYPE="PATIENT">[PATIENT]
+HE HAS DYSPNEA ON EXERTION , HOWEVER , DENIES [DOCTOR] , PAROXYSMAL NOCTURNAL DYSPNEA OR LOWER EXTREMITY EDEMA .
+CAPTOPRIL 12.5 MG PO TID ALPRAZOLAM ( XANAX ) 1 MG PO BID IPRATROPIUM INHALER ( ATROVENT INHALER ) 2 PUFF INH QID VANCOMYCIN HCL 750 MG IV [DOCTOR] TABLETS 2 TAB PO BID WARFARIN SODIUM ( COUMADIN ) 5 MG PO QD OXYCODONE 5 MG / ACETAMINOPHEN 325 MG 1-2 TAB PO Q6-8 H PRN PAIN D / C ORDER INSTRUCTIONS :
+[DOCTOR] INSTRUCTIONS :
+[DOCTOR]"DOCTOR">khu</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">AO [DOCTOR] , M.D.
+We contacted the patient &apos;s primary care physician , Dr. [DOCTOR]"DOCTOR">Aslinke</PHI> ______ , regarding his cardiac medication management .
+2. The patient will have follow-up with Dr. [DOCTOR]"DOCTOR">Para</PHI> in three weeks .
+<PHI TYPE="DOCTOR">LAKO [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">DOJE [DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE] 10:49
+_____________________________ <PHI TYPE="DOCTOR">DOJE [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">DOJE [DOCTOR] , M.D.
+Mr. [PATIENT] TYPE="PATIENT">Rule</PHI> on [DATE]"DATE">[DATE] at 1 PM had the acute onset of dizziness , headache , right arm and leg weakness as he was getting to stand up from watching TV .
+[DOCTOR] bleeds including 1999 while on aspirin , reported negative EGD and colonoscopy .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">SHONDMAGSHAO [DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE] 10:[DATE]
+[DOCTOR]"DOCTOR">tm</PHI>
+<PHI TYPE="DOCTOR">ASHA ERELLEDEN [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">SHONDMAGSHAO [DOCTOR] , M.D.
+[DOCTOR] TYPE="HOSPITAL">NVH</PHI>
+<PHI TYPE="DOCTOR">DREPSFEL , MA [DOCTOR] , M.D.
+Follow up with Dr. [DOCTOR]"DOCTOR">Briz</PHI> within 4 weeks , No Known Allergies
+<PHI TYPE="DOCTOR">LEUNG , [DOCTOR] , M.D. ( <PHI TYPE="ID">[DATE] )
+A [PATIENT] and Swallow evaluation initially deemed her an aspiration risk , and she was taken of PO &apos;s .
+MEDICATIONS ON TRANSFER TO THE <PHI TYPE="HOSPITAL">[HOSPITAL][ID] [DOCTOR] TYPE="HOSPITAL">APER HOSPITAL</PHI> :
+Include [DOCTOR] , CODEINE , TETRACYCLINE , NITROFURANTOIN .
+Excellent suggestions from Dr. [DOCTOR]"DOCTOR">Pa</PHI> of the Renal Service included repeating anticardiolipin and lupus anticoagulant , given the patient &apos;s weakly positive lupus anticoagulant in the past and the fact that this could be associated with severe and rapid cognitive decline that was observed in this patient .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. , PH.D
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. , PH.D
+_____________________________ <PHI TYPE="DOCTOR">AVEJOH IRY [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">AVEJOH IRY [DOCTOR] , M.D. STAT
+Dr. [DOCTOR]"DOCTOR">Shidoyleflich</PHI> in 3 weeks , No Known Allergies
+<PHI TYPE="DOCTOR">[DOCTOR] I.</[DOCTOR] , M.D. DIAG .
+<PHI TYPE="DOCTOR">[DOCTOR] D.</[DOCTOR] , M.D. ( <PHI TYPE="ID">[DATE] ) on <PHI TYPE="DATE">[DATE] 05:19
+<PHI TYPE="PATIENT">SIAYUDE [DOCTOR] [ID]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+She had recently seen Dr. [DOCTOR]"DOCTOR">Zetllille</PHI> approximately ten days prior and offered an operation at that time which she refused and wanted to further consider her options .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">en</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">FOORDRIG , [DOCTOR][ID]
+[DOCTOR] TYPE="DOCTOR">SECOND , CA</PHI> Dictation ID <PHI TYPE="ID">[DATE]
+At this point she had an elevated [DOCTOR] 125 at 440 and came to Dr. [DOCTOR]"DOCTOR">Chabechird</PHI> for further consultation .
+The patient was instructed to follow up with Dr. [DOCTOR]"DOCTOR">[DATE] .
+[DOCTOR]"DATE">[DATE] 15:45
+_____________________________ <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+Electronically Signed <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">wc</PHI>
+Mr. [PATIENT] TYPE="PATIENT">Tennis</PHI> is a 65-year-old , white male , status post myocardial infarction x two , status post coronary artery bypass graft x three , with an ejection fraction of 20% on transplant workup , who presents with recurrent shortness of breath , chest pain , and light-headedness .
+He was discharged on [DATE]"DATE">[DATE] with follow-up of his PT / PTT values on [DATE] the <PHI TYPE="DATE">[DATE] , as well as three times a week in the following week , and follow-up with Dr. [DOCTOR]"DOCTOR">Most</PHI> within two weeks .
+<PHI TYPE="DOCTOR">ANNETIFF [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+This patient is a 77 year old female who has had a Hancock mitral valve replacement on <PHI TYPE="DATE">[DATE] by Dr. [DOCTOR]"DOCTOR">Melvean Ace</PHI> .
+In 1988 , she developed chronic obstructive pulmonary disease and asthma , and has been followed by Dr. [DOCTOR]"DOCTOR">Times</PHI> , as well as the pulmonologist down where she lives .
+If she remains stable over the next couple of days , she will be discharged on this program , to be followed jointly by Dr. [DOCTOR]"DOCTOR">[DATE] and Dr. [DOCTOR]"DOCTOR">Em Neighburce</PHI> .
+<PHI TYPE="DOCTOR">EM Z. [DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">[DATE]
+For the patient , at <PHI TYPE="LOCATION">Dalee , Alaska</PHI> , for Dr. [DOCTOR]"DOCTOR">[DATE] , c / o <PHI TYPE="HOSPITAL">[HOSPITAL][DATE] , in <PHI TYPE="LOCATION">[LOCATION] [DATE] .
+<PHI TYPE="DOCTOR">VE [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">MOST , ANNETIFF [DOCTOR] , M.D.
+Override added on <PHI TYPE="DATE">[DATE] by <PHI TYPE="DOCTOR">TIKNEAV , JEFFCI SUOT A.</[DOCTOR] , M.D. on order for AMIODARONE PO ( ref # <PHI TYPE="ID">23731718</PHI> )
+Override added on <PHI TYPE="DATE">[DATE] by <PHI TYPE="DOCTOR">KOTESLENT , ANT [DOCTOR] , M.D. on order for ZOCOR PO ( ref # <PHI TYPE="ID">71920299</PHI> )
+Dr. [DOCTOR]"DOCTOR">Levels</PHI> ( Electrophysiology ) 4 weeks , PCP 1-2 weeks ,
+<PHI TYPE="DOCTOR">STENVERS , IMARL<[DOCTOR] , M.D. ( <PHI TYPE="ID">[DATE] ) <PHI TYPE="DATE">[DATE] [DATE]:14 PM
+I have spoken with the patient in detail , and he will be getting in touch with his primary-care physician , Dr. [DOCTOR]"DOCTOR">Fordwoodall Stick</PHI> , in <PHI TYPE="LOCATION">[LOCATION] [DATE] .
+<PHI TYPE="DOCTOR">SAY [DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">vr</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">MI [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">Fordwoodall [DOCTOR] , M.D. [DOCTOR] TYPE="ID">7922</PHI>
+On <PHI TYPE="DATE">[DATE] , she was seen by Dr. [DOCTOR]"DOCTOR">Stonge</PHI> at <PHI TYPE="HOSPITAL">[HOSPITAL][ID] where a 3 x 7 cm left mid clavicular mass was noted .
+Per the patient &apos;s wishes , Dr. [DOCTOR]"DOCTOR">Dalywoo Droreite</PHI> the <PHI TYPE="HOSPITAL">Windgo Hospital</PHI> was consulted for a second opinion regarding the management of her malignancy .
+She was generally doing well with resolution of her temperature until <PHI TYPE="DATE">[DATE] at 9:[DOCTOR] P.M. , when she was noted to be unresponsive with fixed dilated pupils .
+She was certified dead at 9:[DOCTOR] P.M.
+<PHI TYPE="DOCTOR">MI [DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]
+<PHI TYPE="DOCTOR">MI [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+The patient is a 83-year-old woman under the care of Dr. [DOCTOR]"DOCTOR">[DOCTOR][ID] with a diagnosis of rheumatic mitral stenosis .
+She will follow up with her primary care physician , Dr. [DOCTOR]"DOCTOR">Lupevickette Ca</PHI> and her Cardiologist , Dr. [DOCTOR]"DOCTOR">[DOCTOR]/PHI> .
+[DOCTOR]"DOCTOR">dzn</PHI>
+<PHI TYPE="DOCTOR">RENLAN [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">DWAINCO [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">TOMEDANKELL [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D. , PH. <PHI TYPE="ID">[ID]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+1. RECTAL [DOCTOR] , STATUS POST PARTIAL COLECTOMY .
+Follow-up with Dr. [DOCTOR]"DOCTOR">Loydsadd</PHI> in one to two weeks .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+A [PATIENT] showed a large loop of dilated bowel but no free air and a tortuous calcified aorta .
+I will get in touch with Dr. [DOCTOR]"DOCTOR">Areas</PHI> and please do not hesitate to contact me if I can provide any additional information .
+<PHI TYPE="DOCTOR">TAMYRCLEO [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">TAMYRCLEO [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">RYNVI [DOCTOR] , M.D.
+She is to follow up with Dr. [DOCTOR]"DOCTOR">Acrookesjo</PHI> in one week and Dr. [DOCTOR]"DOCTOR">Work</PHI> the gastrointestinal fellow here at <PHI TYPE="HOSPITAL">PUOMC</PHI> in 2 weeks .
+The testing was performed by a staff neuropsychologist , Dr. [DOCTOR]"DOCTOR">[DATE] , PhD , telephone number <PHI TYPE="PHONE">[DATE]</PHI> .
+The ENT physician who saw the patient is Dr. [DOCTOR]"DOCTOR">[DATE] .
+The patient was scheduled to follow up with Dr. [DOCTOR]"DOCTOR">Freieslowkays</PHI> on [DATE]"DATE">[DATE] at 1:20 p.m. at the <PHI TYPE="HOSPITAL">[HOSPITAL][DATE] .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">ves [DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. , Reproductive Endocrinology <PHI TYPE="DOCTOR">[DATE] [DOCTOR] , M.D. , <PHI TYPE="HOSPITAL">[HOSPITAL][ID] , phone number <PHI TYPE="PHONE">[ID]</PHI> STAT
+Pressures [DOCTOR] [DATE] , RV [DATE] with a mean of 14 , PCW [DATE] with a mean of 10 .
+Because of difficulty passing the wire through the graft to the [DOCTOR] , the proximal 95% RCA lesion was dilated first and then the distal RCA lesion was dilated .
+He is to be discharged home on [DATE]"DATE">[DATE] with follow-up with Dr. [DOCTOR]"DOCTOR">Kote</PHI> , his cardiologist and with Dr. [DOCTOR]"DOCTOR">Right</PHI> , his hematologist .
+1. <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+3. <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+She has been seen by Dr. [DOCTOR]"DOCTOR">Tokbelb</PHI> , her primary care physician in <PHI TYPE="HOSPITAL">Itgreenredan Hospital</PHI> , and also Dr. [DOCTOR]"DOCTOR">Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> .
+1. laparoscopic cholecystectomy <PHI TYPE="DATE">[DATE] by Dr. [DOCTOR]"DOCTOR">Sapmal</PHI> ,
+[DOCTOR]"DATE">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">CEALME [DOCTOR] [ID] Dr. [DOCTOR]"DOCTOR">Tokbelb</PHI> <PHI TYPE="HOSPITAL">Welle Health</PHI> <PHI TYPE="LOCATION">Sonsant</PHI> .
+[DOCTOR]"DATE">[DATE]
+Dr. [DOCTOR]"DOCTOR">The Vein</PHI>
+<PHI TYPE="DOCTOR">DRICNE B IE [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+The patient was taken to the operating room by Dr. [DOCTOR]"DOCTOR">Suot N. Dragtente</PHI> on [DATE]"DATE">[DATE]</PHI>[DATE] , where a left radical nephrectomy was performed .
+FOLLOW-UP will be with Dr. [DOCTOR]"DOCTOR">Suot N. Dragtente</PHI> and with her <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> oncology fellows .
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">SUOT N. DRAGTENTE<[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+Dr. [DOCTOR]"DOCTOR">[DATE] was called and a consultation was done and he placed bilateral ureteral stents in her kidneys .
+[DOCTOR]"DATE">[DATE]
+<PHI TYPE="DOCTOR">AZEL [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+She will return to Dr. [DOCTOR]"DOCTOR">Fossa</PHI> &apos;s office .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">[DATE]
+Consultation with Dr. [DOCTOR]"DOCTOR">Test</PHI> led to a plan to begin aerosolized Pentamidine 100 mg nebilized q.d. for three days while therapeutic levels of Pentamidine could be build up in the lungs via IV .
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+By Dr. [DOCTOR]"DOCTOR">Friednantflirt</PHI> revealed regrowth of the pelvic tumor .
+The patient was to FOLLOW-UP with Dr. [DOCTOR]"DOCTOR">Sta O. Tongue</PHI> for staple removal .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+He was instructed to follow-up with his outpatient physician , Dr. [DOCTOR]"DOCTOR">Walking</PHI> , at the <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> at <PHI TYPE="LOCATION">Uingno Dar</PHI> as well as his <PHI TYPE="HOSPITAL">VLH</PHI> Hematologist .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">WIN [DOCTOR] , M.D. [ID] [DOCTOR] TYPE="DOCTOR">HOME</PHI> <PHI TYPE="HOSPITAL">UMSISHIPCILARD MEMORIAL HOSPITAL</PHI> , <PHI TYPE="LOCATION">[DATE]
+<PHI TYPE="PATIENT">[PATIENT] [ID]
+Her incisions were healing well and she was transferred to rehab on IV heparin and will be followed up by Dr. [DOCTOR]"DOCTOR">Call</PHI> in the office .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">kv</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+The ulcer was managed conservatively at <PHI TYPE="HOSPITAL">[DATE] by Dr. [DOCTOR]"DOCTOR">Holes</PHI> with Silvadene b.i.d. lower extremity non-invasive study obtained at that time showed poor distal right extremity perfusion .
+The patient was referred back to Dr. [DOCTOR]"DOCTOR">Pop</PHI> for the possibility of a revascularization procedure .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE] 13:21
+_____________________________ <PHI TYPE="DOCTOR">EDRY [DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]
+<PHI TYPE="DOCTOR">EDRY [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">xi</PHI>
+<PHI TYPE="DOCTOR">NYJO [DOCTOR] , M.D. [DOCTOR] RESIDENT MED <PHI TYPE="HOSPITAL">NLM</PHI> <PHI TYPE="DOCTOR">[DOCTOR] , M.D. [ID] [DOCTOR] UNIT <PHI TYPE="HOSPITAL">BARLDI HEALTH</PHI> STAT
+He had no spontaneous cardiac or neurologic activity at this time , and he was declared dead at 12:[DOCTOR] A.M. on [DATE]"DATE">[DATE] .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">rap</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="ID">688439328</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">GUABENFRANDA D. [DOCTOR] , M.D.
+Mr. [PATIENT] TYPE="PATIENT">Mass</PHI> was initially anticoagulated for his left ventricular aneurysm .
+Multiple discussions were held between Dr. [DOCTOR]"DOCTOR">[DATE] , the rest of the surgical team , and the patient &apos;s wife , with this same result .
+<PHI TYPE="DOCTOR">I [DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]
+The patient will follow up with Dr. [DOCTOR]"DOCTOR">[DATE] at <PHI TYPE="HOSPITAL">[HOSPITAL][ID] in <PHI TYPE="LOCATION">Connecticut</PHI> .
+[DOCTOR]"DOCTOR">sip</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+Discharge follow up will be with Dr. [DOCTOR]"DOCTOR">Burgeshuff</PHI> &apos;s service ( <PHI TYPE="PHONE">[ID]</PHI> ) .
+The patient should also follow up with Dr. [DOCTOR]"DOCTOR">Cord</PHI> of Cardiology .
+[DOCTOR] , 90 mg p.o. q.d. ; Lopressor , 50 mg p.o. b.i.d. ; nitroglycerine 1/150 1 tab s.l. p.r.n. pain ; Nitrol patch , 10 mg q.a.m. ; iron sulfate , 325 mg p.o. b.i.d. ; Nephrocaps , 1 tab. p.o. q.d. ; Xanax , 0.5 mg p.o. q.h.s.
+[DOCTOR]"DATE">[DATE]
+1. The patient is to follow up with PCP , Dr. [DOCTOR]"DOCTOR">Toob Obestimeuph</PHI> in two weeks .
+<PHI TYPE="DOCTOR">[DOCTOR] , CI ABOB</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">hbq</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">ROYNEO [DOCTOR] , M.D.
+[DOCTOR] TYPE="ID">301443520</PHI>
+Cath report showed 50% ulcerated LAD , 100% circumflex , 100% [DOCTOR] , inferior posterior , focal inferior apical o.k. EF 49% .
+<PHI TYPE="DOCTOR">[DOCTOR]/PHI> as scheduled ,
+<PHI TYPE="DOCTOR">FYFEOBVI , [DOCTOR] , M.D. ( <PHI TYPE="ID">[DATE] )
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">TOMEDANKELL D. [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="HOSPITAL">GENEAROCKTEMP RY HEALTH</PHI> SURGICAL GROUP
+The patient was evaluated by the [DOCTOR] Service , and on the end of his first week of admission , became increasingly somnolent with exam findings consistent with evolving hepatic encephalopathy .
+_______________________ <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">dfn</PHI>
+Dr. [DOCTOR]"DOCTOR">Koteelks</PHI> indicated that the patient did not have sinus problems currently but thought that the trigeminal pain might be investigated further and that the sphenoid might account for some of the patient &apos;s discomfort .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+On the day of admission , the patient was taken to the operative suite , where she underwent a sigmoid resection by Dr. [DOCTOR]"DOCTOR">[DATE] and Dr. [DOCTOR]"DOCTOR">Ischird</PHI> .
+The patient was instructed to call Dr. [DOCTOR]"DOCTOR">Kotefooksshuff</PHI> to schedule an appointment in two weeks following the date of discharge .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+Since that time , she has used a cane and she was referred to Dr. [DOCTOR]"DOCTOR">Koors</PHI> .
+The patient was cleared for surgery by Dr. [DOCTOR]"DOCTOR">Lupevickette Ca</PHI> .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+[DOCTOR] ( GLIPIZIDE ) 2.5 MG PO QAM Starting IN AM ( <PHI TYPE="DATE">[DATE] )
+Dr. [DOCTOR]"DOCTOR">Valo Freiermplauchefelv</PHI> ( <PHI TYPE="PHONE">[ID]</PHI> ) within 1 week , No Known Allergies
+87 yo female with PMHx diastolic dysfunction , HTN , DM , recent OSH admit for pulmonary edema , admitted with dyspnea , desat to 68% [DOCTOR] , severe HTN , and ? chest pain .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]
+Mr. [PATIENT] TYPE="PATIENT">Noun</PHI> was a 71-year-old white gentleman with non-small lung [DOCTOR] of both upper lobes .
+In <PHI TYPE="DATE">[DATE][DATE] bronchoscopy showed non-small cell [DOCTOR] , poorly differentiated with extensive necrosis .
+<PHI TYPE="DOCTOR">SUSHA I. [DOCTOR] , M.D.
+She underwent a sigmoid resection on [DATE]"DATE">[DATE] by Dr. [DOCTOR]"DOCTOR">[DOCTOR]/PHI> .
+She was receiving daily radiation treatments under the care of Dr. [DOCTOR]"DOCTOR">[DATE] of the <PHI TYPE="HOSPITAL">[HOSPITAL][ID] for Radiation Therapy .
+<PHI TYPE="DOCTOR">SA D. [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+The Foley should be in place until a follow-up appointment with Dr. [DOCTOR]"DOCTOR">Aarhalt</PHI> can be scheduled in approximately one to two weeks at which time a decision regarding the status of the patient &apos;s urinary obstruction will be addressed .
+The patient will be followed at rehabilitation by her primary care physician , Dr. [DOCTOR]"DOCTOR">Both</PHI> .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+<PHI TYPE="DATE">[DATE] <PHI TYPE="DOCTOR">CUCHDRIG , [DOCTOR] , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT PLEUREX CATH
+<PHI TYPE="DOCTOR">BREUN , DEANAURETHON [DOCTOR] , M.D. ( <PHI TYPE="ID">[DATE] )
+[DOCTOR]"DOCTOR">[DATE]
+The patient will follow-up with Dr. [DOCTOR]"DOCTOR">Friednantflirt</PHI> .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+GASTRIC ULCER AND GASTRIC PERICARDIAL [DOCTOR] ,
+esophagoscopy , bronchoscopy , pericardectomy , excision of gastric ulcer , repair of gastric ulcer and pectoralis major myocutaneous flap performed on [DATE]"DATE">[DATE] by Dr. [DOCTOR]"DOCTOR">Reg Cranka</PHI> and Dr. [DOCTOR]"DOCTOR">Win Shufffyfe</PHI> .
+Dr. [DOCTOR]"DOCTOR">[DATE] of General Surgery consulted on the patient and concluded the patient does not require any surgical treatment of this problem at the current time and the best treatment for this situation would be to increase the patient &apos;s nutrition .
+<PHI TYPE="DOCTOR">Reg [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">Win [DOCTOR] , M.D.
+Dr. [DOCTOR]"DOCTOR">[DATE] .
+Dr. [DOCTOR]"DOCTOR">Shuff</PHI> .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]
+Mr. [PATIENT] TYPE="PATIENT">Stone</PHI> is a 59-year-old gentleman with severe cardiomyopathy , aortic stenosis , alcoholic cirrhosis , and rectal cancer , who was scheduled for a resection of his rectal adenocarcinoma but was found to be in severe congestive heart failure and admitted to the Medicine team for improvement of his heart failure .
+Mr. [PATIENT] TYPE="PATIENT">Stone</PHI> &apos;s renal function continued to deteriorate as well his liver function with rising bilirubin and increasing creatinine .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+A [DOCTOR] 153 was significantly elevated at 66.5 ( normal 0-30 ) .
+The patient was discharged in improved , stable , satisfactory condition with the expectation that she will call Dr. [DOCTOR]"DOCTOR">First</PHI> &apos;s office for a followup visit in about two weeks .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+Electronically Signed <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE] 16:52
+[DOCTOR]"DATE">[DATE]
+<PHI TYPE="DOCTOR">BOBSTON [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D.
+The patient will follow-up with Dr. [DOCTOR]"DOCTOR">Number</PHI> in six weeks and with the patient &apos;s own cardiologist in one week .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+Dr. [DOCTOR]"DOCTOR">Vernn Drepsloyd</PHI> and Dr. [DOCTOR]"DOCTOR">[DATE]
+Dr. [DOCTOR]"DOCTOR">Fields</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton Len N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> Pediatric Intensive Care Unit for evaluation and management by Dr. [DOCTOR]"DOCTOR">Fields</PHI> on [DATE]"DATE">[DATE] in the p.m.
+The patient is still being maintained on Ancef at the request of Dr. [DOCTOR]"DOCTOR">Fields</PHI> &apos;s team .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. , at <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> Pediatric Intensive Care Unit .
+<PHI TYPE="DOCTOR">HIENSON [DOCTOR] , M.D.
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+[PATIENT] is a 49 year old previously healthy female , who was diagnosed in <PHI TYPE="DATE">[DATE] , with a breast carcinoma , after she presented with some breast discomfort on the left side .
+Patient will follow up with Dr. [DOCTOR]"DOCTOR">[DATE] , in about 4-5 days , at which time the JP drain will be removed .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">WILFTAM [DOCTOR] , M.D.
+Dr. [DOCTOR]"DOCTOR">[DATE]
+The patient is to follow up with Dr. [DOCTOR]"DOCTOR">Ria</PHI> in clinic on one month time and the family is to call me if there were any questions in the interim .
+[DOCTOR]"DOCTOR">fcz</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">ASHA [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">[DOCTOR] , M.D. / STAT
+________________________________ <PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+Follow-up will be with Dr. [DOCTOR]"DOCTOR">Sick</PHI> in one weeks time .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">vcp</PHI>
+The patient underwent [DOCTOR] , partial omentectomy at <PHI TYPE="HOSPITAL">CTMC</PHI> in <PHI TYPE="DATE">[DATE][DATE] .
+[DOCTOR] , BONE MARROW TRANSPLANT
+Mr. [PATIENT] TYPE="PATIENT">[DATE] is a 65-year-old man with a history of myelodysplastic syndrome ( acute myelogenous leukemia ) who presents 20 days status post a nonmyeloablative peripheral blood stem cell transplant and is admitted for fatigue , neutropenia , and an abnormal chest x-ray .
+Mr. [PATIENT] TYPE="PATIENT">[DATE] is a 65-year-old man with a history of myelodysplastic syndrome that could vary to acute myelogenous leukemia who is status post a nonmyeloablative allogenic transplants via protocol of <PHI TYPE="ID">27-518</PHI> , the GVAX study , who was readmitted for right upper lobe infiltrate .
+The patient is a 47 year old patient of Dr. [DOCTOR]"DOCTOR">[DATE] and Dr. [DOCTOR]"DOCTOR">[DATE] in <PHI TYPE="LOCATION">Co In [LOCATION][DATE] who was well until a bout of double pneumonia in <PHI TYPE="DATE">[DATE] , at which time he was hospitalized at <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> .
+The patient was seen in consultation by the Electrophysiology service , Dr. [DOCTOR]"DOCTOR">Slusslashgodle</PHI> , who said that he had no indication for patch placement at the time of surgery .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">ssx [DATE]
+Mr. [PATIENT] TYPE="PATIENT">Vessels</PHI> &apos;s postoperative course has been marked by CMV infection , hypertension , poorly controlled lipids , peripheral vascular disease , and chronic renal insufficiency with a creatinine of 1.8 or so .
+Patient &apos;s mother was informed by Dr. [DOCTOR]"DOCTOR">Vessels</PHI> .
+[DOCTOR]"DOCTOR">ok</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+This was discussed with the patient &apos;s local medical doctor , Dr. [DOCTOR]"DOCTOR">Royneo Walla</PHI> .
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">ER [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID]
+<PHI TYPE="DOCTOR">WIN [DOCTOR] , M.D.
+[DOCTOR] TYPE="ID">203669293</PHI>
+She had a bronchoscopy by Dr. [DOCTOR]"DOCTOR">Cranka</PHI> , which showed diffuse involvement and narrowing of the bronchi to the right lung by extrinsic compression .
+Dr. [DOCTOR]"DOCTOR">Breutzoln</PHI>
+________________________________ <PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">REST N. [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+She had a shunt series which shows an intact , and she should be followed up for this with Doctor <PHI TYPE="DOCTOR">[DOCTOR]/PHI> .
+A PICC line was placed , XRT was begun on <PHI TYPE="DATE">[DATE] , as coordinated by Dr. [DOCTOR]"DOCTOR">Brittsdiss</PHI> .
+_____________________________ <PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">ix</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. ORTHOPAEDIC SURGERY <PHI TYPE="HOSPITAL">ANNENTESAUBEOR-RINERS WOOD RAELLFORDGET COMMUNITY HOSPITAL</PHI>
+Mr. [PATIENT] TYPE="PATIENT">Stire</PHI> then became lethargic and decompensated neurologically .
+<PHI TYPE="DOCTOR">RIELLEUS [DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE] 9:49 A
+The patient was to FOLLOW-UP with Dr. [DOCTOR]"DOCTOR">[DATE] .
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">LINDDIE [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+He underwent an electrophysiology study which identified an accessory pathway with multiple attempts at ablation by Dr. [DOCTOR]"DOCTOR">Slusslashgodle</PHI> which were unsuccessful .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">fd</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. CARDIAC UNIT <PHI TYPE="HOSPITAL">[HOSPITAL][ID]
+[DOCTOR] TYPE="DOCTOR">SEAN [DOCTOR] , M.D. [DOCTOR] <PHI TYPE="HOSPITAL">[HOSPITAL][ID]
+[DOCTOR] TYPE="DOCTOR">AO [DOCTOR] , M.D. [DOCTOR] TYPE="HOSPITAL">[HOSPITAL][ID]
+[DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DATE">[DATE]</PHI>-94
+On <PHI TYPE="DATE">[DATE] , a family meeting with patient &apos;s daughter and spouse , along with primary oncologist , Dr. [DOCTOR]"DOCTOR">Tomedankell Bile</PHI> , attending physician , Dr. [DOCTOR]"DOCTOR">[DATE] , and house staff , was held to discuss patient &apos;s critical condition and inability to prevent progression of skin , sinus and neurological Acanthamoeba infection on maximal antimicrobial therapy .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID] [DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">RAMAG [DOCTOR] , M.D.
+He is to see Dr. [DOCTOR]"DOCTOR">Ench</PHI> in two weeks to check his PT and INR , also to check for potassium .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+The patient was brought to the Operating Room on [DATE]"DATE">[DATE]</PHI>[DATE] where she had an exploratory laparotomy , [DOCTOR] , and omental biopsy .
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+Ms. <PHI TYPE="PATIENT">Less</PHI> was initially admitted to the Vascular Surgery Service for Dr. [DOCTOR]"DOCTOR">Scosthuang</PHI> and was recently transferred to the Neurosurgery Service under the care of Dr. [DOCTOR]"DOCTOR">Pae</PHI> .
+Mr. [PATIENT] TYPE="PATIENT">A</PHI> was a 74-year-old right handed white male with a history of left middle cerebral artery cerebrovascular accident who on <PHI TYPE="DATE">[DATE] was asleep and awoke at approximately 1:00 AM with the worst headache of his life .
+Mr. [PATIENT] TYPE="PATIENT">A</PHI> was transferred to the Neuroscience Intensive Care Unit on [DATE]"DATE">[DATE] .
+Cardiovascularly , he developed atrial fibrillation and hypertension during the hospital course and was managed by Dr. [DOCTOR]"DOCTOR">Gach</PHI> of Cardiology .
+His family had a meeting with Dr. [DOCTOR]"DOCTOR">[DATE] , Dr. [DOCTOR]"DOCTOR">Telshey Vital</PHI> , and Dr. [DOCTOR]"DOCTOR">[DATE] of the Neurosurgical ICU .
+The <PHI TYPE="HOSPITAL">[HOSPITAL][ID] [DATE] was also notified as were Dr. [DOCTOR]"DOCTOR">[DATE] , Dr. [DOCTOR]"DOCTOR">[DATE] , Dr. [DOCTOR]"DOCTOR">Azel Hibbskays</PHI> , and the patient &apos;s primary care physician , Dr. [DOCTOR]"DOCTOR">[DATE] .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">TELSHEY [DOCTOR] , M.D. [DOCTOR] TYPE="DOCTOR">TOMEDANKELL [DOCTOR] , M.D. , [HOSPITAL].D <PHI TYPE="DOCTOR">SAY [DOCTOR] , M.D. STAT
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[ID]</PHI>
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">pz / bmot</PHI>
+<PHI TYPE="DOCTOR">[PATIENT] [ID]
+[DOCTOR] OF THE LUNG .
+<PHI TYPE="DOCTOR">YEERYNUGER [DOCTOR] , M.D.
+Mr. [PATIENT] TYPE="PATIENT">Leach</PHI> has a long and complex history of coronary artery disease .
+He was ; therefore , seen in consultation by Dr. [DOCTOR]"DOCTOR">Lato Tikfreierm</PHI> of the Hematology Service to evaluate him further for a possible hypocoagulable condition versus primary and secondary platelet abnormality which could explain his recurrent coronary events .
+Therefore , on <PHI TYPE="DATE">[DATE] , the patient underwent left thorascopic thoracic sympathectomy by Dr. [DOCTOR]"DOCTOR">[DATE] .
+<PHI TYPE="DOCTOR">TRI I. [DOCTOR] , M.D.
+[DOCTOR]"DOCTOR">cp / bmot</PHI>
+Dr. [DOCTOR]"DOCTOR">Lato Tikfreierm</PHI> of Pediatric Hematology .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">OZ06</PHI>
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">TOMEDANKELL D. [DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+He talked to Dr. [DOCTOR]"DOCTOR">Collea R. Douetscarv</PHI> yesterday on the phone , who instructed the patient to take 60 milligrams of Lasix on the morning of admission , his usual dose was 40 .
+His congestive heart failure most recently he had an ejection fraction of 30% , per Dr. [DOCTOR]"DOCTOR">Pain</PHI> .
+<PHI TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+<PHI TYPE="DOCTOR">SHONDMAGSHAO M. H. [DOCTOR] , M.D.
+The patient will be discharged to a rehabilitation center and will be followed up by Dr. [DOCTOR]"DOCTOR">[DATE] in six weeks from discharge .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE] <PHI TYPE="DOCTOR">[DOCTOR] , M.D. [DOCTOR] TYPE="ID">[DATE]
+She was subsequently referred to Dr. [DOCTOR]"DOCTOR">Riode Zetllille</PHI> for evaluation and workup of her aneurysm .
+The patient will follow up with Dr. [DOCTOR]"DOCTOR">Riode Zetllille</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">[HOSPITAL]/PHI> .
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+[DOCTOR] TYPE="DOCTOR">[DATE]
+Scattered [DOCTOR] &apos;s sarcoma , several necrotic lesions , right lower extremity , consistent with chronic ulcers .
+1. <PHI TYPE="DOCTOR">[DOCTOR] , MD <PHI TYPE="HOSPITAL">LIODIMAN BASSPRINGTY HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , Utah</PHI>
+<PHI TYPE="DOCTOR">LIASUN [DOCTOR] , M.D.
+<PHI TYPE="DOCTOR">[DOCTOR] , M.D.
+Total_People: 566, TP: 253, FP: 313

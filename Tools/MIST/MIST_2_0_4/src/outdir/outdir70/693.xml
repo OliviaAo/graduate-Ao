@@ -1,0 +1,57 @@
+<RECORD ID="693">
+<TEXT>
+<HOSPITAL>BH</HOSPITAL>
+<ID>8939200</ID>
+<ID>026215</ID>
+<DATE>8/12/2003</DATE> 12:00:00 AM
+Discharge Summary
+Signed
+DIS
+Signed
+DISCHARGE SUMMARY NAME :
+<ID>033-62-04</ID>
+<DATE>08/12/2003</DATE>
+<DATE>08/13/2003</DATE>
+DICTATING PHYSICIAN :
+<DOCTOR>Nabeth Glyncred</DOCTOR> , M.D.
+ATTENDING PHYSICIAN :
+<DOCTOR>Riode Zetllille</DOCTOR> , M.D.
+PRINCIPAL DIAGNOSIS :
+Mesenteric ischemia .
+HISTORY AND REASON FOR HOSPITALIZATION :
+The patient is a 76-year-old , female , who was transferred from a rehab hospital with worsening abdominal pain , with known chronic abdominal ischemia .
+She had recently seen Dr. <DOCTOR>Zetllille</DOCTOR> approximately ten days prior and offered an operation at that time which she refused and wanted to further consider her options .
+PAST MEDICAL HISTORY :
+Significant for known mesenteric ischemia , osteoporosis , spinal stenosis , left leg claudication , subclavian stenosis , GERD , malnutrition secondary to mesenteric ischemia .
+Tonsillectomy .
+MEDICATIONS ON ADMISSION :
+Levofloxacin , Flagyl , Prevacid , Calcium , Reglan , Dulcolax .
+The patient has no known drug allergies .
+PHYSICAL EXAM ON ADMISSION :
+Showed a cachectic female who was afebrile .
+She was somewhat uncomfortable although awake and talkative in bed .
+Her pupils were equal .
+Her heart was regular .
+Abdomen was distended with decreased bowel sounds .
+She was soft and slightly tender to palpation but no evidence of peritonitis .
+HOSPITAL COURSE :
+The patient was admitted on <DATE>8/12/03</DATE> .
+She was resuscitated with fluids .
+She was found to be slightly coagulopathic probably secondary to her significant malnutrition and she was given FFP to correct her coagulopathy .
+She was monitored closely overnight with a cardiac monitor and on <DATE>8/13/03</DATE> , in the morning , she was brought to the operating room where she underwent exploratory laparotomy .
+Because of this , her abdomen was closed .
+Please see the operative note for full details .
+CONDITION ON DISCHARGE :
+Dead .
+DICTATING FOR :
+<DOCTOR>RIODE REYAZA ZETLLILLE</DOCTOR> , M.D.
+<DATE>09/03/2003</DATE> 17:39
+TR :
+<DOCTOR>en</DOCTOR>
+DD :
+TD :
+<DATE>08/15/2003</DATE> 12:20 P <ID>026215</ID>
+cc :
+<DOCTOR>RIODE REYAZA ZETLLILLE</DOCTOR> , M.D.
+</TEXT>
+</RECORD>

@@ -1,0 +1,4 @@
+/Users/ao/Desktop/graduate-Ao/Tools/MIST/MIST_2_0_4/src/tasks/core
+/Users/ao/Desktop/graduate-Ao/Tools/MIST/MIST_2_0_4/src/tasks/AMIA
+/Users/ao/Desktop/graduate-Ao/Tools/MIST/MIST_2_0_4/src/tasks/HIPAA
+/Users/ao/Desktop/graduate-Ao/Tools/MIST/MIST_2_0_4/src/MAT/sample/ne

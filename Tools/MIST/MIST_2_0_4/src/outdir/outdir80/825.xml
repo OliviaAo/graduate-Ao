@@ -1,0 +1,30 @@
+<RECORD ID="825">
+<TEXT>
+<ID>494826897</ID>
+<HOSPITAL>PUOMC</HOSPITAL>
+<ID>7377000</ID>
+<ID>061775</ID>
+<ID>9693405</ID>
+ED Discharge Summary
+Unsigned
+DIS
+Unsigned
+ED DISCHARGE NOTIFICATION
+<PATIENT>BURCE , LLNO</PATIENT>
+MRN :
+<ID>7377000</ID>
+Age :
+74y
+REGISTRATION DATE :
+<DATE>09/24/2005</DATE> 08:04 AM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>BURCE , LLNO</PATIENT> arrived in the Emergency Department at <HOSPITAL>Ph University Of Medical Center</HOSPITAL> on <DATE>09/24/2005</DATE> 08:04 AM .
+The patient presented with a chief complaint of FEVER / CHANGE IN MS.
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>PH UNIVERSITY OF MEDICAL CENTER</HOSPITAL> .
+The patient &apos;s preliminary admitting physician is <DOCTOR>SHUFFFYFE , LIE</DOCTOR> and the preliminary diagnosis is CHANGE IN MS.
+Please note this information may have been updated on the inpatient unit .
+PCP Name :
+Provider Number :
+<ID>60159</ID>
+</TEXT>
+</RECORD>

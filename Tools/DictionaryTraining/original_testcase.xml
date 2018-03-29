@@ -1,52 +1,4 @@
-<Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="variable.xsd" >
-    <Header>
-        <Identifiers>
-            <FirstName>Doe</FirstName>
-            <LastName>John</LastName>
-            <DateOfBirth>1940-01-01</DateOfBirth>
-            <SSN>123456789</SSN>
-            <AccessionNumber>05-0001D</AccessionNumber>
-            <LocalMRN>7654321</LocalMRN>
-            <Source>ANY</Source>
-        </Identifiers>
-    </Header>
-    <Body>
-        <PathologyCase TissueAcquisitionDate="2005-01-01" >
-            <Codes>
-                <Code Source="UMLS">C0011900</Code>
-                <Code Source="UMLS">C0225317</Code>
-            </Codes>
-            <Clinical>
-                <Patient>
-                    <Age Units="years" >65</Age>
-                    <Gender>M</Gender>
-                </Patient>
-            </Clinical>
-            <BillingDiagnosis Type="LightMicroscopy" >
-                <Term Code="T1X010"  Source="SNOMED" ></Term>
-                <Term Code="M88500"  Source="SNOMED" ></Term>
-            </BillingDiagnosis>
-            <Specimen Key="00" Type="Surgical">
-                <SpecimenAcquisitionProcedure>
-                    <Term Code="C0011900" Source="UMLS">DIAGNOSIS</Term>
-                </SpecimenAcquisitionProcedure>
-            <Topology>
-                <Term Code="C0225317" Source="UMLS">Soft tissue</Term>
-            </Topology>
-            <Topology>
-                <Term Code="C0040300" Source="UMLS">tissue</Term>
-            </Topology>
-            <Topology>
-                <Term Code="C0003792" Source="UMLS">arm</Term>
-            </Topology>
-                <Diagnosis>
-                    <Term Code="C0206632" Source="UMLS">Angiolipomas</Term>
-                </Diagnosis>
-            </Specimen>
-            <Specimen Key="1" >
-            </Specimen>
-            <GrossDescriptionText>
-                <![CDATA[<ROOT>
+<ROOT>
 <RECORD ID="640">
 <TEXT>
 <PHI TYPE="ID">123547445</PHI>
@@ -18042,9 +17994,3 @@ Postoperatively , the patient did extremely well and was extubated the following
 The NG tube was D/C&apos;d on postoperative day #2 .
 The patient was to be transferred to the floor on postoperative day #2 , however , due to the lack of beds , he remained in the ICU until postoperative day #3 .
 O                
-                ]]>
-            </GrossDescriptionText>
-           
-        </PathologyCase>
-    </Body>
-</Envelope>

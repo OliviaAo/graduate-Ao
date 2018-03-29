@@ -1,0 +1,752 @@
+            <DateOfBirth xxxxDATExxxx DateOfBirth>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+He was transferred to the <PHI TYPE="HOSPITAL">Valtawnprinceel Community xxxHOSPITALxxx Hospital</PHI> for endoscopy and esophagoscopy on the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> which showed a 2 cm linear tear of the esophagus at 30 to 32 cm .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DATE :
+He was continued on antibiotics , and oxygen , and morphine , and small amounts of Dopamine , and at 4 AM on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , was pronounced dead .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 3:47
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Patient was admitted to Oncology B service .
+ANC reached greater than 500 on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 and therefore , Vancomycin was discontinued on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx patient did remain afebrile and the following day Ceftaz was discontinued as well .
+His chest was clear , and therefore on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 the patient was discharged with a followup plan .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00 xxxxADDRESS2xxxx DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Right lung choriocarcinoma .
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , a chest CT revealed multiple bilateral cysts and bilateral ill defined nodules , a right upper lobe mass , and extensive lymphadenopathy in the peritracheal region .
+During that time , on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 a pericardial centesis was performed and 550 cc of bloody fluid were removed .
+However , on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 she had increasing dyspnea , pleuritic chest pain , and mild hemoptysis .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 apericardial window was performed , revealing a non malignant effusion .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ****** DISCHARGE ORDERS ******
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="ID xxxxDATE17xxxx 5V80</PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+notable for a xxxxDATE22xxxx systolic ejection murmur .
+well healed incision , quads , abductors , ileus , psoas xxxxDATE22xxxx , hamstring , extensor hallucis longus , left HL , gastroc , soleus 4 xxxxADDRESS8xxxx patient tolerated the procedure well and postoperatively was hemodynamically stable with a hematocrit of 31 and stable vital signs .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 4:14
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DATE :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Impaction secondary to narcotic use , ? obstruction
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI> , she experienced another episode of constipation and impaction , came to <PHI TYPE="HOSPITAL">Liccam Community Medical Center</PHI> Emergency Room where she was manually disimpacted and received enema and she was discharged .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 09:48
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 2:14
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ****** DISCHARGE ORDERS ******
+XRT , Friday , 10am  <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 scheduled , xxxxDOCTOR_OLDERxxxx Xellcaugh</PHI> , call next week , xxxPOSITIONxxx Known Allergies
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx dictated summary
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 03:43 PM
+This is to notify you that your patient , <PHI TYPE="PATIENT">HUHTLAND , CIE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 10:52 AM .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Mr. <PHI TYPE="PATIENT">Tlandpiernshi</PHI> underwent coronary artery bypass grafting x2 with saphenous vein graft to the obtuse marginal , and saphenous vein graft to the left anterior descending artery on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx was extubated on the first postoperative day and transferred to the Stepdown Unit on the second postoperative day .
+However , in the presence of the atrial fibrillation , the anticoagulation with Coumadin was initiated with a goal INR of xxxxDATE12xxxx .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+The patient is status post four cycles of HAI FUDR and5-FU with last dose being <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx MRI suggests that the liver metastases have become smaller .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 , the patient underwent a left hepatectomy andcaudate lobe resection as well as a wedge resection of segment 5 and 6.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:07 P <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">BB32</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 04:48 PM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DATE :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSIS :
+Intravenous chemotherapy with Taxol on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+Pro time with INR on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx with the report faxed to <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> , and VNA administration of Fragmin subcutaneously b.i.d.
+In addition , we started her on Taxol xxxxADDRESS7xxxx with the first dose administered on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx and to be continued as an outpatient .
+The patient was discharged home with nursing care and will be followed by xxxxDOCTOR_OLDERxxxx Fyfesaul</PHI> with her first appointment on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Cardiac exam revealed an S1 and an S2 and a diffuse xxxxDATE22xxxx systolic murmur .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+A repeat chest X ray on <PHI TYPE="DATE xxxxDATE7xxxx PHI> showed markedly improved congestive heart failure with mild residual redistribution of the vasculature , and very small pleural effusions .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx Ca Shuff</PHI> STAT
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx NU L. GALL</PHI> , <PHI TYPE="HOSPITAL">LI HOSPITAL</PHI>
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/94
+On <PHI TYPE="DATE xxxxDATE22xxxx PHI>/94 , he underwent successful coronary angioplasty of the two lesions in the right coronary artery , with an excellent result .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/94
+Left leg could flex xxxxDATE22xxxx and wiggle toes .
+On the lower extremity , could wiggle toes , flexor and plantar , 3+/5 , quadriceps xxxxDATE22xxxx on the left .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE22xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+A therapeutic lumbar puncture was planned on the day after emergency admission , but his gait was noted to be considerably improved at that time , and the lumbar puncture was postponed until <PHI TYPE="DATE xxxxDATE7xxxx PHI> , at which time 40 cc were removed .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 3. Coronary artery disease .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx CORONARY ARTERY DISEASE .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Discharge Date :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DIAGNOSIS :
+Significant for a lower left saphenous vein thrombosis diagnosed with lower extremity non invasives and on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx with xxxPOSITIONxxx evidence of deep venous thrombosis and clearance by xxxxDOCTOR_OLDERxxxx Ribreefcheampner</PHI> for further intervention .
+The patient underwent a total vaginal hysterectomy on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx which she tolerated without complications .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Signed
+It was noted on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/94 that she had a decreased range of motion in both her knees with flexion to approximately 40 degrees with maximum physical therapy .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Signed
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx DISCHARGE DIAGNOSIS :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+He did eventually then go to the operating room on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/90 , at which time he had an emergency CABG times three with asaphenous vein graft to the obtuse marginal and one onto the PDA .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSES :
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/90 , he had a parietal headache at 8:00 a.m. that was followed promptly by left sided chest pain without diaphoresis , shortness of breath , nausea , vomiting , or palpitations which lasted for an hour with awaxing and waning course .
+This course was complicated by a transient left bundle branch block on <PHI TYPE="DATE xxxxDATE4xxxx PHI> , atrial fibrillation despite his Quinidine .
+Quinidine level on <PHI TYPE="DATE xxxxDATE4xxxx PHI> was 1 xxxxADDRESS8xxxx had mild CHF , which was treated with Captopril and prn Lasix .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> , he was transferred to <PHI TYPE="HOSPITAL">Norri Hospital</PHI> for evaluation of his post MI angina .
+Hemoglobin was 10.7 white cell count was 8.2 , platelets 211 , PT and PTT were xxxxDATE12xxxx 6 , Quinidine was 2.5 , and CKA was xxxxADDRESS8xxxx was pain free with EKG ST depressions laterally .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/93
+He returned for routine office evaluation on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/93 , complaining of xxxxAGE6xxxx of progressive exertional dyspnea , with occasional chest discomfort , and , more recently , orthopnea , cough , peripheral edema , and weight gain .
+potassium 4.4 , BUN and creatinine xxxxDATE22xxxx 7 , albumen 3.6 , total bilirubin 1.8 , direct bilirubin 0.5 , CK 162 , with 11.1 MB for a relative index of 6.9% .
+Over the course of the next few days , we succeeded in having his weight decrease from its value of 189 lbs , to as low as 177 xxxxDATE22xxxx lbs .
+At the time of this study , the right atrial pressure was 1 , the PA pressure xxxxDATE22xxxx , and the mean pulmonary capillary wedge pressure was xxxxADDRESS8xxxx ventriculography demonstrated marked left ventricle dilatation .
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+He had approximately 4+ to xxxxDATE22xxxx strength in the right upper and lower extremities .
+A head computerized tomography scan was repeated on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 which revealed some resolution of blood .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx Raba Kote</PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+She underwent an open biopsy and bipolar hemiarthroplasty on <PHI TYPE="DATE xxxxDATE4xxxx PHI> without complication .
+Her case will be discussed at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> sarcoma conference on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 , at which time the radiation therapists , oncologists , pathologists , and orthopedic surgeons will present the case and discuss all options .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/93 - mitral valve replacement and replacement of ascending aorta .
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI> , she developed a sudden episode of pulmonary edema that resolved quickly and she was thought to have possible worsening of her mitral regurgitation .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ****** DISCHARGE ORDERS
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="ID xxxxDATE17xxxx 3E45</PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 AT 03:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Mr. <PHI TYPE="PATIENT">Larsen</PHI> was a xxxxAGE5xxxx salesman who in <PHI TYPE="DATE xxxxDATE4xxxx PHI> was noted to have an elevated platelet count of 778 xxxxADDRESS8xxxx was admitted on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00 for a matched , unrelated donor bone marrow transplant .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00 the patient was found to have pulmonary infiltrates and some hemoptysis .
+Because of this continued agitation , a head CT was performed on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00 and it revealed an intraparenchymal hemorrhage .
+The patient gradually lost brain systolic ejection murmur function and was pronounced dead on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx By :
+Index xxxPOSITIONxxx <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 07:57 PM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DATE :
+( <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx )
+HE WAS ADMITTED TO THE <PHI TYPE="HOSPITAL">DUATE HEALTH</PHI> ON <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx AND PLACED ON AMPICILLIN AND GENTAMICIN .
+MR. <PHI TYPE="PATIENT">STERPSAP</PHI> WAS ADMITTED TO THE <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> ON <PHI TYPE="DATE xxxxDATE4xxxx PHI>/01 FOR MANAGEMENT OF HIS ENDOCARDITIS AND PROSTHETIC AORTIC VALVE DYSFUNCTION .
+HE HAD AN AORTIC ROOT AORTOGRAM IN THE CARDIAC CATHETERIZATION LABORATORY ON <PHI TYPE="DATE xxxxDATE4xxxx PHI>/01 WHICH REVEALED SEVERE AORTIC REGURGITATION AND xxxPOSITIONxxx PROXIMAL CORONARY STENOSIS .
+HE WAS BROUGHT TO THE OPERATING ROOM ON <PHI TYPE="DATE xxxxDATE4xxxx PHI>/01 AND UNDERWENT A REDO AORTIC VALVE REPLACEMENT WITH A MEDTRONIC SUPRA ANNULAR PROSTHETIC VALVE .
+HE WILL CONTINUE INTRAVENOUS VANCOMYCIN UNTIL <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx TO A TOTAL OF THREE WEEKS .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx None .
+Fistulogram on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx postoperative course was complicated by atrial fibrillation with transfer to the Cardiac Step Down Unit .
+The patient presented to the emergency room on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/02 , complaining of fevers since Monday <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx was draining pus from the wound site with subsequent relief of discomfort at the site .
+CT scan <PHI TYPE="DATE xxxxDATE22xxxx PHI>/02 :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 10:49
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Mr. <PHI TYPE="PATIENT">Rule</PHI> on <PHI TYPE="DATE xxxxDATE7xxxx PHI> at 1 PM had the acute onset of dizziness , headache , right arm and leg weakness as he was getting to stand up from watching TV .
+General Neurosurgery Service on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 4:22 P <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI>
+She sleeps in a chair up right for the last 2 xxxxDATE22xxxx years secondary to osteoarthritis .
+Alert and oriented x xxxxADDRESS8xxxx nerves II XII intact . xxxxDATE22xxxx lower extremity bilaterally .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/02
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DATE xxxxDATE21xxxx PHI>/23
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/02 - coronary angiography with cutting balloon Percutaneous transluminal coronary angioplasty to the distal left circumflex instent restenosis .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> - abdominal CT .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> renal MRA and <PHI TYPE="DATE xxxxDATE4xxxx PHI> renal angiogram .
+On <PHI TYPE="DATE xxxxDATE22xxxx PHI>/02 she underwent a Percutaneous transluminal coronary angioplasty of the left circumflex in stent restenosis with a 3.0 x 10.0 cutting balloon and then underwent Percutaneous transluminal coronary angioplasty of the distal left circumflex lesion , followed by deployment of the 2.0 x 13.0 mm Pixel stent .
+In order to evaluate this , on <PHI TYPE="DATE xxxxDATE4xxxx PHI> she underwent renal MRA which showed only moderate right renal artery stenosis that was non obstructive .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 10:07
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx VENGLOAN</PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx This is a xxxxAGE5xxxx with a history of end stage renal disease , on hemodialysis and peritoneal hemodialysis for ten years , transferred from <PHI TYPE="HOSPITAL">Ton xxxxPRIVATExxx Hospital</PHI> for further evaluation of change in mental status .
+She was admitted to <PHI TYPE="HOSPITAL">Aper Hospital</PHI> for change in mental status on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx .
+From an infectious disease perspective , the patient remained afebrile and , despite a transient bump in her white blood cell count over the weekend of <PHI TYPE="DATE xxxxDATE4xxxx PHI> through <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx , has had a white blood cell count come back to normal range of 12 xxxxADDRESS8xxxx obvious source of infection was found , with negative cultures from blood , urine , sputum , the peritoneal fluid , and cerebrospinal fluid .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Laparoscopic staging <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02
+<PHI TYPE="ID xxxxDATE17xxxx 0J74</PHI>
+PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Laparoscopic staging <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">WX58</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 05:19
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DATE :
+She was monitored closely overnight with a cardiac monitor and on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/03 , in the morning , she was brought to the operating room where she underwent exploratory laparotomy .
+This is to notify you that your patient , <PHI TYPE="PATIENT">GLOTZLINKE , ODRA</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 01:41 PM .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 02:52 AM
+This is to notify you that your patient , <PHI TYPE="PATIENT">KAYSLANCE , ICEROYLN</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 02:52 AM .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx MD
+This dictation goes through <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx patient received care on the <PHI TYPE="HOSPITAL">Baydell Medical Center</PHI> .
+This is a xxxxAGE5xxxx status post ERT with recurrence of a pelvic mass and resection at an outside hospital in <PHI TYPE="DATE xxxxDATE4xxxx PHI> .
+The patient developed severe left lower quadrant pain in <PHI TYPE="DATE xxxxDATE4xxxx PHI> .
+The patient was started on Lupron on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 , but pain was not affected .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 , the patient &apos;s pain increased and she presented to an outside hospital with nausea and vomiting and an inability to tolerate p.o. intake . xxxPOSITIONxxx fevers or chills , xxxPOSITIONxxx vaginal discharge or bleeding .
+Blood cultures done on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 grew C. perfringens .
+After a Cardiology consulton <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 , the patient was started on metoprolol 100 mg p.o. q.i.d. , lisinopril 10 mg q.d. , hydrochlorothiazide 25 mg q.d. .
+The patient was extubated on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx the patient was extubated , after the third surgery , the patient could not be weaned off 2 liters of nasal cannula and was to ______ to 20 breaths per minute despite nebulizer treatment .
+The patient was restarted on Advair and by <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 , was weaned to room air likely an effective Advair and control of anxiety and psychiatric issues .
+Blood cultures drawn on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 were negative .
+The patient transitioned to Lovenox on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 after a Cardiology consult indicated increased survival with Lovenox therapy .
+The patient was transferred to the Gynecologic Oncology Service on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx rest of the dictation is to follow .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/03
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:43 AM
+This is to notify you that your patient , <PHI TYPE="PATIENT">CARD , I</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:43 AM .
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx PRIMARY DIAGNOSIS :
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx the patient underwent atotal abdominal hysterectomy , bilateral salpingooophorectomy , bilateral node dissection , omentectomy , lysis of adhesions , removal of mass from surface of transverse colon .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 15:45
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DATE :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx The patient was extubated at approximately 1:20 p.m. on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/05 , and was pronounced dead on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/05 at 1:43 p.m.
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <RECORD ID="703">
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:19 PM
+This is to notify you that your patient , <PHI TYPE="PATIENT">FREIREKOTE , SONYLA</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:19 PM .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI> , after an appropriate load of Amiodarone , he was successfully cardioverted into normal sinus rhythm , 100 , 200 , 360 , xxxxADDRESS8xxxx was reloaded back upon Coumadin and reached a therapeutic INR .
+He was discharged on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> with follow up of his PT / PTT values on Friday , the <PHI TYPE="DATE">25th</PHI> , as well as three times a week in the following week , and follow up with xxxxDOCTOR_OLDERxxxx Most</PHI> within xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/92
+This patient is a xxxxAGE5xxxx who has had a xxxxPRIVATExxx mitral valve replacement on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/76 by xxxxDOCTOR_OLDERxxxx Melvean Ace</PHI> .
+She also had supraventricular tachycardia which was going up to xxxxADDRESS8xxxx , a temporary pacemaker that put in on <PHI TYPE="DATE xxxxDATE22xxxx PHI> , and diltiazem was restarted .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx The patient was transferred to <PHI TYPE="HOSPITAL">En&apos;s Healthcare</PHI> for work up .
+<PHI TYPE="DATE xxxxDATE7xxxx PHI> , a CT scan of the chest demonstrated bilateral pleural effusions , parenchymal consolidation right greater than left , aortic dissection with true and false lumens , well delineated flap with compression of the true lumen secondary to mass effect of thrombus in the false lumen .
+The patient underwent CT scan on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , which demonstrated dissection of the ascending and archaorta to the root .
+The patient also underwent cardiac catheterization on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , demonstrating elevated right heart filling pressures with a mean right atrial pressure of 19 , right ventricular pressure of 56/19 , pulmonary artery pressure of xxxxDATE17xxxx , pulmonary capillary wedge pressure was xxxxDATE17xxxx .
+The patient was taken to the Operating Room on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , where she underwent resection and repair of chronic aortic dissection and reconstruction of the super coronary tube graft Hemashield # 28 as well as primary repair of an atrioseptal defect which appeared consistent with a patent foramen ovale and was 1-2 centimeters insize .
+<PHI TYPE="DATE" xxxxDATE22xxxx /PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ****** DISCHARGE ORDERS ******
+<PHI TYPE="PATIENT">NERSLET , BERISS</PHI> <PHI TYPE="ID xxxxDATE17xxxx 6Q06</PHI>
+Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE xxxxDOCTOR_OLDERxxxx A.</PHI> , M.D. on order for AMIODARONE PO ( ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
+Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. on order for ZOCOR PO ( ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
+After xxxxAGE6xxxx Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by:
+Cardiac Cath <PHI TYPE="DATE xxxxDATE22xxxx PHI>/0004
+baseline CRI ( xxxxDATE12xxxx 6 ) with elevation at admission probably prerenal ; will monitor BUN / Cr after giving Lasix
+Adenosine stress MIBI revealed a small reversible defect in the PDA territory and the patient underwent coronary catheterisation on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/0004 which revealed a 70% lesion in the SVG to PDA -&gt; cypher stented successfully .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">AW45</PHI> ) <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 02:14 PM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+The patient did not have chest pain until approximately xxxxDATE12xxxx years ago , when he began to have chest tightness ( pressure ) approximately every xxxxWRITTEN_AGE_1_TO_19xxxx with stress .
+The patient also had a shoulder film done on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 that showed a severely comminuted fracture of the proximal left humerus with proximal distraction .
+This CT scan , done also on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 , again showed the severely comminuted fracture of the proximal left humerus .
+Cardiology recommended that in addition to the medications already stated above , his hematocrit be kept greater than xxxxADDRESS8xxxx his procedure on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 , elevated CPKs were noted on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 to <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 , and the first level was 744 , CPK # 2 635 , and CPK # 3 xxxxADDRESS8xxxx was consulted on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 for melena , decreased hematocrit prior to his humeral fixation surgery .
+His NPH was recently increased today ( <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 ) to 24 units in the a.m. and 14 units in the p.m. with CZI sliding scale coverage .
+His BUN/ creatinine rose from xxxxDATE12xxxx on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 to xxxxDATE12xxxx on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 to xxxxDATE12xxxx to today &apos;s labs , which are 15/0.7 on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx patient transfused 2 units of <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 for a hematocrit of 30 xxxxADDRESS8xxxx patient transfused 1 unit on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 for a hematocrit of 27 xxxxADDRESS8xxxx :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSIS :
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she was seen by xxxxDOCTOR_OLDERxxxx Stonge</PHI> at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> where a 3 x 7 cm left mid clavicular mass was noted .
+The hCG on admission was 30,710 and on <PHI TYPE="DATE xxxxDATE21xxxx PHI> was xxxxADDRESS8xxxx patient was then switched to po etidronate .
+She was started on Decadron and on <PHI TYPE="DATE xxxxDATE21xxxx PHI> began the first of ten radiation treatments to two fields ( T2 to T5 and T9 to T11 ) .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+Recurrent urinary tract infections , most recently on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/97 ; recurrent aspiration pneumonias , most recently on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/97 ; multi infarct dementia with associated dysphasia ; mitral regurgitation ; history of congestive heart failure ; pernicious anemia ; chronic venous stasis ; status post left femoral neck fracture .
+Cardiac - regular rate and rhythm with frequent premature beats and a xxxxDATE22xxxx systolic ejection murmur at the apex .
+She was generally xxxPOSITIONxxx well with resolution of her temperature until <PHI TYPE="DATE xxxxDATE22xxxx PHI>/97 at 9:20 P.M. , when she was noted to be unresponsive with fixed dilated pupils .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 8:26
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx FINAL DIAGNOSIS :
+(1) <PHI TYPE="DATE xxxxDATE22xxxx PHI>/97 :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ASSOCIATED DIAGNOSIS :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:24
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx TD :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx DIAGNOSIS :
+The patient was transferred from an outside hospital in <PHI TYPE="LOCATION">Newssatden</PHI> , admitted there <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 and transferred <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx patient is a xxxxAGE5xxxx who has long standing untreated hypertension and known valvular heart disease .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 , the patient was playing with nephew and had sudden onset of severe shortness of breath and syncope .
+The patient was discharged <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 in good condition .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DIAGNOSES :
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/91 , he was seen in <PHI TYPE="HOSPITAL">FLFDMC</PHI> and at that point , his temperature was noted to be 101.4 and he had malaise and diarrhea .
+( On <PHI TYPE="DATE xxxxDATE4xxxx PHI> , his bilirubin had been 7.2 with 6 direct ) .
+However , on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/91 , his respiratory rate increased and his oxygen saturation decreased .
+Actually in reviewing the records at this point , it appears that Pentamidine was not started initially so on the antibiotics of Erythromycin and Gentamicin , the patient &apos;s respiratory status worsened and his LDH climbed so he began Pentamidine on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx <PHI TYPE="DATE xxxxDATE4xxxx PHI>/91 , the patient again appeared more comfortable this time with 50% facemask but then required more oxygen , dropped his O2 saturations , and was intubated on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx patient &apos;s liver function tests appeared to improve . xxxPOSITIONxxx other cultures grew out and the patient &apos;s clinical status deteriorated .
+Patient underwent liver biopsy on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/91 and the results of this were pending when the patient died .
+The patient actually developed decreasing counts with white count as low as 1.75 , hematocrit as low as 26 , and platelets as low as 68 noted on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx were supported with blood products and Hematology was consulted .
+This was done on the evening of <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx expired after the endotracheal tube was withdrawn at 6:40 p.m.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Signed
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSIS :
+The patient was in her usual state of health until <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 when she was admitted to the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> with a chief complaint of falling and mental status changes .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+She was transferred to the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Intensive Care Unit where on <PHI TYPE="DATE xxxxDATE7xxxx PHI> in the morning her hematocrit was found to be 27 xxxxADDRESS8xxxx varices had stigmata of recent bleeding , were banded successfully .
+She was kept NPO until <PHI TYPE="DATE xxxxDATE7xxxx PHI> when she began to feel hungry .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+The patient was scheduled to follow up with xxxxDOCTOR_OLDERxxxx Freieslowkays</PHI> on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx at 1:20 p.m. at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
+An exercise tolerance test on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/92 was stopped at seven minutes because of fatigue and chest pain .
+Platelet count 104 xxxxADDRESS8xxxx / creatinine xxxxDATE12xxxx .
+The patient underwent a diagnostic cardiac catheterization on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/92 which showed the following :
+Pressures RA xxxxDATE22xxxx , RV xxxxDATE22xxxx , PA xxxxDATE22xxxx with a mean of 14 , PCW xxxxDATE22xxxx with a mean of xxxxADDRESS8xxxx output 6 xxxxADDRESS8xxxx xxxxADDRESS8xxxx patient tolerated the procedure well .
+The patient &apos;s hematocrit was 25 on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx was thought that the drop in hematocrit was secondary to his chemotherapy , some small dilutional effect and small blood loss from the PTCA , although there was xxxPOSITIONxxx evidence of significant bleeding .
+He is to be discharged home on <PHI TYPE="DATE xxxxDATE22xxxx PHI> with follow up with xxxxDOCTOR_OLDERxxxx Kote</PHI> , his cardiologist and with xxxxDOCTOR_OLDERxxxx Right</PHI> , his hematologist .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+Right radical nephrectomy on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx xxxxAGE5xxxx presents with a mass in her right kidney and she was admitted a Same Day admit for right radical nephrectomy .
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95 xxxxDOCTOR_OLDERxxxx The Vein</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">AKOTE , RALPRI</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 02:47 PM .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+Heart rate was regular , S1 and S2 were normal , xxxxDATE22xxxx systolic ejection murmur at the left upper sternal border with radiation to the carotids .
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , the patient had an upper endoscopy with endoscopic ultrasound .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/01
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/01
+<PHI TYPE="DATE xxxxDATE22xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Biopsy was taken at colonoscopy on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx CT was done with final results pending on discharge .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/99
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96 4:10 P
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx LEFT RENAL MASS .
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+STAT to <PHI TYPE="HOSPITAL">Goman 10</PHI> edited <PHI TYPE="DATE xxxxDATE21xxxx PHI>/94 <PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx The patient is a xxxxAGE5xxxx black man from <PHI TYPE="LOCATION">Rio</PHI> with AIDS .
+On the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> , the patient had a temperature of 104 with oxygen saturations running 93% on two liters of oxygen via nasal prong .
+On the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> , the patient began a steady deterioration in his respiratory status requiring increasing oxygen requirements .
+On the morning of <PHI TYPE="DATE xxxxDATE4xxxx PHI>/91 , the patient &apos;s blood pressure dropped to 60/palpable despite the addition of Neo Synephrine .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , she began the next cycle of second line chemotherapy consisting of Carboplatin , Ifosfamide , and Mesna .
+She was started on Zovirax on <PHI TYPE="DATE xxxxDATE7xxxx PHI> .
+On the evening of <PHI TYPE="DATE xxxxDATE4xxxx PHI>/06 , the patient was discharged home in stable condition .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 2) ALCOHOL ABUSE .
+He underwent extraction of all his teeth on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/93 tolerating the procedure well initially but then developed the ileus as noted above and subsequently a GI bleed .
+The white count was 7.5 , platelets xxxxADDRESS8xxxx last PT and PTT on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 were 13.4 and 27.3 with INR of 1 xxxxADDRESS8xxxx patient had a chest x ray which showed a few right upper lobe and one left upper lobe nodule and a follow up chest x ray on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 showed resolution of these previous nodular shadows .
+Extraction of all remaining teeth under general anesthesia on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:19 PM
+This is to notify you that your patient , <PHI TYPE="PATIENT">JEDL , SHONDLONDNAALE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:19 PM .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/96 he was admitted to the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> with chest pain and abdominal pain and in atrial fibrillation .
+The patient on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/96 underwent the above stated procedure .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+Left to right femoral femoral bypass graft on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx ON DISCHARGE :
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96 9:04 A
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx xxxPOSITIONxxx healing ulcer on the right leg .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 13:21
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx TD :
+The patient has a Persantin Thallium stress test at an outside hospital on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/99 which reportedly was negative for ischemia .
+The patient was discharged to her chronic care facility on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/99 in stable condition .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 1:31 P
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 06:08 AM
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Unsigned See Complete Discharge Summary for <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 - <PHI TYPE="DATE">Martin xxxNAMExxx xxxNAMExxx Day</PHI> .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/96 , incision and drainage of right thigh .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS7xxxx .
+He continued to deteriorate until <PHI TYPE="DATE xxxxDATE22xxxx PHI>/96 , at which time he became bradycardic and asystolic .
+He had xxxPOSITIONxxx spontaneous cardiac or neurologic activity at this time , and he was declared dead at 12:15 A.M. on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx FOR :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 2) HYPERTENSION .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+Calcium 8.7 , bilirubin 0 xxxxDATE12xxxx , creatinine 1.1 , glucose xxxxADDRESS8xxxx 24 xxxxADDRESS8xxxx rose to 1.7 on <PHI TYPE="DATE xxxxDATE4xxxx PHI> .
+The neutropenia resolved and he was felt to be in satisfactory condition on discharge on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx was discharged home on Neupogen .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx was admitted to <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> with severe recurrent pancreatitis , nausea , vomiting , and abdominal pain .
+A computerized tomography scan done on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/95 showed a large &quot; pseudocyst &quot; .
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI>/95 , GI Interventional Radiology performed drainage of the peripancreatic fluid collection .
+The fluid was sent for amylase , which came back 53 xxxxADDRESS8xxxx <PHI TYPE="DATE xxxxDATE21xxxx PHI>/95 , the patient had new onset of abdominal pain .
+Because of the patient &apos;s deteriorating state , the patient was brought to the operating room on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx splenic flexure had a purulent exudative process along the antimesenteric surface .
+Please have a copy in the chart ; the patient will be leaving on the morning of <PHI TYPE="DATE xxxxDATE4xxxx PHI>/95 .
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DATE :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+The heparin was stopped on the <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx was observed overnight .
+She was dialyzed on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 prior to transfer .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 1:20 P
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DEATH
+History of small bowel obstruction in <PHI TYPE="DATE xxxxDATE4xxxx PHI> and <PHI TYPE="DATE xxxxDATE4xxxx PHI> , pancytopenia , history of right renal calculus .
+The patient went to the operating room on the evening of <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00 and after extensive lysis of adhesions , the Roux en-Y anastomosis of jejunum to jejunum was examined and there was found to be a slightly proximal adhesion compressing the afferent limb .
+However by the mid morning of the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> , the patient had ceased making urine and had become profoundly tachycardic .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00 the patient returned to the operating room for exploratory laparotomy after pressors and antibiotics did not reverse his septic course .
+therefore the patient went back to the operating room on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00 for another exploratory laparotomy .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/00 the patient had a completion colectomy and partial proctatectomy in the bed in the intensive care unit as a last ditch attempt to gain the upper hand on the septic physiology .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/00
+<PHI TYPE="DATE xxxxDATE21xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSIS :
+The patient was admitted to the <PHI TYPE="HOSPITAL">Bitamp Memorial</PHI> on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/99 , having had three episodes of chest pain .
+The patient was brought to the operating room on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/99 , where a coronary artery bypass graft x 4 was performed .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , the patient had a catheterization that showed an occluded proximal right coronary artery with the PDA filling via left to right collaterals , an occluded left circumflex after the OMB2 , and a very proximal occlusion of the LAD .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ATTENDING :
+An xxxxAGE5xxxx with a history of CAD status post CABG , CVA status post CEA , diabetes mellitus , hypertension , GI bleeding , CHF with an EF of 35% , left lower lobe pneumonia on admission on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 - <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx , PVD and bladder cancer .
+The patient recently DC&apos;d to home from <PHI TYPE="HOSPITAL">Erdiconre Hospital</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/04
+<PHI TYPE="DATE xxxxDATE22xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+The patient was admitted to the hospital as a postoperative admit on <PHI TYPE="DATE xxxxDATE7xxxx PHI> for total hip replacement .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96 9:00 A
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx The patient has had increasing frequency of angina with exertion .
+She is to be discharged on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/90 without her digitalis per recommendations of Cardiology .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Service :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 AT 12 xxxxAGExxxx CODE STATUS :
+LOPID ( GEMFIBROZIL ) 600 MG PO BID Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+LEVOFLOXACIN 250 MG PO QD X xxxxAGE6xxxx Starting Tomorrow ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+For <PHI TYPE="HOSPITAL">AH</PHI> -- Pt needs Hct and Chem 7 checked on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx pt needs to have fbs checked by <PHI TYPE="HOSPITAL">AH</PHI> with results called to PCP if &gt; xxxxADDRESS8xxxx CONDITION :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 10:58 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 2) ANEMIA .
+In <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she presented to her primary local Medical xxxxDOCTOR_OLDERxxxx of right lower extremity weakness .
+3) Urinary tract infection - Patient had too numerous to count white cells on urinalysis on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/90 and was thus begun on Bactrim DS one tablet p.o. b.i.d.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx She presented with left upper quadrant pain as well as nausea and vomiting which is a long standing complaint .
+She was brought in for an esophagogastroduodenoscopy on <PHI TYPE="DATE xxxxDATE21xxxx PHI> but she basically was not sufficiently sedated and readmitted at this time for a GI work up as well as an evaluation of new abscess in her left lower calf and right medial lower extremity quadriceps muscle .
+On admission included BUN / creatinine of xxxxDATE22xxxx 1 .
+She went for a debridement of her left calf lesion on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/93 and was started empirically on IV ceftriaxone which was changed to po doxycycline on the day of discharge .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Patient presented here for coronary artery bypass grafting .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+The chest tube was removed , but then replaced on the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> , and maintained a continuous and large volume output .
+This change in mental status remained refractory to medical management , and in the setting of recurrent spiking fevers and worsening renal function , he was transferred to the Intensive Care Unit on the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> , xxxxYEAR_CENTURYxxxx .
+On the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> , the patient had an extremely large volume gastrointestinal bleed , and worsened hepatic encephalopathy .
+On the <PHI TYPE="DATE xxxxDATE16xxxx /PHI> , the patient succumbed to overwhelming sepsis and anuric renal failure , and hypervolemia .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 11:44 P
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+LEFT TOTAL KNEE ARTHROPLASTY ON <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx patient is a xxxxAGE5xxxx who has had osteoarthritis and noted the sudden onset of left knee pain in <PHI TYPE="DATE">09</PHI xxxxADDRESS8xxxx that time , she has used a cane and she was referred to xxxxDOCTOR_OLDERxxxx Koors</PHI> .
+She did quite well with Physical Therapy and was ambulating with a xxxNAMExxx and crutches by <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx was able to flex her knees to 90 degrees by that time .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSIS :
+An MRI without gadolinium done on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 of the spine showed a right posterior lateral epidural mass extending from T9 to T12 .
+Vancomycin was also added to his regimen on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 and this was primarily to provide improved MRSA coverage as he continued to have erythema along the lateral right lower extremity .
+His Decadron dose was titrated down to 5 mg IV q6h on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx initially required a face mask to keep his saturation above 90% .
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Discharge Date :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="PATIENT">REEF , SANTA</PHI> <PHI TYPE="ID xxxxDATE17xxxx 1 P40</PHI>
+LASIX ( FUROSEMIDE ) 80 MG PO QD Starting on <PHI TYPE="DATE xxxxDATE22xxxx PHI>
+GLUCOTROL ( GLIPIZIDE ) 2.5 MG PO QAM Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+IMDUR ( ISOSORBIDE MONONIT. ( xxxxTITLESxxxx ) ) 60 MG PO QAM Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+PREVACID ( LANSOPRAZOLE ) 30 MG PO QD Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> ) Activity As tolerated
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI>/97 , the patient became unresponsive and apneic .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx took place in xxxxYEAR_CENTURYxxxx .
+<PHI TYPE="DATE xxxxDATE22xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Signed
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx HISTORY OF PRESENT ILLNESS :
+Ms. <PHI TYPE="PATIENT">Rule</PHI> is a xxxxAGE5xxxx who is status post sigmoid resection for Duke &apos;s C2 low sigmoid carcinoma admitted on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/96 with abdominal pain and neutropenia .
+She underwent a sigmoid resection on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/96 by xxxxDOCTOR_OLDERxxxx Lenni Pain</PHI> .
+She presented to the Hematology / Oncology Clinic on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/96 for evaluation of possible adjuvant chemotherapy .
+She began treatment on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx subsequently had xxxxWRITTEN_AGE_1_TO_19xxxx of IV bolus 5-FU chemotherapy on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> , <PHI TYPE="DATE">26th</PHI> and <PHI TYPE="DATE">27th</PHI> of xxxxYEAR_CENTURYxxxx , which she tolerated well .
+By <PHI TYPE="DATE xxxxDATE21xxxx PHI>/96 she had become afebrile and antibiotics were discontinued .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+The most recent was done on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+The patient was stable with an unchanged neurological and physical examination and was discharged on aspirin 325 mg po qd , on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DISCHARGE DIAGNOSIS :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Discharge Date :
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="PATIENT">MESQUOWNFETH , LIBRENT</PHI> <PHI TYPE="ID xxxxDATE17xxxx 8 R09</PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT PLEUREX CATH
+ready for d / c on <PHI TYPE="DATE xxxxDATE21xxxx PHI> but desaturations were noticed when walking s oxygen .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ADMISSION DIAGNOSIS :
+The patient on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/90 underwent a right radical vulvectomy with excellent results and negative margins on frozen section .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+esophagoscopy , bronchoscopy , pericardectomy , excision of gastric ulcer , repair of gastric ulcer and pectoralis major myocutaneous flap performed on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx by xxxxDOCTOR_OLDERxxxx Reg Cranka</PHI> and xxxxDOCTOR_OLDERxxxx Win Shufffyfe</PHI> .
+The patient also underwent cardiac ultrasound on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx that showed abnormal right ventricle wall motion , trace mitral regurgitation , normal left ventricular size and function with an estimated ejection fraction of 64% .
+The right ventricle is dilated and diffusely hypokinetic and there is xxxPOSITIONxxx evidence of constrictive physiology which was seen on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+The patient has a sinus tract that was studied with a fistulogram on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+His heart rate was irregularly with a xxxxDATE22xxxx holosystolic murmur .
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI>/95 , he was taken to the Operating Room where he underwent a sigmoid colectomy under general endotracheal anesthesia .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+Radiation therapy to the right clavicle <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 16:52
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+The patient was discharged to home on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx DIAGNOSIS :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx RECURRENT DISLOCATION OF LEFT TOTAL HIP PROSTHESIS .
+The patient was brought to the operating room on the first hospital day , being <PHI TYPE="DATE xxxxDATE4xxxx PHI>/90 , and underwent a revision of the left acetabular component of his left total hip replacement .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+history of crossed eyes status post corrective surgery <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx post surgical disimpaction <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx repair and orchiopexy <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx and ureteral blockage of the left ureter , status post repair <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx otitis media status post PE tube placement times xxxxADDRESS8xxxx agenesis .
+The patient is a xxxxAGE5xxxx with multiple anomalies transferred from <PHI TYPE="HOSPITAL">Capa An- Medical Center</PHI> of <PHI TYPE="LOCATION">Ohio</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI> for management of airway obstruction secondary to tracheal stenosis / history of difficult intubations .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/90 the patient had surgery to remove granulomas in the trachea after traumatic intubation for seizures .
+The patient was a difficult intubation and it was finally performed by a thoracic xxxxSURGEON8xxxx 3.5 endotracheal tube . xxxxDOCTOR_OLDERxxxx Fields</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton xxxNAMExxx N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Pediatric Intensive Care Unit for evaluation and management by xxxxDOCTOR_OLDERxxxx Fields</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI> in the p.m.
+KUB on <PHI TYPE="DATE xxxxDATE21xxxx PHI> showed hugely dilated loops of colon and small bowel which only briefly respond to an enema .
+The patient last received enema on <PHI TYPE="DATE xxxxDATE21xxxx PHI> in the p.m.
+Additional laboratory data of note is a last white blood count on <PHI TYPE="DATE xxxxDATE21xxxx PHI> was 9,000 with a differential of 70 polys , 25% lymphs , hemoglobin 10.1 , platelet count 351 xxxxADDRESS8xxxx FOR :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Signed
+She was continued on two liters of oxygen awaiting her CT scan on <PHI TYPE="DATE xxxxDATE4xxxx PHI> and she developed a new junctional rhythm with a question of a new rub versus murmur on examination .
+She also received Cisplatin 35 per meter squared on <PHI TYPE="DATE xxxxDATE4xxxx PHI> and Ifex and Mesna on <PHI TYPE="DATE xxxxDATE4xxxx PHI> .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+Bronchoscopy , <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx , Mr. <PHI TYPE="PATIENT">Po</PHI> presented in xxxxYEAR_CENTURYxxxx with dysphagia and a midesophageal mass that proved to be squamous cell carcinoma .
+The patient was discharged on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx with hospice care .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/93
+Motor : xxxxDATE22xxxx throughout .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/93
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 xxxxDOCTOR_OLDERxxxx Ausguall</PHI>
+<PHI TYPE="DATE" xxxxDATE22xxxx /PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 11:04 A
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+magnetic resonance imaging of the brain on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx PROCEDURES :
+He had an magnetic resonance imaging performed on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+He was evaluated by the speech and swallow pathology group at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> and it was decided that he was able to swallow on his own with a soft solid diet with supervision . xxxNAMExxx his nasogastric tube was discontinued on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx and he tolerated feeding quite well .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx The patient was a xxxxAGE5xxxx white man with a history of mediastinal lymphoma who was admitted for autologous bone marrow transplantation .
+The patient &apos;s clinical situation continued to deteriorate and he died on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/90 at 4:30 a.m.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/90
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+A pulmonary arteriogram on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 demonstrated multiple pulmonary emboli , likely less than xxxxWRITTEN_AGE_1_TO_19xxxx old , possibly introduced at the time of the renal vein thrombosis of <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx inferior vena cava filter was placed ; lower extremity noninvasive studies were negative .
+For the concern of a perforated viscus , the patient was taken to exploratory laparotomy on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS7xxxx without evidence of perforation .
+For this reason , he was taken again to the operating room on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 , at which time a gastrojejunostomy was performed with stapling across the gastroduodenal junction , introduction of five xxxNAMExxx xxxNAMExxx drains into the retroperitoneal mass , cholecystotomy tube , gastrostomy tube , and jejunostomy tube .
+This was done , and the patient appeared to be comfortable at the time of death with his family at his side on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 8:30 A
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ADMISSION DIAGNOSES :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+He reports a minimal rare dry cough , which dates back to <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> , which he thinks is related to GERD .
+Serum galactomannan level on <PHI TYPE="DATE xxxxDATE4xxxx PHI> was negative .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/05
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 :
+He developed epigastric pain on <PHI TYPE="DATE xxxxDATE4xxxx PHI> which previously had been ignored but in retrospect was probably his anginal equivalent .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> it was noted that his platelet count had fallen from 171,000 to 54,000 ; this was thought to be associated with intravenous Heparin and indeed , when Heparin was discontinued , since it had been restarted after surgery , his platelet count rebounded to normal .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 AT 11:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 9:40 A
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Discharge Date :
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95 xxxxDOCTOR_OLDERxxxx Breutzoln</PHI>
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Unsigned
+The patient was admitted on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx patient was then transferred to her hospital xxxxROOMxxxx mg radium equivalent of cesium xxxxADDRESS8xxxx implant was left in place for 50 hours and delivered a dose of 6000 Cgy to the vagina .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/91 , the implant was removed without difficulty .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+CAT scan prior to <PHI TYPE="DATE xxxxDATE4xxxx PHI> , the tumor showed shrinkage of about 80% but increasing hydrocephalus .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+Her platelet count went up from 52 on admission to 88 on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx patient had a xxxNAMExxx scan which was negative and it was thought that the right upper quadrant pain was due to liver congestion .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx This is a xxxxWRITTEN_AGE_20_TO_99xxxx male , well known to the orthopedic oncology service .
+Bun of 24 , creatinine of 1.0 , prothrombin time of 12 xxxxADDRESS8xxxx patient was brought to the operating room on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+He was finally extubated on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx as pain was reasonably well controlled .
+He was passing flatus , but xxxPOSITIONxxx bowel movements by <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+His nasogastric tube was removed on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+Tolerating a clear diet by <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+A PICC line was placed , XRT was begun on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , as coordinated by xxxxDOCTOR_OLDERxxxx Brittsdiss</PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx cc :
+Right upper lobectomy <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+The patient underwent a right upper lobectomy on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx and returned for a left lower lobectomy .
+The patient was brought to the operating room on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , where he underwent a flexible bronchoscopy , left lower lobectomy .
+This was performed on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , he went back to the operating room for a tracheostomy .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 9:49 A
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx DIAGNOSIS :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 1. IDIOPATHIC DILATED CARDIOMYOPATHY
+The patient did well at home until <PHI TYPE="DATE xxxxDATE21xxxx PHI>/94 when she was admitted to <PHI TYPE="HOSPITAL">Souland</PHI> in <PHI TYPE="LOCATION">Nixmont Bovo</PHI> with increasing congestive heart failure .
+The patient was transferred to <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 , again for possible heart lung transplantation .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 an EPS study was performed .
+Consequently , the patient underwent AICD placement on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx , biopsies from the right forearm were significant only for inflammation , and not infection .
+By <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 the patient was able to ambulate without assistance , and was only having minimal tenderness at the AICD placement site .
+At this point it was felt the patient would go home on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx was discussed with both the patient and the Cardiology B Team .
+Consequently , the patient underwent AICD placement on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx course was only complicated by presumed right forearm thrombophlebitis , and the patient completed a xxxxAGE6xxxx antibiotic course prior to AICD placement .
+1) <PHI TYPE="DATE xxxxDATE22xxxx PHI>/94 Excision of right forearm vein for question of phlebitis ; 2) <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 AICD implantation .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+On <PHI TYPE="DATE xxxxDATE22xxxx PHI>/98 he was admitted to <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> with palpitations and was found to have an irregular wide complex tachycardia thought to be due to atrial fibrillation and conduction down his accessory pathway .
+He was discharged home but returned on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 with worsening palpitations on and off .
+There was a grade xxxxDATE22xxxx holosystolic murmur at the lower left sternal border radiating to the apex .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx TD :
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:52 P
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+Refractory CLL with bone marrow involvement , status post MUD , mini allo stem cell transplant , <PHI TYPE="DATE xxxxMONTHxxxx PHI> , xxxxYEAR_CENTURYxxxx , Acanthamoeba infection of skin and sinuses , recently treated with IV pentamidine and p.o. voriconazole , history of recurrent CMB infection , recent ARS on CRI , thought due to medication toxicity ( creatinine on discharge from <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE7xxxx PHI> was 2.6) .
+Blood and urine cultures with only positive culture a blood culture on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , with one of two bottles positive for coagulase negative Staphylococcus .
+A repeat CAT scan of the sinuses with finding of progressive thickening of the left maxillary sinus and both sets of ethmoid air cells since prior study of <PHI TYPE="DATE xxxxDATE7xxxx PHI> , indicating progressive infection of Acanthamoeba and any possible superinfection with bacterial sinusitis .
+Clinical progression of skin and sinus infection on maximal antimicrobial therapy continued , with emergence on <PHI TYPE="DATE xxxxDATE7xxxx PHI> of a new right sided ptosis in association with a left homonymous hemianopsia , and fleeting confusion while febrile , prompting head MRI which revealed a large 5 x 2 x 4.3 cm region in the right occipital lobe of hemorrhage and edema , with dural and , likely , leptomeningeal enhancement in association with small foci in the right cerebellum and pons , concerning for early lesions of similar type .
+A single blood culture positive for coagulase negative Staphylococcus was treated with a course of vancomycin in the setting of a PICC line and a chest x ray on <PHI TYPE="DATE xxxxDATE7xxxx PHI> indicating possible developing pneumonia , resulted in a course of levofloxacin , for both possible pneumonia , as well as treatment of any bacterial superinfection of Acanthamoeba sinusitis .
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , a family meeting with patient &apos;s daughter and spouse , along with primary oncologist , xxxxDOCTOR_OLDERxxxx Tomedankell Bile</PHI> , attending physician , xxxxDOCTOR_OLDERxxxx Mellerny Close</PHI> , and house staff , was held to discuss patient &apos;s critical condition and inability to prevent progression of skin , sinus and neurological Acanthamoeba infection on maximal antimicrobial therapy .
+Such measures have been continued through <PHI TYPE="DATE xxxxDATE7xxxx PHI> , and patient remains comfortable through this time .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/03
+<PHI TYPE="DATE xxxxDATE22xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+The patient underwent colonoscopy on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/96 and rectal carcinoma was observed and cauterized with a Yag laser .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Signed
+At cardiac catheterization he had an RA pressure of 8 , an RV pressure of xxxxDATE22xxxx , PA pressure of 60/25 , and wedge of xxxxADDRESS8xxxx also had a 50% LAD stenosis , a 100% large DT stenosis and a nondominant RCA with left RCA collaterals .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+This report was created by <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 09:06 PM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE21xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Ms. <PHI TYPE="PATIENT">Less</PHI> was initially admitted to the Vascular Surgery Service for xxxxDOCTOR_OLDERxxxx Scosthuang</PHI> and was recently transferred to the Neurosurgery Service under the care of xxxxDOCTOR_OLDERxxxx Pae</PHI> .
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI>/96 , she had a dialysis catheter .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+Cerebral angiogram on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 and flexible bronchoscopy on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 and <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx  <PHI TYPE="PATIENT">A</PHI> was a xxxxAGE5xxxx right handed white male with a history of left middle cerebral artery cerebrovascular accident who on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> was asleep and awoke at approximately 1:00 AM with the worst headache of his life .
+Mr. <PHI TYPE="PATIENT">A</PHI> was transferred to the Neuroscience Intensive Care Unit on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> .
+At approximately 1:45 PM on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> , his ventriculostomy tube was discontinued .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 3:21 P
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Report Status :
+<PHI TYPE="DATE" xxxxDATE22xxxx /PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="ID xxxxDATE17xxxx PHI>
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSIS :
+The patient was taken to the operating room on <PHI TYPE="DATE" xxxxDATE22xxxx /PHI xxxxYEAR_CENTURYxxxx where she underwent a re do craniotomy for tumor resection .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 16:56
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Her edema decreased over the next xxxxWRITTEN_AGE_1_TO_19xxxx and repeat fiberoptic examination on both <PHI TYPE="DATE xxxxDATE22xxxx PHI> and <PHI TYPE="DATE xxxxDATE22xxxx PHI> revealed decreasing edema .
+On <PHI TYPE="DATE" xxxxDATE22xxxx /PHI>/91 in the ICU under controlled conditions , she was electively extubated and had xxxPOSITIONxxx problems .
+Tube feedings were started on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/91 and the NG tube was discontinued on <PHI TYPE="DATE" xxxxDATE22xxxx /PHI>/91 prior to extubation to give a better look at the epiglottis prior to extubating her .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI>/95 , replacement of permanent biliary stents and liver biopsy .
+On <PHI TYPE="DATE xxxxDATE21xxxx PHI>/95 , percutaneous transhepatic cholangiogram .
+are Glyburide 5-15 mg po q a.m. and 0-10 mg po q p.m. , depending on amount of oral intake ; Celesone 1 xxxxDATE22xxxx tablets po q day , Tagamet 400 mg PO b.i.d. , ofloxacin 400 mg PO b.i.d. , CZI sliding scale which will not be continued on discharge , and Flagyl 500 mg PO t.i.d. for a total of xxxxWRITTEN_AGE_1_TO_19xxxx  xxxxDOCTOR_OLDERxxxx OCK</PHI>
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+This is to notify you that your patient , <PHI TYPE="PATIENT">BURCE , LLNO</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 08:04 AM .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/95
+CBC on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/95 :
+After the transfusion the patient &apos;s platelet count improved to 101,000 on <PHI TYPE="DATE xxxxDATE7xxxx PHI> .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 01:40 PM
+This is to notify you that your patient , <PHI TYPE="PATIENT">CHESNECHESNEWIERST , AMESAND</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 01:40 PM .
+She eventually ruled in for a myocardial infarction and was transferred to <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI> .
+Breath sounds were markedly diminished on the right ; crackles were present on the left , approximately xxxxDATE22xxxx up .
+Over the weekend of <PHI TYPE="DATE xxxxDATE4xxxx PHI> and <PHI TYPE="DATE xxxxDATE4xxxx PHI> , her condition further deteriorated , and she was started on a morphine drip .
+We insured that she was comfortable until she expired on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 .
+He was taken to the Catheter Laboratory on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+Therefore , on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , the patient underwent left thorascopic thoracic sympathectomy by xxxxDOCTOR_OLDERxxxx Aalv Sctroi</PHI> .
+Treadmill exercise testing X2 on <PHI TYPE="DATE xxxxDATE7xxxx PHI> and <PHI TYPE="DATE xxxxDATE7xxxx PHI> .
+Left stellate ganglion sympathetic block on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/94 and placement of a low catheter with sympathetic block on <PHI TYPE="DATE xxxxDATE7xxxx PHI> .
+<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx VAGINAL CYLINDER PLACEMENT <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx patient is a xxxxAGE5xxxx with a history of multiple medical problems who presented with vaginal bleeding .
+The patient was admitted on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/91 and at that time was noted to have a creatinine of 1 xxxxADDRESS8xxxx IV hydration , her creatinine returned to normal .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+The patient was taken to surgery on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS7xxxx  xxxNAMExxx aortic valve replacement without complications .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx ISCHEMIC CARDIOMYOPATHY AND CONGESTIVE HEART FAILURE .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
+This is to notify you that your patient , <PHI TYPE="PATIENT">FYFEUARDFEL , TADE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:41 PM .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE22xxxx PHI>/92
+On <PHI TYPE="DATE xxxxDATE22xxxx PHI> sodium 134 , potassium 3.8 , chloride 108 , CO2 20.3 , BUN and creatinine 8/0 xxxxADDRESS8xxxx  AIDS with wasting , cachexia , and malnutrition .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+This is to notify you that your patient , <PHI TYPE="PATIENT">AKOTEBONTKAYS , JUANQUINTLEO</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 07:36 PM .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/91
+<PHI TYPE="DATE xxxxDATE22xxxx PHI> xxxxYEAR_CENTURYxxxx 12:00:00 AM
+Esophagogastroduodenoscopy , <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx , <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx patient is a <PHI TYPE="AGE">111y</PHI> year old female who presented initially to the Medical service on <PHI TYPE="DATE xxxxDATE4xxxx PHI> complaining of weight loss , nausea , vomiting and abdominal distention .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> she was taken to the <PHI TYPE="HOSPITAL">Rys xxxHOSPITALxxx Hospital</PHI> hospital , where she was diagnosed with choledocholithiasis .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> an esophagogastroduodenoscopy was performed , which showed gastric outlet obstruction , a deformed pylorus and a duodenal mass encasing and obstructing the lumen .
+The General Surgery service was involved at this stage , and on <PHI TYPE="DATE xxxxDATE4xxxx PHI> a posterior gastrojejunostomy with wedge liver biopsy was performed to facilitate gastric drainage .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx HISTORY OF PRESENT ILLNESS :
+His most recent admission was on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 to <PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 with fever and chills .
+Chest X ray was consistent with an old chest X ray on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 showing a resolving left lower lobe and lingular infiltrate and resolution of the right mid lung infiltrate .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92
+<PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxYEAR_CENTURYxxxx 12:00:00 AM
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Signed
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx PRINCIPAL DIAGNOSIS :
+On <PHI TYPE="DATE xxxxDATE22xxxx PHI>/98 , the patient underwent a Whipple procedure , which proceeded without complications .
+Total_Date: 806, TP: 741, FP: 65

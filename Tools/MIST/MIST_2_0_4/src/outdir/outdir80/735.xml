@@ -1,0 +1,28 @@
+<RECORD ID="735">
+<TEXT>
+<ID>538617688</ID>
+<HOSPITAL>PUOMC</HOSPITAL>
+<ID>7271129</ID>
+<ID>234750</ID>
+<DATE>4/26/2000</DATE> 12:00:00 AM
+DIS
+Report Status :
+ED DISCHARGE NOTIFICATION
+<PATIENT>JEDL , SHONDLONDNAALE</PATIENT>
+MRN :
+<ID>7271129</ID>
+Age :
+83y
+REGISTRATION DATE :
+<DATE>04/26/2000</DATE> 03:19 PM
+PRELIMINARY REPORT
+This is to notify you that your patient , <PATIENT>JEDL , SHONDLONDNAALE</PATIENT> arrived in the Emergency Department at <HOSPITAL>Ph University Of Medical Center</HOSPITAL> on <DATE>04/26/2000</DATE> 03:19 PM .
+The patient presented with a chief complaint of ABDOMINAL PAIN ; WEAK .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <HOSPITAL>PH UNIVERSITY OF MEDICAL CENTER</HOSPITAL> .
+Your patient was admitted under the care of <DOCTOR>SHUFFFYFE , LIE</DOCTOR> with a preliminary diagnosis of DELTA MS MRSA .
+PCP Name :
+Provider Number :
+<ID>17744</ID>
+
+</TEXT>
+</RECORD>
