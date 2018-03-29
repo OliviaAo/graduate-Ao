@@ -141,9 +141,9 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
 #### 4. MIST
    * Environment: python 2.7
    * Working Path: Tools/MIST/MIST_2_0_4/src
-   * Deidentification principle: Machine Learning
-   * Usage:  
-        * Install MIST on MAC:
+   * Deidentification principle: Machine Learning 
+   * Usage:       
+        * Install MIST on MAC:
         ```
         (i) Set global variable:
             export MAT_PKG_HOME = /path/to/MAT/folder
@@ -155,51 +155,53 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         ```diff
         - Note: It will ask you to provide Terminal.app path when running,
-                if you just press 'Enter' and don't give a direct path, it can't work correctly.
-                Path for Terminal.app on Mac is /Applications/Utilities
+        -       if you just press 'Enter' and don't give a direct path, it can't work correctly.
+        -       Path for Terminal.app on Mac is /Applications/Utilities
         ```
-        
-        * Learn dictionary automatically:
-        ```python
-        (i) Preprocess the original i2b2 data --- Split large file by ID
+       
+       * Learn dictionary automatically:
+       ```
+       (i) Preprocess the original i2b2 data --- Split large file by ID
             python tasks/AMIA/utils/split_AMIA_file.py --extend_dates /
             --promote_type_attr train.xml outdir
-        ```     
-        ```python
-        (ii) Preprocess the original i2b2 data --- Build model
+       ``` 
+       ```
+       (ii) Preprocess the original i2b2 data --- Build model
             $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" /
             --input_dir outdir --input_file_re ".*[.]xml" --input_file_type xml-inline /
             --workflow "Process tagged untokenized docs" --steps "zone and align" /
             --output_dir json-outdir --output_file_type mat-json --output_fsuff ".json"
-        ```
-        ```diff
-        - Note: --input_file_type should be set as 'xml-inline' and can't be raw for i2b2 data
-        ```
+       ```
         
-        * Scrub on the test dataset:
-        ```python
-        (i) Train and model as the default model
-            $MAT_PKG_HOME/bin/MATModelBuilder --task "AMIA Deidentification" --save_as_default_model /
-            --nthreads=20 --max_iterations=15 --input_files "json-outdir90/*.json"
-        ```
-        ```python
-        (ii) Run the training model on one file
-             $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" --workflow Demo /
-             --input_file <input_file> --input_file_type raw --output_file <output_file> /
-             --output_file_type raw --tagger_local --steps "zone,tag,nominate,transform" --replacer "clear -> [ ]
-        ```
+       ```diff
+       - Note: --input_file_type should be set as 'xml-inline' and can't be raw for i2b2 data
+       ```
         
-        * Analyse on the scubbed text:
-        ```
-        (i) Open performanceAnalysis/mist_analysis.py
-        ```
-        ```
-        (ii) Set the output path for the results and Run the file.
-             It will show the Total scubbed number, True positive number, False positive number for each category
-        ```
-        ```diff
-        + Note: I have combined [Patient] with [Doctor] as People and [Location] with [Hospital] as Position
-        ```
+       * Scrub on the test dataset:
+       ```python
+       (i) Train and model as the default model
+           $MAT_PKG_HOME/bin/MATModelBuilder --task "AMIA Deidentification" --save_as_default_model /
+           --nthreads=20 --max_iterations=15 --input_files "json-outdir90/*.json"
+       ```
+       ```python
+       (ii) Run the training model on one file
+            $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" --workflow Demo /
+            --input_file <input_file> --input_file_type raw --output_file <output_file> /
+            --output_file_type raw --tagger_local --steps "zone,tag,nominate,transform" /
+            --replacer "clear -> [ ]
+       ```
+        
+       * Analyse on the scubbed text:
+       ```
+       (i) Open performanceAnalysis/mist_analysis.py
+       ```
+       ```
+       (ii) Set the output path for the results and Run the file.
+            It will show the Total scubbed number, True positive number, False positive number for each category
+       ```
+       ```diff
+       + Note: I have combined [Patient] with [Doctor] as People and [Location] with [Hospital] as Position
+       ```
 
 ## Articles:
 - [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1471-2288-1070.pdf)
