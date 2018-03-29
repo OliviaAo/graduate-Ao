@@ -29,6 +29,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
 #### 1. HMS Scrubber
    * Environment: Java 1.8
    * Working Path: Tools/HMS-Scrubber/scrubber-core-2.8
+   * Deidentification principle: Pattern Matching
    * Usage      
         * Add dictionary to the Configuration File:
         ```
@@ -41,14 +42,11 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         
         * Scrub on the test dataset:
         ```
-        (i)  Open Terminal(Mac) and work under the Working Path
-        ```
-        ```
-        (ii) Run 'sh scrubber.sh <input_file> <config_file>'
+        (i) Run 'sh scrubber.sh <input_file> <config_file>'
              E.g. sh scrubber.sh test.xml conf/ScrubberConfiguration.xml
         ```
         ```
-        (iii) System will create a new file under the root folder
+        (ii) System will create a new file under the root folder
               The scrubbed text is in under 'success' Folder.
         ```
         
@@ -69,6 +67,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
 #### 2. DE-ID
    * Environment: perl
    * Working Path: Tools/DEID/deid-1.1
+   * Deidentification principle: Pattern Matching
    * Usage:       
         * Add dictionary to the Configuration File:
         ```
@@ -82,10 +81,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         
         * Scrub on the test dataset:
         ```
-        (i)  Open Terminal and work under the Working Path
-        ```
-        ```
-        (ii) Run 'perl deid.pl <input_filename> <config_filename>'
+        (i) Run 'perl deid.pl <input_filename> <config_filename>'
              E.g. perl deid.pl inputFile deid.config
         ```
         ```diff
@@ -93,7 +89,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         
         ```
-        (iii) System will create a new file under the running path --- filename.res,
+        (ii) System will create a new file under the running path --- filename.res,
               which is the scrubbed text.
         ```
         
@@ -109,6 +105,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
 #### 3. PHI-Reducer
    * Environment: python 3.3
    * Working Path: Tools/PHI-Reducer/phi-reducer-0.4.5/phireducer
+   * Deidentification principle: Pattern Matching
    * Usage:       
         * Add dictionary to the Configuration File:
         ```
@@ -120,10 +117,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         
         * Scrub on the test dataset:
         ```
-        (i)  Open Terminal and work under the Working Path
-        ```
-        ```
-        (ii) Run python3 phi_reducer.py
+        (i) Run python3 phi_reducer.py
         ```
         ```diff
         + Note: Need to create two folders <input_test> and <output_test>. 
@@ -131,7 +125,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         
         ```
-        (iii) System will generate all of the corresponding scrubbed texts into the <output_test> folder.
+        (ii) System will generate all of the corresponding scrubbed texts into the <output_test> folder.
         ```
         
         * Analyse on the scubbed text:
@@ -145,6 +139,67 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
 
 
 #### 4. MIST
+   * Environment: python 2.7
+   * Working Path: Tools/MIST/MIST_2_0_4/src
+   * Deidentification principle: Machine Learning
+   * Usage:  
+        * Install MIST on MAC:
+        ```
+        (i) Set global variable:
+            export MAT_PKG_HOME = /path/to/MAT/folder
+        ```
+        ```
+        (ii) Run install file:
+             cd <toolkit_dir>
+             ./install.sh  
+        ```
+        ```diff
+        - Note: It will ask you to provide Terminal.app path when running,
+                if you just press 'Enter' and don't give a direct path, it can't work correctly.
+                Path for Terminal.app on Mac is /Applications/Utilities
+        ```
+        
+        * Learn dictionary automatically:
+        ```python
+        (i) Preprocess the original i2b2 data --- Split large file by ID
+            python tasks/AMIA/utils/split_AMIA_file.py --extend_dates /
+            --promote_type_attr train.xml outdir
+        ```     
+        ```python
+        (ii) Preprocess the original i2b2 data --- Build model
+            $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" /
+            --input_dir outdir --input_file_re ".*[.]xml" --input_file_type xml-inline /
+            --workflow "Process tagged untokenized docs" --steps "zone and align" /
+            --output_dir json-outdir --output_file_type mat-json --output_fsuff ".json"
+        ```
+        ```diff
+        - Note: --input_file_type should be set as 'xml-inline' and can't be raw for i2b2 data
+        ```
+        
+        * Scrub on the test dataset:
+        ```python
+        (i) Train and model as the default model
+            $MAT_PKG_HOME/bin/MATModelBuilder --task "AMIA Deidentification" --save_as_default_model /
+            --nthreads=20 --max_iterations=15 --input_files "json-outdir90/*.json"
+        ```
+        ```python
+        (ii) Run the training model on one file
+             $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" --workflow Demo /
+             --input_file <input_file> --input_file_type raw --output_file <output_file> /
+             --output_file_type raw --tagger_local --steps "zone,tag,nominate,transform" --replacer "clear -> [ ]
+        ```
+        
+        * Analyse on the scubbed text:
+        ```
+        (i) Open performanceAnalysis/mist_analysis.py
+        ```
+        ```
+        (ii) Set the output path for the results and Run the file.
+             It will show the Total scubbed number, True positive number, False positive number for each category
+        ```
+        ```diff
+        + Note: I have combined [Patient] with [Doctor] as People and [Location] with [Hospital] as Position
+        ```
 
 ## Articles:
 - [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1471-2288-1070.pdf)
