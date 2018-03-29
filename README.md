@@ -160,7 +160,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
        
         * Learn dictionary automatically:
-        ```python
+        ```
         (i) Preprocess the original i2b2 data --- Split large file by ID
             python tasks/AMIA/utils/split_AMIA_file.py --extend_dates /
             --promote_type_attr train.xml outdir
@@ -178,12 +178,12 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
        ```
         
        * Scrub on the test dataset:
-       ```python
+       ```
        (i) Train and model as the default model
            $MAT_PKG_HOME/bin/MATModelBuilder --task "AMIA Deidentification" --save_as_default_model /
            --nthreads=20 --max_iterations=15 --input_files "json-outdir90/*.json"
        ```
-       ```python
+       ```
        (ii) Run the training model on one file
             $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" --workflow Demo /
             --input_file <input_file> --input_file_type raw --output_file <output_file> /
