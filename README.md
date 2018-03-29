@@ -154,9 +154,9 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
              ./install.sh  
         ```
         ```diff
-        - Note: It will ask you to provide Terminal.app path when running,
-        -       if you just press 'Enter' and don't give a direct path, it can't work correctly.
-        -       Path for Terminal.app on Mac is /Applications/Utilities
+        + Note: It will ask you to provide Terminal.app path when running,
+        +       if you just press 'Enter' and don't give a direct path, it can't work correctly.
+        +       Path for Terminal.app on Mac is /Applications/Utilities
         ```
        
         * Learn dictionary automatically:
@@ -174,7 +174,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         
        ```diff
-       - Note: --input_file_type should be set as 'xml-inline' and can't be raw for i2b2 data
+       + Note: --input_file_type should be set as 'xml-inline' and can't be raw for i2b2 data
        ```
         
        * Scrub on the test dataset:
