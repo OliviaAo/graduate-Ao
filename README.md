@@ -21,9 +21,6 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
      ```
      (ii) Set the output path for the dictionary and Run the file
      ```
-     ```
-     (iii) Add the dictionary in the scrubberConfigurationFile --- conf/ScrubberConfiguration.xml
-     ```
 
 ## Tools User Guide
 #### 1. HMS Scrubber
