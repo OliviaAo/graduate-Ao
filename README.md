@@ -185,7 +185,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
             $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" --workflow Demo /
             --input_file <input_file> --input_file_type raw --output_file <output_file> /
             --output_file_type raw --tagger_local --steps "zone,tag,nominate,transform" /
-            --replacer "clear -> [ ]
+            --replacer "clear -> [ ]"
        ```
         
        * Analyse on the scubbed text:
