@@ -159,19 +159,19 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         -       Path for Terminal.app on Mac is /Applications/Utilities
         ```
        
-       * Learn dictionary automatically:
-       ```
-       (i) Preprocess the original i2b2 data --- Split large file by ID
+        * Learn dictionary automatically:
+        ```python
+        (i) Preprocess the original i2b2 data --- Split large file by ID
             python tasks/AMIA/utils/split_AMIA_file.py --extend_dates /
             --promote_type_attr train.xml outdir
-       ``` 
-       ```
-       (ii) Preprocess the original i2b2 data --- Build model
-            $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" /
-            --input_dir outdir --input_file_re ".*[.]xml" --input_file_type xml-inline /
-            --workflow "Process tagged untokenized docs" --steps "zone and align" /
-            --output_dir json-outdir --output_file_type mat-json --output_fsuff ".json"
-       ```
+        ```
+        ```
+        (ii) Preprocess the original i2b2 data --- Build model
+             $MAT_PKG_HOME/bin/MATEngine --task "AMIA Deidentification" /
+             --input_dir outdir --input_file_re ".*[.]xml" --input_file_type xml-inline /
+             --workflow "Process tagged untokenized docs" --steps "zone and align" /
+             --output_dir json-outdir --output_file_type mat-json --output_fsuff ".json"
+        ```
         
        ```diff
        - Note: --input_file_type should be set as 'xml-inline' and can't be raw for i2b2 data
