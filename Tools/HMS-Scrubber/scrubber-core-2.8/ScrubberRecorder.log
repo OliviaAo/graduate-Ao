@@ -1,4 +1,4 @@
-Identifier Recorder initialized, 2018-03-22#11.29.03AM
+Identifier Recorder initialized, 2018-04-03#06.43.38PM
         
         
     original_test50.xml    SCRUBBING FILE:
@@ -86,7 +86,6 @@ Identifier Recorder initialized, 2018-03-22#11.29.03AM
     REGEX:TELEPHONE1    ">9506800</
     REGEX:TELEPHONE1    ">3546292</
     REGEX:TELEPHONE1    ">0641514</
-    REGEX:DATE    >1940-01-01</
     REGEX:DATE4    ">11/28</
     REGEX:DATE4    ">11/05</
     REGEX:DATE4    ">11/08</
@@ -1116,7 +1115,6 @@ Identifier Recorder initialized, 2018-03-22#11.29.03AM
     REGEX:AGE8    57 yo
     REGEX:AGE8    87 yo
     REGEX:AGE8    77 yo
-    REGEX:SSN    >123456789</
     REGEX:SSN    ">123547445</
     REGEX:SSN    ">026738007</
     REGEX:SSN    ">721206493</
@@ -1394,7 +1392,6 @@ Identifier Recorder initialized, 2018-03-22#11.29.03AM
     REGEX:SUSPICIOUS_NUM2    80-120
     REGEX:SUSPICIOUS_NUM2    70-140
     REGEX:SUSPICIOUS_NUM2    50-200
-    REGEX:YEAR_CENTURY    /2001/
     REGEX:YEAR_CENTURY    >/1997
     REGEX:YEAR_CENTURY    >/1997
     REGEX:YEAR_CENTURY    >/2002
@@ -1864,537 +1861,51 @@ Identifier Recorder initialized, 2018-03-22#11.29.03AM
     REGEX:DOCTOR2    his primary MD
     REGEX:DOCTOR2    forwarded to MD
     REGEX:DOCTOR2    notified by MD
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ZIE M. ZONE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AJO C. CUCHKOTE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AZEL USANNE WALL</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">BIE OODSHUFFPREHE</PHI> , 
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">FIGEBREUNQINKITH , GI</PHI> <
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SKILUCRE , CINEJEANALF NALDDEDE 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Li Rhalttland</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">VITRA E. LINKE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LI RIJARRED STABLE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SC , JUSONKIM N</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. BREUTZOLN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. BREUTZOLN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SAP , HU E</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ANRUCHELLE JO BERGER</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ELKSREIDL , CAELL</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ELKSREIDL , CAELL</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DOLL M. BRIDGES</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">zro</PHI>
-TD :
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENCHERMOI D TA 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENCHERMOI D TA 
-    REGEX:DOCTOR_OLDER    Dr <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K. SWATLLEEBTIK</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CENTESHA SKIFOLM</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">vb / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RENLAN N. FYFEZEIS</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ywj / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA LEFT</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">nj / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">sq / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
-WORK 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">STA T. TITCHEGRIESESC</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DO JOASSCCHIRD</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RASHANEMAR S. LANCEDUHE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NA BENGSTEN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LUPEVICKETTE L. MELENA</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENTNY M. FARSTNAPPSSHEE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">BIRAY A. KINKEDOUETKOOGLE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">IETA CARE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CHPO CARE</PHI> , 
-    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
-Lasix 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Wierst</PHI> and 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">go / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    doctors regarding our recommendations .
-
-    REGEX:DOCTOR_OLDER    doctor , to keep the 
-    REGEX:DOCTOR_OLDER    doctor there .
-<PHI TYPE="
-    REGEX:DOCTOR_OLDER    DOCTOR">NIE THREATSJESCDREPS</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA STONGE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI BREUTZOLN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CHPO JESCOBEA</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Collea Douetscarv</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Gittetumn Darnnaman Graft</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Asha Vengloan</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Lupevickette L. Ca</
-    REGEX:DOCTOR_OLDER    doctor &apos;s office 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">jb / bmot</PHI>
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TROSPROB , STYEES</PHI>
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">GLOMOBESAP , BAMJET ELLDAN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NELLFYFE , SHATAYE I</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE LARSEN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ACKCA , SLAINEAEE L</
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">khu</PHI>
-TD :
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CHITLLIK WINA KOTE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AO RIELNAKA CONEY 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAKO C SCARVTWI</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DOJE EED PARA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DOJE EED PARA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DOJE EED PARA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">war</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">MONAHA SCREEN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHONDMAGSHAO ANDLI SINGLE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">tm</PHI>
-<PHI 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ASHA ERELLEDEN LALANIE 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHONDMAGSHAO ANDLI SINGLE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DREPSFEL , MA TERA</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LEUNG , LUANME A.</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. HODGKIN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. HODGKIN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AVEJOH IRY SUCH</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AVEJOH IRY SUCH</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHIDOYLEFLICH , LIZUSHANETTE I.</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SPEEGLESTRAPE , LIRA D.</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Nabeth Glyncred</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NABETH GLYNCRED</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RIODE REYAZA ZETLLILLE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">en</PHI>
-TD :
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RIODE REYAZA ZETLLILLE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">OBE , SHAA</PHI> 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">HEAGLEINCHIRD , JEANSIA S</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DAY SECOND</PHI> 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">FOORDRIG , LA BOMA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SECOND , CA</PHI> 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TLANDFLENT , MAREN S</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NIQUE , TOYA N</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SLAINEAEE S CHABECHIRD ,
-    REGEX:DOCTOR_OLDER    ="DOCTOR">OLE STREET</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">OLE STREET</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">wc</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">REEFRAUP , JA Y</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ANNETIFF MOST</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">EM Z. TIMES</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">enp / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">VE BECKESTOOKS</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">MOST , ANNETIFF SIAYUDE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TIKNEAV , JEFFCI SUOT 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">KOTESLENT , ANT ODEWYJU</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">STENVERS , IMARL</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    doctor in <PHI TYPE="
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SAY REKE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">vr</PHI>
-TD :
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NABETH NA GLYNCRED</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">MI T THULRO</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Fordwoodall Stick</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">MI CUCHSLI</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">MI CUCHSLI</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K. PAP</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">dzn</PHI>
-<PHI 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RENLAN N PLAIN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E BE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DWAINCO LEEAN RALLSVERSGACH</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL DELTA</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TAKO C. INSKE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LATO L. TIKFREIERM</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LILLBI FYFEBREUN</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TAMYRCLEO KOTE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TAMYRCLEO NADON KOTE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RYNVI A AREAS</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">zs</PHI>
-TD :
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DORLLA THORESTEE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ves / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Royneo Walla</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Heifer Freieslowkays</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ETI MULKEVI</PHI> , 
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">KOTE</PHI> , M.
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RIEEA ODEE SAPMAL</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CEALME LEOE MARESSYTHE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CHIRD , GRAJORD C</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">FTLOYD , LETTE D</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">DRICNE B IE 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ETI LOSS</PHI> , 
-    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SUOT N. DRAGTENTE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AZEL USANNE HIBBSKAYS</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">EARNRA HAWNSPANTKOTE</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CORI LOUELLPASCGACH</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ye / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">py</PHI>
-<PHI 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">MA Q. MEED</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NU L. JESCRALN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CAGHALA UINTEELE</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LYNA WALKING</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CA NA CEA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CA NA CEA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">WIN E HOME</
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LITALUCRE AKAYSNOUN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">kv</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RIODE REYAZA CALL</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE ASLINKE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">EDRY YELLOW</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">EDRY R YELLOW</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CENTESHA SKIFOLM</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">xi</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NYJO SKIZUKDALE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAKO SCARVTWI</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">KIVERL N. STANDARD</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">rap</PHI>
-cc :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">KIVERL NA STANDARD</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">A L. RALLSCHIRD</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RAMAG L. TROISQUARCKAYS</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">GUABENFRANDA D. PATCH</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">I DRAIN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LIASUN L. MASS</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ICECA RHALTKAAISPEHBREUN</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">sip</PHI>
-TD :
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ICECA RHALTKAAISPEHBREUN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">EEEN L. KEY</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI E. CAGE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">rc</PHI>
-<PHI 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LEICKKOTE , CI ABOB</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NORFJESCSTOOKS , SALENE MARGGAY</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ROYNEO WALLA</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LI RHALTTLAND</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">hbq</PHI>
-TD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LI RIJARRED RHALTTLAND</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ROYNEO MAMAIRE WALLA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Monaha Jesc</PHI> 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">FYFEOBVI , CICI CLAIREA</
-    REGEX:DOCTOR_OLDER    doctor with persistent complaints 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">A L. OR</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TRANGCA F. OR</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">JIMCHARL B. BUN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL D. FLOWAYLES ,
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ELDJOH CHYS</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CIE S. FALESCOURC</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">dfn</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">I L. STERPSKOLK</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K. BASE</
-    REGEX:DOCTOR_OLDER    doctor &apos;s office , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RORIEZAILA HOLES</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENTNY FARSTNAPPSSHEE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE WHITE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TAMYRCLEO N. BACK</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI BREUTZOLN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAURE MEDIATE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SUSHA I. RHIM</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHUFFCUCH , SEYSHARMSE N</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RALLSVERSGACH , DWAINCO</PHI>
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SA D. JESCWIERST</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RA S. BOTH</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CUCHDRIG , VATA TOLA</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">BREUN , DEANAURETHON S</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">wj / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RORIEZAILA KOTEKAYSKOTEKAYSCOA</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Reg Cranka</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Ca Shuff</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Win Shufffyfe</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CA SHUFF</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">REG CRANKA</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RA LEICKGREND</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI EENAHILDE BREUTZOLN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI EENAHILDE BREUTZOLN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">BOBSTON R SINTNIEVES</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">REAHA FIRST</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LENNI EENAHILDE BREUTZOLN</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">JUSONKIM SC</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
-The 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Laymie Aslinke</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">HIENSON FIELDS</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">EARLLAMARG S. MIELKE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">vr / bmot</PHI>
-<
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">BESTI KOTEBREUN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">WILFTAM AUSGUALL</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">zbb</PHI>
-<PHI 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">fcz</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TI SHEMAU CALL</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ASHA E VENGLOAN</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LYDELL R WORCE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RO Z. BURL</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RO Z. BURL</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">STISIE H. TIKFREIERMDREPS</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">I L. STERPSKOLK</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">vcp</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SWATLLEEBTIK , TELSHEY</PHI> 
-    REGEX:DOCTOR_OLDER    doctor if he had 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">Telshey Swatlleebtik</PHI> 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">KOTERUDES , CONRELLIE</PHI>
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SWATLLEEBTIK , TELSHEY</PHI> 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ACHASTHA N. DAIZSMAELLILLE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ssx / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ok</PHI>
-<PHI 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AKA G MAM</
-    REGEX:DOCTOR_OLDER    doctor , Dr. <PHI TYPE="
-    REGEX:DOCTOR_OLDER    DOCTOR">Royneo Walla</PHI> .
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ER SPALDJESCSAPELKSGLOTZA</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">WIN AGNE</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">REST N. GOODPASTURE</
-    REGEX:DOCTOR_OLDER    Doctor <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Doctor <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    DOCTOR &apos;S DISCHARGE 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA MALES</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">ix</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA K MALES</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RORI CORE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RIELLEUS GUM</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LINDDIE CA DEEP</
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AO R. FOLK</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">fd</PHI>
-<PHI 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TAARNNA SHERL SERVICE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SEAN SLUSSLASHGODLE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AO RIELNAKA FOLK</
-    REGEX:DOCTOR_OLDER    DOCTORS DISCHARGE ORDERS :
-Percocet 
-    REGEX:DOCTOR_OLDER    Dr <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CA G. NERMOONE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHAA KACHOLERA STONGE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LA K. SKI</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RAMAG SAMPLE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">RAMAG LOUIMI SAMPLE</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">CA X. SCGACH</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">BRITTLE SAGEPL</PHI>
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SAGEPL , SHASQUALENA</PHI> <
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAKO C. COMA</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">uev</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">KETYVI L LIFTJESC</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TELSHEY K VITAL</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL D FLOWAYLES</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SAY REKE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AE Z. TIVELOYDHERDES</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">rmk</PHI>
-DD :
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LUPEVICKETTE L LIST</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SA JESCWIERST</PHI> , 
-    REGEX:DOCTOR_OLDER    DR. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">pz / bmot</PHI>
-<
-    REGEX:DOCTOR_OLDER    ="DOCTOR">AGLE , ETTELOREJA L</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">YEERYNUGER PLANTEAIS</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TRI I. MNONKOTE</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">cp / bmot</PHI>
-<
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TIANSHA KOTE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TOMEDANKELL D. FLOWAYLES ,
-    REGEX:DOCTOR_OLDER    ="DOCTOR">REG V. CRANKA</
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">STISIE H. MEIGS</
-    REGEX:DOCTOR_OLDER    ="DOCTOR">SHONDMAGSHAO M. H. 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">TVI NORTSPALDFYFE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">NU JESCRALN</PHI> , 
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    Dr. <PHI TYPE="DOCTOR">
-    REGEX:DOCTOR_OLDER    ="DOCTOR">STIE FYFE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">iek / bmot</PHI>
-
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LAYMIE ASLINKE</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LIASUN THEN</PHI> , 
-    REGEX:DOCTOR_OLDER    ="DOCTOR">LANETTE SC</PHI> , 
     REGEX:ADDRESS2    :00 AM
 MEDIASTINAL ADENOPATHY RT. LUNG MASS
 DIS
 <PHI TYPE="
     REGEX:ADDRESS6    >-90 and EKG changes with ST 
+    REGEX:ADDRESS7    1. DR
+    REGEX:ADDRESS7    10am  <PHI TYPE="DATEPHI>/02 scheduled , Dr
     REGEX:ADDRESS7    80 mg per meter square
+    REGEX:ADDRESS7    >/92
+Dr
+    REGEX:ADDRESS7    >/92
+DR
     REGEX:ADDRESS7    ">05-01</PHI>-92 she was taken to the operating room at which time she underwent an aortic valve replacement with a # 19 St
+    REGEX:ADDRESS7    0.25 mg p.o. daily ; Ecotrin one tab p.o. daily ; captopril 12.5 mg p.o. t.i.d. ; Percocet 1-2 tabs p.o. q4-6h p.r.n. pain .
+Dr
+    REGEX:ADDRESS7    >/92
+Dr
+    REGEX:ADDRESS7    2. The patient will have follow-up with Dr
+    REGEX:ADDRESS7    125 at 440 and came to Dr
+    REGEX:ADDRESS7    ">25th</PHI> , as well as three times a week in the following week , and follow-up with Dr
+    REGEX:ADDRESS7    >/76 by Dr
+    REGEX:ADDRESS7    2. DR
+    REGEX:ADDRESS7    1. laparoscopic cholecystectomy <PHI TYPE="DATE">03</PHI>/93 by Dr
+    REGEX:ADDRESS7    >/95
+Dr
     REGEX:ADDRESS7    >/96 , the patient had a hypotensive bradycardic arrest at the end of a dialysis run
+    REGEX:ADDRESS7    1. The patient is to follow up with PCP , Dr
     REGEX:ADDRESS7    1-mm of ST
-    REGEX:ADDRESS7    >/04 <PHI TYPEPHI> , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT
+    REGEX:ADDRESS7    >/96 by Dr
+    REGEX:ADDRESS7    >/04 <PHI TYPE="DOCTOR">CUCHDRIG , VATA TOLA</PHI> , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT
+    REGEX:ADDRESS7    .5 endotracheal tube .
+Dr
     REGEX:ADDRESS7    3-0 Shiley in place
+    REGEX:ADDRESS7    >/93
+Dr
     REGEX:ADDRESS7    >/98 , during which the bowel was run
+    REGEX:ADDRESS7    >/95
+Dr
+    REGEX:ADDRESS7    1. DR
     REGEX:ADDRESS7    12 h. as well as IV steroids for the first 24 hours consisting of Decadron 8 mg q. 8 h. X 3 doses in addition to 10 mg that she received in the Emergency Room on the way
+    REGEX:ADDRESS7    5-15 mg po q a.m. and 0-10 mg po q p.m. , depending on amount of oral intake ; Celesone 1tablets po q day , Tagamet 400 mg PO b.i.d. , ofloxacin 400 mg PO b.i.d. , CZI sliding scale which will not be continued on discharge , and Flagyl 500 mg PO t.i.d. for a total of
+DR
     REGEX:ADDRESS7    6 square
     REGEX:ADDRESS7    >/91 , where he underwent a #21 St
+    REGEX:ADDRESS7    30% , per Dr
     REGEX:ADDRESS8    .3 .
 The
     REGEX:ADDRESS8    22 .
@@ -2768,8 +2279,6 @@ The
 Endocrine
     REGEX:ADDRESS8    48 .
 He
-    REGEX:ADDRESS8    .6 .
-1
     REGEX:ADDRESS8    1 .
 He
     REGEX:ADDRESS8    31 .
@@ -3071,7 +2580,7 @@ O
     REGEX:ROOM    room the patient had a hematocrit of 29.
     REGEX:ROOM    Room , he was found to be in atrial fibrillation with a rate of 120
     REGEX:ROOM    Room on <PHI TYPE="DATEPHI> ,, where she underwent resection and repair of chronic aortic dissection and reconstruction of the super coronary tube graft Hemashield # 28
-    REGEX:ROOM    room bySuot N. Dragtente</PHI> on <PHI TYPE="DATE">02-
+    REGEX:ROOM    room by Dr. <PHI TYPE="DOCTOR">Suot N. Dragtente</PHI> on <PHI TYPE="DATE">02-
     REGEX:ROOM    room on the evening of <PHI TYPE="DATEPHI>/00
     REGEX:ROOM    room on <PHI TYPE="DATEPHI>/00
     REGEX:ROOM    room on <PHI TYPE="DATEPHI>/99
@@ -3089,537 +2598,1186 @@ O
     REGEX:ROOM    room air , and weight was 73.
     REGEX:ROOM    room on <PHI TYPE="DATE">8-
     Institutions    Memorial
-    Institutions    no
+    Institutions    stable
+    Institutions    ray
     Institutions    Memorial
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    No
+    Institutions    seen
+    Institutions    ray
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
     PrivateDictionary    University
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    stable
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    Right
+    Institutions    levels
+    Institutions    ray
+    Institutions    right
+    Institutions    right
+    Institutions    mass
+    Institutions    p.o.
+    Institutions    right
+    Institutions    home
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    Home
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    Stable
+    Institutions    right
+    Names    Grant
+    Institutions    right
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    right
+    Institutions    right
+    Institutions    stable
+    Institutions    stable
+    Institutions    rule
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
     Names    ADA
-    Institutions    no
-    Institutions    no
+    Institutions    levels
     Names    ADA
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    doing
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    NC
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    mass
+    Institutions    Stable
+    Names    Grant
+    Names    GRANT
+    Institutions    first
+    Institutions    wedge
+    Institutions    PO
+    Institutions    stable
+    Institutions    first
+    Names    Grant
+    Institutions    ray
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    home
+    Names    Grant
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    first
+    Institutions    home
+    Institutions    first
+    Institutions    right
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    List
+    Institutions    fraction
+    Institutions    PO
+    Institutions    PO
+    Institutions    right
+    Institutions    ray
+    Institutions    ray
+    Institutions    levels
+    Institutions    ray
+    Institutions    po
+    Institutions    po
+    Institutions    fraction
+    Institutions    right
+    Institutions    fraction
+    Institutions    first
+    Institutions    right
+    Institutions    right
+    Names    Grant
+    Institutions    mass
+    Institutions    right
+    Institutions    right
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    right
+    Institutions    right
+    Institutions    first
+    Institutions    less
+    Institutions    RAY
+    Institutions    right
     Names    Jude
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    para
+    Institutions    seen
+    Institutions    right
+    Institutions    right
+    Institutions    seen
+    Institutions    seen
+    Institutions    right
+    Institutions    right
+    Institutions    Ray
+    Institutions    right
+    Institutions    right
     Names    Bruce
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    home
+    Institutions    stable
+    Institutions    shock
+    Institutions    right
+    Institutions    ray
+    Institutions    right
+    Institutions    mass
+    Institutions    first
+    Institutions    home
+    Institutions    stable
+    Institutions    SHOCK
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    po
+    Institutions    ray
+    Institutions    ray
+    Institutions    NG
+    Institutions    fraction
+    Institutions    ray
+    Institutions    right
+    Institutions    first
+    Institutions    right
+    Institutions    wedge
     Names    basil
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    first
+    Institutions    home
+    Institutions    right
+    Names    Grant
+    Names    Grant
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    mass
+    Institutions    seen
+    Institutions    mass
+    Institutions    mass
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    mass
     Names    Thus
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    no
+    Names    Grant
+    Institutions    mass
+    Institutions    ray
+    Institutions    right
+    Institutions    right
+    Names    Grant
+    Institutions    home
     Names    Jude
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No.
-    Institutions    NO
-    Institutions    NO
-    Institutions    NO
+    Institutions    factor
+    Institutions    right
+    Institutions    right
+    Names    Grant
+    Institutions    first
+    Institutions    seen
+    Institutions    stable
+    Institutions    HOME
+    Institutions    FRACTION
+    Institutions    RIGHT
+    Institutions    STABLE
     PrivateDictionary    UNIVERSITY
-    Institutions    NO
-    Institutions    No
-    Institutions    no
-    Institutions    no
+    Institutions    RAY
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Names    CONEY
+    Institutions    stable
+    Institutions    PO
+    Institutions    stable
+    Institutions    right
     PrivateDictionary    University
-    Institutions    no
-    Institutions    no
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    seen
+    Institutions    right
+    Institutions    levels
+    Institutions    mass
+    Institutions    mass
     Names    walker
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    No
+    Institutions    right
+    Institutions    home
+    Institutions    right
+    Institutions    p.o.
+    Institutions    seen
+    Institutions    pO2
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    right
+    Institutions    right
+    Institutions    seen
+    Institutions    seen
+    Institutions    right
+    Institutions    right
+    Institutions    MA
     PrivateDictionary    Huntington
-    Institutions    No
     PrivateDictionary    University
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    doing
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    child
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    PO
+    Institutions    right
+    Institutions    right
+    Institutions    PO
+    Institutions    PO
+    Institutions    levels
+    Institutions    PO
+    Institutions    PO
+    Institutions    mass
+    Institutions    mass
+    Institutions    MASS
+    Institutions    rule
+    Institutions    seen
+    Institutions    mass
+    Institutions    mass
+    Institutions    mass
+    Institutions    p.o.
+    Institutions    HOME
+    Institutions    p.o.
+    Institutions    ray
+    Institutions    NG
+    Institutions    right
+    Institutions    right
+    Institutions    home
+    Names    MAREN
+    Names    TOYA
+    Institutions    mass
+    Institutions    po
+    Institutions    stable
+    Institutions    ray
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    home
+    Institutions    stable
+    Institutions    CHABECHIRD
+    Names    JA
+    Institutions    fraction
+    Institutions    right
+    Institutions    fraction
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    right
+    Institutions    fraction
+    Institutions    p.o.
+    Institutions    p.o.
     PrivateDictionary    Hancock
-    Institutions    no
-    Institutions    No
-    Institutions    no
+    Institutions    right
+    Institutions    seen
+    Institutions    stable
+    Institutions    stable
+    Institutions    right
+    Institutions    mass
+    Institutions    stable
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    wedge
+    Institutions    right
+    Institutions    right
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    Home
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
     Names    ADA
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
+    Institutions    first
+    Institutions    Stable
+    Institutions    stable
+    Institutions    Right
+    Institutions    right
+    Institutions    seen
+    Institutions    rule
+    Institutions    first
     Names    Mallory
     Names    Weiss
-    Institutions    no
-    Institutions    NO
-    Institutions    no
+    Institutions    rule
+    Institutions    ray
+    Institutions    po
+    Institutions    Stable
+    Institutions    first
+    Institutions    mass
+    Institutions    mass
+    Institutions    seen
+    Institutions    mass
+    Institutions    mass
+    Institutions    mass
+    Institutions    levels
+    Institutions    right
+    Institutions    right
     Names    amina
-    Institutions    no
-    Institutions    no
+    Institutions    mass
     Names    Erica
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    doing
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
+    Institutions    po
+    Institutions    first
+    Institutions    fields
+    Institutions    stable
+    Institutions    right
+    Institutions    right
     Institutions    MEMORIAL
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    doing
-    Institutions    doing
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    right
+    Institutions    right
+    Institutions    ray
+    Institutions    ray
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    seen
+    Institutions    Ray
+    Institutions    seen
+    Institutions    fields
+    Institutions    right
+    Institutions    Ray
+    Institutions    LIST
+    Institutions    home
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    fraction
+    Institutions    right
+    PrivateDictionary    University
+    Institutions    ray
+    Institutions    ray
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    fraction
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    home
+    Institutions    home
+    Institutions    PO
+    Institutions    home
     Names    Blakemore
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    No
-    Institutions    no
+    PrivateDictionary    University
+    Institutions    stable
+    Institutions    stable
+    Institutions    home
+    Institutions    PO
+    Institutions    PO
+    Institutions    right
+    Institutions    rule
+    Institutions    mass
+    Names    Campa
+    Institutions    Memorial
+    PrivateDictionary    University
+    Institutions    stable
+    Names    Campa
+    Institutions    Memorial
+    Institutions    Right
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    first
+    Institutions    stable
+    Institutions    home
+    Institutions    home
+    Institutions    stable
+    Institutions    seen
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    right
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    home
+    Institutions    home
+    Institutions    Right
+    Institutions    mass
+    Institutions    right
+    Institutions    right
+    PrivateDictionary    University
+    PrivateDictionary    UNIVERSITY
+    Institutions    p.o.
+    Institutions    mass
+    Institutions    seen
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    home
+    Institutions    stable
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    stable
+    Institutions    ray
+    Institutions    right
+    Institutions    home
+    Institutions    MASS
+    Institutions    mass
     Names    vera
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    doing
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No.
-    Institutions    no
+    Institutions    seen
+    Institutions    mass
+    Institutions    mass
+    Institutions    right
+    Institutions    right
+    Institutions    PO
+    Institutions    PO
+    Institutions    ray
+    Institutions    right
+    Institutions    ray
+    Institutions    ray
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    ray
+    Institutions    levels
+    Institutions    para
+    Institutions    mass
+    Institutions    right
+    Institutions    fraction
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    seen
+    PrivateDictionary    University
+    Institutions    home
+    Institutions    stable
+    Institutions    fields
+    Institutions    right
+    Institutions    stable
+    Institutions    right
+    Institutions    ray
+    Institutions    po
+    Institutions    ray
+    Institutions    right
+    Institutions    ray
+    Institutions    ray
+    Institutions    ray
+    Institutions    right
+    Institutions    ray
+    Institutions    ray
+    Institutions    stable
+    PrivateDictionary    University
+    Institutions    RULE
+    Institutions    pO2
+    Institutions    fraction
+    Institutions    RIGHT
     Institutions    UNION
+    Institutions    right
+    Institutions    home
+    Institutions    right
+    PrivateDictionary    University
+    Institutions    Memorial
+    PrivateDictionary    University
+    Institutions    stable
+    Institutions    stable
+    Institutions    right
+    Institutions    home
+    Institutions    po
     Names    Kay
+    Institutions    MEMORIAL
     Names    GRAVIS
-    Institutions    No
     Institutions    Memorial
     Institutions    Memorial
+    Institutions    ray
+    Institutions    fraction
+    Institutions    medicine
+    Institutions    p.o.
+    Institutions    right
+    Institutions    PO
+    Institutions    PO
+    Institutions    Po
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
     Names    lan
-    Institutions    no
-    Institutions    no
+    Institutions    PO
+    Institutions    right
+    Institutions    right
+    Institutions    stable
+    Institutions    right
+    Institutions    right
     Names    Lupus
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    stable
+    Institutions    seen
+    Institutions    right
+    Institutions    stable
+    Institutions    home
+    Institutions    PO
+    PrivateDictionary    University
+    Institutions    fraction
+    Institutions    right
+    Institutions    home
+    PrivateDictionary    University
+    Institutions    ray
+    Institutions    right
+    Institutions    mass
+    Institutions    home
+    Institutions    Right
+    Institutions    carbon
+    Institutions    stable
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
     Names    Kay
+    Institutions    po
+    Institutions    MEDICINE
+    PrivateDictionary    UNIVERSITY
     Names    Luther
     Names    King
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    right
+    Institutions    right
+    Institutions    right
     Names    cook
     Names    grammer
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No.
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
-    Institutions    No
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    little
+    Institutions    right
+    Institutions    home
+    PrivateDictionary    University
+    Institutions    fraction
+    Institutions    po
+    Institutions    right
+    Institutions    ray
+    Institutions    right
+    Institutions    stable
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    right
+    Institutions    right
+    Institutions    stable
+    Institutions    stable
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    shock
+    Institutions    home
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    levels
+    PrivateDictionary    University
+    Institutions    PO
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    stable
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    home
+    Institutions    stable
+    Institutions    stable
+    Institutions    ray
+    Institutions    right
+    Institutions    right
+    Institutions    Right
+    Institutions    right
+    Institutions    first
     Names    Mallory
     Names    Weiss
-    Institutions    no
+    Institutions    po.
+    Institutions    ray
+    Institutions    Home
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
     Names    walker
-    Institutions    OA
-    Institutions    OA
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
+    Institutions    PO
+    Institutions    AG
+    Institutions    AG
+    Institutions    home
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    less
+    Institutions    stable
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    Stable
+    Institutions    home
+    Institutions    right
+    Institutions    stable
+    Institutions    ray
+    Institutions    fields
+    Institutions    po
+    Institutions    seen
+    Institutions    right
+    Institutions    home
+    Institutions    stable
+    Institutions    p.o.
+    Institutions    Ray
+    Institutions    first
     Names    TIPPS
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    No
-    Institutions    doing
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    list
+    Institutions    home
+    Institutions    levels
+    Institutions    seen
+    Institutions    mass
+    Institutions    p.o.
+    Institutions    ray
     Names    walker
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    doing
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    doing
-    Institutions    no
-    Institutions    NO
-    Institutions    doing
-    Names    Greenfield
-    Institutions    no
-    Institutions    no
-    Names    Asha
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Names    Len
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Names    Pfannenstiel
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    child
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Names    Thus
-    Institutions    No
-    Institutions    no
-    Names    walker
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Names    Jackson
-    Names    Pratt
-    Names    Jackson
-    Names    Pratt
-    Institutions    no
-    Institutions    No
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Names    ori
-    Names    Hiter
-    Institutions    no
-    Institutions    no
-    Names    WOOD
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Names    FYFE
-    Names    Wolfe
-    Names    Wolfe
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    CHILD
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No.
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    No.
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Names    Lato
-    Names    vitro
-    Institutions    no
-    Names    vessell
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Names    Lato
-    Names    Jude
-    Names    Collea
-    Institutions    no
-    Institutions    NC
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
+    Institutions    right
+    Institutions    right
+    Institutions    mass
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    wedge
+    Institutions    ray
+    Institutions    mass
+    Institutions    right
+    Institutions    right
+    Institutions    fraction
+    Institutions    stable
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    home
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    stable
+    Institutions    Stable
+    Institutions    mass
+    PrivateDictionary    University
+    Institutions    seen
+    Institutions    home
+    Institutions    po
+    Institutions    ray
+    Institutions    right
+    Institutions    stable
+    Institutions    right
+    Institutions    mass
+    Institutions    right
+    Institutions    mass
+    Institutions    seen
+    Institutions    po
+    Institutions    right
+    Institutions    first
+    Institutions    home
+    Institutions    stable
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    PrivateDictionary    UNIVERSITY
+    Institutions    ray
+    Institutions    fraction
+    Institutions    ng
+    Institutions    right
+    Institutions    seen
+    PrivateDictionary    University
+    Names    Campa
     Institutions    Memorial
-    Institutions    no
-    Institutions    no
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
+    Institutions    seen
+    Names    Campa
+    Institutions    Memorial
+    Institutions    mass
+    Institutions    right
+    Institutions    right
+    Institutions    rule
+    Institutions    stable
+    Institutions    po
+    Institutions    home
+    PrivateDictionary    University
+    Institutions    p.o.
+    Institutions    stable
+    Institutions    p.o.
+    Institutions    RIGHT
+    Institutions    center
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    ray
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    Home
+    Institutions    home
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    ray
+    Institutions    seen
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    seen
+    Institutions    right
+    Names    Greenfield
+    Institutions    po.
+    Institutions    po.
+    Institutions    po.
+    Institutions    right
+    Institutions    fraction
+    Institutions    right
+    Institutions    seen
+    Institutions    seen
+    Institutions    ray
+    Institutions    po.
+    Institutions    po.
+    Institutions    po.
+    Institutions    po.
+    PrivateDictionary    University
+    Institutions    Medicine
+    Institutions    stable
+    Institutions    right
+    Institutions    first
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    stable
+    Institutions    fraction
+    Institutions    right
+    Institutions    stable
+    Institutions    home
+    Institutions    right
+    Institutions    right
+    Institutions    p.o.
+    Institutions    first
+    Institutions    p.o.
+    Names    Len
+    PrivateDictionary    University
+    Institutions    Rays
+    Institutions    fields
+    Institutions    Rays
+    Institutions    stable
+    Institutions    first
+    Institutions    stable
+    PrivateDictionary    University
+    Institutions    para
+    Institutions    right
+    Names    Pfannenstiel
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    mass
+    Institutions    seen
+    Institutions    first
+    Institutions    PO2
+    Institutions    ray
+    Institutions    PO
+    Institutions    home
+    Institutions    stable
+    Institutions    right
+    Institutions    mass
+    Institutions    right
+    Institutions    PO
+    Institutions    PO
+    Institutions    right
+    Institutions    right
+    Institutions    home
+    Institutions    less
+    Institutions    po
+    Institutions    po
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    ray
+    Institutions    right
+    Institutions    little
+    Institutions    less
+    PrivateDictionary    University
+    Names    Thus
+    Institutions    LITTLE
+    Institutions    p.o.
+    Institutions    little
+    Institutions    little
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    seen
+    Names    walker
+    Institutions    right
+    Institutions    seen
+    Institutions    right
+    Institutions    right
+    Institutions    home
+    Institutions    p.o.
+    Institutions    home
+    Institutions    p.o.
+    Institutions    Right
+    Institutions    less
+    Names    Jackson
+    Names    Pratt
+    Institutions    mass
+    Names    Jackson
+    Names    Pratt
+    Institutions    right
+    Institutions    right
+    Institutions    mass
+    Institutions    right
+    Institutions    ray
+    Institutions    levels
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    stable
+    Institutions    right
+    Institutions    home
+    Institutions    Right
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    wedge
+    Institutions    seen
+    Institutions    right
+    Institutions    seen
+    Institutions    fraction
+    Institutions    stable
+    Institutions    home
+    Institutions    Home
+    Institutions    right
+    Institutions    right
+    Institutions    seen
+    Institutions    fraction
+    Institutions    ray
+    Institutions    vessels
+    Institutions    mass
+    Institutions    ray
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    ray
+    PrivateDictionary    University
+    Names    ori
+    Institutions    less
+    Institutions    ray
+    PrivateDictionary    University
+    Names    Hiter
+    Institutions    right
+    Institutions    ray
+    Institutions    stable
+    PrivateDictionary    University
+    Institutions    stable
+    Names    WOOD
+    Institutions    Right
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    fields
+    Institutions    seen
+    Institutions    stable
+    Institutions    NG
+    Institutions    NG
+    Institutions    NG
+    Institutions    NG
+    Institutions    stable
+    Institutions    wedge
+    Institutions    home
+    Institutions    seen
+    Institutions    rule
+    Institutions    first
+    Institutions    right
+    Institutions    home
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    right
+    Names    Wolfe
+    Names    Wolfe
+    Institutions    Memorial
+    Institutions    home
+    Institutions    seen
+    Institutions    right
+    Institutions    right
+    Institutions    fraction
+    Institutions    seen
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    home
+    Institutions    right
+    Institutions    right
+    Institutions    p.o.
+    Institutions    right
+    Institutions    ray
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    ray
+    Institutions    ray
+    Institutions    medicine
+    Institutions    LIST
+    Institutions    ray
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    wedge
+    Institutions    fraction
+    Institutions    Stable
+    Institutions    UA
+    Institutions    right
+    Institutions    first
+    Institutions    first
+    Institutions    right
+    PrivateDictionary    University
+    Institutions    home
+    Institutions    ray
+    Institutions    mass
+    Institutions    right
+    Institutions    mass
+    Institutions    first
+    Institutions    NG
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    PO
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    PrivateDictionary    University
+    PrivateDictionary    UNIVERSITY
+    Institutions    right
+    Institutions    right
+    Institutions    right
+    Institutions    mass
+    Institutions    po
+    PrivateDictionary    University
+    Institutions    right
+    Institutions    right
+    Institutions    fraction
+    Institutions    fraction
+    Institutions    fraction
+    Institutions    fraction
+    PrivateDictionary    University
+    Institutions    first
+    PrivateDictionary    University
+    Institutions    right
+    Institutions    right
+    Institutions    rule
+    Institutions    fraction
+    Institutions    seen
+    Names    vitro
+    Institutions    levels
+    Institutions    Factor
+    Names    vessell
+    Institutions    levels
+    Institutions    p.o.
+    Institutions    mass
+    Institutions    fraction
+    Names    Jude
+    Institutions    first
+    Institutions    seen
+    Institutions    levels
+    Institutions    fraction
+    Institutions    Right
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    right
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    center
+    Institutions    mass
+    Institutions    right
+    Institutions    stable
+    Institutions    first
+    Institutions    levels
+    Institutions    levels
+    Institutions    levels
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    PO
+    Institutions    Memorial
+    PrivateDictionary    University
+    Institutions    stable
+    Institutions    stable
+    Institutions    right
+    Institutions    ray
+    Institutions    po
+    Institutions    right
+    Institutions    po
+    Institutions    right
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    Institutions    po
+    PrivateDictionary    University
+    Institutions    home
+    Institutions    right
+    Institutions    right
+    Institutions    ray
+    Institutions    UA
+    Institutions    right
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    Memorial
+    Institutions    home
+    Institutions    ray
+    Institutions    seen
+    Institutions    mass
+    Institutions    wedge
     Names    clay
     Institutions    HCHP
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    no
+    Institutions    ray
+    Institutions    ray
+    Institutions    right
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
+    Institutions    p.o.
     Names    Kay
-    Institutions    No
-    Institutions    no
-    Institutions    no
-    Institutions    No
+    Institutions    p.o.
+    Institutions    mass
 
-Identifier Recorder shutdown, 2018-03-22#11.31.09AM
+Identifier Recorder shutdown, 2018-04-03#06.45.40PM

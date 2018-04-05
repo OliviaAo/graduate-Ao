@@ -16,8 +16,14 @@
 		</SavedIdentifiers>
 		<SavedIdentifiers>
 			<Label>Institutions</Label>
-			<FileLocation>conf/positionDictionary/positionDictionary50.txt</FileLocation>
+			<FileLocation>conf/positionDictionary/positionDictionary.txt</FileLocation>
 			<ReplaceWith>xxxPOSITIONxxx</ReplaceWith>
+			<CaseSensitive>false</CaseSensitive>
+		</SavedIdentifiers>
+		<SavedIdentifiers>
+			<Label>Institutions</Label>
+			<FileLocation>conf/peopleDictionary/peopleDictionary50.txt</FileLocation>
+			<ReplaceWith>xxxPEOPLExxx</ReplaceWith>
 			<CaseSensitive>false</CaseSensitive>
 		</SavedIdentifiers>
 		<SavedIdentifiers>

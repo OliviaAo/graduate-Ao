@@ -1,139 +1,137 @@
-He was transferred to the <PHI TYPE="HOSPITAL">Valtawnprinceel Community [**Hospital 5**] Hospital</PHI> for endoscopy and esophagoscopy on the <PHI TYPE="DATE">[**11-16**]</PHI> which showed a 2 cm linear tear of the esophagus at 30 to 32 cm .
-A medical consult was obtained at the <PHI TYPE="HOSPITAL">Valtawnprinceel Community [**Hospital 5**] Hospital</PHI> .
-He thought he was in &quot; <PHI TYPE="HOSPITAL">Em [**Hospital 6**] Medical Center</PHI> &quot; .
-The patient was admitted to the <PHI TYPE="HOSPITAL">[**Location 9**]Of Medical Center</PHI> .
-[**Signature 10**] <PHI TYPE="DOCTOR">[**Location (un) 11**] C. CUCHKOTE</PHI> , M.D.
-She has sustained a right inter-trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">[**Hospital 16**] Medical Center</PHI> and transferred to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> for further care by Dr. <PHI TYPE="DOCTOR">Stable</PHI> .
-During this meeting , he was made do not resuscitate / do not intubate and he is to be discharged to the <PHI TYPE="HOSPITAL">[**Hospital 31**] [**Hospital 32**] Hospital</PHI> where the emphasis should be entirely on this patient &apos;s comfort ; that is antiemetics as he needs , pain control as needed and nutrition for his comfort .
-His medications on discharge are to be prescribed by the <PHI TYPE="HOSPITAL">[**Hospital 33**] Hospital</PHI> here and are currently pending at the time of this dictation .
-The patient was transferred to <PHI TYPE="HOSPITAL">[**Hospital 38**] Hospital</PHI> .
-The patient was homeless before she lived in <PHI TYPE="HOSPITAL">[**Hospital 39**] Medical Center</PHI> .
-<PHI TYPE="DATE">[**07-01**]</PHI>-92 ( <PHI TYPE="HOSPITAL">SOUTHOBASSKING&apos;S [**Hospital 42**] HOSPITAL</PHI> )
-He was taken to <PHI TYPE="HOSPITAL">[**Location 44**] Talmi</PHI> and transferred to <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 17**] [**Male First Name (un) 18**] Medical Center</PHI> with a computerized tomography scan showing a 1x2 thalamic capsular hemorrhage without superficial mass effect .
-The patient is to return to the follow up care of Dr. <PHI TYPE="DOCTOR">Ko Kollciem</PHI> at the <PHI TYPE="HOSPITAL">[**Hospital 49**] Hospital</PHI> .
-She is transferred to <PHI TYPE="HOSPITAL">[**Hospital 53**] Hospital</PHI> on <PHI TYPE="DATE">[**05-28**]</PHI>-92 to continue her rehabilitation .
-At this time , she decided that she needed the prolapse fixed and actually wrote to the <PHI TYPE="HOSPITAL">[**Hospital 38**] Hospital</PHI> to try and find a Gynecologist .
-The patient is a 76 year old man , who was transferred from <PHI TYPE="HOSPITAL">[**Hospital 58**] Hospital</PHI> after an anterolateral MI , with post MI stuttering chest pain .
-On <PHI TYPE="DATE">[**12-22**]</PHI> , he was transferred to <PHI TYPE="HOSPITAL">[**Hospital 38**] Hospital</PHI> for evaluation of his post MI angina .
-DISCHARGED TO <PHI TYPE="HOSPITAL">SOUTHOBASSKING&apos;S [**Hospital 42**] HOSPITAL</PHI> .
-The patient is a 58 year old female with a history of Parkinson &apos;s disease for more than twenty years who presented to the <PHI TYPE="HOSPITAL">[**Hospital 72**] Medical Center</PHI> with a revolving anterolateral wall myocardial infarction on <PHI TYPE="DATE">[**08-01**]</PHI>-93 .
-The patient was transferred to the <PHI TYPE="HOSPITAL">[**Hospital 72**] Medical Center</PHI> and was admitted .
-HE CONTINUED TO DO WELL AND WAS DISCHARGED TO <PHI TYPE="HOSPITAL">[**Location 81**]HOSPITAL AND CLINICS</PHI> IN <PHI TYPE="LOCATION">[**Street Address 82**]. , Ingcinderdrykanedar , 62106</PHI> ON POSTOPERATIVE DAY 6 .
+He was transferred to the <PHI TYPE="HOSPITAL">Valtawnprinceel Community [**Hospital 2**] Hospital</PHI> for endoscopy and esophagoscopy on the <PHI TYPE="DATE">[**11-16**]</PHI> which showed a 2 cm linear tear of the esophagus at 30 to 32 cm .
+A medical consult was obtained at the <PHI TYPE="HOSPITAL">Valtawnprinceel Community [**Hospital 2**] Hospital</PHI> .
+He thought he was in &quot; <PHI TYPE="HOSPITAL">Em [**Hospital 5**] Medical Center</PHI> &quot; .
+The patient was admitted to the <PHI TYPE="HOSPITAL">[**Location 10**]Of Medical Center</PHI> .
+She has sustained a [**Company 6**] inter-trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">[**Hospital 28**] Medical Center</PHI> and transferred to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 29**] [**Male First Name (un) 30**] Medical Center</PHI> for further care by Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> .
+During this meeting , he was made do not resuscitate / do not intubate and he is to be discharged to the <PHI TYPE="HOSPITAL">[**Hospital 55**] [**Hospital 56**] Hospital</PHI> where the emphasis should be entirely on this patient &apos;s comfort ; that is antiemetics as he needs , [**Company 18**] control as needed and nutrition for his comfort .
+His medications on discharge are to be prescribed by the <PHI TYPE="HOSPITAL">[**Hospital 57**] Hospital</PHI> here and are currently pending at the time of this dictation .
+The patient was transferred to <PHI TYPE="HOSPITAL">[**Hospital 66**] Hospital</PHI> .
+The patient was homeless before she lived in <PHI TYPE="HOSPITAL">[**Hospital 72**] Medical Center</PHI> .
+<PHI TYPE="DATE">[**07-01**]</PHI>-92 ( <PHI TYPE="HOSPITAL">SOUTHOBASSKING&apos;S [**Hospital 76**] HOSPITAL</PHI> )
+He was taken to <PHI TYPE="HOSPITAL">[**Location 83**] Talmi</PHI> and transferred to <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 29**] [**Male First Name (un) 30**] Medical Center</PHI> with a computerized tomography scan showing a 1x2 thalamic capsular hemorrhage without superficial [**Company **] effect .
+The patient is to return to the follow up care of Dr. <PHI TYPE="DOCTOR">[**Company 87**]</PHI> at the <PHI TYPE="HOSPITAL">[**Hospital 88**] Hospital</PHI> .
+She is transferred to <PHI TYPE="HOSPITAL">[**Hospital 95**] Hospital</PHI> on <PHI TYPE="DATE">[**05-28**]</PHI>-92 to continue her rehabilitation .
+At this time , she decided that she needed the prolapse fixed and actually wrote to the <PHI TYPE="HOSPITAL">[**Hospital 66**] Hospital</PHI> to try and find a Gynecologist .
+The patient is a 76 year old man , who was transferred from <PHI TYPE="HOSPITAL">[**Hospital 109**] Hospital</PHI> after an anterolateral MI , with post MI stuttering chest [**Company 18**] .
+On <PHI TYPE="DATE">[**12-22**]</PHI> , he was transferred to <PHI TYPE="HOSPITAL">[**Hospital 66**] Hospital</PHI> for evaluation of his post MI angina .
+DISCHARGED TO <PHI TYPE="HOSPITAL">SOUTHOBASSKING&apos;S [**Hospital 76**] HOSPITAL</PHI> .
+The patient is a 58 year old female with a history of Parkinson &apos;s disease for more than twenty years who presented to the <PHI TYPE="HOSPITAL">[**Hospital 134**] Medical Center</PHI> with a revolving anterolateral wall myocardial infarction on <PHI TYPE="DATE">[**08-01**]</PHI>-93 .
+The patient was transferred to the <PHI TYPE="HOSPITAL">[**Hospital 134**] Medical Center</PHI> and was admitted .
+HE CONTINUED TO DO WELL AND WAS DISCHARGED TO <PHI TYPE="HOSPITAL">[**Location 149**]HOSPITAL AND CLINICS</PHI> IN <PHI TYPE="LOCATION">[**Street Address 150**]. , Ingcinderdrykanedar , 62106</PHI> ON POSTOPERATIVE DAY 6 .
 He went to <PHI TYPE="HOSPITAL">Ton [**Location (un) **] Hospital</PHI> where a head CT was performed that showed no evidence of bleed .
-W / U for [**Location (un) 95**] &apos;s , ceruloplasmin , TSH , etc have all been negative in the past .
+W / U for [**Location (un) 169**] &apos;s , ceruloplasmin , TSH , etc have all been negative in the past .
 This is a 70-year-old woman with a history of end-stage renal disease , on hemodialysis and peritoneal hemodialysis for ten years , transferred from <PHI TYPE="HOSPITAL">Ton [**Location (un) **] Hospital</PHI> for further evaluation of change in mental status .
-She was admitted to <PHI TYPE="HOSPITAL">[**Hospital 101**] Hospital</PHI> for change in mental status on <PHI TYPE="DATE">[**07-19**]</PHI>/2002 .
+She was admitted to <PHI TYPE="HOSPITAL">[**Hospital 176**] Hospital</PHI> for change in mental status on <PHI TYPE="DATE">[**07-19**]</PHI>/2002 .
 MEDICATIONS ON TRANSFER TO THE <PHI TYPE="HOSPITAL">BRI HEALTH</PHI> FROM <PHI TYPE="HOSPITAL">[**Hospital **] HOSPITAL</PHI> :
-The patient received care on the <PHI TYPE="HOSPITAL">[**Hospital 113**] Medical Center</PHI> .
-<PHI TYPE="DOCTOR">[**Street Address 127**]</PHI> , M.D.
-Electronically Signed <PHI TYPE="DOCTOR">[**Street Address 127**]</PHI> , M.D.
-He has had numerous interval admissions to <PHI TYPE="HOSPITAL">[**Hospital 133**] Medical Health</PHI> for congestive heart failure of an increasing pattern in <PHI TYPE="DATE">03</PHI>/93 and <PHI TYPE="DATE">08</PHI>/94 and then every three weeks since the beginning of the year .
-For the patient , at <PHI TYPE="LOCATION">[**Last Name (un) 137**] , Alaska</PHI> , for Dr. <PHI TYPE="DOCTOR">Avejoh Wierst</PHI> , c / o <PHI TYPE="HOSPITAL">Pedines Community Hospital</PHI> , in <PHI TYPE="LOCATION">[**Street Address 138**] , Biinss , [**State/Zipcode 139**]</PHI> .
-PPI and [**Hospital 142**]
-The patient is to arrange follow up with a GI doctor in <PHI TYPE="LOCATION">[**Street Address 146**] , Cunahtampfordama , [**State/Zipcode 147**]</PHI> through his primary-care physician .
-The patient was transferred to <PHI TYPE="HOSPITAL">[**Location 149**]Hospital</PHI> for management of her cancer and termination of the pregnancy .
-Per the patient &apos;s wishes , Dr. <PHI TYPE="DOCTOR">Dalywoo Droreite</PHI> the <PHI TYPE="HOSPITAL">[**Hospital 152**] Hospital</PHI> was consulted for a second opinion regarding the management of her malignancy .
-Per the patient &apos;s wishes , she was transferred to the <PHI TYPE="HOSPITAL">[**Hospital 152**] Hospital</PHI> for chemotherapy .
-The patient and his family agreed to transfer from <PHI TYPE="HOSPITAL">[**Location 149**]Hospital</PHI> to <PHI TYPE="HOSPITAL">[**Hospital 154**] Medical Center</PHI> .
-1. <PHI TYPE="HOSPITAL">[**Location 155**] HOSPITAL</PHI>
-She is currently [**Location (un) 157**] Heart Association functional class 3 .
-The patient was transferred to the <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> for further management .
-He was admitted to the <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> at that time and was treated with Bactrim and steroids .
-The patient was in her usual state of health until <PHI TYPE="DATE">[**07-10**]</PHI>/98 when she was admitted to the <PHI TYPE="HOSPITAL">[**Hospital 164**] Medical Center</PHI> with a chief complaint of falling and mental status changes .
+The patient received care on the <PHI TYPE="HOSPITAL">[**Hospital 195**] Medical Center</PHI> .
+<PHI TYPE="DOCTOR">[**Street Address 214**]</PHI> , M.D.
+Electronically Signed <PHI TYPE="DOCTOR">[**Street Address 214**]</PHI> , M.D.
+He has had numerous interval admissions to <PHI TYPE="HOSPITAL">[**Hospital 220**] Medical Health</PHI> for congestive heart failure of an increasing pattern in <PHI TYPE="DATE">03</PHI>/93 and <PHI TYPE="DATE">08</PHI>/94 and then every three weeks since the beginning of the year .
+For the patient , at <PHI TYPE="LOCATION">[**Last Name (un) 228**] , Alaska</PHI> , for Dr. <PHI TYPE="DOCTOR">[**Company 227**]</PHI> , c / o <PHI TYPE="HOSPITAL">Pedines Community Hospital</PHI> , in <PHI TYPE="LOCATION">[**Street Address 229**] , Biinss , [**State/Zipcode 230**]</PHI> .
+PPI and [**Hospital 237**]
+The patient is to arrange follow up with a GI doctor in <PHI TYPE="LOCATION">[**Street Address 242**] , Cunahtampfordama , [**State/Zipcode 243**]</PHI> through his primary-care physician .
+The patient was transferred to <PHI TYPE="HOSPITAL">[**Location 245**]Hospital</PHI> for management of her cancer and termination of the pregnancy .
+Per the patient &apos;s wishes , Dr. <PHI TYPE="DOCTOR">Dalywoo Droreite</PHI> the <PHI TYPE="HOSPITAL">[**Hospital 249**] Hospital</PHI> was consulted for a second opinion regarding the management of her malignancy .
+Per the patient &apos;s wishes , she was transferred to the <PHI TYPE="HOSPITAL">[**Hospital 249**] Hospital</PHI> for chemotherapy .
+The patient and his family agreed to transfer from <PHI TYPE="HOSPITAL">[**Location 245**]Hospital</PHI> to <PHI TYPE="HOSPITAL">[**Hospital 252**] Medical Center</PHI> .
+1. <PHI TYPE="HOSPITAL">[**Location 254**] HOSPITAL</PHI>
+She is currently [**Location (un) 258**] Heart Association functional class 3 .
+The patient was transferred to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> for further management .
+He was admitted to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> at that time and was treated with Bactrim and steroids .
+The patient was in her usual state of health until <PHI TYPE="DATE">[**07-10**]</PHI>/98 when she was admitted to the <PHI TYPE="HOSPITAL">[**Hospital 270**] Medical Center</PHI> with a chief complaint of falling and mental status changes .
 On arrival to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> the patient stated that she had not had a bowel movement for many days and that she had no appetite .
-At <PHI TYPE="HOSPITAL">[**Hospital 167**] Medical Center</PHI> , she had a hematocrit of 25 and was transfused 2 units of packed red blood cells .
+At <PHI TYPE="HOSPITAL">[**Hospital 275**] Medical Center</PHI> , she had a hematocrit of 25 and was transfused 2 units of packed red blood cells .
 She was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Intensive Care Unit where on <PHI TYPE="DATE">[**01-25**]</PHI> in the morning her hematocrit was found to be 27.4 .
-At that time she was transferred from the Intensive Care Unit to <PHI TYPE="HOSPITAL">Coden 2</PHI> for the <PHI TYPE="HOSPITAL">[**Hospital 169**] Hospital</PHI> service .
-On transfer to the <PHI TYPE="HOSPITAL">[**Hospital 169**] Hospital</PHI> service , her hematocrit was 31.2 , white count 11.1 and a platelet count 80 .
-The patient was scheduled to follow up with Dr. <PHI TYPE="DOCTOR">Freieslowkays</PHI> on <PHI TYPE="DATE">[**01-08**]</PHI> , 1994 at 1:20 p.m. at the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 172**] [**Hospital 5**] Hospital</PHI> .
+At that time she was transferred from the Intensive Care Unit to <PHI TYPE="HOSPITAL">Coden 2</PHI> for the <PHI TYPE="HOSPITAL">[**Hospital 277**] Hospital</PHI> service .
+On transfer to the <PHI TYPE="HOSPITAL">[**Hospital 277**] Hospital</PHI> service , her hematocrit was 31.2 , white count 11.1 and a platelet count 80 .
+The patient was scheduled to follow up with Dr. <PHI TYPE="DOCTOR">[**Company 282**]</PHI> on <PHI TYPE="DATE">[**01-08**]</PHI> , 1994 at 1:20 p.m. at the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> .
 However , she has been reluctant to even move from the bed to the chair since admission to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> .
-<PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) 174**] [**Last Name (un) 175**]</PHI> , M.D. , Reproductive Endocrinology <PHI TYPE="DOCTOR">Heifer Freieslowkays</PHI> , M.D. , <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 172**] [**Hospital 5**] Hospital</PHI> , phone number <PHI TYPE="PHONE">[**Telephone/Fax (1) 173**]</PHI> STAT
-She has been seen by Dr. <PHI TYPE="DOCTOR">Tokbelb</PHI> , her primary care physician [**Initials (NamePattern4) **] <PHI TYPE="HOSPITAL">[**Hospital 176**] Hospital</PHI> , and also Dr. <PHI TYPE="DOCTOR">Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> .
+<PHI TYPE="DOCTOR">[**Company 286**]</PHI> , M.D. , Reproductive Endocrinology <PHI TYPE="DOCTOR">Heifer [**Company 282**]</PHI> , M.D. , <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> , phone [**Company **] <PHI TYPE="PHONE">[**Telephone/Fax (1) 284**]</PHI> STAT
+She has been [**Company 4**] by Dr. <PHI TYPE="DOCTOR">[**Company 287**]</PHI> , her primary care physician [**Initials (NamePattern4) **] <PHI TYPE="HOSPITAL">[**Hospital 288**] Hospital</PHI> , and also Dr. <PHI TYPE="DOCTOR">Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
 This is to notify you that your patient , <PHI TYPE="PATIENT">AKOTE , RALPRI</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**04-14**]</PHI>/2004 02:47 PM .
 Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-The patient was to follow-up with the <PHI TYPE="HOSPITAL">[**Hospital 184**] Hospital And Medical Center</PHI> as an outpatient for further treatment .
-He is transferred to <PHI TYPE="HOSPITAL">[**Hospital 186**] [**Hospital 187**] Medical Center</PHI> for future rehabilitation and hopeful return home with considerable support and assistance .
-In <PHI TYPE="DATE">October</PHI> 1990 , the patient was admitted again to the <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> with diarrhea and acute renal failure secondary to hypovolemia .
-The plan at this time was made to further consider the options and the patient will follow-up with <PHI TYPE="HOSPITAL">Im [**Location 190**]Medical Center</PHI> next week .
-The patient has a long history of alcohol abuse and alcoholic liver disease as well as seizure disorder related to alcohol withdrawal and multiple <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> admissions for detox and multiple detox facilities in the past .
-He was transferred to <PHI TYPE="HOSPITAL">[**Hospital 193**] Hospital</PHI> for further evaluation .
-1. <PHI TYPE="HOSPITAL">PAW.[**Hospital 194**] MEDICAL CENTER</PHI>
-This is to notify you that your patient , <PHI TYPE="PATIENT">JEDL , SHONDLONDNAALE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**04-26**]</PHI>/2000 03:19 PM .
-He was instructed to follow-up with his outpatient physician , Dr. <PHI TYPE="DOCTOR">Walking</PHI> , at the <PHI TYPE="HOSPITAL">Chorlasonmor [**Hospital 197**] [**Hospital 198**] [**Hospital 199**]</PHI> at <PHI TYPE="LOCATION">Uingno Dar</PHI> as well as his <PHI TYPE="HOSPITAL">VLH</PHI> Hematologist .
-RIGHT PROXIMAL TIBIAL DELAYED [**Hospital1 200**] WITH MEDIAL PLATEAU FRACTURE
+The patient was to follow-up with the <PHI TYPE="HOSPITAL">[**Hospital 299**] Hospital And Medical Center</PHI> as an outpatient for further treatment .
+He is transferred to <PHI TYPE="HOSPITAL">[**Hospital 301**] [**Hospital 302**] Medical Center</PHI> for future rehabilitation and hopeful return [**Company 19**] with considerable support and assistance .
+In <PHI TYPE="DATE">October</PHI> 1990 , the patient was admitted again to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> with diarrhea and acute renal failure secondary to hypovolemia .
+The plan at this time was made to further consider the options and the patient will follow-up with <PHI TYPE="HOSPITAL">Im [**Location 309**]Medical Center</PHI> next week .
+The patient has a long history of alcohol abuse and alcoholic liver disease as well as seizure disorder related to alcohol withdrawal and multiple <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> admissions for detox and multiple detox facilities in the past .
+He was transferred to <PHI TYPE="HOSPITAL">[**Hospital 314**] Hospital</PHI> for further evaluation .
+1. <PHI TYPE="HOSPITAL">PAW.[**Hospital 316**] MEDICAL CENTER</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 318**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**04-26**]</PHI>/2000 03:19 PM .
+He was instructed to follow-up with his outpatient physician , Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> , at the <PHI TYPE="HOSPITAL">Chorlasonmor [**Hospital 320**] [**Hospital 321**] [**Hospital 322**]</PHI> at <PHI TYPE="LOCATION">Uingno Dar</PHI> as well as his <PHI TYPE="HOSPITAL">VLH</PHI> Hematologist .
+[**Company **] PROXIMAL TIBIAL DELAYED [**Hospital1 323**] WITH MEDIAL PLATEAU FRACTURE
 This is a 69-year-old male who was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> with coronary artery disease .
-On <PHI TYPE="DATE">[**10-13**]</PHI>/96 he was admitted to the <PHI TYPE="HOSPITAL">[**Hospital 201**] [**Hospital 5**] Hospital</PHI> with chest pain and abdominal pain and in atrial fibrillation .
-The patient had not had chest pain since the seventh and was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> in stable condition .
-<PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">WIN E HOME</PHI> , M.D. / DR. <PHI TYPE="DOCTOR">HOME</PHI> <PHI TYPE="HOSPITAL">[**Hospital **] [**Hospital **] HOSPITAL</PHI> , <PHI TYPE="LOCATION">Ka Pemco</PHI>
-This is a 72-year-old male with a history of thymoma resected in [**1996**] , chronic obstructive pulmonary disease , hypothyroidism who was transferred from <PHI TYPE="HOSPITAL">Gobay [**Hospital **] [**Hospital 5**] Hospital</PHI> for an myocardial infarction and cardiac catheterization .
-He was transferred to <PHI TYPE="HOSPITAL">Gobay [**Hospital **] [**Hospital 5**] Hospital</PHI> where chest x-ray showed left lower lobe infiltrate and cardiac enzymes were elevated with a CK of 297 , MB fraction of 38 and troponin of 12 .
-The patient was transferred to the medicine service at the <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> and underwent cardiac catheterization which was negative for disease .
-The ulcer was managed conservatively at <PHI TYPE="HOSPITAL">[**Hospital **] Hospital</PHI> by Dr. <PHI TYPE="DOCTOR">Holes</PHI> with Silvadene b.i.d. lower extremity non-invasive study obtained at that time showed poor distal right extremity perfusion .
-<PHI TYPE="DOCTOR">[**Hospital 74**] ASLINKE</PHI> , M.D.
-An echocardiogram at the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> in [**1997**] revealed a normal ejection fraction and no wall motion abnormality .
+On <PHI TYPE="DATE">[**10-13**]</PHI>/96 he was admitted to the <PHI TYPE="HOSPITAL">[**Hospital 324**] [**Hospital 2**] Hospital</PHI> with chest [**Company 18**] and abdominal [**Company 18**] and in atrial fibrillation .
+The patient had not had chest [**Company 18**] since the seventh and was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> in [**Company 3**] condition .
+<PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">WIN E [**Company **]</PHI> , M.D. / DR. <PHI TYPE="DOCTOR">[**Company **]</PHI> <PHI TYPE="HOSPITAL">[**Hospital **] [**Hospital **] HOSPITAL</PHI> , <PHI TYPE="LOCATION">Ka Pemco</PHI>
+This is a 72-year-old male with a history of thymoma resected in [**1996**] , chronic obstructive pulmonary disease , hypothyroidism who was transferred from <PHI TYPE="HOSPITAL">Gobay [**Hospital **] [**Hospital 2**] Hospital</PHI> for an myocardial infarction and cardiac catheterization .
+He was transferred to <PHI TYPE="HOSPITAL">Gobay [**Hospital **] [**Hospital 2**] Hospital</PHI> where chest x-ray showed left lower lobe infiltrate and cardiac enzymes were elevated with a CK of 297 , MB [**Company 71**] of 38 and troponin of 12 .
+The patient was transferred to the medicine service at the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> and underwent cardiac catheterization which was negative for disease .
+The ulcer was managed conservatively at <PHI TYPE="HOSPITAL">[**Hospital **] Hospital</PHI> by Dr. <PHI TYPE="DOCTOR">[**Company 333**]</PHI> with Silvadene b.i.d. lower extremity non-invasive study obtained at that time showed poor distal [**Company 6**] extremity perfusion .
+An echocardiogram at the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> in [**1997**] revealed a normal ejection [**Company 71**] and no wall motion abnormality .
 The patient was intubated , given thiamine and D50 as well as intravenous Lasix and she was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Emergency Room .
 Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-She is now referred to the <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> for evaluation of her mitral valvular disease .
-He was admitted to <PHI TYPE="HOSPITAL">[**Hospital 222**] Medical Center</PHI> with severe recurrent pancreatitis , nausea , vomiting , and abdominal pain .
+She is now referred to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> for evaluation of her mitral valvular disease .
+He was admitted to <PHI TYPE="HOSPITAL">[**Hospital 358**] Medical Center</PHI> with severe recurrent pancreatitis , nausea , vomiting , and abdominal [**Company 18**] .
 He was transferred to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> for further surgical evaluation .&apos;
-The patient will follow up with Dr. <PHI TYPE="DOCTOR">Ther Ludzjesc</PHI> at <PHI TYPE="HOSPITAL">[**Hospital 228**] Hospital Medical Centers</PHI> in <PHI TYPE="LOCATION">Connecticut</PHI> .
-The patient was admitted to the <PHI TYPE="HOSPITAL">Bitamp [**Hospital1 5**]</PHI> on <PHI TYPE="DATE">[**05-11**]</PHI>/99 , having had three episodes of chest pain .
+The patient will follow up with Dr. <PHI TYPE="DOCTOR">[**Company 368**]</PHI> at <PHI TYPE="HOSPITAL">[**Hospital 369**] Hospital Medical Centers</PHI> in <PHI TYPE="LOCATION">Connecticut</PHI> .
+The patient was admitted to the <PHI TYPE="HOSPITAL">Bitamp [**Hospital1 2**]</PHI> on <PHI TYPE="DATE">[**05-11**]</PHI>/99 , having had three episodes of chest [**Company 18**] .
 However , it should be stated that all of her cultures while at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> were negative for growth .
-The patient recently DC&apos;d to home from <PHI TYPE="HOSPITAL">[**Hospital 233**] Hospital</PHI> on <PHI TYPE="DATE">[**02-20**]</PHI>/2004 .
-She is a 70 year old white woman in good general health until <PHI TYPE="DATE">November</PHI> l990 when she developed sudden shortness of breath and was taken to <PHI TYPE="HOSPITAL">[**Hospital 222**] Medical Center</PHI> .
-On the day of admission in <PHI TYPE="HOSPITAL">[**Hospital 247**] Medical Center</PHI> medical doctor &apos;s office , the patient had 2 episodes of chest pain associated with shortness of breath without radiation or other associated symptoms .
-The patient &apos;s Decadron dose was increased to 12 mg q day and he was also started on MS Contin and radiation therapy was being planned and arranged at the <PHI TYPE="HOSPITAL">[**Hospital 184**] Hospital And Medical Center</PHI> .
-There were cultures obtained seeping from the wound at <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> and those also grew out Pseudomonas aeruginosa .
+The patient recently DC&apos;d to [**Company 19**] from <PHI TYPE="HOSPITAL">[**Hospital 376**] Hospital</PHI> on <PHI TYPE="DATE">[**02-20**]</PHI>/2004 .
+She is a 70 year old white woman in good general health until <PHI TYPE="DATE">November</PHI> l990 when she developed sudden shortness of breath and was taken to <PHI TYPE="HOSPITAL">[**Hospital 358**] Medical Center</PHI> .
+On the day of admission in <PHI TYPE="HOSPITAL">[**Hospital 403**] Medical Center</PHI> medical doctor &apos;s office , the patient had 2 episodes of chest [**Company 18**] associated with shortness of breath without radiation or other associated symptoms .
+The patient &apos;s Decadron dose was increased to 12 mg q day and he was also started on MS Contin and radiation therapy was being planned and arranged at the <PHI TYPE="HOSPITAL">[**Hospital 299**] Hospital And Medical Center</PHI> .
+There were cultures obtained seeping from the wound at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> and those also grew out Pseudomonas aeruginosa .
 The patient presented to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> with a fever .
-He was seen in <PHI TYPE="HOSPITAL">[**Hospital 184**] Hospital And Medical Center</PHI> on <PHI TYPE="DATE">[**10-29**]</PHI>-90 and EKG changes with ST elevations in V2 through V4 and flipped T waves in leads 3 and aVF was noted .
+He was [**Company 4**] in <PHI TYPE="HOSPITAL">[**Hospital 299**] Hospital And Medical Center</PHI> on <PHI TYPE="DATE">[**10-29**]</PHI>-90 and EKG changes with ST elevations in V2 through V4 and flipped T waves in leads 3 and aVF was noted .
 Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED TO OBSERVATION AT <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-The patient was seen at the <PHI TYPE="HOSPITAL">Ochtuheihugh Put [**Location (un) **] Medical Center</PHI> and then he was referred to the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 172**] [**Hospital 5**] Hospital</PHI> .
-At 8 p.m. the patient seen at the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 172**] [**Hospital 5**] Hospital</PHI> and was examined and assessed .
-[**Location 259**] memory the patient was able to recall one object out of thee at five minute , two out of three with clues and three out of three with multiple choice .
+The patient was [**Company 4**] at the <PHI TYPE="HOSPITAL">Ochtuheihugh Put [**Location (un) **] Medical Center</PHI> and then he was referred to the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> .
+At 8 p.m. the patient [**Company 4**] at the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> and was examined and assessed .
+[**Location 422**] memory the patient was able to recall one object out of thee at five minute , two out of three with clues and three out of three with multiple choice .
 The patient will also be followed by his regular Urologist at <PHI TYPE="HOSPITAL">Ochtuheihugh Put [**Location (un) **] Medical Center</PHI> within one week after discharge for his continuing hematuria .
-As her baseline mental status is completely alert and oriented , this caused concern amongst the staff of the rehabilitation center and the patient was transferred to the <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> .
-<PHI TYPE="DATE">[**Hospital1 5**] Day</PHI> 09:21 AM
+As her baseline mental status is completely alert and oriented , this caused concern amongst the staff of the rehabilitation center and the patient was transferred to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
+<PHI TYPE="DATE">[**Hospital1 2**] Day</PHI> 09:21 AM
 Physicians that took care of this patient while at the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> are as follows :
-The patient was returned to [**Location 270**] sinus rhythm with a good blood pressure after cardioversion with 300 millivolts .
-The patient is a 5 year old male with multiple anomalies transferred from <PHI TYPE="HOSPITAL">[**Hospital 273**] [**Hospital 274**] Medical Center</PHI> of <PHI TYPE="LOCATION">Ohio</PHI> on <PHI TYPE="DATE">[**07-20**]</PHI> for management of airway obstruction secondary to tracheal stenosis / history of difficult intubations .
-Dr. <PHI TYPE="DOCTOR">Fields</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton [**Last Name (un) **] N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Pediatric Intensive Care Unit for evaluation and management by Dr. <PHI TYPE="DOCTOR">Fields</PHI> on <PHI TYPE="DATE">[**07-20**]</PHI> in the p.m.
-<PHI TYPE="DOCTOR">[**Name5 (PTitle) **] Aslinke</PHI> , M.D. , at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Pediatric Intensive Care Unit .
+The patient was returned to [**Location 437**] sinus rhythm with a good blood pressure after cardioversion with 300 millivolts .
+The patient is a 5 year old male with multiple anomalies transferred from <PHI TYPE="HOSPITAL">[**Hospital 442**] [**Hospital 443**] Medical Center</PHI> of <PHI TYPE="LOCATION">Ohio</PHI> on <PHI TYPE="DATE">[**07-20**]</PHI> for management of airway obstruction secondary to tracheal stenosis / history of difficult intubations .
+Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton [**Last Name (un) **] N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Pediatric Intensive Care Unit for evaluation and management by Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> on <PHI TYPE="DATE">[**07-20**]</PHI> in the p.m.
+<PHI TYPE="DOCTOR">[**Company **]</PHI> , M.D. , at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Pediatric Intensive Care Unit .
 [**Name (NI) **] was evaluated by the speech and swallow pathology group at the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> and it was decided that he was able to swallow on his own with a soft solid diet with supervision .
-For this reason , he was taken again to the operating room on <PHI TYPE="DATE">[**01-08**]</PHI>/98 , at which time a gastrojejunostomy was performed with stapling across the gastroduodenal junction , introduction of five [**Location (un) 283**]-[**Location (un) 284**] drains into the retroperitoneal mass , cholecystotomy tube , gastrostomy tube , and jejunostomy tube .
-The patient also appeared to have stool from his [**Location (un) 283**]-[**Location (un) 284**] site and right oblique incision .
-<PHI TYPE="DOCTOR">Telshey Swatlleebtik</PHI> MD , PHD <PHI TYPE="LOCATION">New [**Location (un) 287**]</PHI>
-The patient is a 47 year old patient of Dr. <PHI TYPE="DOCTOR">[**First Name9 (NamePattern2) **] [**Last Name (un) 289**]</PHI> and Dr. <PHI TYPE="DOCTOR">Leebjescobe</PHI> in <PHI TYPE="LOCATION">Co In Saorlirv Frea , [**Location 290**]</PHI> who was well until a bout of double pneumonia in <PHI TYPE="DATE">May</PHI> 1992 , at which time he was hospitalized at <PHI TYPE="HOSPITAL">[**Hospital 291**] [**Hospital 292**] Hospital Medical Center</PHI> .
+For this reason , he was taken again to the operating room on <PHI TYPE="DATE">[**01-08**]</PHI>/98 , at which time a gastrojejunostomy was performed with stapling across the gastroduodenal junction , introduction of five [**Location (un) 460**]-[**Location (un) 461**] drains into the retroperitoneal [**Company **] , cholecystotomy tube , gastrostomy tube , and jejunostomy tube .
+The patient also appeared to have stool from his [**Location (un) 460**]-[**Location (un) 461**] site and [**Company 6**] oblique incision .
+<PHI TYPE="DOCTOR">[**Company 466**]</PHI> MD , PHD <PHI TYPE="LOCATION">New [**Location (un) 467**]</PHI>
+The patient is a 47 year old patient of Dr. <PHI TYPE="DOCTOR">[**Company 470**]</PHI> and Dr. <PHI TYPE="DOCTOR">Leebjescobe</PHI> in <PHI TYPE="LOCATION">Co In Saorlirv Frea , [**Location 471**]</PHI> who was well until a bout of double pneumonia in <PHI TYPE="DATE">May</PHI> 1992 , at which time he was hospitalized at <PHI TYPE="HOSPITAL">[**Hospital 472**] [**Hospital 473**] Hospital Medical Center</PHI> .
 <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> , Doctor <PHI TYPE="DOCTOR">[**Male First Name (un) **]</PHI> , <PHI TYPE="DATE">[**02-15**]</PHI>-90 , operated and removed the tumor via craniotomy incision .
 The patient is 57 years old with a history of a rheumatic heart , mitral stenosis , pulmonary hypertension who was transferred to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> from <PHI TYPE="HOSPITAL">E Health</PHI> for evaluation of possible mitral valve prolapseplasty .
-The patient has previously been stable however he has shown signs and symptoms and radiographic evidence of recurrence and so he presented to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> for possible hemipelvectomy .
-The patient had an abdominal CT scan done on <PHI TYPE="DATE">[**Hospital1 5**] Day</PHI> , 2000 for a question of an abdominal wall infection or abscess .
-On <PHI TYPE="DATE">09</PHI>/93 the patient underwent transplant evaluation at <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> .
-The patient was transferred to <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> on <PHI TYPE="DATE">[**02-20**]</PHI>/94 , again for possible heart-lung transplantation .
-Furthermore , since it was felt that the patient failed amiodarone therapy , the patient was seen by the <PHI TYPE="HOSPITAL">[**Hospital 303**] [**Hospital 304**] Hospital</PHI> which recommended EPS to rule out possible bundle branch reentry as the source of the patient &apos;s arrhythmia with possible AICD placement if the EPS was negative .
-On <PHI TYPE="DATE">[**09-02**]</PHI>/98 he was admitted to <PHI TYPE="HOSPITAL">[**Hospital 308**] [**Hospital 5**] Hospital Of</PHI> with palpitations and was found to have an irregular wide complex tachycardia thought to be due to atrial fibrillation and conduction down his accessory pathway .
-He was seen by <PHI TYPE="HOSPITAL">[**Hospital 309**] Hospital Center</PHI> who felt that he could be safely treated with Solumedrol rather than Prednisone together with Benadryl and the use of low ionic contrast medium .
-<PHI TYPE="DOCTOR">TAARNNA SHERL SERVICE</PHI> , M.D. CARDIAC UNIT <PHI TYPE="HOSPITAL">[**Hospital 310**] HEALTH CENTER</PHI>
-<PHI TYPE="DOCTOR">AO [**Last Name (NamePattern1) 85**] FOLK</PHI> , M.D. <PHI TYPE="HOSPITAL">[**Hospital 310**] HEALTH CENTER</PHI>
-Refractory CLL with bone marrow involvement , status post MUD , mini-allo stem cell transplant , <PHI TYPE="DATE">December</PHI> , 2002 , Acanthamoeba infection of skin and sinuses , recently treated with IV pentamidine and p.o. voriconazole , history of recurrent CMB infection , recent ARS on CRI , thought due to medication toxicity ( creatinine on discharge from <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> on <PHI TYPE="DATE">[**10-16**]</PHI> was 2.6) .
-He called the EMT &apos;s and was found to be in pulmonary edema by chest x-ray at <PHI TYPE="HOSPITAL">[**Hospital 291**] [**Hospital 292**] Hospital Medical Center</PHI> .
-He was taken first to <PHI TYPE="HOSPITAL">[**Hospital 167**] Medical Center</PHI> where he arrived at about 3:00 AM and a CT scan showed ? basal subarachnoid hemorrhage and hydrocephalus .
-The <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Admitting Desk was also notified as were Dr. <PHI TYPE="DOCTOR">Liftjesc</PHI> , Dr. <PHI TYPE="DOCTOR">Telshey Vital</PHI> , Dr. <PHI TYPE="DOCTOR">Azel Hibbskays</PHI> , and the patient &apos;s primary care physician , Dr. <PHI TYPE="DOCTOR">Tomedankell Flowayles</PHI> .
-The <PHI TYPE="HOSPITAL">Ebeairs [**Hospital 319**] [**Hospital 320**] [**Hospital 199**]</PHI> was contacted .
-The patient &apos;s granddaughter , however , works at <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> and therefore the family elected to bring the patient home and then bring her to <PHI TYPE="HOSPITAL">[**Location 158**]Medical Center</PHI> .
-This is to notify you that your patient , <PHI TYPE="PATIENT">[**Last Name (un) 324**] , LLNO</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-24**]</PHI>/2005 08:04 AM .
-[**First Name (Titles) 325**] [**Last Name (Titles) 326**] and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-This is to notify you that your patient , <PHI TYPE="PATIENT">CHESNECHESNEWIERST , AMESAND</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**08-25**]</PHI>/2002 01:40 PM .
-The patient was admitted to <PHI TYPE="HOSPITAL">[**Hospital 333**] Hospital</PHI> , where a therapeutic thoracentesis was performed in order to alleviate her dyspnea .
-A cardiac ultrasound study on <PHI TYPE="DATE">[**Hospital1 5**] Day</PHI> demonstrated an aortic stenosis with a calculated valve area of .6 square cm .
-<PHI TYPE="PATIENT">Cean Leach</PHI> is a 38 year old male who is admitted in transfer from the <PHI TYPE="HOSPITAL">[**Location 335**]Hospital</PHI> in <PHI TYPE="LOCATION">[**Last Name (LF) **] , [**First Name3 (LF) **]</PHI> for further evaluation and management of accelerating chest pains syndrome .
-Since that time , he has had multiple admissions to <PHI TYPE="HOSPITAL">[**Doctor First Name 336**]&apos;[**Hospital 337**] Medical Center</PHI> with recurrent chest pain .
-He was admitted to <PHI TYPE="HOSPITAL">[**Doctor First Name 336**]&apos;[**Hospital 337**] Medical Center</PHI> with a typical episode of this discomfort in <PHI TYPE="DATE">October</PHI> of l994 .
+The patient has previously been [**Company 3**] however he has shown signs and symptoms and radiographic evidence of recurrence and so he presented to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> for possible hemipelvectomy .
+The patient had an abdominal CT scan done on <PHI TYPE="DATE">[**Hospital1 2**] Day</PHI> , 2000 for a question of an abdominal wall infection or abscess .
+On <PHI TYPE="DATE">09</PHI>/93 the patient underwent transplant evaluation at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
+The patient was transferred to <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> on <PHI TYPE="DATE">[**02-20**]</PHI>/94 , again for possible heart-lung transplantation .
+Furthermore , since it was felt that the patient failed amiodarone therapy , the patient was [**Company 4**] by the <PHI TYPE="HOSPITAL">[**Hospital 493**] [**Hospital 494**] Hospital</PHI> which recommended EPS to [**Company 31**] out possible bundle branch reentry as the source of the patient &apos;s arrhythmia with possible AICD placement if the EPS was negative .
+On <PHI TYPE="DATE">[**09-02**]</PHI>/98 he was admitted to <PHI TYPE="HOSPITAL">[**Hospital 498**] [**Hospital 2**] Hospital Of</PHI> with palpitations and was found to have an irregular wide complex tachycardia thought to be due to atrial fibrillation and conduction down his accessory pathway .
+He was [**Company 4**] by <PHI TYPE="HOSPITAL">[**Hospital 499**] Hospital Center</PHI> who felt that he could be safely treated with Solumedrol rather than Prednisone together with Benadryl and the use of low ionic contrast medium .
+<PHI TYPE="DOCTOR">[**Company 502**]</PHI> , M.D. CARDIAC UNIT <PHI TYPE="HOSPITAL">[**Hospital 503**] HEALTH CENTER</PHI>
+<PHI TYPE="DOCTOR">[**Company 505**]</PHI> , M.D. <PHI TYPE="HOSPITAL">[**Hospital 503**] HEALTH CENTER</PHI>
+Refractory CLL with bone marrow involvement , status post MUD , mini-allo stem cell transplant , <PHI TYPE="DATE">December</PHI> , 2002 , Acanthamoeba infection of skin and sinuses , recently treated with IV pentamidine and p.o. voriconazole , history of recurrent CMB infection , recent ARS on CRI , thought due to medication toxicity ( creatinine on discharge from <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> on <PHI TYPE="DATE">[**10-16**]</PHI> was 2.6) .
+He called the EMT &apos;s and was found to be in pulmonary edema by chest x-ray at <PHI TYPE="HOSPITAL">[**Hospital 472**] [**Hospital 473**] Hospital Medical Center</PHI> .
+He was taken first to <PHI TYPE="HOSPITAL">[**Hospital 275**] Medical Center</PHI> where he arrived at about 3:00 AM and a CT scan showed ? basal subarachnoid hemorrhage and hydrocephalus .
+The <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Admitting Desk was also notified as were Dr. <PHI TYPE="DOCTOR">[**Company 520**]</PHI> , Dr. <PHI TYPE="DOCTOR">Telshey Vital</PHI> , Dr. <PHI TYPE="DOCTOR">[**Company 521**]</PHI> , and the patient &apos;s primary care physician , Dr. <PHI TYPE="DOCTOR">[**Company 522**]</PHI> .
+The <PHI TYPE="HOSPITAL">Ebeairs [**Hospital 523**] [**Hospital 524**] [**Hospital 322**]</PHI> was contacted .
+The patient &apos;s granddaughter , however , works at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> and therefore the family elected to bring the patient [**Company 19**] and then bring her to <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 532**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-24**]</PHI>/2005 08:04 AM .
+[**First Name (Titles) 533**] [**Last Name (Titles) 534**] and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 539**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**08-25**]</PHI>/2002 01:40 PM .
+The patient was admitted to <PHI TYPE="HOSPITAL">[**Hospital 542**] Hospital</PHI> , where a therapeutic thoracentesis was performed in order to alleviate her dyspnea .
+A cardiac ultrasound study on <PHI TYPE="DATE">[**Hospital1 2**] Day</PHI> demonstrated an aortic stenosis with a calculated valve area of .6 square cm .
+<PHI TYPE="PATIENT">[**Company 545**]</PHI> is a 38 year old male who is admitted in transfer from the <PHI TYPE="HOSPITAL">[**Location 546**]Hospital</PHI> in <PHI TYPE="LOCATION">[**Last Name (LF) **] , [**First Name3 (LF) **]</PHI> for further evaluation and management of accelerating chest pains syndrome .
+Since that time , he has had multiple admissions to <PHI TYPE="HOSPITAL">[**Doctor First Name 547**]&apos;[**Hospital 548**] Medical Center</PHI> with recurrent chest [**Company 18**] .
+He was admitted to <PHI TYPE="HOSPITAL">[**Doctor First Name 547**]&apos;[**Hospital 548**] Medical Center</PHI> with a typical episode of this discomfort in <PHI TYPE="DATE">October</PHI> of l994 .
 He was transferred at that time to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> .
 That was his first <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> admission .
-After IV hydration , her creatinine returned to [**Location 270**] .
-The patient will follow up with Dr. <PHI TYPE="DOCTOR">Riode Zetllille</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">[**Hospital 342**] [**Hospital 5**] Hospital</PHI> .
-This is to notify you that your patient , <PHI TYPE="PATIENT">FYFEUARDFEL , [**Last Name (un) 344**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-20**]</PHI>/2000 12:41 PM .
-This is to notify you that your patient , <PHI TYPE="PATIENT">AKOTEBONTKAYS , JUANQUINTLEO</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**07-31**]</PHI>/2000 07:36 PM .
-1. <PHI TYPE="DOCTOR">[**Month/Year (2) 74**] ASLINKE</PHI> , MD <PHI TYPE="HOSPITAL">[**Hospital 347**] [**Hospital 348**] HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , Utah</PHI>
-On <PHI TYPE="DATE">[**01-24**]</PHI> she was taken to the <PHI TYPE="HOSPITAL">[**Hospital 351**] [**Hospital 5**] Hospital</PHI> hospital , where she was diagnosed with choledocholithiasis .
-Total_Position: 168, TP: 150, FP: 18
+After IV hydration , her creatinine returned to [**Location 437**] .
+The patient will follow up with Dr. <PHI TYPE="DOCTOR">[**Company 558**]</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">[**Hospital 559**] [**Hospital 2**] Hospital</PHI> .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 563**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-20**]</PHI>/2000 12:41 PM .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 564**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**07-31**]</PHI>/2000 07:36 PM .
+1. <PHI TYPE="DOCTOR">[**Company 335**]</PHI> , MD <PHI TYPE="HOSPITAL">[**Hospital 567**] [**Hospital 568**] HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , Utah</PHI>
+On <PHI TYPE="DATE">[**01-24**]</PHI> she was taken to the <PHI TYPE="HOSPITAL">[**Hospital 571**] [**Hospital 2**] Hospital</PHI> hospital , where she was diagnosed with choledocholithiasis .
+Total_Position: 166, TP: 133, FP: 33

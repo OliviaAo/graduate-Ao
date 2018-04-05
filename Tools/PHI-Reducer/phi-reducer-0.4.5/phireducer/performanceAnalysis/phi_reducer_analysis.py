@@ -7,9 +7,7 @@ Date: 25-03-2018
 try:
 
 	# Read Scrubbed File
-	# f = open('./scrubbedTest/50/scrubbed_original_test50.xml','r')
 	f = open('/Users/ao/Desktop/graduate-Ao/Tools/PHI-Reducer/phi-reducer-0.4.5/phireducer/output_test/original_test50_phi_reduced.txt','r')
-	# f = open('/Users/ao/Desktop/graduate-Ao/Tools/PHI-Reducer/phi-reducer-0.4.5/phireducer/process/scrubbedTest/90/scrubbed_original_test90.txt','r')
 
 
 	# Initial Statistic File

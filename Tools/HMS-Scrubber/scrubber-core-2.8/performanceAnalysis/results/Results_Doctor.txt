@@ -1,398 +1,920 @@
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-_________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">VT9</PHI>
-1. xxxxDOCTOR_OLDERxxxx SHOCK</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="ID xxxxDATE17xxxx 5V80</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx CARLT</PHI> , M.D. , PH.D. ( <PHI TYPE="ID">BW48</PHI> )
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-She has sustained a right inter trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">Hoseocon Medical Center</PHI> and transferred to the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> for further care by xxxxDOCTOR_OLDERxxxx Stable</PHI> .
-She was slow to mobilize with physical therapy due to weakness and proprioceptive difficulties . xxxxDOCTOR_OLDERxxxx Stable</PHI> elected to start her on Bactrim for a xxxxWRITTEN_AGE_1_TO_19xxxx course .
-She gets a 1500 cal xxxNAMExxx diet . xxxxDOCTOR_OLDERxxxx ORDERS :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. STAT
-XRT , Friday , 10am  <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 scheduled , xxxxDOCTOR_OLDERxxxx Xellcaugh</PHI> , call next week , xxxPOSITIONxxx Known Allergies
+The patient &apos;s hematocrit was xxxPEOPLExxx and he was given no further intervention .
+On the morning of the <PHI TYPE="DATE">22nd</PHI> the patient developed tachypnea with a chest X xxxPEOPLExxx showing a question of congestive heart failure .
+Blood pressure 150/60 , heart rate 90 &apos;s , respirations xxxxADDRESS8xxxx fundus was poorly xxxPEOPLExxx He did count fingers in both eyes at one foot .
+A chest X xxxPEOPLExxx showed bilateral opacities in the bases with increased interstitial markings .
+An electrocardiogram at that time showed a xxxPEOPLExxx rate related xxxPEOPLExxx bundle and apical ST changes consistent with ischemia .
+Severe xxxPEOPLExxx external iliac stenosis was noted .
+He was continued to be intubated with xxxPEOPLExxx mental status .
+A head computerized tomography scan on the <PHI TYPE="DATE">26th</PHI> showed a probable xxxPEOPLExxx cerebellar infarct and a question of a xxxPEOPLExxx middle cerebral artery infarct .
+Belly was tender in the xxxPEOPLExxx upper quadrant .
+The patient &apos;s vitals were xxxPEOPLExxx He was afebrile .
+Clotrimazole by mouth one troche four times per day , Colace 100 mg xxxPEOPLExxx b.i.d. , multivitamin 1 tab xxxPEOPLExxx q d , Trazodone 50 mg q h.s. , Nexium 20 mg xxxPEOPLExxx q d , Tylenol p.r.n. Eucerin p.r.n.
+<PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxYEAR_CENTURYxxxx 12:00 xxxxADDRESS2xxxx DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx xxxPEOPLExxx lung choriocarcinoma .
+She had elevated beta HCG xxxPEOPLExxx no tubal pregnancy was suspected .
+In <PHI TYPE="DATE">11</PHI>/97 , chest x xxxPEOPLExxx revealed an abnormality in the xxxPEOPLExxx upper lobe .
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , a chest CT revealed multiple bilateral cysts and bilateral ill defined nodules , a xxxPEOPLExxx upper lobe xxxPEOPLExxx and extensive lymphadenopathy in the peritracheal region .
+4. Klonopin 1 mg xxxPEOPLExxx t.i.d.
+The defects were in the xxxPEOPLExxx upper lobe and this was felt to be unlikely to be consistent with a pulmonary embolus .
+The patient will be discharged to xxxPEOPLExxx to begin G CSF therapy .
+1. Tegretol 200 mg xxxPEOPLExxx t.i.d.
+3. Colace 100 mg xxxPEOPLExxx b.i.d.
+5. Zofran 24 mg xxxPEOPLExxx q d. x xxxxAGE6xxxx .
+8. Compazine 10 mg xxxPEOPLExxx q 6 h. p.r.n. for nausea .
+DISPOSITION : xxxPEOPLExxx DISCHARGE MEDICATIONS :
+HCTZ ( HYDROCHLOROTHIAZIDE ) 25 MG xxxPEOPLExxx QD ZOLOFT ( SERTRALINE ) 50 MG xxxPEOPLExxx QD
+monitor NORTRIPTYLINE ( NORTRIPTYLINE HCL ) 25 MG xxxPEOPLExxx HS
+DISCHARGE CONDITION : xxxPEOPLExxx No medication changes done .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+She has sustained a xxxPEOPLExxx inter trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">Hoseocon Medical Center</PHI> and transferred to the <PHI TYPE="HOSPITAL">Heaonboburg Linpack xxxNAMExxx Medical Center</PHI> for further care by Dr. <PHI TYPE="DOCTOR">Stable</PHI> .
+She is status post left total knee replacement xxxxAGE6xxxx ago and status post xxxPEOPLExxx hip dynamic compression screw placement for inter trochanteric fracture in <PHI TYPE="DATE xxxxMONTHxxxx PHI> , xxxxYEAR_CENTURYxxxx .
+Zestril 10 mg. xxxPEOPLExxx t.i.d.
+Aldactone 25 mg. xxxPEOPLExxx q.day .
+Lasix 20 mg. xxxPEOPLExxx q.day .
+Multivitamin 1 tablet xxxPEOPLExxx q.day .
+Zinc sulfate 220 mg. xxxPEOPLExxx t.i.d.
+The head and neck exam notable for very xxxPEOPLExxx dentition , no dentures .
+Upper extremities : xxxPEOPLExxx shows a well healed incision consistent with her dynamic hip screw placement .
+Full range of motion in the xxxPEOPLExxx hip .
+well healed incision , quads , abductors , ileus , psoas xxxxDATE22xxxx , hamstring , extensor hallucis longus , left HL , gastroc , soleus 4 xxxxADDRESS8xxxx patient tolerated the procedure well and postoperatively was hemodynamically xxxPEOPLExxx with a hematocrit of 31 and xxxPEOPLExxx vital signs .
+Prior to discharge , lower extremity noninvasive studies were done to xxxPEOPLExxx out deep venous thrombosis , the results of which are pending at this time .
+Coumadin 0.5 mg. xxxPEOPLExxx q.p.m. x3 weeks .
+Zestril10 mg. xxxPEOPLExxx b.i.d.
+Aldactone 25 mg. xxxPEOPLExxx q.day .
+Lasix 20 mg. xxxPEOPLExxx q.day .
+Os Cal 500 mg. xxxPEOPLExxx b.i.d.
+Colace 100 mg. xxxPEOPLExxx b.i.d.
+Percocet 1-2 tablets xxxPEOPLExxx q.4 hours prn pain .
+She was readmitted to <PHI TYPE="HOSPITAL">Liccam Community Medical Center</PHI> where the KUB showed air fluid xxxPEOPLExxx in the small bowel , but the CT showed no evidence of obstruction and she was discharged .
+3. Lopressor 12.5 mg. xxxPEOPLExxx b.i.d.
+4. Synthroid 100 mcg. xxxPEOPLExxx q.day
+6. Colace 100 mg. xxxPEOPLExxx t.i.d.
+8. Zantac 150 mg. xxxPEOPLExxx b.i.d.
+9. Milk of Magnesia 15-30 mg. xxxPEOPLExxx q.day prn constipation
+10. Clonazepam .5 mg. xxxPEOPLExxx q.day prn anxiety
+11. Lactulose 15 mg. xxxPEOPLExxx b.i.d.
+13. Metamucil 1 teaspoon xxxPEOPLExxx q.day .
 Pt initially presented with cough and hemoptysis to xxxxDOCTOR2xxxx .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">MY4 PO734/8975</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">VI3</PHI>
-Your patient was admitted under the care of <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> with a preliminary diagnosis of NAUSEA .
-In <PHI TYPE="DATE xxxxMONTHxxxx PHI> xxxxYEAR_CENTURYxxxx , the patient underwent an APR with excision of liver nodule , intraoperative radiation therapy , and pelvic omentoplasty with descending colostomy by xxxxDOCTOR_OLDERxxxx Berger</PHI> .
-The patient will have follow up with xxxxDOCTOR_OLDERxxxx Berger</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">BB32</PHI> )
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">BB32</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 04:48 PM
-The patient was evaluated at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> by xxxxDOCTOR_OLDERxxxx Do Joasscchird</PHI> for progressive worsening attacks and he was found to have progressive supranuclear palsy .
-_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
-The patient was discharged home with nursing care and will be followed by xxxxDOCTOR_OLDERxxxx Fyfesaul</PHI> with her first appointment on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
-Electronically Signed <PHI TYPE xxxxDOCTOR_OLDERxxxx FYFESAUL</PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx FYFESAUL</PHI> , M.D.
-She will follow up with her primary oncologists , xxxxDOCTOR_OLDERxxxx A</PHI> and xxxxDOCTOR_OLDERxxxx Dark</PHI> , at <PHI TYPE="HOSPITAL">IVMC</PHI> , after her discharge .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">NJ38 ME089/6922</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx Ca Shuff</PHI> STAT
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx NU L. GALL</PHI> , <PHI TYPE="HOSPITAL">LI HOSPITAL</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-TD : xxxxDOCTOR_OLDERxxxx Namarce Aldridge</PHI> <PHI TYPE="HOSPITAL">Pasi</PHI> STAT
-The patient is to return to the follow up care of xxxxDOCTOR_OLDERxxxx Ko Kollciem</PHI> at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TD :
-1. Gait ataxia . xxxxDOCTOR_OLDERxxxx DISABILITY AND PROBABLE DURATION :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">HA14</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">HW8 VE160/3653</PHI>
-Her letter was referred to xxxxDOCTOR_OLDERxxxx Earllamarg Para</PHI> who saw her in the office and recommended vaginal hysterectomy .
-Significant for a lower left saphenous vein thrombosis diagnosed with lower extremity non invasives and on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx with xxxPOSITIONxxx evidence of deep venous thrombosis and clearance by xxxxDOCTOR_OLDERxxxx Ribreefcheampner</PHI> for further intervention .
-The patient was also seen by xxxxDOCTOR_OLDERxxxx Nusc</PHI> from General Surgery for evaluation of micro calcifications in the right breast .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D , <PHI TYPE="ID">HM72</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">YL7 TD803/0252</PHI>
-Patient is to be subsequently followed up by xxxxDOCTOR_OLDERxxxx Memory</PHI> .
-She will be followed up by xxxxDOCTOR_OLDERxxxx Liermfelsbelb</PHI> .
-The patient is being discharged in stable condition , and is to be followed up with xxxxDOCTOR_OLDERxxxx Liermfelsbelb</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">CT20</PHI>
-Digoxin 0.25 mg p.o. daily ; Ecotrin one tab p.o. daily ; captopril 12.5 mg p.o. t.i.d. ; Percocet 1-2 tabs p.o. q4-6h p.r.n. pain . xxxxDOCTOR_OLDERxxxx Right</PHI> will see him in xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">JB72</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">UG0</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-ALLERGIES : xxxxDOCTOR_OLDERxxxx 40 mg qd ; Digoxin 0.25 mg qd ; aspirin 325 mg qd ; Isordil 10 mg tid .
-These findings were reviewed with xxxxDOCTOR_OLDERxxxx Patella</PHI> and together we decided that conservative therapy would be the appropriate first choice in Mr. <PHI TYPE="PATIENT">Breun</PHI> &apos;s management .
-We will see how far we can get with medical therapy although Mr. <PHI TYPE xxxxDOCTOR_OLDERxxxx his family clearly understand the long term implications of his aortic stenosis .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-<PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 xxxxDOCTOR_OLDERxxxx Raba Kote</PHI>
-She was referred to xxxxDOCTOR_OLDERxxxx Stonge</PHI> for evaluation .
-A letter will be sent following the sarcoma conference to her local xxxxDOCTOR_OLDERxxxx Plans are for followup by her local xxxxDOCTOR_OLDERxxxx PT between 14 xxxxADDRESS8xxxx needs to have a mammogram in <PHI TYPE="LOCATION">Usyork</PHI> and followup with her local xxxxDOCTOR_OLDERxxxx xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M .D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-2. relook coronary angiogram , <PHI TYPE="DATE">08-18</PHI xxxxADDRESS8xxxx patient is a xxxxAGE5xxxx female with a history of Parkinson &apos;s disease for more than xxxxWRITTEN_AGE_10_100_DIV10xxxx who presented to the <PHI TYPE="HOSPITAL">Gemenadentoolpai Medical Center</PHI> with a revolving anterolateral wall myocardial infarction on <PHI TYPE="DATE">08-01</PHI xxxxADDRESS8xxxx had xxxPOSITIONxxx prior significant cardiac history and presented to her local medical xxxxDOCTOR_OLDERxxxx with an episode of severe retrosternal chest pain .
-The patient remained stable during the rest of the hospitalization . xxxxDOCTOR_OLDERxxxx Aalv Lorjes Salv Manual</PHI> <PHI TYPE="HOSPITAL">Pasi</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx RECORD ID="676">
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="ID xxxxDATE17xxxx 3E45</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D. ( <PHI TYPE="ID">IY150</PHI> )
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">EM08</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
-HE WAS REFERRED BACK TO xxxxDOCTOR_OLDERxxxx KOTE</PHI> FOR REDO AORTIC VALVE REPLACEMENT .
-HE IS SCHEULED TO FOLLOW UP WITH xxxxDOCTOR_OLDERxxxx KOTE</PHI> , HIS CARDIOLOGIST AND HIS PRIMARY CARE PHYSICIAN .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx Pcc :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx LEINA ATNEROBE</PHI> , M.D.
-We contacted the patient &apos;s primary care physician , xxxxDOCTOR_OLDERxxxx Aslinke</PHI> ______ , regarding his cardiac medication management .
-2. The patient will have follow up with xxxxDOCTOR_OLDERxxxx Para</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 4:22 P <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">YR61</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx VENGLOAN</PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-Follow up with xxxxDOCTOR_OLDERxxxx Briz</PHI> within xxxxAGE6xxxx , xxxPOSITIONxxx Known Allergies
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">RW156</PHI> )
-Excellent suggestions from xxxxDOCTOR_OLDERxxxx Pa</PHI> of the Renal Service included repeating anticardiolipin and lupus anticoagulant , given the patient &apos;s weakly positive lupus anticoagulant in the past and the fact that this could be associated with severe and rapid cognitive decline that was observed in this patient .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D
-_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. STAT
-ATENOLOL 25 MG PO QD DURAGESIC ( FENTANYL ( PATCH ) ) 25 MCG / HR TP Q72H DILAUDID ( HYDROMORPHONE HCL ) 2-4 MG PO Q4H PRN pain xxxPOSITIONxxx Restrictions xxxxDOCTOR_OLDERxxxx Shidoyleflich</PHI> in xxxxAGE6xxxx , xxxPOSITIONxxx Known Allergies
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. DIAG .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">WX58</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 05:19
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-She had recently seen xxxxDOCTOR_OLDERxxxx Zetllille</PHI> approximately xxxxWRITTEN_AGE_10_100_DIV10xxxx prior and offered an operation at that time which she refused and wanted to further consider her options .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx and the preliminary diagnosis is TIA .
-The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> and the preliminary diagnosis is HIP FRACTURE .
-<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx MD
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx Dictation ID <PHI TYPE="ID xxxxTELEPHONE1xxxx PHI>
-The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> and the preliminary diagnosis is SHORTNESS OF BREATH .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
-At this point she had an elevated CA 125 at 440 and came to xxxxDOCTOR_OLDERxxxx Chabechird</PHI> for further consultation .
-The patient was instructed to follow up with xxxxDOCTOR_OLDERxxxx Slaineaee Chabechird</PHI> .
-_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx xxxxTITLESxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-Electronically Signed <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <RECORD ID="703">
-Your patient was admitted under the care of <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> with a preliminary diagnosis of SYNCOPE .
-He was discharged on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> with follow up of his PT / PTT values on Friday , the <PHI TYPE="DATE">25th</PHI> , as well as three times a week in the following week , and follow up with xxxxDOCTOR_OLDERxxxx Most</PHI> within xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">XC45 DN236/9105</PHI>
-This patient is a xxxxAGE5xxxx who has had a xxxxPRIVATExxx mitral valve replacement on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/76 by xxxxDOCTOR_OLDERxxxx Melvean Ace</PHI> .
-In xxxxYEAR_CENTURYxxxx , she developed chronic obstructive pulmonary disease and asthma , and has been followed by xxxxDOCTOR_OLDERxxxx Times</PHI> , as well as the pulmonologist down where she lives .
-If she remains stable over the next couple of days , she will be discharged on this program , to be followed jointly by xxxxDOCTOR_OLDERxxxx Avejoh Wierst</PHI> and xxxxDOCTOR_OLDERxxxx Em Neighburce</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TD :
-For the patient , at <PHI TYPE="LOCATION">Dalee , Alaska</PHI> , for xxxxDOCTOR_OLDERxxxx Avejoh Wierst</PHI> , c / o <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , in <PHI TYPE="LOCATION">Stumphi Road , Biinss , xxxxPRIVATExxx xxxxSUSPICIOUS_NUMxxxx PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">GX83</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE xxxxDOCTOR_OLDERxxxx A.</PHI> , M.D. on order for AMIODARONE PO ( ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
-Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. on order for ZOCOR PO ( ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
-Walking as tolerated FOLLOW UP APPOINTMENT ( S ) : xxxxDOCTOR_OLDERxxxx Levels</PHI> ( Electrophysiology  xxxxAGE6xxxx , PCP 1 xxxxAGE6xxxx ,
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. ( <PHI TYPE="ID">AW45</PHI> ) <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 02:14 PM
-I have spoken with the patient in detail , and he will be getting in touch with his primary care physician , xxxxDOCTOR_OLDERxxxx Fordwoodall Stick</PHI> , in <PHI TYPE="LOCATION">Ranegei Pkwy , Verertliet , xxxxPRIVATExxx xxxxSUSPICIOUS_NUMxxxx PHI> .
-The patient is to arrange follow up with a GI xxxxDOCTOR_OLDERxxxx LOCATION">Jotar Boulevard , Cunahtampfordama , xxxxPRIVATExxx xxxxSUSPICIOUS_NUMxxxx PHI> through his primary care physician .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx Pcc :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. / <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">7922</PHI>
-On <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she was seen by xxxxDOCTOR_OLDERxxxx Stonge</PHI> at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> where a 3 x 7 cm left mid clavicular mass was noted .
-Per the patient &apos;s wishes , xxxxDOCTOR_OLDERxxxx Dalywoo Droreite</PHI> the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> was consulted for a second opinion regarding the management of her malignancy .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">IK06</PHI>
-The patient is a xxxxAGE5xxxx under the care of xxxxDOCTOR_OLDERxxxx Lenni Be</PHI> with a diagnosis of rheumatic mitral stenosis .
-She will follow up with her primary care physician , xxxxDOCTOR_OLDERxxxx Lupevickette Ca</PHI> and her Cardiologist , xxxxDOCTOR_OLDERxxxx Lenni Be</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx TD :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">NZ86</PHI>
-<PHI TYPE="ID">WE221/9850</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH. <PHI TYPE="ID">JT2 FF2</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-Follow up with xxxxDOCTOR_OLDERxxxx Loydsadd</PHI> in one to xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">KE15 TB326/0625</PHI>
-I will get in touch with xxxxDOCTOR_OLDERxxxx Areas</PHI> and please do not hesitate to contact me if I can provide any additional information .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-She is to follow up with xxxxDOCTOR_OLDERxxxx Acrookesjo</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx and xxxxDOCTOR_OLDERxxxx Work</PHI> the gastrointestinal fellow here at <PHI TYPE="HOSPITAL">PUOMC</PHI> in xxxxAGE6xxxx .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
-The testing was performed by a staff neuropsychologist , xxxxDOCTOR_OLDERxxxx Lornsook Trusmoag</PHI> , PhD , telephone number <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> .
-The ENT physician who saw the patient is xxxxDOCTOR_OLDERxxxx Freieslowkays</PHI> .
-The patient was scheduled to follow up with xxxxDOCTOR_OLDERxxxx Freieslowkays</PHI> on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx at 1:20 p.m. at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. , Reproductive Endocrinology <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. , <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , phone number <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> STAT
-He is to be discharged home on <PHI TYPE="DATE xxxxDATE22xxxx PHI> with follow up with xxxxDOCTOR_OLDERxxxx Kote</PHI> , his cardiologist and with xxxxDOCTOR_OLDERxxxx Right</PHI> , his hematologist .
-1. <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-2. xxxxDOCTOR_OLDERxxxx RIGHT</PHI> / <PHI TYPE="LOCATION">Pla</PHI>
-3. <PHI TYPE xxxxDOCTOR_OLDERxxxx D.
-She has been seen by xxxxDOCTOR_OLDERxxxx Tokbelb</PHI> , her primary care physician in <PHI TYPE="HOSPITAL">Itgreenredan Hospital</PHI> , and also xxxxDOCTOR_OLDERxxxx Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
-1. laparoscopic cholecystectomy <PHI TYPE="DATE">03</PHI>/93 by xxxxDOCTOR_OLDERxxxx Sapmal</PHI> ,
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> xxxxDOCTOR_OLDERxxxx Tokbelb</PHI> <PHI TYPE="HOSPITAL">Welle Health</PHI> <PHI TYPE="LOCATION">Sonsant</PHI> .
-<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95 xxxxDOCTOR_OLDERxxxx The Vein</PHI>
-The patient &apos;s preliminary admitting physician is <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> and the preliminary diagnosis is PNA .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx A LOSS</PHI> , M.D. <PHI TYPE="ID">IF63</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">TI68 HJ543/4282</PHI>
-Digoxin 0.25 mg . xxxxDOCTOR_OLDERxxxx ORDERS :
-The patient was taken to the operating room by xxxxDOCTOR_OLDERxxxx Suot N. Dragtente</PHI> on <PHI TYPE="DATE">02-21</PHI>-91 , where a left radical nephrectomy was performed .
-FOLLOW UP will be with xxxxDOCTOR_OLDERxxxx Suot N. Dragtente</PHI> and with her <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> oncology fellows .
-<PHI TYPE="ID">PL926/1533</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">GJ7</PHI>
-The patient was admitted to the hospital for ureteral stent placement . xxxxDOCTOR_OLDERxxxx Jescdrig</PHI> was called and a consultation was done and he placed bilateral ureteral stents in her kidneys .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-She will return to xxxxDOCTOR_OLDERxxxx Fossa</PHI> &apos;s office .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-STAT to <PHI TYPE="HOSPITAL">Goman 10</PHI> edited <PHI TYPE="DATE xxxxDATE21xxxx PHI>/94 <PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI>
-The patient was therefore started on pressure controlled ventilation resulting in a decrease in his PIP from 60 to xxxxADDRESS8xxxx patient was also noted to have decreased urine output with an acute increase in his creatinine from 1.5 to 2 xxxxADDRESS8xxxx with xxxxDOCTOR_OLDERxxxx Test</PHI> led to a plan to begin aerosolized Pentamidine 100 mg nebilized q.d. for xxxxWRITTEN_AGE_1_TO_19xxxx while therapeutic levels of Pentamidine could be build up in the lungs via IV .
-<PHI TYPE="ID">VF679/2975</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">EJ5</PHI>
-By xxxxDOCTOR_OLDERxxxx Friednantflirt</PHI> revealed regrowth of the pelvic tumor .
-The patient was to FOLLOW UP with xxxxDOCTOR_OLDERxxxx Sta O. Tongue</PHI> for staple removal .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">SZ23</PHI>
-He was instructed to follow up with his outpatient physician , xxxxDOCTOR_OLDERxxxx Walking</PHI> , at the <PHI TYPE="HOSPITAL">Chorlasonmor Normooreanks Tioutsocin xxxHOSPITALxxx</PHI> at <PHI TYPE="LOCATION">Uingno Dar</PHI> as well as his <PHI TYPE="HOSPITAL">VLH</PHI> Hematologist .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">FS14 BQ197/7410</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. / xxxxDOCTOR_OLDERxxxx HOME</PHI> <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , <PHI TYPE="LOCATION">Ka Pemco</PHI>
-Her incisions were healing well and she was transferred to rehab on IV heparin and will be followed up by xxxxDOCTOR_OLDERxxxx Call</PHI> in the office .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-The ulcer was managed conservatively at <PHI TYPE="HOSPITAL">Har Hospital</PHI> by xxxxDOCTOR_OLDERxxxx Holes</PHI> with Silvadene b.i.d. lower extremity non invasive study obtained at that time showed poor distal right extremity perfusion .
-The patient was referred back to xxxxDOCTOR_OLDERxxxx Pop</PHI> for the possibility of a revascularization procedure .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE">Thanksgiving</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. MEDICINE RESIDENT MED <PHI TYPE="HOSPITAL">NLM</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. PULMONARY / CRITICAL CARE UNIT <PHI TYPE="HOSPITAL">BARLDI HEALTH</PHI> STAT
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-Multiple discussions were held between xxxxDOCTOR_OLDERxxxx Mass</PHI> , the rest of the surgical team , and the patient &apos;s wife , with this same result .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-The patient will follow up with xxxxDOCTOR_OLDERxxxx Ther Ludzjesc</PHI> at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> in <PHI TYPE="LOCATION">Connecticut</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx cc :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">UP72</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">UW63 TF697/1141</PHI>
-Discharge follow up will be with xxxxDOCTOR_OLDERxxxx Burgeshuff</PHI> &apos;s service ( <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> ) .
-The patient should also follow up with xxxxDOCTOR_OLDERxxxx Cord</PHI> of Cardiology .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx 
-The patient came in with a creatinine that was elevated at 2 xxxxADDRESS8xxxx  The patient is to follow up with PCP , xxxxDOCTOR_OLDERxxxx Toob Obestimeuph</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> Dictation ID <PHI TYPE="ID xxxxTELEPHONE1xxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96 9:00 A
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx as scheduled ,
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">YW821</PHI> )
-In <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she presented to her primary local Medical xxxxDOCTOR_OLDERxxxx of right lower extremity weakness .
-<PHI TYPE="ID">MJ092/0660</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">BI89</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OU12</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OC33</PHI>
-<PHI TYPE="ID">DX608/0614</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx xxxxTITLESxxxx PHI> , M.D. <PHI TYPE="ID">CD0</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-_______________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 11:44 P
-The patient was seen in consultation by a variety of consultants including Infectious Disease , Cardiology , Endocrine , Psychiatry , ENT , and Neuro ophthalmology . xxxPOSITIONxxx acute pathology was noted and xxxPOSITIONxxx treatment was necessary at this time . xxxxDOCTOR_OLDERxxxx Koteelks</PHI> indicated that the patient did not have sinus problems currently but thought that the trigeminal pain might be investigated further and that the sphenoid might account for some of the patient &apos;s discomfort .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-On the day of admission , the patient was taken to the operative suite , where she underwent a sigmoid resection by xxxxDOCTOR_OLDERxxxx Kotefooksshuff</PHI> and xxxxDOCTOR_OLDERxxxx Ischird</PHI> .
-The patient was instructed to call xxxxDOCTOR_OLDERxxxx Kotefooksshuff</PHI> to schedule an appointment in xxxxWRITTEN_AGE_1_TO_19xxxx following the date of discharge .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">RH5 XH616/5421</PHI>
-On the day of admission in <PHI TYPE="HOSPITAL">Rogas Medical Center</PHI> medical xxxxDOCTOR_OLDERxxxx  the patient had 2 episodes of chest pain associated with shortness of breath without radiation or other associated symptoms .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-LEFT TOTAL KNEE ARTHROPLASTY ON <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx patient is a xxxxAGE5xxxx who has had osteoarthritis and noted the sudden onset of left knee pain in <PHI TYPE="DATE">09</PHI xxxxADDRESS8xxxx that time , she has used a cane and she was referred to xxxxDOCTOR_OLDERxxxx Koors</PHI> .
-The patient was cleared for surgery by xxxxDOCTOR_OLDERxxxx Lupevickette Ca</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">WE01</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">GP0 EA855/4665</PHI>
-FOLLOW UP APPOINTMENT ( S ) : xxxxDOCTOR_OLDERxxxx Valo Freiermplauchefelv</PHI> ( <PHI TYPE="PHONE xxxxTELEPHONE3xxxx PHI> ) within xxxxAGE6xxxx , xxxPOSITIONxxx Known Allergies
-Renal function and electrolytes should be checked next week and results xxxxDOCTOR2xxxx .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-Your patient was admitted under the care of <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> with a preliminary diagnosis of VERTEBRAL FRACTURES .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx Provider Number :
-She underwent a sigmoid resection on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/96 by xxxxDOCTOR_OLDERxxxx Lenni Pain</PHI> .
-She was receiving daily radiation treatments under the care of xxxxDOCTOR_OLDERxxxx Aacent Slentjae</PHI> of the <PHI TYPE="HOSPITAL">Linatpromehack Worth Hospital</PHI> for Radiation Therapy .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">AW64 AB668/0455</PHI>
-The Foley should be in place until a follow up appointment with xxxxDOCTOR_OLDERxxxx Aarhalt</PHI> can be scheduled in approximately one to xxxxWRITTEN_AGE_1_TO_19xxxx at which time a decision regarding the status of the patient &apos;s urinary obstruction will be addressed .
-The patient will be followed at rehabilitation by her primary care physician , xxxxDOCTOR_OLDERxxxx Both</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">YT79 WH234/2364</PHI>
-<PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , PH.D. THORASCOPIC PLACEMENT LT PLEUREX CATH REM RT PLEUREX CATH
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ( <PHI TYPE="ID">QC514</PHI> )
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-The patient will follow up with xxxxDOCTOR_OLDERxxxx Friednantflirt</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">SE85</PHI>
-esophagoscopy , bronchoscopy , pericardectomy , excision of gastric ulcer , repair of gastric ulcer and pectoralis major myocutaneous flap performed on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx by xxxxDOCTOR_OLDERxxxx Reg Cranka</PHI> and xxxxDOCTOR_OLDERxxxx Win Shufffyfe</PHI> .
-There is xxxPOSITIONxxx fistula seen . xxxxDOCTOR_OLDERxxxx xxxNAMExxx Vengloan</PHI> of General Surgery consulted on the patient and concluded the patient does not require any surgical treatment of this problem at the current time and the best treatment for this situation would be to increase the patient &apos;s nutrition .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. xxxxDOCTOR_OLDERxxxx Jesc</PHI> .
-Pain Service : xxxxDOCTOR_OLDERxxxx Shuff</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">RJ12 OY792/4208</PHI>
-The patient was discharged in improved , stable , satisfactory condition with the expectation that she will call xxxxDOCTOR_OLDERxxxx First</PHI> &apos;s office for a followup visit in about xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-Electronically Signed <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-The patient will follow up with xxxxDOCTOR_OLDERxxxx Number</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx and with the patient &apos;s own cardiologist in xxxxWRITTEN_AGE_1_TO_19xxxx 
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE="HOSPITAL">Ca County Health Center</PHI> of <PHI TYPE="LOCATION">Hocall Plao</PHI> xxxxDOCTOR_OLDERxxxx Vernn Drepsloyd</PHI> and xxxxDOCTOR_OLDERxxxx Agold Jaquesube</PHI>
-The patient was a difficult intubation and it was finally performed by a thoracic xxxxSURGEON8xxxx 3.5 endotracheal tube . xxxxDOCTOR_OLDERxxxx Fields</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton xxxNAMExxx N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Pediatric Intensive Care Unit for evaluation and management by xxxxDOCTOR_OLDERxxxx Fields</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI> in the p.m.
-The patient is still being maintained on Ancef at the request of xxxxDOCTOR_OLDERxxxx Fields</PHI> &apos;s team . xxxxDOCTOR_OLDERxxxx patient has a xxxxADDRESS7xxxx that is stitched to his neck and also has trach ties in places .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. , at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Pediatric Intensive Care Unit .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE="ID">ZQ233/5272</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">RP75</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE21xxxx PHI>/95
-Patient will follow up with xxxxDOCTOR_OLDERxxxx Ausguall</PHI> , in about 4 xxxxAGE6xxxx , at which time the JP drain will be removed .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 xxxxDOCTOR_OLDERxxxx Ausguall</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI>/97
-The patient is to follow up with xxxxDOCTOR_OLDERxxxx Ria</PHI> in clinic on xxxxWRITTEN_AGE_1_TO_19xxxx time and the family is to call me if there were any questions in the interim .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/96
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. / STAT
-________________________________ <PHI TYPE="ID">JW167/3190</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-Follow up will be with xxxxDOCTOR_OLDERxxxx Sick</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx time .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">BA87</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
-<PHI TYPE xxxxDOCTOR_OLDERxxxx MD , PHD
-In addition , he was told to call his xxxxDOCTOR_OLDERxxxx any fevers , chills , severe headache , lightheadedness , dizziness , cold or flu like symptoms , cough , shortness of breath , chest discomfort , stomach ache , nausea , vomiting , persistent loose bowel movements , pain or difficulty with his urination , bleeding , skin rash or if he is unable to take his medication for any reason .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx MD , PHD <PHI TYPE="LOCATION">xxxxPRIVATExxx</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx Attending :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx Dictation ID <PHI TYPE="ID xxxxTELEPHONE1xxxx PHI>
-The patient is a xxxxAGE5xxxx patient of xxxxDOCTOR_OLDERxxxx Laymie Fournier</PHI> and xxxxDOCTOR_OLDERxxxx Leebjescobe</PHI> in <PHI TYPE="LOCATION">Co In Saorlirv Frea , xxxxPRIVATExxx</PHI> who was well until a bout of double pneumonia in <PHI TYPE="DATE">May</PHI> xxxxYEAR_CENTURYxxxx , at which time he was hospitalized at <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
-The patient was seen in consultation by the Electrophysiology service , xxxxDOCTOR_OLDERxxxx Slusslashgodle</PHI> , who said that he had xxxPOSITIONxxx indication for patch placement at the time of surgery .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx DD :
-Patient &apos;s mother was informed by xxxxDOCTOR_OLDERxxxx Vessels</PHI> . xxxxDOCTOR_OLDERxxxx ORDERS :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI>/97
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-This was discussed with the patient &apos;s local medical doctor , xxxxDOCTOR_OLDERxxxx Royneo Walla</PHI> .
-<PHI TYPE="ID">RW629/4018</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">JS8 RW2</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-She had a bronchoscopy by xxxxDOCTOR_OLDERxxxx Cranka</PHI> , which showed diffuse involvement and narrowing of the bronchi to the right lung by extrinsic compression .
-<PHI TYPE="DATE xxxxDATE4xxxx PHI>/95 xxxxDOCTOR_OLDERxxxx Breutzoln</PHI>
-________________________________ <PHI TYPE="ID">DG052/1418</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">KJ50</PHI>
-<PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> , xxxxDOCTOR_OLDERxxxx Lou</PHI> , <PHI TYPE="DATE">02-15</PHI>-90 , operated and removed the tumor via craniotomy incision .
-She had a shunt series which shows an intact , and she should be followed up for this with xxxxDOCTOR_OLDERxxxx Besti Lou</PHI> .
-BUN 28 , creatinine 1.5 , hematocrit 32.9 , platelets xxxxADDRESS8xxxx x ray showed cardiomegaly with haziness at the left base and a left pleural effusion . xxxxDOCTOR_OLDERxxxx ORDERS :
-A PICC line was placed , XRT was begun on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , as coordinated by xxxxDOCTOR_OLDERxxxx Brittsdiss</PHI> .
-_____________________________ <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx cc :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. ORTHOPAEDIC SURGERY <PHI TYPE="HOSPITAL">ANNENTESAUBEOR RINERS xxxNAMExxx RAELLFORDGET COMMUNITY HOSPITAL</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx R.N.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-The patient was to FOLLOW UP with xxxxDOCTOR_OLDERxxxx Linddie Ca Deep</PHI> .
-<PHI TYPE="ID">TO709/1590</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">ET86</PHI>
-1. xxxxDOCTOR_OLDERxxxx xxxNAMExxx STIE</PHI> , <PHI TYPE="LOCATION">Texas</PHI>
-He underwent an electrophysiology study which identified an accessory pathway with multiple attempts at ablation by xxxxDOCTOR_OLDERxxxx Slusslashgodle</PHI> which were unsuccessful .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx TD :
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. CARDIAC UNIT <PHI TYPE="HOSPITAL">SHARPTIESSONI HEALTH CENTER</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. CARDIAC EP LAB <PHI TYPE="HOSPITAL">ANWARENLA GLENWER xxxPOSITIONxxx HOSPITAL OF</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="HOSPITAL">SHARPTIESSONI HEALTH CENTER</PHI>
-PRINCIPAL PROCEDURE : xxxxDOCTOR_OLDERxxxx 1-2 PO Q4 hours PRN , Dilantin 100mg. PO BID , Phenobarbital 30mg. PO BID , Penicillin VK 250mg. PO Q6 hours and Indocin 25mg. PO BID .
-He is being evaluated by xxxxDOCTOR_OLDERxxxx Fyfesaul</PHI> for possible adjuvant therapy .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , a family meeting with patient &apos;s daughter and spouse , along with primary oncologist , xxxxDOCTOR_OLDERxxxx Tomedankell Bile</PHI> , attending physician , xxxxDOCTOR_OLDERxxxx Mellerny Close</PHI> , and house staff , was held to discuss patient &apos;s critical condition and inability to prevent progression of skin , sinus and neurological Acanthamoeba infection on maximal antimicrobial therapy .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">LN00</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OF1 WS584 xxxxSUSPICIOUS_NUMxxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-He is to see xxxxDOCTOR_OLDERxxxx Ench</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx to check his PT and INR , also to check for potassium .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">YG59</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PCP xxxxDOCTOR2xxxx :
-This report was created by <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 09:06 PM
-<PHI TYPE="ID">YM263/3597</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">TH0</PHI>
-<PHI TYPE="DATE xxxxDATE4xxxx PHI> xxxxYEAR_CENTURYxxxx Ms. <PHI TYPE="PATIENT">Less</PHI> was initially admitted to the Vascular Surgery Service for xxxxDOCTOR_OLDERxxxx Scosthuang</PHI> and was recently transferred to the Neurosurgery Service under the care of xxxxDOCTOR_OLDERxxxx Pae</PHI> .
-Cardiovascularly , he developed atrial fibrillation and hypertension during the hospital course and was managed by xxxxDOCTOR_OLDERxxxx Gach</PHI> of Cardiology .
-His family had a meeting with xxxxDOCTOR_OLDERxxxx Liftjesc</PHI> , xxxxDOCTOR_OLDERxxxx Telshey Vital</PHI> , and xxxxDOCTOR_OLDERxxxx Tineara Rhalt</PHI> of the Neurosurgical ICU .
-The <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> Admitting Desk was also notified as were xxxxDOCTOR_OLDERxxxx Liftjesc</PHI> , xxxxDOCTOR_OLDERxxxx Telshey Vital</PHI> , xxxxDOCTOR_OLDERxxxx Azel Hibbskays</PHI> , and the patient &apos;s primary care physician , xxxxDOCTOR_OLDERxxxx Tomedankell Flowayles</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/98
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. , Ph.D <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. STAT
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">ZC5 GI592/4-03</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-are Glyburide 5-15 mg po q a.m. and 0-10 mg po q p.m. , depending on amount of oral intake ; Celesone 1 xxxxDATE22xxxx tablets po q day , Tagamet 400 mg PO b.i.d. , ofloxacin 400 mg PO b.i.d. , CZI sliding scale which will not be continued on discharge , and Flagyl 500 mg PO t.i.d. for a total of xxxxWRITTEN_AGE_1_TO_19xxxx  xxxxDOCTOR_OLDERxxxx OCK</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/95
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-He was ; therefore , seen in consultation by xxxxDOCTOR_OLDERxxxx xxxNAMExxx Tikfreierm</PHI> of the Hematology Service to evaluate him further for a possible hypocoagulable condition versus primary and secondary platelet abnormality which could explain his recurrent coronary events .
-Therefore , on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , the patient underwent left thorascopic thoracic sympathectomy by xxxxDOCTOR_OLDERxxxx Aalv Sctroi</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI TYPE="DATE xxxxDATE4xxxx PHI>/94
-CC : xxxxDOCTOR_OLDERxxxx xxxNAMExxx Tikfreierm</PHI> of Pediatric Hematology .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">OZ06</PHI>
-<PHI TYPE="ID">AY268/3325</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx xxxxTITLESxxxx PHI> , M.D. <PHI TYPE="ID">CD0</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">OF22</PHI>
-He talked to xxxxDOCTOR_OLDERxxxx xxxNAMExxx R. Douetscarv</PHI> yesterday on the phone , who instructed the patient to take 60 milligrams of Lasix on the morning of admission , his usual dose was xxxxADDRESS8xxxx MEDICAL HISTORY was remarkable for coronary artery disease .
-His congestive heart failure most recently he had an ejection fraction of 30% , per xxxxDOCTOR_OLDERxxxx Pain</PHI> .
-<PHI TYPE="ID">WH968/1141</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx PHI> , M.D. <PHI TYPE="ID">CX1</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx PAIN</PHI> , M.D.
-The patient will be discharged to a rehabilitation center and will be followed up by xxxxDOCTOR_OLDERxxxx Nu Jescraln</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx from discharge .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">CH771/8971</PHI> <PHI TYPE xxxxDOCTOR_OLDERxxxx M.D. <PHI TYPE="ID">TK5</PHI>
-She was subsequently referred to xxxxDOCTOR_OLDERxxxx Riode Zetllille</PHI> for evaluation and workup of her aneurysm .
-The patient will follow up with xxxxDOCTOR_OLDERxxxx Riode Zetllille</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">xxxPOSITIONxxx</PHI> .
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx TD :
-1. <PHI TYPE xxxxDOCTOR_OLDERxxxx MD <PHI TYPE="HOSPITAL">LIODIMAN BASSPRINGTY HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , Utah</PHI>
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-<PHI TYPE xxxxDOCTOR_OLDERxxxx M.D.
-Total_Doctor: 449, TP: 288, FP: 160
+On CXR he was found to have a left upper lobe xxxPEOPLExxx He subsequently underwent bronchoscopy and bx revealed non small cell adeno CA .
+DISCHARGE CONDITION : xxxPEOPLExxx TO DO / PLAN :
+ProvidxxxPEOPLExxx :
+Mr. <PHI TYPE="PATIENT">Tlandpiernshi</PHI> underwent coronary artery bypass grafting x2 with saphenous vein graft to the obtuse marginal , and saphenous vein graft to the left anterior descending artery on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx was extubated on the xxxPEOPLExxx postoperative day and transferred to the Stepdown Unit on the second postoperative day .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 , the patient underwent a left hepatectomy andcaudate lobe resection as well as a xxxPEOPLExxx resection of segment 5 and 6.
+By postoperative day # 5 , the patient had flatus , was tolerating clear liquids , ambulating and doing well on xxxPEOPLExxx pain medication .
+He was afebrile with xxxPEOPLExxx vital signs .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+It was unclear which even happened xxxPEOPLExxx She was subsequently transferred to <PHI TYPE="HOSPITAL">CMC</PHI> for work up of her severe anemxxxPEOPLExxxnd thrombocytopenia .
+She was subsequently transferred to <PHI TYPE="HOSPITAL">CMC</PHI> for work up of her severe anemxxxPEOPLExxxnd thrombocytopenia .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. ( <PHI TYPE="ID">BB32</PHI> )
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. ( <PHI TYPE="ID">BB32</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 04:48 PM
+He underwent an abdominal examination , abdominal CT scan and chest X xxxPEOPLExxx in the emergency department and received lactulose , ativan , and levaquin prior to being transferred to the floor .
+3. Zyprexa 2.5 mg xxxPEOPLExxx qhs
+4. Celexa 30 mg xxxPEOPLExxx qhs
+5. Trazodone 50 mg xxxPEOPLExxx qhs
+9. Norvasc 10 mg xxxPEOPLExxx q day
+10. Multivitamin one tab xxxPEOPLExxx q day
+11. Avapro 300 mg xxxPEOPLExxx q day
+13. Lasix 40 mg xxxPEOPLExxx q day
+Lived at nursing xxxPEOPLExxx for the past ten months .
+_____________________________ <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Colace 100 mg xxxPEOPLExxx t.i.d. Senna tablets two tablets xxxPEOPLExxx b.i.d. Arimidex 1 mg xxxPEOPLExxx q.d. Fentanyl patch 50 mcg per hour replace every 72 hours Dulcolax suppository 10 mg q.d. p.r.n. constipation Fragmin 8000 units subcutaneously b.i.d. Hydromorphone 2-4 mg xxxPEOPLExxx q3-4h p.r.n. pain Warfarin 5 mg xxxPEOPLExxx q.d.
+The Fareston was discontinued , Lupron 7.5 mg monthly was initiated and Arimidex 1 mg xxxPEOPLExxx q.d. was initiated .
+In addition , we started her on Taxol xxxxADDRESS7xxxx with the xxxPEOPLExxx dose administered on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx and to be continued as an outpatient .
+The patient was discharged xxxPEOPLExxx with nursing care and will be followed by Dr. <PHI TYPE="DOCTOR">Fyfesaul</PHI> with her xxxPEOPLExxx appointment on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+The skin examination revealed the xxxPEOPLExxx breast had a dark two centimeter ecchymosis and the left medial thigh had two pale blue two centimeter macules .
+2) Calcium gluconate 1000 mg xxxPEOPLExxx q day .
+4) Colace 100 mg xxxPEOPLExxx b.i.d.
+5) Lasix 40 mg xxxPEOPLExxx q day .
+6) Lactulose 30 milliliters xxxPEOPLExxx q.2h. p.r.n. constipation .
+10) Senna tablets , two tablets xxxPEOPLExxx b.i.d.
+13) K Dur 10 mEq x three , xxxPEOPLExxx b.i.d.
+14) Zoloft 25 mg xxxPEOPLExxx q day .
+15) Peridex 30 cc xxxPEOPLExxx b.i.d. x xxxxAGE6xxxx .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. <PHI TYPE="ID">NJ38 ME089/6922</PHI>
+The patient was a resident at <PHI TYPE="HOSPITAL">Tawn xxxPEOPLExxx Medical Center</PHI> in <PHI TYPE="LOCATION">Rangefield War , Kentucky</PHI> , where she was in her usual state of health until approximately xxxxWRITTEN_AGE_1_TO_19xxxx prior to admission , when she was noted to have a non productive cough .
+She has a diabetic cardiomyopathy with an ejection xxxPEOPLExxx of 18% , likely due to alcohol abuse in the past ,
+1. Lasix 80 mg xxxPEOPLExxx q.day ,
+3. Ranitidine 150 mg xxxPEOPLExxx qhs ,
+There is a xxxPEOPLExxx toe ulcer without erythema , which could not be better visualized secondary to patient refusal .
+Her chest X xxxPEOPLExxx showed cardiomegaly with bilateral pleural effusions and moderate interstitial / air space pattern consistent with congestive heart failure .
+The electrocardiogram showed sinus tachycardxxxPEOPLExxxt 100 beats per minute with left bundle branch block .
+A repeat chest X xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE7xxxx PHI> showed markedly improved congestive heart failure with mild residual redistribution of the vasculature , and very small pleural effusions .
+Her blood glucose ranged between 100 and xxxxADDRESS8xxxx hyperkalemia , which was noted on admission , resolved with potassium xxxPEOPLExxx of approximately four .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS7xxxx  <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> STAT
+( at time of admission ) hematocrit 32.7 ; white blood count 9,000 ; platelet count 336,000 ; sodium 126 , potassium 4.3 , chloride 93 , CO2 19 , BUN 36 , creatinine 1.5 , blood sugar 84 , calcium 11.7 ; the chest X xxxPEOPLExxx normal .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS7xxxx  <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , <PHI TYPE="HOSPITAL">LI HOSPITAL</PHI>
+1. Zantac , 150 mg. , xxxPEOPLExxx b.i.d.
+2. Isordil , 10 mg. , xxxPEOPLExxx t.i.d.
+An echocardiogram revealed an ejection xxxPEOPLExxx of 52% .
+His xxxPEOPLExxx coronary artery had a severe 95% stenosis .
+The left ventricle has normal size , and an ejection xxxPEOPLExxx of 65% .
+The xxxPEOPLExxx sound was normal .
+On <PHI TYPE="DATE xxxxDATE22xxxx PHI>/94 , he underwent successful coronary angioplasty of the two lesions in the xxxPEOPLExxx coronary artery , with an excellent result .
+<PHI TYPE="DOCTOR">yxxxPEOPLExxx</PHI>
+The patient is a xxxxAGE5xxxx xxxPEOPLExxx hand dominant white male with a long history of hypertension , changed his medications from Aldomet to Clonidine xxxxWRITTEN_AGE_1_TO_19xxxx ago .
+He was taken to <PHI TYPE="HOSPITAL">Wayskemedcalltown Talmi</PHI> and transferred to <PHI TYPE="HOSPITAL">Heaonboburg Linpack xxxNAMExxx Medical Center</PHI> with a computerized tomography scan showing a 1x2 thalamic capsular hemorrhage without superficial xxxPEOPLExxx effect .
+Motor examination showed full power on the xxxPEOPLExxx arm and leg , could barely flex fingers of the left hand , pulls left arm medially only .
+Head computerized tomography scan showed 1.5 to 2 centimeter bleed in the xxxPEOPLExxx thalamus extending to the internal capsule with mild distortion only , no shift .
+Muscle spasms were managed with Flexeril 10 xxxPEOPLExxx t.i.d.
+Vasotec 20 mg xxxPEOPLExxx b.i.d. , Clonidine 0.2 mg xxxPEOPLExxx b.i.d. , Nifedipine 20 mg xxxPEOPLExxx t.i.d. , Flexeril 10 mg xxxPEOPLExxx t.i.d. , Valium 5 mg xxxPEOPLExxx t.i.d. , Micronase 1.25 mg q.day .
+The left anterior descending had moderate plaques with a 50% proximal stenosis of the xxxPEOPLExxx anterior oblique caudal view .
+The xxxPEOPLExxx coronary artery lesion was complex and there was severe stenosis in the obtuse marginal xxxxADDRESS8xxxx <PHI TYPE="DATE">4-2</PHI>-93 , she underwent a Persantine Thallium study .
+The patient is to return to the follow up care of Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> at the <PHI TYPE="HOSPITAL">Diy Hospital</PHI> .
+A peripheral neuropathy was xxxPEOPLExxx diagnosed in xxxxYEAR_CENTURYxxxx , cause undetermined .
+There was slight further improvement of gait , mainly xxxPEOPLExxx unsteadiness , but no change in speed .
+LAB / X xxxPEOPLExxx DATA :
+Sodium 141 , potassium 5.0 , BUN 18 , creatinine 1.0 , PT 12.3 , PTT 24 , WBC 7.6 , hematocrit 41 , platelets 278 xxxxADDRESS8xxxx revealed a normal sinus rhythm with a rate of 69 , left ventricular hyper trophy with xxxPEOPLExxx anterior progression of R waves .
+She was admitted and evaluated by the cardiac surgery service after having undergone cardiac catheterization which revealed a 70% stenosis of her left circumflex artery , 50% stenosis of the left anterior descending and 10% stenosis of the xxxPEOPLExxx coronary artery .
+On <PHI TYPE="DATE xxxxADDRESS7xxxx  xxxNAMExxx valve , coronary artery bypass graft times one with saphenous vein graft from the posterior descending artery to the obtuse marginal and xxxPEOPLExxx carotid endarterectomy .
+However , on <PHI TYPE="DATE">05-07</PHI>-92 there was a a question of a new event with addition to the left upper extremity weakness , some noted xxxPEOPLExxx upper and xxxPEOPLExxx lower extremity discoordination .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. <PHI TYPE="ID">HW8 VE160/3653</PHI>
+This is a xxxxAGE5xxxx gravida IV , xxxPEOPLExxx 4 who presented for a vaginal hysterectomy secondary to uterine prolapse and also presented for evaluation of a suspicious lesion xxxPEOPLExxx on a mammogram .
+Examination showed xxxPEOPLExxx axillary and xxxPEOPLExxx posterior axillary skin tags and crusted lesions .
+Cardiology was consulted to evaluate this and felt that the changes xxxPEOPLExxx on the EKG were not significant .
+The patient was also xxxPEOPLExxx by Dr. <PHI TYPE="DOCTOR">Nusc</PHI> from General Surgery for evaluation of micro calcifications in the xxxPEOPLExxx breast .
+For the past five weeks , the patient has experienced dragging of the xxxPEOPLExxx leg with weakness throughout that side .
+Bone scan , CT of the abdomen , chest X xxxPEOPLExxx and mammogram were all negative .
+On admission demonstrated a well developed , well nourished female in no apparent distress dragging her xxxPEOPLExxx foot .
+Patient did well post operatively , continued to have a xxxPEOPLExxx sided deficit , and Physical Therapy and Occupational Therapy visited the patient , worked with the patient , and determined that patient needed rehabilitation with Physical Therapy .
+She did not have any chest pain or EKG changes , however , hermaximal heart rate was 71 , and her blood pressure was 110 xxxxADDRESS8xxxx was felt by the cardiologist on the case that this was more exercise than she usually did at xxxPEOPLExxx and she was comfortable with the current medical regimen .
+The patient is being discharged in xxxPEOPLExxx condition , and is to be followed up with Dr. <PHI TYPE="DOCTOR">Liermfelsbelb</PHI> .
+The patient is a xxxxAGE5xxxx white male with a family history of myocardial infarction and narcotic abuse with a large cell Pancoasttumor in cardiogenic xxxPEOPLExxx after an anterior wall myocardial infarction .
+He had a new xxxPEOPLExxx bundle and marked ST changes .
+Potassium 3.3 ; creatinine 1.5 ; hematocrit 38.0 ; white count 65,000 ; platelets 445 xxxxADDRESS8xxxx chest x xxxPEOPLExxx showed the xxxPEOPLExxx upper lung xxxPEOPLExxx HOSPITAL COURSE :
+He was taken to cardiac cath where he was found to have a total occlusion of his LAD after his xxxPEOPLExxx diagonal .
+The patient was discharged xxxPEOPLExxx in xxxPEOPLExxx condition with <PHI TYPE="HOSPITAL">CMC</PHI> and physical therapy .
+1. CARDIOGENIC xxxPEOPLExxx 2. CORONARY ARTERY DISEASE , STATUS POST AN ANTEROSEPTAL MYOCARDIAL INFARCTION .
+Status post cholecystectomy , status post xxxPEOPLExxx inguinal herniorrhaphy .
+His neck showed a left sided carotid which was 2+ without bruit , and a xxxPEOPLExxx sided carotid which was 1+ without bruit .
+His xxxxWRITTEN_AGE_1_TO_19xxxx examination had bilateral basilar rales greater on the xxxPEOPLExxx than the left .
+2+ femoral without bruit , 1+ dorsalis pedis on the left , trace dorsalis pedis on the xxxPEOPLExxx and trace posterior tibial bilaterally .
+His heart rate went down to xxxxADDRESS8xxxx this time , he was also given 25 mg xxxPEOPLExxx of Lopressor .
+On the above chest x xxxPEOPLExxx no evidence of dissection was noted .
+Central access was gained and a chest x xxxPEOPLExxx was done which showed no pnuemothorax and his central line was in good placement as well as xxxPEOPLExxx tube .
+Postoperatively , we measured a left ventricle ejection xxxPEOPLExxx of 40% , by gated cardiac blood xxxPEOPLExxx scanning .
+His chest X xxxPEOPLExxx demonstrated cardiomegaly , with bilateral pleural effusions , xxxPEOPLExxx greater than left , and pulmonary vascular re distribution .
+The electrocardiogram showed a normal sinus rhythm with xxxPEOPLExxx degree AV block , an old inferior myocardial infarction , and old anteroseptal myocardial infarction , and non specific ST T wave abnormalities , that were unchanged compared to <PHI TYPE="DATE xxxxMONTHxxxx PHI> , xxxxYEAR_CENTURYxxxx .
+At the time of this study , the xxxPEOPLExxx atrial pressure was 1 , the PA pressure xxxxDATE22xxxx , and the mean pulmonary capillary xxxPEOPLExxx pressure was xxxxADDRESS8xxxx ventriculography demonstrated marked left ventricle dilatation .
+A dominant xxxPEOPLExxx coronary artery had an 80% proximal stenosis , and was then occluded at the acute margin .
+A large xxxPEOPLExxx ventricular marginal branch did fill the saphenous vein graft in a retrograde fashion .
+The saphenous vein graft to the xxxPEOPLExxx ventricular acute marginal and posterior descending artery was patent with good runoff .
+These findings were reviewed with Dr. <PHI TYPE="DOCTOR">Patella</PHI> and together we decided that conservative therapy would be the appropriate xxxPEOPLExxx choice in Mr. <PHI TYPE="PATIENT">Breun</PHI> &apos;s management .
+He is looking forward to returning xxxPEOPLExxx and going back to work on a part time basis at the local pharmacy .
+The patient was a xxxxAGE5xxxx  xxxPEOPLExxx handed , white male with a history of resection of left cerebellar medulloblastoma , resected xxxxWRITTEN_AGE_1_TO_19xxxx ago and status post chemotherapy and radiation therapy , with a xxxxWRITTEN_AGE_1_TO_19xxxx history of 30 pound weight loss , who was admitted to the <PHI TYPE="HOSPITAL">Heaonboburg Linpack xxxNAMExxx Medical Center</PHI> with a left basilar ganglion hemorrhage .
+His pupils were asymmetric , 6 mm. to 4 mm. on the left , xxxPEOPLExxx pupil was 5 mm. reacting to 3 mm.
+He responded to threat on the left , but not on the xxxPEOPLExxx He had slight decreased corneal reflex on the xxxPEOPLExxx Motor - xxxPEOPLExxx flaccid arm and he moved his left purposefully , but did not squeeze his hands .
+His deep tendon reflexes were noted for symmetric reflexes with upper extremities being 2 and patella xxxxADDRESS8xxxx had clonus bilaterally with up going toe on the xxxPEOPLExxx but not the left .
+There was xxxPEOPLExxx effect and some midline shift .
+There was no enhancement xxxPEOPLExxx in the region of the original cerebellar medullo blastoma .
+The GI Service was consulted on this xxxPEOPLExxx and suggested an magnetic resonance imaging study of the liver .
+This confirmed an 8 mm. xxxPEOPLExxx which was bright on T2 and homogeneous in the xxxPEOPLExxx lateral segment and medial lobe of the liver , which was consistent with a benign hemangioma or cyst .
+He has slowly made progress with increased strength on the xxxPEOPLExxx side and ability to walk with assistance .
+He still had a significant xxxPEOPLExxx central facial droop .
+He had approximately 4+ to xxxxDATE22xxxx strength in the xxxPEOPLExxx upper and lower extremities .
+He had marked dysmetria bilaterally , but left greater than xxxPEOPLExxx to finger to nose and his gait was very ataxic .
+He had xxxPEOPLExxx clonus , which was sustained .
+At that time , there was no evidence of a xxxPEOPLExxx behind the hematoma . xxxNAMExxx he should return to the <PHI TYPE="HOSPITAL">Heaonboburg Linpack xxxNAMExxx Medical Center</PHI> to have a repeat head computerized tomography scan in xxxxWRITTEN_AGE_1_TO_19xxxx to further evaluate a possible xxxPEOPLExxx lesion behind the hematoma .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS7xxxx  <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI>
+A chest x xxxPEOPLExxx revealed a 1.5 cm xxxPEOPLExxx middle lobe lung lesion .
+A chest CT confirmed the lesion in the xxxPEOPLExxx middle lobe as well as multipletiny granulomata which were benign appearing .
+She was sent xxxPEOPLExxx with a raised toilet seat and a transfer tub bench .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+With clotting xxxPEOPLExxx replacement , bleeding gradually abated and was no longer a problem .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Her electrocardiogram showed a new xxxPEOPLExxx bundle branch block and left anterior hemiblock .
+She had a dominant xxxPEOPLExxx coronary artery with minor disease .
+The xxxPEOPLExxx sound was normal .
+The patient was xxxPEOPLExxx in consultation by the Neurology Department because of the history of Parkinson &apos;s disease .
+The patient remained xxxPEOPLExxx during the rest of the hospitalization .
+<PHI TYPE="PATIENT">xxxPEOPLExxx</PHI>
+HE WAS TRANSFERRED TO A MARINER NURSING xxxPEOPLExxx TO COMPLETE HIS SIX WEEK COURSE OF INTRAVENOUS ANTIBIOTICS .
+SEVERE PARAVALVULAR AORTIC INSUFFICIENCY WAS NOTED AS WELL AS A DILATED , HYPOKINETIC LEFT VENTRICLE AND AN EJECTION xxxPEOPLExxx OF 45% .
+NO FOCAL DEFICITS PULSES ( xxxPEOPLExxx CAROTID :
+HE WAS BROUGHT TO THE CARDIAC SURGERY INTENSIVE CARE UNIT IN xxxPEOPLExxx CONDITION .
+HE CONTINUED TO DO WELL AND WAS DISCHARGED TO <PHI TYPE="HOSPITAL">ABORGESSPALE xxxxPRIVATExxx HOSPITAL AND CLINICS</PHI> IN <PHI TYPE="LOCATION">Eari Blvd. , Ingcinderdrykanedar , xxxxSUSPICIOUS_NUMxxxx PHI> ON POSTOPERATIVE DAY xxxxADDRESS8xxxx DISCHARGE CHEST X xxxPEOPLExxx SHOWED PATCHY ATELECTASIS AND CLEAR LUNGS AND HIS EELECTROCARDIOGRAM SHOWED HIM TO BE V PACED AT A RATE OF 80 WITHOUT EVIDENCE OF ECTOPY .
+CAPTOPRIL 12.5 MG xxxPEOPLExxx TID ALPRAZOLAM ( XANAX ) 1 MG xxxPEOPLExxx BID IPRATROPIUM INHALER ( ATROVENT INHALER ) 2 PUFF INH QID VANCOMYCIN HCL 750 MG IV Q12H SENNA TABLETS 2 TAB xxxPEOPLExxx BID WARFARIN SODIUM ( COUMADIN ) 5 MG xxxPEOPLExxx QD OXYCODONE 5 MG / ACETAMINOPHEN 325 MG 1-2 TAB xxxPEOPLExxx Q6-8 H PRN PAIN D / C ORDER INSTRUCTIONS :
+He was afebrile with xxxPEOPLExxx vital signs and good urine output .
+He was started on 2.5 mg xxxPEOPLExxx qd .
+On hospital day 7 , the patient remained afebrile with xxxPEOPLExxx vital signs . xxxxADDRESS7xxxx  <PHI TYPE="DOCTOR">Para</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Mr. <PHI TYPE="PATIENT">Rule</PHI> on <PHI TYPE="DATE xxxxDATE7xxxx PHI> at 1 PM had the acute onset of dizziness , headache , xxxPEOPLExxx arm and leg weakness as he was getting to stand up from watching TV .
+His xxxPEOPLExxx upper extremity was found to be 5 - out of xxxxADDRESS8xxxx GI bleeds including xxxxYEAR_CENTURYxxxx while on aspirin , reported negative EGD and colonoscopy .
+On motor examination he had a slight xxxPEOPLExxx pronator drift with trace weakness in the xxxPEOPLExxx proximal upper extremity .
+He was xxxPEOPLExxx by Interventional NeuroRadiology who recommended a CTA to better visualize question of left ICA stenosis .
+CTA revealed patent ACA &apos;s with dominant left A1 segment , hypoplastic xxxPEOPLExxx A1 segment but good filling of anterior cerebrals bilaterally .
+He contined on hemodialysis and was started on Renogel and Nephrocaps for high phosphorus xxxPEOPLExxx He was started on Nexium in addition to Zantac for further GI prophylaxis .
+4. Thyroid xxxPEOPLExxx on CTA pt. was noted to have incidental xxxPEOPLExxx of left thyroid gland .
+She sleeps in a chair up xxxPEOPLExxx for the last 2 xxxxDATE22xxxx years secondary to osteoarthritis .
+Her lower extremity edema has increased for the several weeks prior to admission secondary to an inability to elevate her legs due to a broken chair at xxxPEOPLExxx She denies any pleural chest pain .
+Lobular density at the xxxPEOPLExxx hilum .
+She was restarted on 20 mg xxxPEOPLExxx q day prior to discharge .
+Pulmonary hypertension as xxxPEOPLExxx on echocardiogram .
+An ABG was done which showed pH 7.34 , pCO2 78 , xxxPEOPLExxx 92 on 2 liters .
+Evidence for cellulitis on her legs , likely due to distention from edema and xxxPEOPLExxx perfusion .
+<PHI TYPE="PATIENT">xxxPEOPLExxx</PHI>
+Levothyroxine Na 100 mg xxxPEOPLExxx QD .
+Colace 100 mg xxxPEOPLExxx TID , EC ASA 325 mg xxxPEOPLExxx QD .
+She had cardiac catheretization at that time , which revealed patent left internal mammary artery to the left anterior descending , a dominant left circumflex artery , with an 80% stenosis and a patent xxxPEOPLExxx coronary artery .
+She felt xxxPEOPLExxx leg weakness during the procedure , but experienced a great deal of difficulty the following morning , ambulating to the bathroom due to this weakness , which resolved after 2-3 hours .
+She was xxxPEOPLExxx in consultation by Neurology .
+She underwent head CT which showed old lacunes and bilateral basal ganglxxxPEOPLExxxnd ? of small hypodensity in the left frontal lobe .
+Post cath she developed contrast induced acute renal failure , with peak creat of 2 xxxxADDRESS8xxxx was xxxPEOPLExxx in consultation by the Renal service who followed along closely .
+Eventually she had renal MRA which was reported as showing severe xxxPEOPLExxx renal artery stenosis .
+In order to evaluate this , on <PHI TYPE="DATE xxxxDATE4xxxx PHI> she underwent renal MRA which showed only moderate xxxPEOPLExxx renal artery stenosis that was non obstructive .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DOCTOR">ASHA ERELLEDEN LALANIE VENGLOAN</PHI> , M.D. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DOCTOR">DREPSFEL , xxxPEOPLExxx TERA</PHI> , M.D.
+<PHI TYPE="PATIENT">xxxPEOPLExxx</PHI>
+A Speech and Swallow evaluation initially deemed her an aspiration risk , and she was taken of xxxPEOPLExxx &apos;s .
+And status post xxxPEOPLExxx nephrectomy , status post cholecystectomy , ____________thyroidectomy .
+The electroencephalogram showed left greater than xxxPEOPLExxx frontotemporal slowing throughout the tracing .
+For her FEN , the patient was able to take xxxPEOPLExxx &apos;s and , per Speech and Swallow consult , was permitted to take xxxPEOPLExxx &apos;s with one to one supervision .
+CA-125 xxxPEOPLExxx were within normal limits .
+Pending no further suggestions on their part , we have completed the metabolic work up for reversible causes of dementxxxPEOPLExxxnd will likely discharge the patient to return to the <PHI TYPE="HOSPITAL">Termarimed</PHI> pending no further suggestions from Neurology or other consultants .
+ATENOLOL 25 MG xxxPEOPLExxx QD DURAGESIC ( FENTANYL ( PATCH ) ) 25 MCG / HR TP Q72H DILAUDID ( HYDROMORPHONE HCL ) 2-4 MG xxxPEOPLExxx Q4H PRN pain
+Pancreatic xxxPEOPLExxx PRINCIPAL DISCHARGE DIAGNOSIS ; Responsible After Study for Causing Admission ) Laparoscopic staging <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay Pancreatic xxxPEOPLExxx Diabetes mellitus on insulin
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. DIAG .
+LAPAROSCOPIC BX PERITONEAL NODULE PERI PANCREACTIC xxxPEOPLExxx GASTROSCOPY AND BX MALL ESOPHAGEAL JUNCTION
+He now presents for staging laparoscopy to xxxPEOPLExxx out metastatic disease .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. ( <PHI TYPE="ID">WX58</PHI> ) on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/02 05:19
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+She had recently xxxPEOPLExxx Dr. <PHI TYPE="DOCTOR">Zetllille</PHI> approximately xxxxWRITTEN_AGE_10_100_DIV10xxxx prior and offered an operation at that time which she refused and wanted to further consider her options .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+This is to notify you that your patient , <PHI TYPE="PATIENT">xxxPEOPLExxx</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Bri Health</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 01:41 PM .
+ProvidxxxPEOPLExxx :
+Pelvic xxxPEOPLExxx PROBLEMS :
+This is a xxxxAGE5xxxx status post ERT with recurrence of a pelvic xxxPEOPLExxx and resection at an outside hospital in <PHI TYPE="DATE xxxxDATE4xxxx PHI> .
+Per the patient , the xxxPEOPLExxx was benign .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 , the patient &apos;s pain increased and she presented to an outside hospital with nausea and vomiting and an inability to tolerate xxxPEOPLExxx intake .
+Hypothyroidism , arthritis , hypertension , hypercholesterolemia , anemxxxPEOPLExxxnd asthma .
+MEDICATIONS AT xxxPEOPLExxx 2. Ultram .
+After a Cardiology consulton <PHI TYPE="DATE xxxxDATE4xxxx PHI>/03 , the patient was started on metoprolol 100 mg xxxPEOPLExxx q.i.d. , lisinopril 10 mg q.d. , hydrochlorothiazide 25 mg q.d. .
+A chest x xxxPEOPLExxx revealed increased free air under the diaphragm .
+The patient intermittently tolerated diet advancement , but then would vomit and would have the xxxPEOPLExxx tube replaced .
+On postop day 6 , an ID consult noted erythema at the xxxPEOPLExxx IJ line site .
+On postop day 9 , bilateral upper extremity Dopplers revealed a xxxPEOPLExxx IJ clot .
+The patient was on xxxPEOPLExxx Synthroid dose during her hospitalization , insulin sliding scale with q.6h. fingersticks while she was on TPN .
+This is to notify you that your patient , <PHI TYPE="PATIENT">xxxPEOPLExxx</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Bri Health</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:43 AM .
+ProvidxxxPEOPLExxx :
+<PHI TYPE="PATIENT">xxxPEOPLExxx</PHI>
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx the patient underwent atotal abdominal hysterectomy , bilateral salpingooophorectomy , bilateral node dissection , omentectomy , lysis of adhesions , removal of xxxPEOPLExxx from surface of transverse colon .
+She was started on Levofloxacin 500 mg xxxPEOPLExxx daily .
+The patient was afebrile , her vital signs were xxxPEOPLExxx and she maintained a good urine output .
+A repeat chest x xxxPEOPLExxx done for dyspnea showed persistent pleural effusion with atelectasis versus pneumonia .
+Dilaudid 2 to 4 mg xxxPEOPLExxx q3h prn pain , Ativan 1 mg xxxPEOPLExxx q12h prn anxiety , Zofran 8 mg xxxPEOPLExxx q8h prn nausea , Compazine 10 mg xxxPEOPLExxx q6h prn nausea , Decadron 20 mg xxxPEOPLExxx q6h x 2 doses .
+The patient was discharged xxxPEOPLExxx in xxxPEOPLExxx condition .
+_____________________________ <PHI TYPE="DOCTOR">SLAINEAEE S xxxPEOPLExxx xxxxTITLESxxxx PHI> , M.D.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Electronically Signed <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+This is to notify you that your patient , <PHI TYPE="PATIENT">xxxPEOPLExxx</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Bri Health</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 03:19 PM .
+Mr. <PHI TYPE="PATIENT">Tennis</PHI> is a xxxxAGE6xxxx old , white male , status post myocardial infarction x two , status post coronary artery bypass graft x three , with an ejection xxxPEOPLExxx of 20% on transplant workup , who presents with recurrent shortness of breath , chest pain , and light headedness .
+Cardiac catheterization at that time revealed 50% to 70% left main , 50% to 70% proximal left anterior descending , 70% to 80% mid left anterior descending , 100% proximal left circumflex , and proximal and distal 50% xxxPEOPLExxx coronary artery lesions .
+An echocardiogram revealed an ejection xxxPEOPLExxx of 25% .
+The vein grafts were considered to be very close and of xxxPEOPLExxx quality .
+Digoxin 0.25 mg. xxxPEOPLExxx q. a.m. Coumadin 7.5 mg. xxxPEOPLExxx q. d. Captopril 25 mg. xxxPEOPLExxx q.i.d. Lasix 160 mg. in the morning and 80 mg. at night .
+Isordil 10 mg. xxxPEOPLExxx t.i.d.
+His left internal mammary artery to left anterior descending was patent ; his saphenous vein graft to xxxPEOPLExxx coronary artery was patent ; his saphenous vein graft to OM was not detected by the aortic root shot .
+The ejection xxxPEOPLExxx was not calculated .
+Coumadin 5 mg. xxxPEOPLExxx q.h.s. Axid 150 mg. xxxPEOPLExxx b.i.d. Nitro paste 2 in chestopical from bedtime until 8:00 a.m.
+It showed that she had a large big xxxPEOPLExxx dominant coronary artery , which was free of any significant disease .
+The left anterior descending had perhaps a mid-40% lesion only , with good left ventricular contraction and no mitral regurgitation xxxPEOPLExxx on left ventricular angiogram .
+We have stopped her Lasix , and we will be watching her daily weight , and that has been quite xxxPEOPLExxx If she remains xxxPEOPLExxx over the next couple of days , she will be discharged on this program , to be followed jointly by Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> and Dr. <PHI TYPE="DOCTOR">Em Neighburce</PHI> .
+For the patient , at <PHI TYPE="LOCATION">Dalee , Alaska</PHI> , for Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , c / o <PHI TYPE="HOSPITAL">Pedines Community Hospital</PHI> , in <PHI TYPE="LOCATION">Stumphi Road , Biinss , xxxxPRIVATExxx xxxxSUSPICIOUS_NUMxxxx PHI> .
+<PHI TYPE="DATE xxxxDATE7xxxx PHI> , a CT scan of the chest demonstrated bilateral pleural effusions , parenchymal consolidation xxxPEOPLExxx greater than left , aortic dissection with true and false lumens , well delineated flap with compression of the true lumen secondary to xxxPEOPLExxx effect of thrombus in the false lumen .
+CT scan also demonstrated xxxPEOPLExxx descending thoracic dissection with resolution of luminal compression .
+The patient also underwent cardiac catheterization on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , demonstrating elevated xxxPEOPLExxx heart filling pressures with a mean xxxPEOPLExxx atrial pressure of 19 , xxxPEOPLExxx ventricular pressure of 56/19 , pulmonary artery pressure of xxxxDATE17xxxx , pulmonary capillary xxxPEOPLExxx pressure was xxxxDATE17xxxx .
+The true lumen required access by xxxPEOPLExxx radial artery and tortuous innominate artery .
+The patient was evaluated by Physical Therapy and Occupational Therapy and received therapy to the xxxPEOPLExxx upper extremity and hand .
+Albuterol nebulizer 2.5 milligrams q.4h. alternating with Atrovent nebulizer 0.5 milligrams inhaler q.4h. ; digoxin 0.25 milligrams xxxPEOPLExxx q.d. ; Lasix 60 milligrams xxxPEOPLExxx b.i.d. times xxxxWRITTEN_AGE_10_100_DIV10xxxx  continuation or discontinuation of this medication per Cardiology ; K Dur 40 mEqp .o. q.d. times xxxxWRITTEN_AGE_10_100_DIV10xxxx  Glyburide 2.5 milligrams xxxPEOPLExxx b.i.d. ; sliding scale regular insulin q.a.c and h.s. ; Percocet one to two tablets xxxPEOPLExxx q.4h. p.r.n. pain ; Lopressor 75 milligrams p.o.b.i.d.; Premarin 0.625 milligrams xxxPEOPLExxx q.d. ; Colace 100 milligramsp .o. t.i.d. ; Captopril 37.5 milligrams xxxPEOPLExxx t.i.d. ; enteric coated aspirin 325 milligrams xxxPEOPLExxx q.d.
+DISPOSITION : xxxPEOPLExxx Override Notice :
+Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. on order for AMIODARONE xxxPEOPLExxx ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
+MVI THERAPEUTIC W / MINERALS ( THERAP VITS / MINERALS ) 1 TAB xxxPEOPLExxx QD
+Override added on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/04 by <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. on order for ZOCOR xxxPEOPLExxx ref # <PHI TYPE="ID xxxxSUSPICIOUS_NUMxxxx PHI> )
+ZOCOR ( SIMVASTATIN ) 40 MG xxxPEOPLExxx QHS
+TOPROL XL ( METOPROLOL ( SUST. REL. ) ) 100 MG xxxPEOPLExxx QD
+I have explained to him that he may have developed some glucose intolerance and that , in the xxxPEOPLExxx instance , he should see his Primary Care Physician and attempt dietary control .
+I have advised him that he must not drive until he is seena gain in clinic and his device interrogated . xxxPEOPLExxx ENTERED BY :
+<PHI TYPE="PATIENT">xxxPEOPLExxx</PHI>
+The patient has xxxPEOPLExxx three pillow orthopnea and occasional paroxysmal nocturnal dyspnea .
+Left rib fracture . xxxPEOPLExxx femur surgery approximately xxxxWRITTEN_AGE_1_TO_19xxxx ago .
+Mild xxxPEOPLExxx facial droop .
+A lucency and irregularity of the glenoid , possibly representing a fracture , was also xxxPEOPLExxx and a CT scan was therefore obtained in order to evaluate this area .
+Cardiac monitor was placed on the patient , given the bigeminy , and he did xxxPEOPLExxx out for myocardial infarction .
+Cardiology recommended that in addition to the medications already stated above , his hematocrit be kept greater than xxxxADDRESS8xxxx his procedure on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 , elevated CPKs were noted on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 to <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 , and the xxxPEOPLExxx level was 744 , CPK # 2 635 , and CPK # 3 xxxxADDRESS8xxxx was consulted on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/97 for melena , decreased hematocrit prior to his humeral fixation surgery .
+A second endoscopy was also performed several days later , in order to xxxPEOPLExxx out a gastric ulcer , and also because the patient had had another episode of melena .
+The patient &apos;s admitting chest x xxxPEOPLExxx showed an elevated left hemidiaphragm consistent with atelectasis versus splinting on that side .
+Floxin 200 mg xxxPEOPLExxx bid was begun .
+CONDITION ON DISCHARGE : xxxPEOPLExxx good .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+The patient was in her usual state of excellent health until <PHI TYPE="DATE xxxxMONTHxxxx PHI> of xxxxYEAR_CENTURYxxxx when she xxxPEOPLExxx noted a left clavicular xxxPEOPLExxx Subsequently , the xxxPEOPLExxx continued to increase in size .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she was xxxPEOPLExxx by Dr. <PHI TYPE="DOCTOR">Stonge</PHI> at <PHI TYPE="HOSPITAL">Bri Health</PHI> where a 3 x 7 cm left mid clavicular xxxPEOPLExxx was noted .
+A fine needle aspirate of this xxxPEOPLExxx reportedly revealed giant cell tumor .
+Subsequently , the xxxPEOPLExxx progressively increased in size and the patient had developed significant discomfort in this region .
+The patient subsequently had a limited chest CT at <PHI TYPE="HOSPITAL">Bri Health</PHI> which showed diffuse bilateral pulmonary metastases , metastases to the sternum , rib , multiple spinal xxxPEOPLExxx internal mammary lymphadenopathy .
+Blood pressure was 98 xxxxADDRESS8xxxx xxxxADDRESS8xxxx exam revealed a xxxPEOPLExxx posterior parietal scalp nodle measuring 2 x 3 cm which was very firm .
+On admission included an ALT of 108 , AST of xxxxADDRESS8xxxx xxxxADDRESS8xxxx 11 xxxxADDRESS8xxxx was 30 xxxxADDRESS8xxxx was 13 xxxxADDRESS8xxxx work up for the extent of the patient &apos;s disease included MRI scan of the cervical and thoracic spine which revealed multiple metastatic lesions in the vertebral bodies ; a T3 lesion extending from the body to the xxxPEOPLExxx neural for xxxNAMExxx with foraminal obstruction .
+An epidural xxxPEOPLExxx was present at T10 which was extending from the lamina or spinous process anteriorly and almost compressing the spinal cord .
+The hCG on admission was 30,710 and on <PHI TYPE="DATE xxxxDATE21xxxx PHI> was xxxxADDRESS8xxxx patient was then switched to xxxPEOPLExxx etidronate .
+HypoxxxxPEOPLExxxnd shortness of breath :
+She was started on Decadron and on <PHI TYPE="DATE xxxxDATE21xxxx PHI> began the xxxPEOPLExxx of ten radiation treatments to two xxxPEOPLExxx T2 to T5 and T9 to T11 ) .
+The patient was admitted for treatment of a presumed aspiration pneumonxxxPEOPLExxxnd for rehydration .
+She was started on Clindamycin and Ofloxacin at renal dose to cover the aspiration pneumonxxxPEOPLExxxnd positive urine culture , which subsequently came back .
+Evaluation in the emergency room revealed the patient to be xxxPEOPLExxx and he was evaluated by ophthalmology who also felt that the patient had no injury to his eyes .
+His wounds were dressed with antiointment and Xeroform with the plan to take him to the operating room for debridement under general anesthesxxxPEOPLExxxnd application of artificial skin .
+At that time the patient underwent debridement of his facial wounds and debridement of his xxxPEOPLExxx hand and forearm with application of artificial skin which is the dermagraft TC .
+The patient is to undergo dry dressing changes and splint to his xxxPEOPLExxx arm q.d.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. <PHI TYPE="ID">IK06</PHI>
+Her echo score was xxxxADDRESS8xxxx also had mild aortic insufficiency , moderate tricuspid regurgitation with an estimated xxxPEOPLExxx ventricular systolic pressure of xxxxADDRESS8xxxx was evidence of left to xxxPEOPLExxx shunting consistent with a patent foramen ovale prior to the trans septal procedure .
+Cardiac examination revealed an apical impulse at the fifth left intercostal space at mid clavicular line , xxxPEOPLExxx RV impulse was noted at the left sternal border .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. <PHI TYPE="DOCTOR">LENNI E BE</PHI> , M.D. <PHI TYPE="DOCTOR">DWAINCO LEEAN RALLSVERSGACH</PHI> , M.D.
+Chest x xxxPEOPLExxx showed cardiomegaly , enlarged left hilar shadow with a node that could be vascular or lymph node CT indicated .
+Blood urine cultures negative with chest x xxxPEOPLExxx as previously mentioned , clearing of infiltrate , thought to be chemical aspiration during syncopal episode .
+At the time of discharge , the patient was on Procardia XL 30 mg 1 xxxPEOPLExxx q.day , Lisinopril 20 mg xxxPEOPLExxx q.day , Labetalol 100 mg xxxPEOPLExxx tid , Aspirin 325 mg xxxPEOPLExxx q.day and Nitroglycerin sublingual q5 minutes prn chest pain .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI>/91 , he was xxxPEOPLExxx in <PHI TYPE="HOSPITAL">FLFDMC</PHI> and at that point , his temperature was noted to be 101.4 and he had malaise and diarrhea .
+At that time , his oxygen saturation was only 90% on room air and his chest X xxxPEOPLExxx showed no change .
+He was xxxPEOPLExxx in <PHI TYPE="HOSPITAL">FLFDMC</PHI> where he was noted to have jaundice and newly palpable liver edge .
+Had tubular breath sounds especially in the lower lung xxxPEOPLExxx CARDIAC :
+Soft with bowel sounds and there was mid epigastric and xxxPEOPLExxx upper quadrant tenderness .
+His chest X xxxPEOPLExxx showed bilateral nodular infiltrates .
+PROBLEM xxxPEOPLExxx 1. RECTAL CARCINOMA , STATUS POST PARTIAL COLECTOMY .
+He is also to have <PHI TYPE="HOSPITAL">AH</PHI> for his xxxPEOPLExxx stent care .
+Colace 100 mg xxxPEOPLExxx t.i.d. , Tropine 1 percent OD GTT q.day , Neurontin 100 mg xxxPEOPLExxx b.i.d. , heparin 5,000 units sub Q b.i.d. , Prednisone 5 mg xxxPEOPLExxx q.day , Isordil 30 mg xxxPEOPLExxx t.i.d. , Prilosec 20 mg xxxPEOPLExxx q.day , Plavix 75 mg xxxPEOPLExxx q.day , Zestril 10 mg xxxPEOPLExxx q.day , Lasix 20 mg xxxPEOPLExxx q.day .
+She was initially treated for heart failure and pneumonxxxPEOPLExxxnd , on the night of admission , she experienced a fever to 104 , acute respiratory distress and required intubation for xxxxWRITTEN_AGE_1_TO_19xxxx 
+Her past medical history is notable for congestive heart failure with a last ejection xxxPEOPLExxx noted to be 28 percent in <PHI TYPE="DATE xxxxMONTHxxxx PHI> of xxxxYEAR_CENTURYxxxx .
+In <PHI TYPE="DATE">01</PHI>/95 she was admitted with a cerebral vascular accident notable for xxxPEOPLExxx facial droop and left sided weakness .
+Laboratory data was notable for hematocrit of 33.5 , white count of 14.7 , platelet count of xxxxADDRESS8xxxx 112 , creatinine 2.3 , sodium 142 , potassium 4.2 , CO2 23.4 , and chloride xxxxADDRESS8xxxx chest x xxxPEOPLExxx revealed clear lungs on a portable chest x xxxPEOPLExxx without evidence of pneumonia or pulmonary edema .
+An electrocardiogram revealed normal sinus rhythm with evidence of an old inferior myocardial infarction and xxxPEOPLExxx bundle branch block .
+A head CT scan was performed which showed multiple old ischemic infarcts in the xxxPEOPLExxx frontal and cerebellar lobes .
+However , she was unable to move her xxxPEOPLExxx arm or leg .
+Her eyes were deviated to the left and she had a xxxPEOPLExxx facial droop .
+A cardiac ultrasound was performed which revealed an ejection xxxPEOPLExxx of 50 percent with wall motion abnormalities in the inferior septal and inferior walls involving the apex .
+Nevertheless , the patient was switched from aspirin to Plavix 75 mg xxxPEOPLExxx q.day in view of her history of lower GI bleeding .
+Major consideration toward the end of the patient &apos;s hospitalization was whether or not she would be able to take adequate xxxPEOPLExxx intake to maintain her volume status .
+The patient &apos;s granddaughter felt that it was likely that her xxxPEOPLExxx intake would improve when she returned xxxPEOPLExxx to the nursing xxxPEOPLExxx I discussed this with the granddaughter and told her that if her xxxPEOPLExxx intake was inadequate , that gastrostomy tube would be reasonable in the future and that we would be available to assist in this as it became necessary .
+Nevertheless , we have decided to postpone this issue for now and to see how she does when she returns to the nursing xxxPEOPLExxx I will get in touch with Dr. <PHI TYPE="DOCTOR">Areas</PHI> and please do not hesitate to contact me if I can provide any additional information .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+after the procedure and 2 more units of packed red blood cells , the patient was hemodynamically xxxPEOPLExxx and hematocrit was xxxPEOPLExxx at 31 xxxxADDRESS8xxxx that time she was transferred from the Intensive Care Unit to <PHI TYPE="HOSPITAL">Coden 2</PHI> for the <PHI TYPE="HOSPITAL">Lemgarson Hospital</PHI> service .
+She does not have a xxxPEOPLExxx health aide .
+Her xxxPEOPLExxx intake has also decreased .
+The patient was mildly dehydrated at time of admission and was replaced with intravenous fluids until she began taking good xxxPEOPLExxx intake .
+Approximately xxxxWRITTEN_AGE_1_TO_19xxxx into the hospital stay it was noted that the patient had significant xxxPEOPLExxx parotid swelling .
+The patient was evaluated by ENT who felt that her enlargement was more likely secondary to an inflammatory process although they could not xxxPEOPLExxx out malignancy .
+It was felt that attempting a biopsy and beginning antibiotic treatment was not indicated at this time as the xxxPEOPLExxx had entirely resolved .
+CONDITION ON DISCHARGE : xxxPEOPLExxx MEDICATIONS ON DISCHARGE :
+Hyperlipidemia . xxxPEOPLExxx internal carotid artery stenosis of 80-90% diagnosed by carotid noninvasives after an episode of amaurosis fugax .
+On admission included diltiazem CD , 240 mg xxxPEOPLExxx q day ; Isordil , 5 mg xxxPEOPLExxx t.i.d. ; aspirin , one xxxPEOPLExxx q.o.d. ; Dyazide , one xxxPEOPLExxx q.o.d. ; allopurinol , 300 mg xxxPEOPLExxx q day ; Levoxine , 0.1 mg q day ; Leukorin , 2 mg two xxxPEOPLExxx q a.m.
+Because of difficulty passing the wire through the graft to the RCA , the proximal 95% RCA lesion was dilated xxxPEOPLExxx and then the distal RCA lesion was dilated .
+His vital signs remained xxxPEOPLExxx He is to be discharged xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE22xxxx PHI> with follow up with Dr. <PHI TYPE="DOCTOR">Kote</PHI> , his cardiologist and with Dr. <PHI TYPE="DOCTOR">Right</PHI> , his hematologist .
+The patient was discharged to xxxPEOPLExxx in xxxPEOPLExxx condition .
+She has been xxxPEOPLExxx by Dr. <PHI TYPE="DOCTOR">Tokbelb</PHI> , her primary care physician in <PHI TYPE="HOSPITAL">Itgreenredan Hospital</PHI> , and also Dr. <PHI TYPE="DOCTOR">Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">Retelk County Medical Center</PHI> .
+1. Lopid 600 mg xxxPEOPLExxx b.i.d. ,
+4. Coumadin 2.5 mg xxxPEOPLExxx q.day which was last taken xxxxWRITTEN_AGE_1_TO_19xxxx prior to admission ,
+7. Lopressor 50 mg xxxPEOPLExxx b.i.d. ,
+The xxxPEOPLExxx superior parathyroid gland was found to be markedly enlarged and consistent with an adenoma .
+5. Rocaltrol 0.25 mg xxxPEOPLExxx b.i.d. ,
+6. Lasix 40 mg xxxPEOPLExxx q.day ,
+8. Digoxin .25 mg xxxPEOPLExxx q.day ,
+9. Lopressor 50 mg xxxPEOPLExxx b.i.d. ,
+She will be sent xxxPEOPLExxx with xxxPEOPLExxx <PHI TYPE="HOSPITAL">Arnsperni Health</PHI> .
+PRINCIPAL DIAGNOSIS : xxxPEOPLExxx radical nephrectomy on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx xxxxAGE5xxxx presents with a xxxPEOPLExxx in her xxxPEOPLExxx kidney and she was admitted a Same Day admit for xxxPEOPLExxx radical nephrectomy .
+This is to notify you that your patient , <PHI TYPE="PATIENT">xxxPEOPLExxx</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 02:47 PM .
+She said that she has had no xxxPEOPLExxx intake for about xxxxAGE6xxxx .
+The pylorus was thickened without xxxPEOPLExxx or lymphadenopathy .
+Pathological findings from the biopsy revealed antral type mucosa with chronic gastritis and diffuse intestinal metaplasia without Helicobacter pylori microorganisms xxxPEOPLExxx DISCHARGE MEDICATIONS :
+Atenolol 50 mg xxxPEOPLExxx q.d. , Colace 100 mg xxxPEOPLExxx b.i.d. , lisinopril 10 mg xxxPEOPLExxx q.d. , Prilosec 40 mg xxxPEOPLExxx q.d. , prednisone 5 mg xxxPEOPLExxx q.a.m. , Zocor 20 mg xxxPEOPLExxx q.h.s. The patient is instructed to eat 6 small meals per day to avoid vomiting .
+The patient is discharged to xxxPEOPLExxx His condition is xxxPEOPLExxx and he was discharged with the following medications :
+Iron 300 mg xxxPEOPLExxx t.i.d. , Glucotrol , Acel 10 mg xxxPEOPLExxx q.d. , and Bactrim SS 1 tablet xxxPEOPLExxx b.i.d.
+He was in chronic atrial fibrillation and his vital signs were otherwise xxxPEOPLExxx LABORATORY DATA :
+No cultures were positive but the chest x xxxPEOPLExxx showed bilateral densities more on the left than the xxxPEOPLExxx compatible with aspiration pneumonia .
+He is transferred to <PHI TYPE="HOSPITAL">Louline Mauikings Medical Center</PHI> for future rehabilitation and hopeful return xxxPEOPLExxx with considerable support and assistance .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx LEFT RENAL xxxPEOPLExxx HISTORY OF PRESENT ILLNESS :
+A computerized tomography scan demonstrated a contrast enhancing complex left renal xxxPEOPLExxx Metastatic work up was negative .
+She was readmitted because of a problem with uremxxxPEOPLExxxnd high BUN and creatinine when she xxxPEOPLExxx in the office and the BUN and creatinine was ordered .
+<PHI TYPE="DOCTOR">AZEL USANNE HIBBSKAYS</PHI> , M.D. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+In <PHI TYPE="DATE">05</PHI>/93 , she had a magnetic resonance imaging study that revealed a large complex extra axial xxxPEOPLExxx centered in the left CPA with marked xxxPEOPLExxx effect on the brainstem , left temporal lobe and the left parapharyngial space .
+The review of systems was positive for an injury to the xxxPEOPLExxx third finger with a soiled razor blade .
+Head was turned well to the xxxPEOPLExxx decreased somewhat to the left and gag was present bilaterally .
+Tegretol 200 mg xxxPEOPLExxx t.i.d. , Cimetidine 300 mg xxxPEOPLExxx q6h while on steroids , and a Solu Medrol taper as indicated .
+In <PHI TYPE="DATE xxxxMONTHxxxx PHI> xxxxYEAR_CENTURYxxxx , the patient developed an upper respiratory tract infection with chest x xxxPEOPLExxx revealing increased interstitial markings and pleural effusions .
+A gallium scan was positive at the xxxPEOPLExxx hilum .
+Chest x xxxPEOPLExxx revealed bilateral interstitial infiltrates .
+His chest x xxxPEOPLExxx revealed increased infiltrates without pneumothorax .
+AZT 100 mg xxxPEOPLExxx t.i.d. , Ferrous sulfate , and Tylenol .
+Bactrim 375 mg IV q8 , AZT 100 mg xxxPEOPLExxx t.i.d. , Prednisone 40 mg xxxPEOPLExxx b.i.d. , Ferrous sulfate 324 mg xxxPEOPLExxx t.i.d. Colace 100 mg xxxPEOPLExxx b.i.d. , and Oxycodone p.r.n.
+The chest x xxxPEOPLExxx showed diffuse bilateral interstitial infiltrates .
+The patient was therefore started on pressure controlled ventilation resulting in a decrease in his PIP from 60 to xxxxADDRESS8xxxx patient was also noted to have decreased urine output with an acute increase in his creatinine from 1.5 to 2 xxxxADDRESS8xxxx with Dr. <PHI TYPE="DOCTOR">Test</PHI> led to a plan to begin aerosolized Pentamidine 100 mg nebilized q.d. for xxxxWRITTEN_AGE_1_TO_19xxxx while therapeutic xxxPEOPLExxx of Pentamidine could be build up in the lungs via IV .
+<PHI TYPE="ID">VF679/2975</PHI> <PHI TYPE="DOCTOR" xxxPEOPLExxx Q. MEED</PHI> , M.D. <PHI TYPE="ID">EJ5</PHI>
+The patient is a xxxxAGE5xxxx white female , gravida I , xxxPEOPLExxx l , with a history of recurrent stage lB cervical carcinoma .
+A biopsy of the xxxPEOPLExxx revealed poorly differentiated metastatic small cell neuroendocrine tumor .
+In <PHI TYPE="DATE xxxxMONTHxxxx PHI> of xxxxYEAR_CENTURYxxxx , she underwent radiation therapy and in <PHI TYPE="DATE xxxxMONTHxxxx PHI> of l99l , a xxxPEOPLExxx ventriculogram showed an ejection xxxPEOPLExxx of 48% .
+Orthopedic Surgeons did an open reduction and internal fixation of a lytic lesion involving the xxxPEOPLExxx femur .
+There was noted , however , to be new pain in the xxxPEOPLExxx shoulder and , in fact , there was a lytic lesion involving the xxxPEOPLExxx shoulder and femur .
+She was also xxxPEOPLExxx by the Dermatology Service who examined the rash and felt it was most likely a contact dermatitis .
+On the evening of <PHI TYPE="DATE xxxxDATE4xxxx PHI>/06 , the patient was discharged xxxPEOPLExxx in xxxPEOPLExxx condition .
+Cranial nerves showed visual xxxPEOPLExxx were full , pupils were equally round and reacted to light , extraocular movements intact without nystagmus and face was symmetric .
+Motor examination showed her xxxPEOPLExxx upper extremity strength was IV / V in all muscle groups .
+CONDITION ON DISCHARGE was xxxPEOPLExxx The patient was to FOLLOW UP with Dr. <PHI TYPE="DOCTOR">Sta O. Tongue</PHI> for staple removal .
+5) Chronic xxxPEOPLExxx lower lobe opacity on chest x xxxPEOPLExxx noted to be probable scarring vs. fat pad .
+On transfer included Dilantin 100 mg xxxPEOPLExxx t.i.d. , Ceclor , Motrin , Percocet p.r.n.
+4) Pulmonary - The patient had a clear chest x xxxPEOPLExxx other than a xxxPEOPLExxx lower lobe opacity consistent with scarring vs. fat pad which has been chronic on admission .
+The chest x xxxPEOPLExxx cleared rather rapidly and on the third day post aspiration was consistent with the original admission x xxxPEOPLExxx However , after aspiration given that the patient had a white count bump from under 10,000 to 16,000 it was felt that he should be started on antibiotics and he was started on Ceftriaxone and clindamycin for a total xxxxAGE6xxxx course for presumptive aspiration pneumonia .
+The white count was 7.5 , platelets xxxxADDRESS8xxxx last PT and PTT on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 were 13.4 and 27.3 with INR of 1 xxxxADDRESS8xxxx patient had a chest x xxxPEOPLExxx which showed a few xxxPEOPLExxx upper lobe and one left upper lobe nodule and a follow up chest x xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/93 showed resolution of these previous nodular shadows .
+A faint nodule remained in the left upper lobe and it was felt that this is probably not any metastatic disease and not of concern , however , it was suggested that follow up chest x xxxPEOPLExxx may be taken to insure that these densities resolve .
+The patient is xxxPEOPLExxx on discharge .
+ProvidxxxPEOPLExxx :
+5. xxxPEOPLExxx OUT MYOCARDIAL INFARCTION .
+An arterial blood gas on 2 liters of oxygen revealed pH 7.42 , pCO2 36 , xxxPEOPLExxx of 57 with an oxygen saturation of 90% .
+An echocardiogram revealed a mildly thickened and calcified aortic valve with increased strength valvular velocity , mild aortic valve stenosis , mild concentric left ventricular hypertrophy with normal systolic function and an ejection xxxPEOPLExxx of 65% and normal systolic left ventricular function .
+PRINCIPAL DIAGNOSIS : xxxPEOPLExxx PROXIMAL TIBIAL DELAYED xxxHOSPITALxxx WITH MEDIAL PLATEAU FRACTURE
+The patient is an xxxxAGE5xxxx had had a xxxPEOPLExxx tibial plateau fracture that was being followed and to have increased in deformity displacement over time despite nonoperative treatment .
+The patient is a widow and lives in a senior housing area with xxxPEOPLExxx care services .
+She was mobilized with physical therapy with gradual partial weightbearing on the xxxPEOPLExxx lower extremity and was given CPM to increase her range of motion .
+The patient had not had chest pain since the seventh and was transferred to the <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> in xxxPEOPLExxx condition .
+The patient on the <PHI TYPE="HOSPITAL">Goman 12</PHI> surgical floor remained in xxxPEOPLExxx condition , however , he did complain of some abdominal pain .
+This was pain similar to his xxxPEOPLExxx upper quadrant pain which prior work up had revealed a cholelithiasis .
+The patient was discharged to xxxPEOPLExxx on postoperative day six .
+1. Ecotrin 81 mgs xxxPEOPLExxx qd ,
+He was transferred to <PHI TYPE="HOSPITAL">Gobay Hos xxxHOSPITALxxx Hospital</PHI> where chest x xxxPEOPLExxx showed left lower lobe infiltrate and cardiac enzymes were elevated with a CK of 297 , MB xxxPEOPLExxx of 38 and troponin of xxxxADDRESS8xxxx patient was transferred to the xxxPEOPLExxx service at the <PHI TYPE="HOSPITAL">Retelk County Medical Center</PHI> and underwent cardiac catheterization which was negative for disease .
+On consultation the patient admitted to dysphasxxxPEOPLExxxnd periods of diplopia in the past .
+The patient was tapered to xxxPEOPLExxx prednisone and tolerated Mestinon 30 mg q. 4h with 180 mg longacting at bedtime .
+Left to xxxPEOPLExxx femoral femoral bypass graft on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx ON DISCHARGE :
+Digoxin 0.125 xxxPEOPLExxx Q day , Allopurinol 100 mg xxxPEOPLExxx Q day , Glucotrol 2.5 mg xxxPEOPLExxx Q AM , Tenormin 50 mg xxxPEOPLExxx Q day , Lasix 40 mg xxxPEOPLExxx BID , potassium 20 mEq xxxPEOPLExxx BID , Coumadin usually 5 mg alternating with 2.5 mg , presently on heparin 1200 units per hour IV and Percocet 1-2 xxxPEOPLExxx Q 3 PRN .
+Also K xxxNAMExxx 90 mg xxxPEOPLExxx BID .
+Carotids were 2+ on the xxxPEOPLExxx absent on the left with no bruits .
+On the xxxPEOPLExxx side she had some dependent rubor .
+She remained xxxPEOPLExxx and was transferred to the floor the next day .
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx Non healing ulcer on the xxxPEOPLExxx leg .
+The ulcer was managed conservatively at <PHI TYPE="HOSPITAL">Har Hospital</PHI> by Dr. <PHI TYPE="DOCTOR">Holes</PHI> with Silvadene b.i.d. lower extremity non invasive study obtained at that time showed xxxPEOPLExxx distal xxxPEOPLExxx extremity perfusion .
+Significant for Guillain Barr syndrome , xxxNAMExxx status post multiple decubiti , peripheral vascular disease , status post xxxPEOPLExxx total knee replacement and status post cholecystectomy , status post hysterectomy , status post goiter and left lung fibrosis , status post methicillin resistant Staphylococcus aureus pneumonia .
+Lungs decreased breath sounds at bilateral bases with minimal expiratory crackles on the xxxPEOPLExxx Extremities on the xxxPEOPLExxx she has a II+ femoral , no distal pulses beyond that .
+Her angiography showed a xxxPEOPLExxx proximal popliteal occlusion , anterior tibial dominant foot vessel .
+She had a strong popliteal doppler pulse intraoperatively and good PVR on the xxxPEOPLExxx postoperatively .
+She was afebrile , her vital signs were xxxPEOPLExxx She was making adequate urine output anywhere between 20 to 50 ccs an hour .
+The patient was xxxPEOPLExxx by physical therapy .
+Her xxxPEOPLExxx foot remained warm .
+She had wounds which were clean , dry and intact and the patient was xxxPEOPLExxx from a respiratory standpoint using her respirator at night .
+The patient was tolerating a general diet , she was voiding on her own and the patient was discharged to xxxPEOPLExxx as her daughter is a nurse .
+She was discharged with xxxPEOPLExxx Keflex that she was to take for the next xxxxWRITTEN_AGE_10_100_DIV10xxxx 
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+An echocardiogram at the <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> in xxxxYEAR_CENTURYxxxx revealed a normal ejection xxxPEOPLExxx and no wall motion abnormality .
+By her primary care physicians report an echocardiogram at an outside hospital in <PHI TYPE="DATE xxxxMONTHxxxx PHI> xxxxYEAR_CENTURYxxxx revealed mild left atrial enlargement and mild xxxPEOPLExxx ventricular dilatation .
+Three days prior to admission , secondary to increasing difficulty with ambulation and dyspnea on exertion the patient was admitted to a nursing xxxPEOPLExxx Early on the morning of admission the patient was found down , diaphoretic and responsive only to sternal rub .
+Her chest x xxxPEOPLExxx showed only mild failure .
+Hypercholesterolemia status post multiple transient ischemic attacks in the past , status post a xxxPEOPLExxx hemiparesis which has now resolved on aspirin .
+Left breast xxxPEOPLExxx with negative mammography .
+The patient lives in a nursing xxxPEOPLExxx PHYSICAL EXAMINATION :
+A diastolic murmur was noted by one listener . xxxPEOPLExxx heel ulcer with eschar .
+Plasma sodium 134 , plasma xxxPEOPLExxx dioxide 34.8 , blood urea nitrogen 67 , creatinine 1.2 , glucose 165 , liver function tests were normal .
+The patient was discharged to her chronic care facility on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/99 in xxxPEOPLExxx condition .
+5. Olanzapine 2.5 mg xxxPEOPLExxx per day .
+6. Prilosec 20 mg xxxPEOPLExxx twice a day .
+11. Trazodone 75 mg xxxPEOPLExxx qhs .
+12. Neurontin 200 mg xxxPEOPLExxx three times a day .
+13. Synthroid 125 ugms xxxPEOPLExxx per day .
+14. xxxNAMExxx Ciel slow release 40 mEq xxxPEOPLExxx per day .
+<PHI TYPE="DOCTOR">NYJO SKIZUKDALE</PHI> , M.D. xxxPEOPLExxx RESIDENT MED <PHI TYPE="HOSPITAL">NLM</PHI> <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. PULMONARY / CRITICAL CARE UNIT <PHI TYPE="HOSPITAL">BARLDI HEALTH</PHI> STAT
+<PHI TYPE="PATIENT">xxxPEOPLExxx</PHI>
+End stage renal disease ; diabetes mellitus ; necrotizing fasciitis of the xxxPEOPLExxx leg and pelvis ; methicillin resistant Staphylococcus aureus ; hypertension ; asthma ; atrial fibrillation ; peripheral vascular disease .
+<PHI TYPE="DATE xxxxDATE21xxxx PHI>/96 , incision and drainage of xxxPEOPLExxx thigh .
+His blood pressure was 174/60 ; temperature 103 xxxxADDRESS8xxxx genitourinary examination was notable for a suprapubic tube in place with normal male genitalxxxPEOPLExxxnd guaiac negative stools on rectal examination .
+Extremity examination revealed bilateral below knee amputations with a 2 x 4 centimeter area of inflammation in the xxxPEOPLExxx popliteal fossa with a draining sinus .
+His nutrition remained xxxPEOPLExxx throughout this time in spite of numerous attempts at enteral alimentation .
+Nadalol 20 mg xxxPEOPLExxx q.d. , Coumadin 5 mg xxxPEOPLExxx q.h.s. , Mevacor 20 mg q.d. , and Digoxin 0.25 mg q.d.
+On postoperative day #1 did complain of a xxxPEOPLExxx nausea and vomiting , however , on postop day #2 patient was found unresponsive at 7 xxxxADDRESS8xxxx Blue was called .
+Lungs were clear to percussion and auscultation with a few scattered rales , left greater than xxxPEOPLExxx Neurological examination was nonfocal .
+The neutropenia resolved and he was felt to be in satisfactory condition on discharge on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx was discharged xxxPEOPLExxx on Neupogen .
+Ejection xxxPEOPLExxx was felt to be 35% in xxxxYEAR_CENTURYxxxx .
+8. Lasix , 20 mg. , xxxPEOPLExxx qD .
+Rales at the xxxPEOPLExxx base , bilateral decreased breath sounds at the bases .
+EKG revealed sinus tachycardxxxPEOPLExxxt 107 beats per minute .
+Chest X xxxPEOPLExxx Large left ventricle , bilateral atelectasis or effusion .
+The xxxPEOPLExxx ventricle appeared to be acceptable .
+He remained xxxPEOPLExxx from a cardiac fashion .
+2. Lisinopril , 20 mg. , xxxPEOPLExxx qD .
+3. Isordil , 10 mg. , xxxPEOPLExxx t.i.d.
+5. Carafate , one gram , xxxPEOPLExxx or per nasogastric tube , q.i.d. , Cardizem , 30 mg. , xxxPEOPLExxx q6h , digoxin , 0.25 mg. , xxxPEOPLExxx or intravenously , qD , fluconazole , 200 mg. , qD , for five more days , after transfer , for a total of a xxxxAGE6xxxx course , total parenteral nutrition to meet the patient &apos;s nutritional needs .
+8. Status post excision of xxxPEOPLExxx thigh AV graft .
+12. Status post xxxPEOPLExxx femoral AV graft with wound breakdown .
+The patient remained xxxPEOPLExxx The heparin was stopped on the <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx was observed overnight .
+She remained xxxPEOPLExxx She was dialyzed on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 prior to transfer .
+There were a number of medication changes that were made , including her Isordil being increased to 30 mg. xxxPEOPLExxx t.i.d. and Pravachol 20 mg. xxxPEOPLExxx q.d. added .
+Isordil 30 mg. xxxPEOPLExxx t.i.d.
+Pravachol 20 mg. xxxPEOPLExxx q.d.
+PhosLo 2 tabs xxxPEOPLExxx t.i.d. with meals .
+Prilosec 20 mg. xxxPEOPLExxx q.d.
+Ritalin 5 mg. xxxPEOPLExxx q a.m.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+This failed , despite one xxxPEOPLExxx at 300 joules and two shocks at 360 joules .
+An electrocardiogram showed no evidence of QT prolongation prior to discharge , and pulmonary function tests will be performed before the patient goes xxxPEOPLExxx today .
+The patient will follow up with Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> at <PHI TYPE="HOSPITAL">Shiekeu Hospital Medical Centers</PHI> in <PHI TYPE="LOCATION">Connecticut</PHI> .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+History of small bowel obstruction in <PHI TYPE="DATE xxxxDATE4xxxx PHI> and <PHI TYPE="DATE xxxxDATE4xxxx PHI> , pancytopenia , history of xxxPEOPLExxx renal calculus .
+The patient did have xxxPEOPLExxx costovertebral angle tenderness , decreased bowel sounds .
+In <PHI TYPE="DATE">05</PHI>/96 , the patient had a cardiac catheterization that revealed a moderate xxxPEOPLExxx coronary artery ostial lesion , severe lesion at the ostial PLV , 50-60% circumflex lesion , 40% proximal left anterior descending , and severe proximal D1 .
+As such , the patient was given Vancomycin and Gentamicin for xxxPEOPLExxx However , it should be stated that all of her cultures while at <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> were negative for growth .
+Iron 325 mg. xxxPEOPLExxx QD .
+He also has had bilateral carotid endarterectomy and xxxPEOPLExxx aorto femoral bypass .
+On <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx , the patient had a catheterization that showed an occluded proximal xxxPEOPLExxx coronary artery with the PDA filling via left to xxxPEOPLExxx collaterals , an occluded left circumflex after the OMB2 , and a very proximal occlusion of the LAD .
+He was discharged in xxxPEOPLExxx condition on the following medications :
+Procardia XL , 90 mg xxxPEOPLExxx q.d. ; Lopressor , 50 mg xxxPEOPLExxx b.i.d. ; nitroglycerine 1/150 1 tab s.l. p.r.n. pain ; Nitrol patch , 10 mg q.a.m. ; iron sulfate , 325 mg xxxPEOPLExxx b.i.d. ; Nephrocaps , 1 tab. xxxPEOPLExxx q.d. ; Xanax , 0.5 mg xxxPEOPLExxx q.h.s.
+The patient recently DC&apos;d to xxxPEOPLExxx from <PHI TYPE="HOSPITAL">Erdiconre Hospital</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+Afib was xxxPEOPLExxx 2. GI :
+Hematocrit is xxxPEOPLExxx Over the last several days the patient received a total of 4 units packed red blood cells during this admission .
+We have a low threshold for starting antibiotics ; however , chest x xxxPEOPLExxx reveals no acute changes and the patient remained 96% on room air throughout this admission without any stigmata over recurrent pneumonia including cough , dyspnea or shortness of breath .
+The patient came in with a creatinine that was elevated at 2.6 . xxxxADDRESS7xxxx  <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx 
+HISTORY OF PRESENT ILLNESS : xxxxAGE5xxxx with xxxPEOPLExxx hip pain X five years .
+The pain is often severely and increasing at night especially when he is lying on the xxxPEOPLExxx side .
+The lungs were clear . xxxPEOPLExxx hip pain degenerative joint disease for xxxPEOPLExxx total hip replacement .
+Postoperatively he did well initially in the xxxPEOPLExxx 12 hours .
+At the time of discharge he was tolerating a full diet , out of bed with pain , tolerated on xxxPEOPLExxx medications .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Chest x xxxPEOPLExxx showed bilateral pneumothorax , very small apical pneumothoraxes , several days post operatively .
+DISPOSITION : xxxPEOPLExxx w/ services
+ECASA ( ASPIRIN ENTERIC COATED ) 81 MG xxxPEOPLExxx QD COLACE ( DOCUSATE SODIUM ) 100 MG xxxPEOPLExxx BID PROZAC ( FLUOXETINE HCL ) 60 MG xxxPEOPLExxx QD
+will monitor FOLATE ( FOLIC ACID ) 5 MG xxxPEOPLExxx TID
+LOPID ( GEMFIBROZIL ) 600 MG xxxPEOPLExxx BID Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+MYSOLINE ( PRIMIDONE ) 50 MG xxxPEOPLExxx QD INSULIN 70/30 ( HUMAN ) 12 UNITS SC QAM HOLD IF :
+LEVOFLOXACIN 250 MG xxxPEOPLExxx QD X xxxxAGE6xxxx Starting Tomorrow ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> as scheduled ,
+2) Hypoglycemia , ? secondary to decreased xxxPEOPLExxx intake due to &quot; renal diet study . &quot;
+Hold Lasix and can restart as outpatient if desired by pcp . xxxPEOPLExxx metabolic acidosis on admission likely secondary to uremia . xxxPEOPLExxx 12 today on day of discharge .
+7) Dispo - Pt is likely unable to thrive at xxxPEOPLExxx alone .
+In <PHI TYPE="DATE xxxxMONTHxxxx PHI> of xxxxYEAR_CENTURYxxxx , the patient noted xxxPEOPLExxx leg to be dragging , worse after ambulation , profound weakness after one afternoon of yard work where she &quot; could not move her xxxPEOPLExxx lower extremity &quot; .
+In <PHI TYPE="DATE xxxxDATE4xxxx PHI> , she presented to her primary local Medical doctor with persistent complaints of xxxPEOPLExxx lower extremity weakness .
+Multivitamin one tablet xxxPEOPLExxx q.d. , Vitamin E 800 units q.d. , Vitamin Bl2 one tablet xxxPEOPLExxx q.d. , Diazepam 0.5 mg p.r.n.
+Oropharynx was unremarkable except for elevation of the left palate greater than the xxxPEOPLExxx NECK :
+There was a positive gag , tongue was midline , and shoulder shrug was decreased bilaterally , xxxPEOPLExxx worse than left .
+Triceps were 2+ on the xxxPEOPLExxx and 5 minus on the left .
+Deltoids were 3+ on the xxxPEOPLExxx and 4 minus on the left .
+Hip flexors were xxxPEOPLExxx than 3 bilaterally .
+EKG showed baseline artifacts , sinus tachycardxxxPEOPLExxxt l05 , PR interval of 0.l6 , QRS of 0.08 , QT of 0.36 , an axis of 60 degrees , xxxPEOPLExxx R wave progression with transition after the V4 lead , T wave flattening in II and F , and T wave inversion in III .
+2) Anemia - Patient had a steady drop in hematocrit from the admission value of 43.5 to the range of about 3l by hospital day number eight which remained xxxPEOPLExxx at this point .
+This was felt to be consistent with decreased bone marrow production of new red cells and possibly a hematocrit drop secondary to in hospital phlebotomy with some dilutional component secondary to intravenous and xxxPEOPLExxx hydration .
+3) Urinary tract infection - Patient had too numerous to count white cells on urinalysis on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/90 and was thus begun on Bactrim DS one tablet xxxPEOPLExxx b.i.d.
+Multivitamins one tablet xxxPEOPLExxx q.d. , Halcion 0.l25 mg xxxPEOPLExxx q.h.s. p.r.n. ( forty tablets , no refills ) , and Acthar 40 units intramuscularly q.d. times xxxxWRITTEN_AGE_1_TO_19xxxx and then 20 units intramuscularly q.d. times xxxxWRITTEN_AGE_1_TO_19xxxx 
+CONDITION ON DISCHARGE : xxxPEOPLExxx Disposition is to xxxPEOPLExxx ________________________________
+She has not used any anti retroviral therapy since then , because of pancytopenxxxPEOPLExxxnd vomiting on DDI .
+She was brought in for an esophagogastroduodenoscopy on <PHI TYPE="DATE xxxxDATE21xxxx PHI> but she basically was not sufficiently sedated and readmitted at this time for a GI work up as well as an evaluation of new abscess in her left lower calf and xxxPEOPLExxx medial lower extremity quadriceps muscle .
+On admission revealed a cachetic woman in no acute distress with xxxPEOPLExxx vital signs .
+Sodium xxxxADDRESS8xxxx 4 xxxxADDRESS8xxxx count 411 xxxxADDRESS8xxxx xxxxADDRESS8xxxx xxxxADDRESS8xxxx x xxxPEOPLExxx revealed clear lung xxxPEOPLExxx HOSPITAL COURSE :
+She went for a debridement of her left calf lesion on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/93 and was started empirically on IV ceftriaxone which was changed to xxxPEOPLExxx doxycycline on the day of discharge .
+The 1 cm cyst which was xxxPEOPLExxx in <PHI TYPE="DATE">10</PHI>/92 was still present .
+There was a question of a cyst in her kidney with a stone xxxPEOPLExxx below the cyst , although this did not seem to be clinically significant .
+The patient was discharged to xxxPEOPLExxx in xxxPEOPLExxx condition .
+She comes in on Captopril 25 mg t.i.d. , Hygroton 50 mg q.d. , Cardizem 60 mg t.i.d. , K Dur 20 q.d. , Nitrol Patch 2.5 mg q.p.m. , and Glucotrol 20 mg xxxPEOPLExxx b.i.d.
+Her chest X xxxPEOPLExxx was within normal limits with a calcified aortic knob .
+The patient was evaluated by the Liver Transplant Service , and on the end of his xxxPEOPLExxx week of admission , became increasingly somnolent with exam findings consistent with evolving hepatic encephalopathy .
+He has not been considered as a candidate for a xxxNAMExxx or for pleurodesis , given his position at the top of the transplant xxxPEOPLExxx for his blood type , B .
+Her previous occupation was an executive secretary , xxxPEOPLExxx trainer / nurse , rental aide .
+Serum sodium 141 , potassium 4.0 , chloride 106 , C02 29.6 , calcium 9.2 , phosphorus 3 xxxxADDRESS8xxxx was 124 , cortisol 2.1 , 25 hydroxy vitamin D , and 125 dihydroxy vitamin D xxxPEOPLExxx were pending .
+The patient was xxxPEOPLExxx in consultation by a variety of consultants including Infectious Disease , Cardiology , Endocrine , Psychiatry , ENT , and Neuro ophthalmology .
+The patient was worked with colonoscopy in <PHI TYPE="DATE">May</PHI> and it was noted to have a sigmoid xxxPEOPLExxx the biopsy of which was positive for adenocarcinoma .
+She was started on clear liquids and from there advanced vxxxPEOPLExxx gentle diet to a house diet .
+1) Colace 100 mg xxxPEOPLExxx b.i.d.
+Cholesterol was 237 , albumin 4.3 , calcium 9 xxxxADDRESS8xxxx x xxxPEOPLExxx revealed no infiltrates with a normal cardiac sillhouette .
+The electrocardiogram revealed normal sinus rhythm at a rate of 77 , axis-10 degrees , intervals .15 , .08 , .36 , there were flipped T waves in I , L and V5 and V6 , with xxxPEOPLExxx precordial R wave progression compared with 1 xxxxADDRESS8xxxx COURSE :
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+About xxxxWRITTEN_AGE_1_TO_19xxxx prior to admission the patient developed mid back pain , burning in nature with radiation around the xxxPEOPLExxx lower ribs .
+An MRI without gadolinium done on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 of the spine showed a xxxPEOPLExxx posterior lateral epidural xxxPEOPLExxx extending from T9 to T12 .
+However  xxxxWRITTEN_AGE_1_TO_19xxxx prior to admission the patient developed xxxPEOPLExxx lower extremity pain and could not walk secondary to the pain .
+Over the next 12 hours while in transit to the hospital , the patient &apos;s xxxPEOPLExxx lower extremity became red , swollen , and increasingly painful .
+He has had chronic bilateral lower extremity swelling since his transplant but the xxxPEOPLExxx lower extremity swelling was noticeably increased .
+A Swan was placed and initial readings were CVP of 6 , xxxPEOPLExxx pressure of 10 to 12 , cardiac index of 4.7 , and SVR of 438 all consistent with a Pseudomonas sepsis picture .
+On admission revealed white blood cell count 4.2 , Hct 27 , platelet count xxxxADDRESS8xxxx 1 xxxxADDRESS8xxxx x xxxPEOPLExxx was without infiltrates , wand in good position .
+An MRI was performed upon admission and showed an epidural xxxPEOPLExxx at the xxxPEOPLExxx posterior lateral T9 to T12 area invading the neural foramina .
+Vancomycin was also added to his regimen on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 and this was primarily to provide improved MRSA coverage as he continued to have erythema along the lateral xxxPEOPLExxx lower extremity .
+The plan is to continue the Digoxin and to recheck an echocardiogram to assess his ejection xxxPEOPLExxx when he is clinically better .
+His neurological exam remained xxxPEOPLExxx with no evidence of increasing lower extremity edema .
+The patient has a xxxPEOPLExxx nutritional status with hypoalbuminemia .
+Tylenol 650 mg xxxPEOPLExxx q4h p.r.n. , Dulcolax 10 mg per rectum b.i.d. p.r.n. , Decadron 5 mg IV q6h , Digoxin 0.25 mg xxxPEOPLExxx q day , Colace 100 mg xxxPEOPLExxx t.i.d. , Florinef 0.1 mg xxxPEOPLExxx q day for presumed adrenal insufficiency , Imipenem 500 mg IV q6h , insulin NPH 60 units subcu q a.m. , insulin NPH 20 units subcu q p.m. , insulin CZI sliding scale regular , Synthroid 125 mcg xxxPEOPLExxx q day , magnesium sliding scale , potassium sliding scale today , morphine sulfate IV p.r.n. dressing changes and breakthrough pain , Carafate 1 gm xxxPEOPLExxx q.i.d. , Tobramycin 200 mg IV q30h , Vancomyin 1 mg IV q18h.
+Nursing xxxPEOPLExxx LASIX ( FUROSEMIDE ) 80 MG xxxPEOPLExxx QD Starting on <PHI TYPE="DATE xxxxDATE22xxxx PHI>
+GLUCOTROL ( GLIPIZIDE ) 2.5 MG xxxPEOPLExxx QAM Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+IMDUR ( ISOSORBIDE MONONIT. ( xxxxTITLESxxxx ) ) 60 MG xxxPEOPLExxx QAM Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> )
+25 MG xxxPEOPLExxx QAM Starting IN AM ( <PHI TYPE="DATE">07/&apos;06</PHI> )
+PREVACID ( LANSOPRAZOLE ) 30 MG xxxPEOPLExxx QD Starting IN AM ( <PHI TYPE="DATE xxxxDATE4xxxx PHI> ) Activity As tolerated
+Renal function remained xxxPEOPLExxx throughout hospital course .
+Renal function and electrolytes should be checked next week and results xxxxDOCTOR2xxxx . xxxPEOPLExxx TO DO / PLAN :
+Abdomen without xxxPEOPLExxx Extremities without edema .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Of note , he is a very xxxPEOPLExxx historian given his difficulty speaking and inability to write from his Parkinson &apos;s disease .
+He was xxxPEOPLExxx by urology , who suggested to leave the catheter in for now in the setting of doubt ms .
+The patient &apos;s mental status improved greatly after the onset of intravenous antibiotics , doing much better , was much more awake and alert and the plan was to possibly send him xxxPEOPLExxx on xxxPEOPLExxx antibiotics and full <PHI TYPE="HOSPITAL">Arnsperni Health</PHI> services .
+He was switched over the Clinda and Gentamicin for his aspiration pneumonxxxPEOPLExxxnd again his mental status improved .
+A chest x xxxPEOPLExxx showed marked congestive heart failure with increased heart size .
+He was transferred to the Intensive Care Unit for his acute myocardial infarction with very likely multi vessel disease with concominent left anterior descending severe stenosis or likely left anterior descending with collateral circulation from that occluded xxxPEOPLExxx coronary artery .
+Two days after the myocardial infarction he continued with xxxPEOPLExxx blood pressure on a very small amount of Dobutamine .
+An echo showed that there was not much improvement in cardiac function , both xxxPEOPLExxx or left ventriculus .
+In <PHI TYPE="DATE">07</PHI>-90 he was shown to have bilateral upper lobe xxxPEOPLExxx Chest CT showed xxxPEOPLExxx upper lobe xxxPEOPLExxx infiltrating anterior chest wall .
+He was xxxPEOPLExxx in <PHI TYPE="HOSPITAL">Petersly Hospital And Medical Center</PHI> on <PHI TYPE="DATE">10-29</PHI xxxxADDRESS6xxxx elevations in V2 through V4 and flipped T waves in leads 3 and aVF was noted .
+MS Contin 60 mg xxxPEOPLExxx bid and Senekot .
+1) CHF and myocardial infarction - An IJ line was placed without complications on <PHI TYPE="DATE">10-30</PHI xxxxADDRESS8xxxx pressures were consistent with xxxPEOPLExxx heart and left heart failure .
+During the xxxPEOPLExxx xxxxWRITTEN_AGE_1_TO_19xxxx  he required 14 and 22 units of additional coverage .
+The patient was discharged xxxPEOPLExxx in xxxPEOPLExxx condition .
+On discharge included tetracycline , 250 mg xxxPEOPLExxx q.i.d. ; cyclosporin , 325 mg xxxPEOPLExxx b.i.d. ; prednisone , 30 mg xxxPEOPLExxx q day ; Bactrim DS , one xxxPEOPLExxx q.o.d. ; diltiazem , 30 mg xxxPEOPLExxx q.i.d. ; Mycostatin , 15 cc swish and swallow q.i.d. ; Lasix , 40 mg xxxPEOPLExxx q day ; Colace , 100 mg xxxPEOPLExxx q.i.d. ; Carafate , 1 gram xxxPEOPLExxx q.i.d. ; Imuran , 50 mg xxxPEOPLExxx t.i.d. ; NPH insulin , 44 units and 10 units of regular q a.m. ; NPH , 22 units and 8 units of regular q p.m.
+ProvidxxxPEOPLExxx :
+She underwent a sigmoid resection on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS7xxxx  <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> .
+A chest x xxxPEOPLExxx was read as clear .
+An echocardiogram in <PHI TYPE="DATE xxxxMONTHxxxx PHI> of xxxxYEAR_CENTURYxxxx showed an ejection xxxPEOPLExxx of 40-45% .
+20 mm/liter of potassium phosphate , 30.8 mEq per liter of potassium chloride , 30 mEq per liter of sodium chloride , 8 mEq per liter of magnesium sulfate , 94 xxxPEOPLExxx per liter of calcium , 10 ml per day of multivitamins , 10 mg of vitamin K every Monday , 1 ml per day of trace elements , and 22 units of Regular insulin .
+The patient is a xxxxAGE5xxxx xxxPEOPLExxx handed gentleman with a history of coronary artery disease status post myocardial infarction in xxxxYEAR_CENTURYxxxx .
+The patient was xxxPEOPLExxx at the <PHI TYPE="HOSPITAL">Ochtuheihugh Put xxxxPRIVATExxx Medical Center</PHI> and then he was referred to the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- xxxNAMExxx xxxHOSPITALxxx Hospital</PHI> .
+At 8 p.m. the patient xxxPEOPLExxx at the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- xxxNAMExxx xxxHOSPITALxxx Hospital</PHI> and was examined and assessed .
+No xxxPEOPLExxx was noticed .
+The xxxPEOPLExxx suggested decreased flow .
+The patient was admitted with a xxxPEOPLExxx occipital cerebral infarction .
+The patient was started on intravenous heparin and had the studies as described above for xxxPEOPLExxx out source of embolic strokes including carotid noninvasives , transcranial Dopplers , Holter electrocardiogram and echocardiogram .
+The patient was xxxPEOPLExxx with an unchanged neurological and physical examination and was discharged on aspirin 325 mg xxxPEOPLExxx qd , on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+The patient will be discharged xxxPEOPLExxx without his regular cardiac medications .
+Blood electrolytes were remarkable for a sodium of 148 and a potassium of 5 xxxxADDRESS8xxxx patient &apos;s fluid hydration from D5 one half normal saline with 20 mEq of K to D5W and acuchecks from this time showed blood sugars routinely between 20 and xxxxADDRESS8xxxx patient was taking 470 cc of liquid xxxPEOPLExxx and is now in xxxPEOPLExxx condition and ready for transfer to <PHI TYPE="HOSPITAL">El Hospital</PHI> to continue his recovery .
+Should the patient &apos;s xxxPEOPLExxx intake drop to below 500 , the patient should be hydrated at 75 cc/hour .
+5) xxxPEOPLExxx LOWER EXTREMITY WOUND .
+As her baseline mental status is completely alert and oriented , this caused concern amongst the staff of the rehabilitation xxxPEOPLExxx and the patient was transferred to the <PHI TYPE="HOSPITAL">Retelk County Medical Center</PHI> .
+3) Aspirin 81 mg xxxPEOPLExxx q. day .
+4) Coumadin 2 mg xxxPEOPLExxx q.h.s.
+5) Zaroxolyn 2.5 mg xxxPEOPLExxx q. day .
+7) Potassium 20 mEq xxxPEOPLExxx q. day .
+10) Levofloxacin 250 mg xxxPEOPLExxx q. day .
+13) Zyrtec 10 mg xxxPEOPLExxx q. day .
+Sodium was 142 , potassium 3.3 , chloride 99 , BUN 23 , creatinine 1 xxxxADDRESS8xxxx was 25 , alkaline phosphatase 130 , total bilirubin 3.2 , albumin 3.4 , calcium 8 xxxxADDRESS8xxxx studies revealed a PT of 17.4 seconds with an INR of 2.1 , PTT 25 xxxxADDRESS8xxxx patient &apos;s admission chest x xxxPEOPLExxx revealed no infiltrate , no congestive heart failure .
+1) Aspirin 81 mg xxxPEOPLExxx q. day .
+2) Digoxin 0.125 mg xxxPEOPLExxx q. AM .
+4) Zaroxolyn 0.25 mg xxxPEOPLExxx q. day .
+6) Coumadin 2 mg xxxPEOPLExxx q.h.s.
+9) Amitriptyline 10 mg xxxPEOPLExxx q.h.s.
+10) Buspar 5 mg xxxPEOPLExxx t.i.d.
+Attending : xxxPEOPLExxx w/ services
+Pt had <PHI TYPE="HOSPITAL">ah</PHI> set up at xxxPEOPLExxx and ready for d / c.
+Nephrocaps , 1 q.day , Colace 1 q.day , Allopurinol 100 q.day , Verapamil 240 mg q.day , Niferex 150 mg xxxPEOPLExxx b.i.d. , Colchicine 0.6 mg xxxPEOPLExxx q.day , Phoslo 667 mg q.day , Cardura 1 mg xxxPEOPLExxx q.day .
+An X xxxPEOPLExxx at the time revealed free air .
+The patient was xxxPEOPLExxx in consultation and evaluated by Cardiology and in the end , he was well controlled on digoxin , Propanolol , and verapamil .
+Prednisone 20 mg xxxPEOPLExxx q.day , Imuran 25 mg xxxPEOPLExxx q.day , Acyclovir 200 mg xxxPEOPLExxx t.i.d. , Bactrim one single strength xxxPEOPLExxx qhs , Maalox 15 cc xxxPEOPLExxx b.i.d. , Zantac 150 mg xxxPEOPLExxx b.i.d. , Verapamil 80 mg xxxPEOPLExxx t.i.d. , Lasix 40 mg xxxPEOPLExxx b.i.d. , Cardura 4 mg xxxPEOPLExxx b.i.d. , Cyclosporin 300 mg xxxPEOPLExxx b.i.d. , Digoxin 0.125 mg xxxPEOPLExxx q.day , Clotrimazole 10 mg xxxPEOPLExxx b.i.d. , Inderal 10 mg xxxPEOPLExxx t.i.d.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI>
+She was in her usual state of good health until <PHI TYPE="DATE xxxxMONTHxxxx PHI> when she was xxxPEOPLExxx emergently for treatment of a perforated colon cancer .
+The patient on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/90 underwent a xxxPEOPLExxx radical vulvectomy with excellent results and negative margins on frozen section .
+Ceftazidime 1 gram intravenous q xxxxADDRESS8xxxx 500 mg. xxxPEOPLExxx q12 .
+Cisapride 10 mg. xxxPEOPLExxx qid .
+______________ capsule 1 xxxPEOPLExxx tid .
+The patient also underwent cardiac ultrasound on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx that showed abnormal xxxPEOPLExxx ventricle wall motion , trace mitral regurgitation , normal left ventricular size and function with an estimated ejection xxxPEOPLExxx of 64% .
+The xxxPEOPLExxx ventricle is dilated and diffusely hypokinetic and there is no evidence of constrictive physiology which was xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+There is no fistula xxxPEOPLExxx Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> of General Surgery consulted on the patient and concluded the patient does not require any surgical treatment of this problem at the current time and the best treatment for this situation would be to increase the patient &apos;s nutrition .
+He just claims to have no appetite and has very xxxPEOPLExxx effort with feeding .
+The chest X xxxPEOPLExxx shows no evidence of pneumonia .
+Senokot two tablets xxxPEOPLExxx bid or Metamucil one tablespoon xxxPEOPLExxx bid .
+Nortriptyline 25 mg. xxxPEOPLExxx qhs .
+Prilosec 20 mg. xxxPEOPLExxx qd .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Mr. <PHI TYPE="PATIENT">Stone</PHI> is a xxxxAGE5xxxx gentleman with severe cardiomyopathy , aortic stenosis , alcoholic cirrhosis , and rectal cancer , who was scheduled for a resection of his rectal adenocarcinoma but was found to be in severe congestive heart failure and admitted to the xxxPEOPLExxx team for improvement of his heart failure .
+After aggressive diuresis on the Medical Service , he was deemed xxxPEOPLExxx for surgery .
+Radiation therapy to the xxxPEOPLExxx clavicle <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx .
+She had had some urinary hesitancy and difficulty moving her legs in the xxxPEOPLExxx few days that had lead to the concern to _________ quinine syndrome but as soon as the opiates were tapered down she was able to void spontaneously and soon began to ambulate with the help of Physical Therapy .
+Doculax 5 mg xxxPEOPLExxx q.d. p.r.n. Colace 100 mg b.i.d. Senna syrup two teaspoonfuls b.i.d. Mylanta 15-30 mg p.r.n. dyspepsia .
+Nexium 20 mg q.d. Femora ( letrazole ) 2.5 mg xxxPEOPLExxx q.d. Polyethylene glycol ( Miralax ) 17 gm xxxPEOPLExxx q.d. Dilaudid 4 mg xxxPEOPLExxx q.4 hours p.r.n. breakthrough pain .
+Dexedrine 5 mg xxxPEOPLExxx at 8 a.m.
+The patient was discharged in improved , xxxPEOPLExxx satisfactory condition with the expectation that she will call Dr. <PHI TYPE="DOCTOR">First</PHI> &apos;s office for a followup visit in about xxxxWRITTEN_AGE_1_TO_19xxxx 
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Electronically Signed <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DOCTOR">BOBSTON R SINTNIEVES</PHI> , M.D. <PHI TYPE="DOCTOR">REAHA FIRST</PHI> , M.D. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+He had an ejection xxxPEOPLExxx of 50% .
+He did have venous stasis changes anteriorly on the xxxPEOPLExxx lower extremity .
+On postoperative day number two , however , the patient had a cardiac arrest after an episode of rapid ventricular tachycardxxxPEOPLExxxnd ventricular fibrillation .
+His sternum was healing well and was xxxPEOPLExxx He was eating a regular diet .
+The patient was discharged to xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx DIAGNOSIS :
+(1) Incomplete xxxPEOPLExxx bundle branch block .
+The xxxPEOPLExxx internal carotid had a 15% nonhemodynamic stenosis .
+One Aspirin xxxPEOPLExxx q.d.
+The patient was brought to the operating room on the xxxPEOPLExxx hospital day , being <PHI TYPE="DATE xxxxDATE4xxxx PHI>/90 , and underwent a revision of the left acetabular component of his left total hip replacement .
+Phenobarbital 30 mg b.i.d. , Tegretol 100 mg b.i.d. , Iron 50 mg q. day , multivitamin 1 xxxPEOPLExxx q. day , Senekot 1 tablet b.i.d. , FiberCon 1 to 2 times a day .
+Chest X xxxPEOPLExxx shows clear lung xxxPEOPLExxx bilaterally with the trach tube noted to be in good position .
+There is no clinical evidence of pneumonia that could have precipitated this event and all X xxxPEOPLExxx have been unremarkable .
+The patient generally breaths between 20 and 30 breaths per minute and is otherwise xxxPEOPLExxx The patient had some evidence of doubled T waves on the day of arrival .
+The patient was initially NPO and then begun on Pediasure feeds the xxxPEOPLExxx xxxxWRITTEN_AGE_1_TO_19xxxx of hospitalization .
+He has been xxxPEOPLExxx here .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. , at <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> Pediatric Intensive Care Unit .
+Patient is a xxxxAGE5xxxx gravida IV , xxxPEOPLExxx 2 with metastatic cervical cancer admitted with a question of malignant pericardial effusion .
+EKG showed sinus tachycardxxxPEOPLExxxt 100 and echo revealed pericardial effusion , a 10 mm pulsus paradoxus was noted , and no evidence of tamponade .
+<PHI TYPE="DATE">02</PHI>/90 , total abdominal hysterectomy complicated by ureteral transection with xxxPEOPLExxx ureteral tube placed for xxxxWRITTEN_AGE_1_TO_19xxxx  stent tube placed in left ureter xxxxWRITTEN_AGE_1_TO_19xxxx prior to admission for a hydronephrosis post , in <PHI TYPE="DATE">03</PHI>/91 , bilateral salpingo oophorectomy and appendectomy .
+Premarin 0.625 q.d. , Proventil Inhaler two puffs q.i.d. , Beclovent four puffs b.i.d. , Colace 100 mg xxxPEOPLExxx t.i.d. , MS Contin 30 mg xxxPEOPLExxx t.i.d. , Elavil 25 mg xxxPEOPLExxx q.h.s. , Trilisate 750 mg xxxPEOPLExxx b.i.d. , MS Elixir 100 mg xxxPEOPLExxx q.2h. p.r.n. , Robitussin with Codeine 5 xxxxCC2xxxx 
+Bronchoscopy , <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx , Mr. <PHI TYPE="PATIENT">Po</PHI> presented in xxxxYEAR_CENTURYxxxx with dysphagxxxPEOPLExxxnd a midesophageal xxxPEOPLExxx that proved to be squamous cell carcinoma .
+He has xxxPEOPLExxx two local physicians , who have tried him xxxPEOPLExxx on Bactrim and subsequently Clarithromycin without improvement .
+His three liter nasal prong blood gas revealed a xxxPEOPLExxx of 63 , PCO2 of 47 , pH of 7 xxxxADDRESS8xxxx chest X xxxPEOPLExxx revealed diffuse air space disease , particularly on the left .
+Tagamet , 800 mg. xxxPEOPLExxx q.day ; five liters of supplemental oxygen ; Carafate , 1 gm. b.i.d. ; Ativan , 1 mg. SL q.4 p.r.n.
+In addition , he was sent xxxPEOPLExxx on Prednisone , 40 mg. q.day .
+Her vital signs are xxxPEOPLExxx she is afebrile .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+She reports approximately 48 hours prior to this developing pain in the xxxPEOPLExxx lower abdomen and groin and noticed a new onset of a lump .
+soft with a palpable , nonpulsatile xxxPEOPLExxx in the xxxPEOPLExxx lower abdomen which measures approximately 3 centimeters x 3 centimeters .
+Include the addition of Bactrim DS one tablet xxxPEOPLExxx b.i.d. x xxxxWRITTEN_AGE_1_TO_19xxxx  Percocet 1-2 xxxPEOPLExxx q4h prn .
+atrial fibrillation , deep venous thrombosis , pulmonary embolus , xxxPEOPLExxx frontal infarct , hypertension , and question progressive supranuclear palsy .
+<PHI TYPE="PATIENT">Granrivern Call</PHI> is a xxxxAGE5xxxx xxxPEOPLExxx handed white male with a history of questionable progressive supranuclear palsy , atrial fibrillation , deep venous thrombosis , and pulmonary embolus who presents with a change in mental status and a fall at xxxPEOPLExxx His family stated that he had a progressive mental decline over the past xxxxWRITTEN_AGE_1_TO_19xxxx and was initially diagnosed with Parkinson &apos;s disease or features consistent with Parkinsonism .
+On the morning of admission at 8 o&apos;clock , he was noted to be moving his mouth xxxPEOPLExxx and speaking &quot; gibberish &quot; .
+Coumadin 4 mgs xxxPEOPLExxx qhs , Vasotec 5 mgs xxxPEOPLExxx qd , Lasix prn , Digoxin 0.25 mgs poqd , Proscar and Sinemet .
+His pupils were three down to two on the xxxPEOPLExxx and five down to four on the left .
+He had left greater than xxxPEOPLExxx nasal stimulation to grimace .
+His deep tendon reflexes were 2+ at the xxxPEOPLExxx brachial radialis and xxxPEOPLExxx patella ; everywhere else his reflexes were xxxxADDRESS8xxxx toes were down going .
+chest x xxxPEOPLExxx clear .
+There was also evidence of an old xxxPEOPLExxx frontal infarction .
+He was given 1.5 grams of Dilantin in the emergency xxxxROOMxxxx mgs of intravenous Ativan which did xxxPEOPLExxx to stop his rhythmic blinking that he showed from time to time on examination .
+However , this issue will need to be re evaluated in xxxxWRITTEN_AGE_1_TO_19xxxx time once the hematoma is xxxPEOPLExxx prominent to see if there is possibly an underlying tumor or arterial venous malformation that could be currently compressed by the area of hemorrhage .
+LEFT HAND RING AND xxxPEOPLExxx FINGER PROXIMAL INTERPHALANGEAL JOINT DISLOCATION , OPEN .
+Keflex 500 mg xxxPEOPLExxx q.i.d. times four days .
+Dressing changes b.i.d. with dry Kerlix wrap around xxxPEOPLExxx finger and ring finger .
+Physical Therapy and Occupational Therapy arranged as an out patient for range of motion of left hand xxxPEOPLExxx and ring proximal interphalangeal joint .
+Now preoperatively he reports occasional sharp pains in his xxxPEOPLExxx jaw that last about five seconds then resolves as well as loss of his xxxPEOPLExxx peripheral vision , difficulty swallowing .
+HEENT , normocephalic , atraumatic , well healed xxxPEOPLExxx jaw incision , slight swelling xxxPEOPLExxx jaw slightly tender to the touch , there is no erythema .
+He was xxxPEOPLExxx by Physical Therapy who noted that he had problems with balancing and he used a rolling xxxNAMExxx On postoperative day number eight he again reported leaking from the xxxPEOPLExxx nostril .
+A head CT was done to evaluate a possible hydrocephalus , no hydrocephalus was xxxPEOPLExxx where there was an old infarct in the xxxPEOPLExxx frontal lobe white matter and the occipital region with a pseudomeningocele , status post resection of the xxxPEOPLExxx skull based tumor extending to the C2 level .
+He was also receiving Ofloxacin for a presumed aspiration pneumonxxxPEOPLExxxnd a Staphylococcus aureus from his cerebrospinal fluid was sensitive to both Vancomycin and Ofloxacin .
+His visiting nurse will be instructed to observe for diarrhea and if problems develop a xxxPEOPLExxx jejunostomy feeding tube apparatus will be obtained .
+1) Ofloxacin 400 mg xxxPEOPLExxx b.i.d. for xxxxWRITTEN_AGE_1_TO_19xxxx 
+He will have visiting nurse and xxxPEOPLExxx Physical Therapy services .
+2) Ofloxacin 400 mg xxxPEOPLExxx b.i.d. times xxxxWRITTEN_AGE_1_TO_19xxxx 
+Significant for hypertension . xxxPEOPLExxx mastectomy for benign lesion .
+A pulmonary arteriogram on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 demonstrated multiple pulmonary emboli , likely xxxPEOPLExxx than xxxxWRITTEN_AGE_1_TO_19xxxx old , possibly introduced at the time of the renal vein thrombosis of <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx inferior vena cava filter was placed ; lower extremity noninvasive studies were negative .
+For this reason , he was taken again to the operating room on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/98 , at which time a gastrojejunostomy was performed with stapling across the gastroduodenal junction , introduction of five xxxNAMExxx xxxNAMExxx drains into the retroperitoneal xxxPEOPLExxx cholecystotomy tube , gastrostomy tube , and jejunostomy tube .
+The patient also appeared to have stool from his xxxNAMExxx xxxNAMExxx site and xxxPEOPLExxx oblique incision .
+The patient underwent TAH / BSO , partial omentectomy at <PHI TYPE="HOSPITAL">CTMC</PHI> in <PHI TYPE="DATE">10</PHI xxxxADDRESS8xxxx that time , tumor was found to be studding on the xxxPEOPLExxx diaphragm , gross tumor in the omentum and large bowel , tumor through the uterine serosa .
+The abdomen was soft , positive bowel sounds , non tender , large , hard xxxPEOPLExxx occupying the lower abdomen and left upper quadrant .
+This is an xxxxAGE5xxxx with a history of squamous cell carcinoma of the pyriform sinus admitted with xxxPEOPLExxx upper quadrant pain .
+Mr. <PHI TYPE="PATIENT">Kotefyfe</PHI> is a xxxxAGE5xxxx with a history of myelodysplastic syndrome ( acute myelogenous leukemia ) who presents xxxxAGE6xxxx status post a nonmyeloablative peripheral blood stem cell transplant and is admitted for fatigue , neutropenia , and an abnormal chest x xxxPEOPLExxx In <PHI TYPE="DATE xxxxMONTHxxxx PHI> xxxxYEAR_CENTURYxxxx , the patient was found to be anemic .
+After four treatment cycles , his marrow remained hypercellular with persistent low xxxPEOPLExxx of blasts .
+The patient reports xxxxWRITTEN_AGE_1_TO_19xxxx of xxxPEOPLExxx upper extremity / axillary and posterior shoulder pain , which he describes as shooting in nature .
+Mr. <PHI TYPE="PATIENT">Lyfranklapalm Kote</PHI> is a xxxxAGE5xxxx with a history of myelodysplastic syndrome that could vary to acute myelogenous leukemia who is status post a nonmyeloablative allogenic transplants via protocol of <PHI TYPE="ID xxxxSUSPICIOUS_NUM2xxxx PHI> , the GVAX study , who was readmitted for xxxPEOPLExxx upper lobe infiltrate .
+Admission CAT scans and x rays of the chest were notable for xxxPEOPLExxx upper lobe infiltrate .
+The patient was given red blood cells and platelets to maintain his hematocrit above 26 and his platelet count above 10 xxxxADDRESS8xxxx patient remained hemodynamically xxxPEOPLExxx throughout this admission .
+The patient had a xxxPEOPLExxx middle finger pain , which developed during this admission without any preceding trauma .
+The patient was discharged to xxxPEOPLExxx with <PHI TYPE="HOSPITAL">AH</PHI> Services .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> MD , PHD <PHI TYPE="LOCATION">xxxxPRIVATExxx</PHI>
+8. xxxPEOPLExxx bundle branch block .
+Digoxin , .25 mg xxxPEOPLExxx QD ; Ecotrin , 325 mg QD ; Coumadin , 2.5 mg xxxPEOPLExxx QD ; Lisinopril , 2.5 mg xxxPEOPLExxx QD ; Micronase , 5 mg xxxPEOPLExxx BID .
+Sodium 140 , potassium 4.0 , chloride 104 , CO2 28 , BUN 14 , creatinine 1.1 , glucose xxxxADDRESS8xxxx 197 , triglycerides 118 , HDL 31 , LDL 142 , total protein 6.2 , bilirubin 1.0 , alkaline phosphatase 72 , SGOT xxxxADDRESS8xxxx patient was taken to the cardiac catheterization laboratory , where he was noted initially to have a pulmonary xxxPEOPLExxx pressure of 45 with a pulmonary artery pressure of 82 xxxxADDRESS8xxxx had an 80% distal left main , a 90% proximal circumflex , and multiple significant lesions in the LAD .
+The patient was xxxPEOPLExxx in consultation by the Electrophysiology service , Dr. <PHI TYPE="DOCTOR">Slusslashgodle</PHI> , who said that he had no indication for patch placement at the time of surgery .
+He had a left internal mammary artery graft of the LAD , a single saphenous vein to the xxxPEOPLExxx coronary artery with 280 cc per minute flow , and a saphenous vein snake graft to the diagonal and circumflex with 150 cc per minute flow .
+He was xxxPEOPLExxx in consultation by the Nutrition Service , who followed him for dietary management of his diabetes mellitus .
+He is at increased risk for future events because of his low left ventricular ejection xxxPEOPLExxx but he is clinically xxxPEOPLExxx on ACE inhibitors , Digoxin , Coumadin , and aspirin .
+Therefore he was able to be discharged xxxPEOPLExxx He understands that he does have significant left ventricle dysfunction and requires monitoring of his prothrombin times and his arrhythmias ; these will be done in <PHI TYPE="LOCATION">Grovea Co Terburgperv Portnew</PHI> .
+DISPOSITION : xxxPEOPLExxx DISCHARGE MEDICATIONS :
+The xxxPEOPLExxx renal artery was diffusely diseased and of small caliber , and intervention was deferred .
+The xxxPEOPLExxx femoral arteriotomy site was closed with a 6Fr Angioseal .
+Prior to admission he was xxxPEOPLExxx approximately xxxxAGE6xxxx in the office with mild congestive heart failure .
+An echocardiogram then revealed an ejection xxxPEOPLExxx of 40% and an endomyocardial biopsy revealed no ejection .
+chest x xxxPEOPLExxx revealed prominent pulmonary xxxPEOPLExxx and enlarged heart .
+The patient was then transferred to the Cardiac Surgery Service for the removal of this left ventricular xxxPEOPLExxx Coronary angiography during the cardiac cath had revealed normal coronaries without coronary artery disease .
+The arterial blood gases on xxxxROOMxxxx 67 mm. Mercury , PCO2 42 mm. Mercury , pH 7.47. hematocrit 41.4 , sodium 123 , potassium 3.5 , chloride 88 , BUN 12 , creatinine .6 mg. % , LDH 692 , units , alkaline phosphatase 234 units , her chest X xxxPEOPLExxx showed consolidation of the xxxPEOPLExxx upper lobe and a markedly elevated xxxPEOPLExxx hemidiaphragm .
+A computerized tomography scan taken in <PHI TYPE="DATE xxxxMONTHxxxx PHI> xxxxYEAR_CENTURYxxxx showed marked atelectasis of the xxxPEOPLExxx middle lobe and xxxPEOPLExxx upper lobe , with marked intraolobular septal thickening , probably representing interstitial carcinoma , and a markedly dilated xxxPEOPLExxx hilum .
+She had a bronchoscopy by Dr. <PHI TYPE="DOCTOR">Cranka</PHI> , which showed diffuse involvement and narrowing of the bronchi to the xxxPEOPLExxx lung by extrinsic compression .
+A preoperative chest x xxxPEOPLExxx was negative .
+The patient was admitted with the chief complaint of gait ataxxxxPEOPLExxxnd decline in memory .
+She was able to ambulate with some assistance , was xxxPEOPLExxx sleepy and slow in her affect , able to swallow , passed her swallow study , and had an episode while in the house of shortness of breath , two episodes , with an electrocardiogram that did not show any change , and a chest x xxxPEOPLExxx showed a question of failure .
+She had a shunt series which shows an intact , and she should be followed up for this with Doctor <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> .
+Her platelet count went up from 52 on admission to 88 on <PHI TYPE="DATE xxxxDATE22xxxx PHI xxxxADDRESS8xxxx patient had a xxxNAMExxx scan which was negative and it was thought that the xxxPEOPLExxx upper quadrant pain was due to liver congestion .
+BUN 28 , creatinine 1.5 , hematocrit 32.9 , platelets xxxxADDRESS8xxxx x xxxPEOPLExxx showed cardiomegaly with haziness at the left base and a left pleural effusion .
+The patient has previously been xxxPEOPLExxx however he has shown signs and symptoms and radiographic evidence of recurrence and so he presented to the <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> for possible hemipelvectomy .
+He is afebrile with xxxPEOPLExxx vital signs .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. ORTHOPAEDIC SURGERY <PHI TYPE="HOSPITAL">ANNENTESAUBEOR RINERS xxxNAMExxx RAELLFORDGET COMMUNITY HOSPITAL</PHI>
+ASSOCIATED DIAGNOSIS : xxxPEOPLExxx upper lobectomy <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx .
+The patient underwent a xxxPEOPLExxx upper lobectomy on <PHI TYPE="DATE xxxxDATE7xxxx PHI> , xxxxYEAR_CENTURYxxxx and returned for a left lower lobectomy .
+Chest ; xxxPEOPLExxx well healed posterolateral scar .
+Cardiology wise , electrocardiogram revealed no xxxPEOPLExxx bundle branch block although no ischemxxxPEOPLExxxnd he was treated with intravenous nitroglycerin .
+The patient was bronchoscoped for several times for junky left lung xxxPEOPLExxx He did require Albumin and continued with intravenous fluids .
+He was also xxxPEOPLExxx by radiation oncology and started radiation treatment .
+He became xxxPEOPLExxx cardiovascularly .
+Atenolol 50 milligrams q.d. per xxxPEOPLExxx tube .
+Cisapride 10 milligrams per xxxPEOPLExxx tube t.i.d.
+Zocor 20 milligrams per xxxPEOPLExxx tube q.d. O2 titrated to keep 02 sat greater than 90% .
+Dilantin 100 milligrams per xxxPEOPLExxx tube t.i.d.
+On admission , hematocrit was 37 , baseline creatinine  xxxxADDRESS8xxxx , her hematocrit fell to as low as 23.8 , for which she was transfused up to hematocrit of 33 and remained xxxPEOPLExxx between 30 and xxxxADDRESS8xxxx she continued to have low grade postoperative fevers until approximately xxxxAGE6xxxx postoperatively when her temperature spiked .
+Hemodynamics were optimized resulting in a cardiac output of 4.4 with a SVR of 1300 and a xxxPEOPLExxx of xxxxADDRESS8xxxx , due to the patient &apos;s long standing amiodarone therapy , and a positive second pulmonary function , Amiodarone was discontinued during that hospital admission .
+The patient did well at xxxPEOPLExxx until <PHI TYPE="DATE xxxxDATE21xxxx PHI>/94 when she was admitted to <PHI TYPE="HOSPITAL">Souland</PHI> in <PHI TYPE="LOCATION">Nixmont Bovo</PHI> with increasing congestive heart failure .
+Furthermore , since it was felt that the patient failed amiodarone therapy , the patient was xxxPEOPLExxx by the <PHI TYPE="HOSPITAL">Alllo Eino Hospital</PHI> which recommended EPS to xxxPEOPLExxx out possible bundle branch reentry as the source of the patient &apos;s arrhythmia with possible AICD placement if the EPS was negative .
+Note , per recommendation from the CHF Team , dobutamine was discontinued within the xxxPEOPLExxx 24 hours of the patient &apos;s hospitalization without difficulty .
+Consequently , the patient underwent AICD placement on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx , biopsies from the xxxPEOPLExxx forearm were significant only for inflammation , and not infection .
+At this point it was felt the patient would go xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx was discussed with both the patient and the Cardiology B Team .
+Consequently , the patient underwent AICD placement on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxADDRESS8xxxx course was only complicated by presumed xxxPEOPLExxx forearm thrombophlebitis , and the patient completed a xxxxAGE6xxxx antibiotic course prior to AICD placement .
+Note , for the question of the xxxPEOPLExxx forearm thrombophlebitis , the xxxPEOPLExxx forearm was debrided and sent for culture and pathology .
+At the time of discharge , the patient was on Coumadin 2 mg q.h.s. , K Dur 20 mEq xxxPEOPLExxx q.d. , magnesium oxide 420 mg xxxPEOPLExxx q.d. , Isordil 10 mg xxxPEOPLExxx t.i.d. , Lasix 40 mg xxxPEOPLExxx q.d. , Colace 100 mg xxxPEOPLExxx b.i.d. , Digoxin .25 mg xxxPEOPLExxx q.d. , Captopril 25 mg xxxPEOPLExxx t.i.d. , Beclovent inhaler 2 puffs q.i.d. , Proventil inhaler 2 puffs q.i.d. , Tylenol #3 1 tablet 30 mg xxxPEOPLExxx q. 2-3 hours times xxxxAGE6xxxx prn pain or discomfort .
+1) <PHI TYPE="DATE xxxxDATE22xxxx PHI>/94 Excision of xxxPEOPLExxx forearm vein for question of phlebitis ; 2) <PHI TYPE="DATE xxxxDATE4xxxx PHI>/94 AICD implantation .
+He was discharged xxxPEOPLExxx but returned on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 with worsening palpitations on and off .
+He was xxxPEOPLExxx by <PHI TYPE="HOSPITAL">Nnoatal Hospital Center</PHI> who felt that he could be safely treated with Solumedrol rather than Prednisone together with Benadryl and the use of low ionic contrast medium .
+His xxxPEOPLExxx coronary artery was occluded and filled distally via left to xxxPEOPLExxx collaterals .
+In following up his ablation he underwent a Holter monitor which showed normal sinus rhythm at rates of 40 to xxxxADDRESS8xxxx were 15 atrial runs the longest of which was 13 beats at a rate of xxxxADDRESS8xxxx also underwent a post procedural echocardiogram which showed an ejection xxxPEOPLExxx of 61% with mild mitral regurgitation and left atrial enlargement at 45mm .
+Accordingly he was xxxPEOPLExxx by Neurology who felt that there was no evidence of a secondary process .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. <PHI TYPE="HOSPITAL">SHARPTIESSONI HEALTH CENTER</PHI>
+Percocet 1-2 xxxPEOPLExxx Q4 hours PRN , Dilantin 100mg. xxxPEOPLExxx BID , Phenobarbital 30mg. xxxPEOPLExxx BID , Penicillin VK 250mg. xxxPEOPLExxx Q6 hours and Indocin 25mg. xxxPEOPLExxx BID .
+Of note he has been having fevers and night sweats at xxxPEOPLExxx prior to admission .
+Both his xxxPEOPLExxx and left lobes of the liver had metastatic lesions presumably which were on clinical examination .
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+Started Campath in <PHI TYPE="DATE xxxxMONTHxxxx PHI> , xxxxYEAR_CENTURYxxxx , complicated by lymphopenia / neutropenxxxPEOPLExxxnd CMV infection , and underwent MUD stem cell transplant in <PHI TYPE="DATE xxxxMONTHxxxx PHI> , xxxxYEAR_CENTURYxxxx .
+Patient reports persistent mild xxxPEOPLExxx upper quadrant discomfort , recent xxxPEOPLExxx appetite .
+Refractory CLL with bone marrow involvement , status post MUD , mini allo stem cell transplant , <PHI TYPE="DATE xxxxMONTHxxxx PHI> , xxxxYEAR_CENTURYxxxx , Acanthamoeba infection of skin and sinuses , recently treated with IV pentamidine and xxxPEOPLExxx voriconazole , history of recurrent CMB infection , recent ARS on CRI , thought due to medication toxicity ( creatinine on discharge from <PHI TYPE="HOSPITAL">Retelk County Medical Center</PHI> on <PHI TYPE="DATE xxxxDATE7xxxx PHI> was 2.6) .
+Erythematous nodules on arms at elbows and on xxxPEOPLExxx thigh , as previous .
+Workup on admission included a chest x xxxPEOPLExxx negative for pneumonia , an MRI of the liver to investigate for focal lesion , with no evidence for abscess or focal lesion on report .
+Clinical progression of skin and sinus infection on maximal antimicrobial therapy continued , with emergence on <PHI TYPE="DATE xxxxDATE7xxxx PHI> of a new xxxPEOPLExxx sided ptosis in association with a left homonymous hemianopsia , and fleeting confusion while febrile , prompting head MRI which revealed a large 5 x 2 x 4.3 cm region in the xxxPEOPLExxx occipital lobe of hemorrhage and edema , with dural and , likely , leptomeningeal enhancement in association with small foci in the xxxPEOPLExxx cerebellum and pons , concerning for early lesions of similar type .
+A single blood culture positive for coagulase negative Staphylococcus was treated with a course of vancomycin in the setting of a PICC line and a chest x xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE7xxxx PHI> indicating possible developing pneumonia , resulted in a course of levofloxacin , for both possible pneumonia , as well as treatment of any bacterial superinfection of Acanthamoeba sinusitis .
+A chest x xxxPEOPLExxx showed clear lungs with respect to congestive heart failure .
+The patient was then observed and discharged that evening on her normal regimen of pain xxxPEOPLExxx with <PHI TYPE="HOSPITAL">Arnsperni Health</PHI> support for assistance with activities of daily living .
+PROBLEM xxxPEOPLExxx 1. INSULIN DEPENDENT DIABETES MELLITUS
+He called the EMT &apos;s and was found to be in pulmonary edema by chest x xxxPEOPLExxx at <PHI TYPE="HOSPITAL">Centdick Naco Hospital Medical Center</PHI> .
+Aspirin 325 mg xxxPEOPLExxx q. day , Capoten 25 mg xxxPEOPLExxx q.8h. , NPH insulin 28 units q.a.m. and 10 units q.p.m. , Regular insulin 4 units q.a.m. and 4 units q.p.m. , simvastatin 20 mg xxxPEOPLExxx q. day , digoxin 0.25 mg.
+At cardiac catheterization he had an RA pressure of 8 , an RV pressure of xxxxDATE22xxxx , PA pressure of 60/25 , and xxxPEOPLExxx of xxxxADDRESS8xxxx also had a 50% LAD stenosis , a 100% large DT stenosis and a nondominant RCA with left RCA collaterals .
+He was restarted on Coumadin for his low ejection xxxPEOPLExxx and started on diuresis with IV Lasix for xxxxWRITTEN_AGE_1_TO_19xxxx and then switched to an oral Lasix regimen .
+PCP xxxxDOCTOR2xxxx :
+Discharge Status : xxxPEOPLExxx BLEEDING FROM DIALYSIS
+of note , pt did have a low grade fever , and was recommended to have CXR and xxxPEOPLExxx but was refused by patient
+ProvidxxxPEOPLExxx :
+She failed to improve following placement of the ventriculostomy and her xxxPEOPLExxx prognosis was discussed with the family .
+Cerebral angiogram on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 and flexible bronchoscopy on <PHI TYPE="DATE xxxxDATE21xxxx PHI>/98 and <PHI TYPE="DATE xxxxDATE21xxxx PHI xxxxADDRESS8xxxx  <PHI TYPE="PATIENT">A</PHI> was a xxxxAGE5xxxx xxxPEOPLExxx handed white male with a history of left middle cerebral artery cerebrovascular accident who on <PHI TYPE="DATE" xxxxDATE15xxxx /PHI> was asleep and awoke at approximately 1:00 AM with the worst headache of his life .
+He had a photophobxxxPEOPLExxxnd thereafter some nausea and vomiting .
+He was taken xxxPEOPLExxx to <PHI TYPE="HOSPITAL">Vaila Medical Center</PHI> where he arrived at about 3:00 AM and a CT scan showed ? basal subarachnoid hemorrhage and hydrocephalus .
+His neurological exam deteriorated over the xxxPEOPLExxx week of admission to the extent that he was at times responsive to voice by opening his eyes , but was not able to follow commands .
+He moved his left side more than his xxxPEOPLExxx side in response to stimulation .
+The <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> Admitting Desk was also notified as were Dr. <PHI TYPE="DOCTOR">Liftjesc</PHI> , Dr. <PHI TYPE="DOCTOR">Telshey Vital</PHI> , Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , and the patient &apos;s primary care physician , Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> .
+<PHI TYPE="DOCTOR">KETYVI L LIFTJESC</PHI> , M.D. <PHI TYPE="DOCTOR">TELSHEY K VITAL</PHI> , M.D. <PHI TYPE="DOCTOR">TOMEDANKELL D FLOWAYLES</PHI> , M.D. , Ph.D <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D. STAT
+<PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+The patient &apos;s granddaughter , however , works at <PHI TYPE="HOSPITAL">Retelk County Medical Center</PHI> and therefore the family elected to bring the patient xxxPEOPLExxx and then bring her to <PHI TYPE="HOSPITAL">Retelk County Medical Center</PHI> .
+Chest x xxxPEOPLExxx showed significant kiphosis but otherwise no significant lesions at all .
+Revealed fullness in the submental and suprahyoid regions with mild tenderness which was consistent with edema of the soft tissues without significant xxxPEOPLExxx Neck :
+The xxxPEOPLExxx pyriform was narrowed by edema .
+Direct laryngoscopy was performed but this revealed only a large amount of base of tongue edema with minimally visible epiglottis which was also significantly edematous and no distinct xxxPEOPLExxx or lesion could be noted .
+Of note , during her xxxPEOPLExxx hospital day when she received steroids her blood sugars did increase significantly and therefore she was started on insulin .
+Tube feedings were started on <PHI TYPE="DATE xxxxDATE22xxxx PHI>/91 and the xxxPEOPLExxx tube was discontinued on <PHI TYPE="DATE" xxxxDATE22xxxx /PHI>/91 prior to extubation to give a better look at the epiglottis prior to extubating her .
+The patient is a xxxxAGE5xxxx who is status post resection of a Klatskin tumor , who returns with persistent jaundice and xxxPEOPLExxx upper quadrant pain .
+In <PHI TYPE="DATE xxxxMONTHxxxx PHI> xxxxYEAR_CENTURYxxxx , he had an endoscopic retrograde cholangiopancreatography that shoed obstruction at the confluence of the left and xxxPEOPLExxx hepatic ducts .
+The computerized tomography scan showed dilated left and xxxPEOPLExxx hepatic ducts and was consistent with some form of blockage of the drainage arrangement .
+He was covered prophylactically for the indwelling stents with ofloxacin 400 mg xxxPEOPLExxx b.i.d.
+The patient will continue his course of Flagyl until that is finished and he will stay on the xxxPEOPLExxx ofloxacin until the external draining stents are removed .
+are Glyburide 5-15 mg xxxPEOPLExxx q a.m. and 0-10 mg xxxPEOPLExxx q p.m. , depending on amount of oral intake ; Celesone 1 xxxxDATE22xxxx tablets xxxPEOPLExxx q day , Tagamet 400 mg xxxPEOPLExxx b.i.d. , ofloxacin 400 mg xxxPEOPLExxx b.i.d. , CZI sliding scale which will not be continued on discharge , and Flagyl 500 mg xxxPEOPLExxx t.i.d. for a total of xxxxWRITTEN_AGE_1_TO_19xxxx 
+This is to notify you that your patient , <PHI TYPE="PATIENT">xxxPEOPLExxx</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 08:04 AM .
+ProvidxxxPEOPLExxx :
+The patient is a xxxxAGE5xxxx xxxPEOPLExxx hand dominant white female with a history of primary central nervous system lymphoma , diagnosed in <PHI TYPE="DATE xxxxMONTHxxxx PHI> , xxxxYEAR_CENTURYxxxx , status post twelve cycles of high dose methotrexate , status post two cycles of high dose ARA C chemotherapy , who was admitted with a chief complaint of rectal bleeding and decreasing platelet count .
+An MRI showed enhancing white marrow lesions at the bifrontal lobes on the xxxPEOPLExxx side , and rightsided basal ganglion in the xxxPEOPLExxx cerebral peduncle .
+The patient had a follow up MRI scan which showed no significant change of tumor xxxPEOPLExxx However , in lieu of a persistent bone marrow suppression from chemotherapy , it was decided that she should undergo radiation therapy .
+Decadron 6 mg xxxPEOPLExxx tid ; and she should continue Inderal , Synthroid and Zoloft at the present dose and frequency .
+This is to notify you that your patient , <PHI TYPE="PATIENT">xxxPEOPLExxx</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 01:40 PM .
+4. malignant xxxPEOPLExxx pleural effusion .
+She presented with wide complex tachycardxxxPEOPLExxxnd congestive heart failure .
+Breath sounds were markedly diminished on the xxxPEOPLExxx crackles were present on the left , approximately xxxxDATE22xxxx up .
+His ejection xxxPEOPLExxx was in the mid-50&apos;s.
+He has had a progressive decline in his left ventricular ejection xxxPEOPLExxx as measured by non invasive means with an echo ejection xxxPEOPLExxx in the low 40&apos;s and radionuclide ejection xxxPEOPLExxx estimated in <PHI TYPE="DATE xxxxMONTHxxxx PHI> of xxxxYEAR_CENTURYxxxx at 31% .
+That was his xxxPEOPLExxx <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> admission .
+There he had a xxxPEOPLExxx heart catheterization with unremarkable intercardiac pressures .
+Repeat coronary angiography once again failed to demonstrate any significant obstructive lesions in either his dominant xxxPEOPLExxx coronary artery or his left coronary system .
+He had a prolonged episode of typical anginal pain and xxxPEOPLExxx in for a small Q wave myocardial infarction .
+Left ventriculography revealed a large area of antero lateral and apical hypokinesis to akinesis with an estimated ejection xxxPEOPLExxx of 35% .
+He was ; therefore , xxxPEOPLExxx in consultation by Dr. <PHI TYPE="DOCTOR">Lato Tikfreierm</PHI> of the Hematology Service to evaluate him further for a possible hypocoagulable condition versus primary and secondary platelet abnormality which could explain his recurrent coronary events .
+The rest of his hypercoagulable work up revealed that he had nearly normal xxxPEOPLExxx of clotting factors , specifically , his antithrombin 3 of level was lll with a reference range of xxxxSUSPICIOUS_NUM2xxxx .
+Plasminogen was slightly high at l51 with upper limit of normal being l30 . xxxPEOPLExxx 8 was likewise slightly high at 249 with a reference range of xxxxSUSPICIOUS_NUM2xxxx .
+His compliment xxxPEOPLExxx were normal and he had no evidence of hepatitis , B serologies which also measured to see if there was some chronic inflammatory process .
+Ticlopodine 500 mg. p.o.b.i.d. Lovastatin 20 mg. p.o.q.d. Lasix 80 mg. q.d. Kayciel 60 meq b.i.d. Cimetidine 400 mg. b.i.d. Isordil 20 mg. t.i.d. and Lodopine 10 mg. q.d. a combination of Percocet , Morphine Sulfate elixir xxxPEOPLExxx as needed .
+A xxxPEOPLExxx was palpable on vaginal exam and a biopsy was performed which revealed squamous cell carcinoma .
+Catheterization showed an ejection xxxPEOPLExxx of 52% with normal coronaries and excellent output .
+He did well during the xxxPEOPLExxx few postoperative days , however , he then developed acute renal insufficiency in his grafted kidney .
+He was xxxPEOPLExxx in consult by the renal transplant team and was felt to be prerenal due to hypertensive episodes perioperatively .
+His cyclosporine xxxPEOPLExxx were therapeutic but reduced in dosage .
+He talked to Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> yesterday on the phone , who instructed the patient to take 60 milligrams of Lasix on the morning of admission , his usual dose was xxxxADDRESS8xxxx MEDICAL HISTORY was remarkable for coronary artery disease .
+His congestive heart failure most recently he had an ejection xxxPEOPLExxx of xxxxADDRESS7xxxx  <PHI TYPE="DOCTOR">Pain</PHI> .
+Significant for hypertension times xxxxAGE6xxxx , status post MI times two in xxxxYEAR_CENTURYxxxx and xxxxYEAR_CENTURYxxxx , TIA &apos;s which led to an endarterectomy . xxxPEOPLExxx carotid endarterectomy , status post CABG times six , status post TURP , status post ORIF of left arm .
+Labetalol 100 mg xxxPEOPLExxx b.i.d. ; Enalapril 5 mg q.d. ; Naprosyn 500 mg b.i.d. ; Ranitidine 150 mg p.o.q. day ; Quinamm 1 xxxPEOPLExxx q.h.s. p.r.n. ; KCl 20 mEq xxxPEOPLExxx p.r.n. ; Ecotrin aspirin one p.o.q. day ; Ferrous Gluconate 325 mg p.o.q. day .
+The patient was taken to the operating xxxxROOMxxxx 20</PHI>-91 at which time a total knee repair was done to both the xxxPEOPLExxx and left knees .
+Labetalol 100 mg xxxPEOPLExxx b.i.d. ; Enalapril 5 mg xxxPEOPLExxx q.d. ; Ranitidine 150 mg xxxPEOPLExxx q.d. ; Ferrous Gluconate 325 mg xxxPEOPLExxx b.i.d. ; Carafate one gram xxxPEOPLExxx q.i.d. ; Quinamm one xxxPEOPLExxx q.h.s. p.r.n. ; Percocet one to two xxxPEOPLExxx q. 4 hours p.r.n.
+The patient will be discharged to a rehabilitation xxxPEOPLExxx and will be followed up by Dr. <PHI TYPE="DOCTOR">Nu Jescraln</PHI> in xxxxWRITTEN_AGE_1_TO_19xxxx from discharge .
+She was subsequently referred to Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> for evaluation and workup of her aneurysm .
+She has a pulsatile upper abdominal xxxPEOPLExxx She has a well healed xxxPEOPLExxx groin scar and pulse examination reveals 2 plus pulses from the carotids through the posterior tibial arteries bilaterally .
+She had a xxxPEOPLExxx xxxPEOPLExxx postoperative day without evidence of hemodynamic or cardiopulmonary deterioration .
+Serum electrolytes at the time revealed normal potassium xxxPEOPLExxx and the patient was treated with p.r.n. verapamil and digoxin therapy for a heart rate varying between 80 and xxxxADDRESS8xxxx patient &apos;s oxygen saturations continued to maintain at xxxPEOPLExxx greater than 95 percent and this was felt to be well controlled and she was placed on digoxin chronically and also diuresed for therapy .
+Laboratory data obtained revealed no significant changes from her initial postoperative xxxPEOPLExxx The epidural catheter had been removed prior to their evaluation and no return of significant function was noted over the ensuing xxxxWRITTEN_AGE_1_TO_19xxxx aside from flexion and extension of the toes but still the patient maintained profound proximal lower extremity weakness .
+Lopressor 25 mg xxxPEOPLExxx b.i.d. , Dulcolax tablets 2 xxxPEOPLExxx q.a.m. , Dulcolax suppository 1 xxxPEOPLExxx q.o.d. , digoxin .125 mg xxxPEOPLExxx q. day , Bactrim DS b.i.d. , Tylenol 650 mg xxxPEOPLExxx PR q. 4 hours p.r.n. elevated temperature , Benadryl 25-50 xxxPEOPLExxx q.h.s. and Percocet 1-2 tablets xxxPEOPLExxx q. 4 hours p.r.n. pain .
+The patient will follow up with Dr. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">Laelk xxxHOSPITALxxx Hospital</PHI> .
+This is to notify you that your patient , <PHI TYPE="PATIENT">xxxPEOPLExxx</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph xxxxPRIVATExxx Of Medical Center</PHI> on <PHI TYPE="DATE xxxxDATE4xxxx PHI xxxxYEAR_CENTURYxxxx 12:41 PM .
+This is a xxxxAGE5xxxx PHI TYPE="LOCATION">Note</PHI> male with advanced AIDS , who was admitted secondary to failure to thrive , with weight loss , diarrhea , progressive oral / facial Kaposi &apos;s sarcoma , unsteadiness , suspected metabolic derangements , and xxxPEOPLExxx compliance with recommended medications .
+Diarrhea responded initially to Paromomicin , but subsequent medical compliance was xxxPEOPLExxx 4. Cerebral toxoplasmosis , xxxPEOPLExxx on suppressive therapy .
+Titer xxxPEOPLExxx at 1:8 on suppressive therapy .
+Scattered Kaposi &apos;s sarcoma , several necrotic lesions , xxxPEOPLExxx lower extremity , consistent with chronic ulcers .
+Sodium was 130 , potassium was 2.0 , phosphorus was 1.8 , magnesium was 1.0 , SGOT was 41 , hematocrit was 34.6 , white blood count was 3.4 , platelet count was 134,000 , chest X xxxPEOPLExxx was clear .
+As he improved symptomatically and was able to take xxxPEOPLExxx without discomfort , it was decided to follow him clinically .
+Biopsy of xxxPEOPLExxx lower extremity lesion showed VZV .
+The patient was discharged in improved condition , taking xxxPEOPLExxx and able to take care of personal hygiene with assistance .
+7. Chronic VZV of xxxPEOPLExxx lower extremity .
+Clarithromycin , 250 mg. , xxxPEOPLExxx b.i.d. , multivitamins , one , xxxPEOPLExxx qD , Diflucan , 100 mg. , xxxPEOPLExxx qD , pyrimethamine , 25 mg. , xxxPEOPLExxx qD , Sulfadiazene , 500 mg. , xxxPEOPLExxx b.i.d. , acyclovir , 400 mg. , xxxPEOPLExxx t.i.d. , Pyridex swish and spit , t.i.d. , leucovorin , 5 mg. , xxxPEOPLExxx q.o.d. , Neutro Phos I , 2 , xxxPEOPLExxx qD .
+Her husband is in a nursing xxxPEOPLExxx Showed bruises over both her knees .
+There was a soft xxxPEOPLExxx carotid and xxxPEOPLExxx femoral bruit .
+Cholesterol xxxxADDRESS8xxxx x xxxPEOPLExxx normal .
+EKG was within normal limits . xxxPEOPLExxx was normal .
+It was felt that given this rate related block on the left , combined with the possibility of physiologic malfunction on the xxxPEOPLExxx complete heart block as the source of the patient &apos;s syncopal episode was quite possible and plans were made to insert a VVI pacer .
+Calan xxxxTITLESxxxx 240 mg xxxPEOPLExxx q.d. , Vaseretic 10 mg xxxPEOPLExxx q.d. , Ibuprofen and Cytotec prn joint pain .
+1. <PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , MD <PHI TYPE="HOSPITAL">LIODIMAN BASSPRINGTY HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , Utah</PHI>
+She was discharged xxxPEOPLExxx Approximately xxxxWRITTEN_AGE_1_TO_19xxxx prior to admission she developed anorexia , increased abdominal girth , weight loss of 15 lb , and nausea and vomiting .
+Chest x xxxPEOPLExxx EKG :
+The patient was xxxPEOPLExxx in consultation by the Gastroenterology service and it was decided that an esophagogastroduodenoscopy would be performed .
+On <PHI TYPE="DATE xxxxDATE4xxxx PHI> an esophagogastroduodenoscopy was performed , which showed gastric outlet obstruction , a deformed pylorus and a duodenal xxxPEOPLExxx encasing and obstructing the lumen .
+The General Surgery service was involved at this stage , and on <PHI TYPE="DATE xxxxDATE4xxxx PHI> a posterior gastrojejunostomy with xxxPEOPLExxx liver biopsy was performed to facilitate gastric drainage .
+Chest X xxxPEOPLExxx was consistent with an old chest X xxxPEOPLExxx on <PHI TYPE="DATE xxxxDATE4xxxx PHI>/92 showing a resolving left lower lobe and lingular infiltrate and resolution of the xxxPEOPLExxx mid lung infiltrate .
+MEDICATIONS at the time of discharge are G CSF 300 micrograms subcu q. day , Acyclovir 200 mg xxxPEOPLExxx b.i.d. , Erythromycin 500 mg xxxPEOPLExxx b.i.d. , Dapsone 50 mg xxxPEOPLExxx Monday , Wednesday and Friday , Imodium 1-2 tablets xxxPEOPLExxx q. 6 hours p.r.n. , Nystatin 5 xxxxCC2xxxx  and xxxNAMExxx Ceil 40 mEq xxxPEOPLExxx b.i.d.
+<PHI TYPE="DOCTOR">xxxPEOPLExxx</PHI> , M.D.
+The patient &apos;s workup up until that time included a diagnosis of periampullary adenocarcinoma , which was proven by EGD directed biopsy , and a left renal xxxPEOPLExxx which was biopsied and found to be an oncocytoma .
+Total_People: 1202, TP: 119, FP: 1083
