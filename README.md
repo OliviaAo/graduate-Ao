@@ -48,8 +48,8 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         ```diff
         + Note: test dataset should reformat first. (Add header and tailer)
-        + Modify ScrubbedConfiguration file when you want to change the using dictionaries in the scrubber.
-        ```
+        + Modify ScrubbedConfiguration file when you want to change the using dictionaries in the scrubber.
+        ```
         
         * Analyse on the Scrubbed Text:
         ```
