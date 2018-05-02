@@ -96,6 +96,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
           If you want to start this function, pls remove the annotation in line 192, 726 and 698.
         
         - 3) Only Use the Training People Dictionary and Position Dictionary Funtion:
+        
         + 3.1)If you want to try "only use the training People dictionary"
           Modify the orginal deid.config file 
             Name filter = y
