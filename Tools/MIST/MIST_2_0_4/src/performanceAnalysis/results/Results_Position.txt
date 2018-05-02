@@ -1,1 +1,11 @@
-Total_Position: 0, TP: 0, FP: 0
+On <PHI TYPE="DATE">September 6</PHI> , she began the next cycle of second line chemotherapy consisting of Carboplatin , Ifosfamide , and [LOCATION] .
+The patient is to be transferred to <PHI TYPE="HOSPITAL">[LOCATION].ryfear Medical Center</PHI> for further care including physical therapy , occupational therapy , and further nutritional support .
+Include Albuterol nebulizer 2.5 mg nebs q.4h , Colace 100 mg p.o. b.i.d. , Vitamin D 5000 units p.o. q.weekly , iron sulfate 325 mg p.o. t.i.d. , folate 1 mg p.o. q.d. , regular insulin sliding scale , Lopressor 25 mg p.o. t.i.d. , Neutrophos 250 mg p.o. t.i.d. , [LOCATION] 2 tablets p.o. b.i.d. , multivitamins with minerals one tab p.o. q.d. , trazadone 50 mg p.o. q.h.s. p.r.n. insomnia , Zocor 40 mg p.o. q.h.s. , Atrovent nebulizers 0.5 mg nebs q.i.d. p.r.n. shortness of breath , Pulmicort two puffs inhaled b.i.d. and Nexium 40 mg p.o. b.i.d.
+He was subsequently switched to Imipenem and [LOCATION] and was maintained on those medications throughout the hospital course .
+The patient is a 79-year-old male with a history of [LOCATION] &apos;s disease x &apos;s 18 years , prostate cancer , urinary incontinence and recent subdurals after fall .
+The patient was admitted to the Surgical Service under the care of Dr. <PHI TYPE="DOCTOR">[LOCATION] [LOCATION]/PHI> .
+7. [LOCATION] .
+On admission included Dilantin , 100 mg po t.i.d. ; Cardizem , 120 mg po t.i.d. ; [LOCATION] , 20 mg po t.i.d. ; Beclomethasone , two puffs po q day ; aspirin , 325 mg po q day ; nitropaste , 1.5 inches q six hours .
+[LOCATION] .
+Diarrhea responded initially to [LOCATION] , but subsequent medical compliance was poor .
+Total_Position: 11, TP: 1, FP: 10

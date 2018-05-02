@@ -8,7 +8,9 @@ try:
 
 	# Read Scrubbed File
 	# f = open('./peopleScrubbedTest/50/scrubbed_original_test50.xml','r')
-	f = open('./peopleScrubbedTest/50/scrubbed_original_dictionary_test50.xml','r')
+	# f = open('./peopleScrubbedTest/50/scrubbed_original_dictionary_test50.xml','r')
+	f = open('scrubbed_original_test50.xml','r')
+	# f = open('scrubbed_dictionary_test90.xml','r')
 
 	# Initial Statistic File b
 	f_People   = open('./results/Results_Doctor.txt','w')

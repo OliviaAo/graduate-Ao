@@ -7,14 +7,13 @@ Date: 21-03-2018
 try:
 
 	# Read Scrubbed File
-	# f = open('./peopleScrubbedTest/50/scrubbed_original_test50.res','r')
-	f = open('./peopleScrubbedTest/50/scrubbed_original_dictionary_test50.res','r')
-	# f = open('/Users/ao/Desktop/graduate-Ao/Tools/DEID/deid-1.1/original_test50.res','r')
+	# f = open('./peopleScrubbedTest/80/scrubbed_original_test80.res','r')
+	# f = open('./peopleScrubbedTest/80/scrubbed_original_dictionary_test80.res','r')
+	f = open('/Users/ao/Desktop/graduate-Ao/Tools/DEID/deid-1.1/original_test50.res','r')
 
 	# Initial Statistic File
 	f_People   = open('./results/Results_People.txt','w')
 	f_Position = open('./results/Results_Position.txt','w')
-	
 
 	# Initial Counter:
 	countPeople = countPeople_tp = countPeople_fp = 0
@@ -24,21 +23,22 @@ try:
 	for line in f.readlines():
 
 		# People:
-		if (line.find("**First Name") != -1 ) or (line.find("**Initials") != -1 ) or (line.find("**Last Name") != -1 ) or (line.find("**Company")):
+		if (line.find("**First Name") != -1 ) or (line.find("**Initials") != -1 ) or (line.find("**Last Name") != -1 )  or (line.find("**Doctor") != -1):
 			f_People.write(line)
-			countPeople += line.count("**First Name") + line.count("**Initials") + line.count("**Last Name") + line.count("**Company")
+			countPeople += line.count("**First Name") + line.count("**Initials") + line.count("**Last Name") + line.count("**Doctor")
 
 			# Count True Positive and False Positive:
-			if(line.find("TYPE=\"DOCTOAR\"") != -1 ) or (line.find("TYPE=\"PATIENT\"") != -1 ):
-				count1 = line.count("**First Name") + line.count("**Initials") + line.count("**Last Name") + line.count("**Company")
-				count2 = line.count("TYPE=\"DOCTOAR\"") + line.count("TYPE=\"PATIENT\"") 
+			if(line.find("TYPE=\"DOCTOR\"") != -1 ) or (line.find("TYPE=\"PATIENT\"") != -1 ):
+				count1 = line.count("**First Name") + line.count("**Initials") + line.count("**Last Name") + line.count("**Doctor") 
+				count2 = line.count("TYPE=\"DOCTOR\"") + line.count("TYPE=\"PATIENT\"") 
 				if count2 < count1:
 					countPeople_tp += count2
 					countPeople_fp += count1 - count2
 				else:
 					countPeople_tp += count1
 			else:
-				countPeople_fp += line.count("**First Name") + line.count("**Initials") + line.count("**Last Name") + + line.count("**Company")
+				countPeople_fp += line.count("**First Name") + line.count("**Initials") + line.count("**Last Name") + + line.count("**Doctor") 
+
 
 
 		# Position (Location + Hosipital):
@@ -60,6 +60,7 @@ try:
 
 
 	# Print All Counter:
+	print ("Total Scrubbed:  %4d, TP: %4d, FP: %4d" %(countPeople+countPosition, countPeople_tp+countPosition_tp, countPeople_fp+countPosition_fp))
 	print ("Total_People:    %4d, TP: %4d, FP: %4d" %(countPeople, countPeople_tp, countPeople_fp))
 	f_People.write("Total_People: %d, TP: %d, FP: %d" %(countPeople, countPeople_tp, countPeople_fp))
 	print ("Total_Position:  %4d, TP: %4d, FP: %4d" %(countPosition, countPosition_tp, countPosition_fp))

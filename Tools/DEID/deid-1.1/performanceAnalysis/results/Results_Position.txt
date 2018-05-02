@@ -1,137 +1,647 @@
-He was transferred to the <PHI TYPE="HOSPITAL">Valtawnprinceel Community [**Hospital 2**] Hospital</PHI> for endoscopy and esophagoscopy on the <PHI TYPE="DATE">[**11-16**]</PHI> which showed a 2 cm linear tear of the esophagus at 30 to 32 cm .
-A medical consult was obtained at the <PHI TYPE="HOSPITAL">Valtawnprinceel Community [**Hospital 2**] Hospital</PHI> .
-He thought he was in &quot; <PHI TYPE="HOSPITAL">Em [**Hospital 5**] Medical Center</PHI> &quot; .
-The patient was admitted to the <PHI TYPE="HOSPITAL">[**Location 10**]Of Medical Center</PHI> .
-She has sustained a [**Company 6**] inter-trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">[**Hospital 28**] Medical Center</PHI> and transferred to the <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 29**] [**Male First Name (un) 30**] Medical Center</PHI> for further care by Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> .
-During this meeting , he was made do not resuscitate / do not intubate and he is to be discharged to the <PHI TYPE="HOSPITAL">[**Hospital 55**] [**Hospital 56**] Hospital</PHI> where the emphasis should be entirely on this patient &apos;s comfort ; that is antiemetics as he needs , [**Company 18**] control as needed and nutrition for his comfort .
-His medications on discharge are to be prescribed by the <PHI TYPE="HOSPITAL">[**Hospital 57**] Hospital</PHI> here and are currently pending at the time of this dictation .
-The patient was transferred to <PHI TYPE="HOSPITAL">[**Hospital 66**] Hospital</PHI> .
-The patient was homeless before she lived in <PHI TYPE="HOSPITAL">[**Hospital 72**] Medical Center</PHI> .
-<PHI TYPE="DATE">[**07-01**]</PHI>-92 ( <PHI TYPE="HOSPITAL">SOUTHOBASSKING&apos;S [**Hospital 76**] HOSPITAL</PHI> )
-He was taken to <PHI TYPE="HOSPITAL">[**Location 83**] Talmi</PHI> and transferred to <PHI TYPE="HOSPITAL">Heaonboburg [**First Name9 (NamePattern2) 29**] [**Male First Name (un) 30**] Medical Center</PHI> with a computerized tomography scan showing a 1x2 thalamic capsular hemorrhage without superficial [**Company **] effect .
-The patient is to return to the follow up care of Dr. <PHI TYPE="DOCTOR">[**Company 87**]</PHI> at the <PHI TYPE="HOSPITAL">[**Hospital 88**] Hospital</PHI> .
-She is transferred to <PHI TYPE="HOSPITAL">[**Hospital 95**] Hospital</PHI> on <PHI TYPE="DATE">[**05-28**]</PHI>-92 to continue her rehabilitation .
-At this time , she decided that she needed the prolapse fixed and actually wrote to the <PHI TYPE="HOSPITAL">[**Hospital 66**] Hospital</PHI> to try and find a Gynecologist .
-The patient is a 76 year old man , who was transferred from <PHI TYPE="HOSPITAL">[**Hospital 109**] Hospital</PHI> after an anterolateral MI , with post MI stuttering chest [**Company 18**] .
-On <PHI TYPE="DATE">[**12-22**]</PHI> , he was transferred to <PHI TYPE="HOSPITAL">[**Hospital 66**] Hospital</PHI> for evaluation of his post MI angina .
-DISCHARGED TO <PHI TYPE="HOSPITAL">SOUTHOBASSKING&apos;S [**Hospital 76**] HOSPITAL</PHI> .
-The patient is a 58 year old female with a history of Parkinson &apos;s disease for more than twenty years who presented to the <PHI TYPE="HOSPITAL">[**Hospital 134**] Medical Center</PHI> with a revolving anterolateral wall myocardial infarction on <PHI TYPE="DATE">[**08-01**]</PHI>-93 .
-The patient was transferred to the <PHI TYPE="HOSPITAL">[**Hospital 134**] Medical Center</PHI> and was admitted .
-HE CONTINUED TO DO WELL AND WAS DISCHARGED TO <PHI TYPE="HOSPITAL">[**Location 149**]HOSPITAL AND CLINICS</PHI> IN <PHI TYPE="LOCATION">[**Street Address 150**]. , Ingcinderdrykanedar , 62106</PHI> ON POSTOPERATIVE DAY 6 .
-He went to <PHI TYPE="HOSPITAL">Ton [**Location (un) **] Hospital</PHI> where a head CT was performed that showed no evidence of bleed .
-W / U for [**Location (un) 169**] &apos;s , ceruloplasmin , TSH , etc have all been negative in the past .
-This is a 70-year-old woman with a history of end-stage renal disease , on hemodialysis and peritoneal hemodialysis for ten years , transferred from <PHI TYPE="HOSPITAL">Ton [**Location (un) **] Hospital</PHI> for further evaluation of change in mental status .
-She was admitted to <PHI TYPE="HOSPITAL">[**Hospital 176**] Hospital</PHI> for change in mental status on <PHI TYPE="DATE">[**07-19**]</PHI>/2002 .
-MEDICATIONS ON TRANSFER TO THE <PHI TYPE="HOSPITAL">BRI HEALTH</PHI> FROM <PHI TYPE="HOSPITAL">[**Hospital **] HOSPITAL</PHI> :
-The patient received care on the <PHI TYPE="HOSPITAL">[**Hospital 195**] Medical Center</PHI> .
-<PHI TYPE="DOCTOR">[**Street Address 214**]</PHI> , M.D.
-Electronically Signed <PHI TYPE="DOCTOR">[**Street Address 214**]</PHI> , M.D.
-He has had numerous interval admissions to <PHI TYPE="HOSPITAL">[**Hospital 220**] Medical Health</PHI> for congestive heart failure of an increasing pattern in <PHI TYPE="DATE">03</PHI>/93 and <PHI TYPE="DATE">08</PHI>/94 and then every three weeks since the beginning of the year .
-For the patient , at <PHI TYPE="LOCATION">[**Last Name (un) 228**] , Alaska</PHI> , for Dr. <PHI TYPE="DOCTOR">[**Company 227**]</PHI> , c / o <PHI TYPE="HOSPITAL">Pedines Community Hospital</PHI> , in <PHI TYPE="LOCATION">[**Street Address 229**] , Biinss , [**State/Zipcode 230**]</PHI> .
-PPI and [**Hospital 237**]
-The patient is to arrange follow up with a GI doctor in <PHI TYPE="LOCATION">[**Street Address 242**] , Cunahtampfordama , [**State/Zipcode 243**]</PHI> through his primary-care physician .
-The patient was transferred to <PHI TYPE="HOSPITAL">[**Location 245**]Hospital</PHI> for management of her cancer and termination of the pregnancy .
-Per the patient &apos;s wishes , Dr. <PHI TYPE="DOCTOR">Dalywoo Droreite</PHI> the <PHI TYPE="HOSPITAL">[**Hospital 249**] Hospital</PHI> was consulted for a second opinion regarding the management of her malignancy .
-Per the patient &apos;s wishes , she was transferred to the <PHI TYPE="HOSPITAL">[**Hospital 249**] Hospital</PHI> for chemotherapy .
-The patient and his family agreed to transfer from <PHI TYPE="HOSPITAL">[**Location 245**]Hospital</PHI> to <PHI TYPE="HOSPITAL">[**Hospital 252**] Medical Center</PHI> .
-1. <PHI TYPE="HOSPITAL">[**Location 254**] HOSPITAL</PHI>
-She is currently [**Location (un) 258**] Heart Association functional class 3 .
-The patient was transferred to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> for further management .
-He was admitted to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> at that time and was treated with Bactrim and steroids .
-The patient was in her usual state of health until <PHI TYPE="DATE">[**07-10**]</PHI>/98 when she was admitted to the <PHI TYPE="HOSPITAL">[**Hospital 270**] Medical Center</PHI> with a chief complaint of falling and mental status changes .
-On arrival to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> the patient stated that she had not had a bowel movement for many days and that she had no appetite .
-At <PHI TYPE="HOSPITAL">[**Hospital 275**] Medical Center</PHI> , she had a hematocrit of 25 and was transfused 2 units of packed red blood cells .
-She was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Intensive Care Unit where on <PHI TYPE="DATE">[**01-25**]</PHI> in the morning her hematocrit was found to be 27.4 .
-At that time she was transferred from the Intensive Care Unit to <PHI TYPE="HOSPITAL">Coden 2</PHI> for the <PHI TYPE="HOSPITAL">[**Hospital 277**] Hospital</PHI> service .
-On transfer to the <PHI TYPE="HOSPITAL">[**Hospital 277**] Hospital</PHI> service , her hematocrit was 31.2 , white count 11.1 and a platelet count 80 .
-The patient was scheduled to follow up with Dr. <PHI TYPE="DOCTOR">[**Company 282**]</PHI> on <PHI TYPE="DATE">[**01-08**]</PHI> , 1994 at 1:20 p.m. at the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> .
-However , she has been reluctant to even move from the bed to the chair since admission to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> .
-<PHI TYPE="DOCTOR">[**Company 286**]</PHI> , M.D. , Reproductive Endocrinology <PHI TYPE="DOCTOR">Heifer [**Company 282**]</PHI> , M.D. , <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> , phone [**Company **] <PHI TYPE="PHONE">[**Telephone/Fax (1) 284**]</PHI> STAT
-She has been [**Company 4**] by Dr. <PHI TYPE="DOCTOR">[**Company 287**]</PHI> , her primary care physician [**Initials (NamePattern4) **] <PHI TYPE="HOSPITAL">[**Hospital 288**] Hospital</PHI> , and also Dr. <PHI TYPE="DOCTOR">Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
-This is to notify you that your patient , <PHI TYPE="PATIENT">AKOTE , RALPRI</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**04-14**]</PHI>/2004 02:47 PM .
-Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-The patient was to follow-up with the <PHI TYPE="HOSPITAL">[**Hospital 299**] Hospital And Medical Center</PHI> as an outpatient for further treatment .
-He is transferred to <PHI TYPE="HOSPITAL">[**Hospital 301**] [**Hospital 302**] Medical Center</PHI> for future rehabilitation and hopeful return [**Company 19**] with considerable support and assistance .
-In <PHI TYPE="DATE">October</PHI> 1990 , the patient was admitted again to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> with diarrhea and acute renal failure secondary to hypovolemia .
-The plan at this time was made to further consider the options and the patient will follow-up with <PHI TYPE="HOSPITAL">Im [**Location 309**]Medical Center</PHI> next week .
-The patient has a long history of alcohol abuse and alcoholic liver disease as well as seizure disorder related to alcohol withdrawal and multiple <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> admissions for detox and multiple detox facilities in the past .
-He was transferred to <PHI TYPE="HOSPITAL">[**Hospital 314**] Hospital</PHI> for further evaluation .
-1. <PHI TYPE="HOSPITAL">PAW.[**Hospital 316**] MEDICAL CENTER</PHI>
-This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 318**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**04-26**]</PHI>/2000 03:19 PM .
-He was instructed to follow-up with his outpatient physician , Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> , at the <PHI TYPE="HOSPITAL">Chorlasonmor [**Hospital 320**] [**Hospital 321**] [**Hospital 322**]</PHI> at <PHI TYPE="LOCATION">Uingno Dar</PHI> as well as his <PHI TYPE="HOSPITAL">VLH</PHI> Hematologist .
-[**Company **] PROXIMAL TIBIAL DELAYED [**Hospital1 323**] WITH MEDIAL PLATEAU FRACTURE
-This is a 69-year-old male who was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> with coronary artery disease .
-On <PHI TYPE="DATE">[**10-13**]</PHI>/96 he was admitted to the <PHI TYPE="HOSPITAL">[**Hospital 324**] [**Hospital 2**] Hospital</PHI> with chest [**Company 18**] and abdominal [**Company 18**] and in atrial fibrillation .
-The patient had not had chest [**Company 18**] since the seventh and was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> in [**Company 3**] condition .
-<PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">WIN E [**Company **]</PHI> , M.D. / DR. <PHI TYPE="DOCTOR">[**Company **]</PHI> <PHI TYPE="HOSPITAL">[**Hospital **] [**Hospital **] HOSPITAL</PHI> , <PHI TYPE="LOCATION">Ka Pemco</PHI>
-This is a 72-year-old male with a history of thymoma resected in [**1996**] , chronic obstructive pulmonary disease , hypothyroidism who was transferred from <PHI TYPE="HOSPITAL">Gobay [**Hospital **] [**Hospital 2**] Hospital</PHI> for an myocardial infarction and cardiac catheterization .
-He was transferred to <PHI TYPE="HOSPITAL">Gobay [**Hospital **] [**Hospital 2**] Hospital</PHI> where chest x-ray showed left lower lobe infiltrate and cardiac enzymes were elevated with a CK of 297 , MB [**Company 71**] of 38 and troponin of 12 .
-The patient was transferred to the medicine service at the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> and underwent cardiac catheterization which was negative for disease .
-The ulcer was managed conservatively at <PHI TYPE="HOSPITAL">[**Hospital **] Hospital</PHI> by Dr. <PHI TYPE="DOCTOR">[**Company 333**]</PHI> with Silvadene b.i.d. lower extremity non-invasive study obtained at that time showed poor distal [**Company 6**] extremity perfusion .
-An echocardiogram at the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> in [**1997**] revealed a normal ejection [**Company 71**] and no wall motion abnormality .
-The patient was intubated , given thiamine and D50 as well as intravenous Lasix and she was transferred to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Emergency Room .
-Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-She is now referred to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> for evaluation of her mitral valvular disease .
-He was admitted to <PHI TYPE="HOSPITAL">[**Hospital 358**] Medical Center</PHI> with severe recurrent pancreatitis , nausea , vomiting , and abdominal [**Company 18**] .
-He was transferred to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> for further surgical evaluation .&apos;
-The patient will follow up with Dr. <PHI TYPE="DOCTOR">[**Company 368**]</PHI> at <PHI TYPE="HOSPITAL">[**Hospital 369**] Hospital Medical Centers</PHI> in <PHI TYPE="LOCATION">Connecticut</PHI> .
-The patient was admitted to the <PHI TYPE="HOSPITAL">Bitamp [**Hospital1 2**]</PHI> on <PHI TYPE="DATE">[**05-11**]</PHI>/99 , having had three episodes of chest [**Company 18**] .
-However , it should be stated that all of her cultures while at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> were negative for growth .
-The patient recently DC&apos;d to [**Company 19**] from <PHI TYPE="HOSPITAL">[**Hospital 376**] Hospital</PHI> on <PHI TYPE="DATE">[**02-20**]</PHI>/2004 .
-She is a 70 year old white woman in good general health until <PHI TYPE="DATE">November</PHI> l990 when she developed sudden shortness of breath and was taken to <PHI TYPE="HOSPITAL">[**Hospital 358**] Medical Center</PHI> .
-On the day of admission in <PHI TYPE="HOSPITAL">[**Hospital 403**] Medical Center</PHI> medical doctor &apos;s office , the patient had 2 episodes of chest [**Company 18**] associated with shortness of breath without radiation or other associated symptoms .
-The patient &apos;s Decadron dose was increased to 12 mg q day and he was also started on MS Contin and radiation therapy was being planned and arranged at the <PHI TYPE="HOSPITAL">[**Hospital 299**] Hospital And Medical Center</PHI> .
-There were cultures obtained seeping from the wound at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> and those also grew out Pseudomonas aeruginosa .
-The patient presented to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> with a fever .
-He was [**Company 4**] in <PHI TYPE="HOSPITAL">[**Hospital 299**] Hospital And Medical Center</PHI> on <PHI TYPE="DATE">[**10-29**]</PHI>-90 and EKG changes with ST elevations in V2 through V4 and flipped T waves in leads 3 and aVF was noted .
-Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED TO OBSERVATION AT <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-The patient was [**Company 4**] at the <PHI TYPE="HOSPITAL">Ochtuheihugh Put [**Location (un) **] Medical Center</PHI> and then he was referred to the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> .
-At 8 p.m. the patient [**Company 4**] at the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- [**Hospital 283**] [**Hospital 2**] Hospital</PHI> and was examined and assessed .
-[**Location 422**] memory the patient was able to recall one object out of thee at five minute , two out of three with clues and three out of three with multiple choice .
-The patient will also be followed by his regular Urologist at <PHI TYPE="HOSPITAL">Ochtuheihugh Put [**Location (un) **] Medical Center</PHI> within one week after discharge for his continuing hematuria .
-As her baseline mental status is completely alert and oriented , this caused concern amongst the staff of the rehabilitation center and the patient was transferred to the <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
-<PHI TYPE="DATE">[**Hospital1 2**] Day</PHI> 09:21 AM
-Physicians that took care of this patient while at the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> are as follows :
-The patient was returned to [**Location 437**] sinus rhythm with a good blood pressure after cardioversion with 300 millivolts .
-The patient is a 5 year old male with multiple anomalies transferred from <PHI TYPE="HOSPITAL">[**Hospital 442**] [**Hospital 443**] Medical Center</PHI> of <PHI TYPE="LOCATION">Ohio</PHI> on <PHI TYPE="DATE">[**07-20**]</PHI> for management of airway obstruction secondary to tracheal stenosis / history of difficult intubations .
-Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton [**Last Name (un) **] N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Pediatric Intensive Care Unit for evaluation and management by Dr. <PHI TYPE="DOCTOR">[**Company **]</PHI> on <PHI TYPE="DATE">[**07-20**]</PHI> in the p.m.
-<PHI TYPE="DOCTOR">[**Company **]</PHI> , M.D. , at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Pediatric Intensive Care Unit .
-[**Name (NI) **] was evaluated by the speech and swallow pathology group at the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> and it was decided that he was able to swallow on his own with a soft solid diet with supervision .
-For this reason , he was taken again to the operating room on <PHI TYPE="DATE">[**01-08**]</PHI>/98 , at which time a gastrojejunostomy was performed with stapling across the gastroduodenal junction , introduction of five [**Location (un) 460**]-[**Location (un) 461**] drains into the retroperitoneal [**Company **] , cholecystotomy tube , gastrostomy tube , and jejunostomy tube .
-The patient also appeared to have stool from his [**Location (un) 460**]-[**Location (un) 461**] site and [**Company 6**] oblique incision .
-<PHI TYPE="DOCTOR">[**Company 466**]</PHI> MD , PHD <PHI TYPE="LOCATION">New [**Location (un) 467**]</PHI>
-The patient is a 47 year old patient of Dr. <PHI TYPE="DOCTOR">[**Company 470**]</PHI> and Dr. <PHI TYPE="DOCTOR">Leebjescobe</PHI> in <PHI TYPE="LOCATION">Co In Saorlirv Frea , [**Location 471**]</PHI> who was well until a bout of double pneumonia in <PHI TYPE="DATE">May</PHI> 1992 , at which time he was hospitalized at <PHI TYPE="HOSPITAL">[**Hospital 472**] [**Hospital 473**] Hospital Medical Center</PHI> .
-<PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> , Doctor <PHI TYPE="DOCTOR">[**Male First Name (un) **]</PHI> , <PHI TYPE="DATE">[**02-15**]</PHI>-90 , operated and removed the tumor via craniotomy incision .
-The patient is 57 years old with a history of a rheumatic heart , mitral stenosis , pulmonary hypertension who was transferred to <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> from <PHI TYPE="HOSPITAL">E Health</PHI> for evaluation of possible mitral valve prolapseplasty .
-The patient has previously been [**Company 3**] however he has shown signs and symptoms and radiographic evidence of recurrence and so he presented to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> for possible hemipelvectomy .
-The patient had an abdominal CT scan done on <PHI TYPE="DATE">[**Hospital1 2**] Day</PHI> , 2000 for a question of an abdominal wall infection or abscess .
-On <PHI TYPE="DATE">09</PHI>/93 the patient underwent transplant evaluation at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
-The patient was transferred to <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> on <PHI TYPE="DATE">[**02-20**]</PHI>/94 , again for possible heart-lung transplantation .
-Furthermore , since it was felt that the patient failed amiodarone therapy , the patient was [**Company 4**] by the <PHI TYPE="HOSPITAL">[**Hospital 493**] [**Hospital 494**] Hospital</PHI> which recommended EPS to [**Company 31**] out possible bundle branch reentry as the source of the patient &apos;s arrhythmia with possible AICD placement if the EPS was negative .
-On <PHI TYPE="DATE">[**09-02**]</PHI>/98 he was admitted to <PHI TYPE="HOSPITAL">[**Hospital 498**] [**Hospital 2**] Hospital Of</PHI> with palpitations and was found to have an irregular wide complex tachycardia thought to be due to atrial fibrillation and conduction down his accessory pathway .
-He was [**Company 4**] by <PHI TYPE="HOSPITAL">[**Hospital 499**] Hospital Center</PHI> who felt that he could be safely treated with Solumedrol rather than Prednisone together with Benadryl and the use of low ionic contrast medium .
-<PHI TYPE="DOCTOR">[**Company 502**]</PHI> , M.D. CARDIAC UNIT <PHI TYPE="HOSPITAL">[**Hospital 503**] HEALTH CENTER</PHI>
-<PHI TYPE="DOCTOR">[**Company 505**]</PHI> , M.D. <PHI TYPE="HOSPITAL">[**Hospital 503**] HEALTH CENTER</PHI>
-Refractory CLL with bone marrow involvement , status post MUD , mini-allo stem cell transplant , <PHI TYPE="DATE">December</PHI> , 2002 , Acanthamoeba infection of skin and sinuses , recently treated with IV pentamidine and p.o. voriconazole , history of recurrent CMB infection , recent ARS on CRI , thought due to medication toxicity ( creatinine on discharge from <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> on <PHI TYPE="DATE">[**10-16**]</PHI> was 2.6) .
-He called the EMT &apos;s and was found to be in pulmonary edema by chest x-ray at <PHI TYPE="HOSPITAL">[**Hospital 472**] [**Hospital 473**] Hospital Medical Center</PHI> .
-He was taken first to <PHI TYPE="HOSPITAL">[**Hospital 275**] Medical Center</PHI> where he arrived at about 3:00 AM and a CT scan showed ? basal subarachnoid hemorrhage and hydrocephalus .
-The <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> Admitting Desk was also notified as were Dr. <PHI TYPE="DOCTOR">[**Company 520**]</PHI> , Dr. <PHI TYPE="DOCTOR">Telshey Vital</PHI> , Dr. <PHI TYPE="DOCTOR">[**Company 521**]</PHI> , and the patient &apos;s primary care physician , Dr. <PHI TYPE="DOCTOR">[**Company 522**]</PHI> .
-The <PHI TYPE="HOSPITAL">Ebeairs [**Hospital 523**] [**Hospital 524**] [**Hospital 322**]</PHI> was contacted .
-The patient &apos;s granddaughter , however , works at <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> and therefore the family elected to bring the patient [**Company 19**] and then bring her to <PHI TYPE="HOSPITAL">[**Location 262**]Medical Center</PHI> .
-This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 532**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-24**]</PHI>/2005 08:04 AM .
-[**First Name (Titles) 533**] [**Last Name (Titles) 534**] and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">PH [**Location (un) **] OF MEDICAL CENTER</PHI> .
-This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 539**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**08-25**]</PHI>/2002 01:40 PM .
-The patient was admitted to <PHI TYPE="HOSPITAL">[**Hospital 542**] Hospital</PHI> , where a therapeutic thoracentesis was performed in order to alleviate her dyspnea .
-A cardiac ultrasound study on <PHI TYPE="DATE">[**Hospital1 2**] Day</PHI> demonstrated an aortic stenosis with a calculated valve area of .6 square cm .
-<PHI TYPE="PATIENT">[**Company 545**]</PHI> is a 38 year old male who is admitted in transfer from the <PHI TYPE="HOSPITAL">[**Location 546**]Hospital</PHI> in <PHI TYPE="LOCATION">[**Last Name (LF) **] , [**First Name3 (LF) **]</PHI> for further evaluation and management of accelerating chest pains syndrome .
-Since that time , he has had multiple admissions to <PHI TYPE="HOSPITAL">[**Doctor First Name 547**]&apos;[**Hospital 548**] Medical Center</PHI> with recurrent chest [**Company 18**] .
-He was admitted to <PHI TYPE="HOSPITAL">[**Doctor First Name 547**]&apos;[**Hospital 548**] Medical Center</PHI> with a typical episode of this discomfort in <PHI TYPE="DATE">October</PHI> of l994 .
-He was transferred at that time to the <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> .
-That was his first <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> admission .
-After IV hydration , her creatinine returned to [**Location 437**] .
-The patient will follow up with Dr. <PHI TYPE="DOCTOR">[**Company 558**]</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">[**Hospital 559**] [**Hospital 2**] Hospital</PHI> .
-This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 563**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**09-20**]</PHI>/2000 12:41 PM .
-This is to notify you that your patient , <PHI TYPE="PATIENT">[**Company 564**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">Ph [**Location (un) **] Of Medical Center</PHI> on <PHI TYPE="DATE">[**07-31**]</PHI>/2000 07:36 PM .
-1. <PHI TYPE="DOCTOR">[**Company 335**]</PHI> , MD <PHI TYPE="HOSPITAL">[**Hospital 567**] [**Hospital 568**] HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , Utah</PHI>
-On <PHI TYPE="DATE">[**01-24**]</PHI> she was taken to the <PHI TYPE="HOSPITAL">[**Hospital 571**] [**Hospital 2**] Hospital</PHI> hospital , where she was diagnosed with choledocholithiasis .
-Total_Position: 166, TP: 133, FP: 33
+The patient &apos;s hematocrit was [**Doctor or Patient Name 1**] and he was given [**Hospital Customize 2**] further intervention .
+[**Hospital Customize **] heparin was given because of his esophageal laceration .
+[**Hospital Customize **] beta blocker was given because of his history of chronic obstructive pulmonary disease .
+There was [**Hospital Customize 2**] lesion noted in the stomach .
+[**Hospital Customize **] cardiopulmonary resuscitation was performed as per the patient and family wishes .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+An abdominal ultrasound was performed showing [**Hospital Customize 2**] stones .
+[**Hospital Customize **] inguinal nodes .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+There was [**Hospital Customize 2**] adenopathy .
+On discharge the patient was [**Hospital Customize 2**] longer neutropenic .
+Index [**Hospital Customize **]. <PHI TYPE="ID">Y1WYX127C5</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+She had elevated beta HCG [**Doctor or Patient Name 9**] , [**Hospital Customize 2**] tubal pregnancy was suspected .
+She reports having [**Hospital Customize 2**] siblings .
+[**Hospital Customize **] crackles .
+Regular rate and rhythm , [**Hospital Customize 2**] murmurs .
+[**Hospital Customize **] edema , 2+ pulses bilaterally .
+The patient tolerated chemotherapy very well , with [**Hospital Customize 2**] side effects .
+[**Hospital Customize **] medication changes done .
+[**Hospital Customize **] dictated summary
+She has sustained a [**Doctor or Patient Name 5**] inter-trochanteric hip fracture both treated at <PHI TYPE="HOSPITAL">Hoseocon Medical [**Doctor or Patient Name 4**]</PHI> and transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> for further care by Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name **]</PHI> .
+[**Hospital Customize **] known drug allergies .
+The head and neck exam notable for very poor dentition , [**Hospital Customize 2**] dentures .
+There is [**Hospital Customize 2**] evidence of lymphadenopathy .
+obese , present bowel sounds , noorganomegaly , [**Hospital Customize 2**] masses .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+She was readmitted to <PHI TYPE="HOSPITAL">Liccam Community Medical [**Doctor or Patient Name 4**]</PHI> where the KUB showed air fluid [**Doctor or Patient Name 9**] in the small bowel , but the CT showed [**Hospital Customize 2**] evidence of obstruction and she was discharged .
+She reports [**Hospital Customize 2**] fever , nausea or vomiting , light headedness .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+XRT , Friday , 10am  <PHI TYPE="DATE">05/22</PHI>/02 scheduled , Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 18**]</PHI> , call next week , [**Hospital Customize **] Known Allergies
+T9 with encroachment of spinal cord underwent urgent XRT with [**Hospital Customize 2**] response so he was referred to neurosurgery for intervention .
+Over the past 2 weeks he has has noted frontal and occipital HA with left eyelid swelling , ptosis , and denies CP , SOB , [**Hospital Customize 2**] sig. BM in past 5 days , small amt of stool after suppository .
+[**Hospital Customize **] dictated summary
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">HUHTLAND , CIE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> on <PHI TYPE="DATE">09/18</PHI>/2001 10:52 AM .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+[**Hospital Customize **] known drug allergies .
+[**Hospital Customize **] clubbing , cyanosis , or edema .
+By postoperative day # 5 , the patient had flatus , was tolerating clear liquids , ambulating and [**Hospital Customize 24**] well on [**Doctor or Patient Name 12**] pain medication .
+[**Hospital Customize **] CPR / [**Hospital Customize **] defib / [**Hospital Customize **] intubation / [**Hospital Customize **] pressors
+She was severely anemicon admission to <PHI TYPE="HOSPITAL">[**Hospital Customize 26**]</PHI> , and subsequently bled of unknown cause after dialysis .
+She was subsequently transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI> for work up of her severe anemia and thrombocytopenia .
+During her hospitalization at <PHI TYPE="HOSPITAL">[**Hospital Customize 26**]</PHI> , she had received HD due to concerns of uremia , had a MI by TnI ( 5.07 ) , had LGIB with negative work up for any potential source .
+She was subsequently transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI> for work up of her severe anemia and thrombocytopenia .
+T96.8 BP110/68 P108 RR28 99% on 2L [**Hospital Customize 27**] PE was notalbe for decreased BS at L lung base .
+The patient was evaluated at <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> by Dr. <PHI TYPE="DOCTOR">Do [**Doctor or Patient Name 29**]</PHI> for progressive worsening attacks and he was found to have progressive supranuclear palsy .
+He doesn &apos;t drink , [**Hospital Customize 2**] illicit drug use .
+This was read as poorly differentiated adenocarcinoma , signet ring cell type with focal intestinal metaplasia that was read by the <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> pathologist .
+During this meeting , he was made do not resuscitate / do not intubate and he is to be discharged to the <PHI TYPE="HOSPITAL">[**Hospital Customize 30**]</PHI> where the emphasis should be entirely on this patient &apos;s comfort ; that is antiemetics as he needs , pain control as needed and nutrition for his comfort .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+The neck had a full range of motion , [**Hospital Customize 2**] lymphadenopathy .
+The abdomen was soft , nontender and nondistended with [**Hospital Customize 2**] guarding and [**Hospital Customize 2**] hepatosplenomegaly .
+Index [**Hospital Customize **]. <PHI TYPE="ID">CHDNIR25 OK</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+[**Hospital Customize **] other history is available .
+On physical examination , an uncooperative white female sitting up in bed in [**Hospital Customize 2**] acute distress .
+[**Hospital Customize **] lymphadenopathy or thyromegaly .
+There is [**Hospital Customize 2**] acute change from <PHI TYPE="DATE">January</PHI> , 1992 .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+[**Hospital Customize 2**] masses , neck revealed lymphadenopathy .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+Examination of the extremities showed [**Hospital Customize 2**] ______________ .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+He was taken to <PHI TYPE="HOSPITAL">Wayskemedcalltown Talmi</PHI> and transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> with a computerized tomography scan showing a 1x2 thalamic capsular hemorrhage without superficial [**Doctor or Patient Name **] effect .
+The patient has [**Hospital Customize 2**] known drug allergies .
+On physical examination , patient is in [**Hospital Customize 2**] acute distress , afebrile , blood pressure 134/80 , heart rate 80 and regular , [**Hospital Customize 2**] bruits .
+Head computerized tomography scan showed 1.5 to 2 centimeter bleed in the [**Doctor or Patient Name 5**] thalamus extending to the internal capsule with mild distortion only , [**Hospital Customize 2**] shift .
+The neurological examination on discharge was [**Hospital Customize 2**] movement in the hand on the left or arm .
+Dr. <PHI TYPE="DOCTOR">Namarce Aldridge</PHI> <PHI TYPE="HOSPITAL">[**Hospital Customize 38**]</PHI> STAT
+There was an S4 , [**Hospital Customize 2**] S3 , grade II/VI apical murmur in systole , [**Hospital Customize 2**] rubs .
+There was [**Hospital Customize 2**] definite perfusion abnormality in the circumflex zone .
+The patient is to return to the follow up care of Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 39**]</PHI> at the <PHI TYPE="HOSPITAL">[**Hospital Customize 40**]</PHI> .
+There was [**Hospital Customize 2**] aphasia .
+There was slight further improvement of gait , mainly [**Doctor or Patient Name 41**] unsteadiness , but [**Hospital Customize 2**] change in speed .
+On <PHI TYPE="DATE">05-04</PHI>-92 she was evaluated by the neurology service , who recommended a CT scan , however [**Hospital Customize 2**] evidence of infarction was detected .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+Index [**Hospital Customize **]. <PHI TYPE="ID">ZKARBMH3X</PHI>
+Significant for a lower left saphenous vein thrombosis diagnosed with lower extremity non-invasives and on <PHI TYPE="DATE">May 2</PHI> , 1993 with [**Hospital Customize 2**] evidence of deep venous thrombosis and clearance by Dr. <PHI TYPE="DOCTOR">Ribreefcheampner</PHI> for further intervention .
+This was a well-developed , well-nourished female in [**Hospital Customize 2**] acute distress .
+Pupils were equal , round , and reactive to light , extraocular muscles were intact , and [**Hospital Customize 2**] lymphadenopathy .
+Examination showed regular rate and rhythm with [**Hospital Customize 2**] S3 or S4 heard and a grade II/VI holosystolic murmur loudest at the left sternal border .
+She had left lower leg varicose veins , [**Hospital Customize 2**] venous cords , and bilateral 2+ pedal pulses .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+Index [**Hospital Customize **]. <PHI TYPE="ID">KRUQ8L9 GVZ</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+On admission demonstrated a well-developed , well-nourished female in [**Hospital Customize 2**] apparent distress dragging her [**Doctor or Patient Name 5**] foot .
+Index [**Hospital Customize **]. <PHI TYPE="ID">WZGE1 XNHQ</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI>
+There is [**Hospital Customize 2**] diabetes , hypertension , or family history .
+She is an elderly white female in [**Hospital Customize 2**] apparent distress with a temperature of 97.6 , blood pressure 122/70 , heart rate of 72 , and a respiratory rate of 20 .
+The patient was admitted to the <PHI TYPE="HOSPITAL">[**Hospital Customize 44**]</PHI> Service where she ruled out for a myocardial infarction by CK &apos;s and LDH &apos;s .
+The patient was discharged [**Doctor or Patient Name 10**] in [**Doctor or Patient Name 1**] condition with <PHI TYPE="HOSPITAL">[**Hospital Customize 7**]</PHI> and physical therapy .
+The patient is a 76 year old man , who was transferred from <PHI TYPE="HOSPITAL">[**Hospital Customize 46**]</PHI> after an anterolateral MI , with post MI stuttering chest pain .
+He has [**Hospital Customize 2**] history of hypertension or family history .
+On the above chest x-ray [**Hospital Customize 2**] evidence of dissection was noted .
+Central access was gained and a chest x-ray was done which showed [**Hospital Customize 2**] pnuemothorax and his central line was in good placement as well as [**Doctor or Patient Name **] tube .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+He had a very stormy course , dominated by post infarction angina pectoris , high grade atrial ventricular block , gastrointestinal bleeding , pneumonia , and [**Hospital Customize 2**] noliguric renal failure .
+The patient was a 50 year old , [**Doctor or Patient Name 5**] handed , white male with a history of resection of left cerebellar medulloblastoma , resected six years ago and status post chemotherapy and radiation therapy , with a six month history of 30 pound weight loss , who was admitted to the <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> with a left basilar ganglion hemorrhage .
+He was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> after being found in the bathroom , on the floor at 8 a.m. , unresponsive .
+The heart exam revealed a normal Sl and S2 , regular rate and rhythm , [**Hospital Customize 2**] murmur , rub or gallop .
+The rectal tone was normal with [**Hospital Customize 2**] enlarged prostate , and he was heme positive .
+He lifted his left leg off the bed , but [**Hospital Customize 2**] against resistance .
+There was [**Hospital Customize 2**] enhancement [**Doctor or Patient Name 3**] in the region of the original cerebellar medullo blastoma .
+At that time , there was [**Hospital Customize 2**] evidence of a [**Doctor or Patient Name **] behind the hematoma .
+Thus , he should return to the <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> to have a repeat head computerized tomography scan in one month to further evaluate a possible [**Doctor or Patient Name **] lesion behind the hematoma .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+She has [**Hospital Customize 2**] respiratory complaints and [**Hospital Customize 2**] other musculoskeletal discomfort .
+She is a thin , otherwise healthy white female in [**Hospital Customize 2**] apparent distress .
+[**Hospital Customize **] lymphadenopathy .
+[**Hospital Customize **] masses .
+Her case will be discussed at the <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> sarcoma conference on <PHI TYPE="DATE">05/05</PHI>/92 , at which time the radiation therapists , oncologists , pathologists , and orthopedic surgeons will present the case and discuss all options .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+There were transient mental status changes but [**Hospital Customize 2**] convulsions or loss of consciousness .
+With clotting [**Doctor or Patient Name 51**] replacement , bleeding gradually abated and was [**Hospital Customize 2**] longer a problem .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 6**]</PHI>
+She had [**Hospital Customize 2**] prior significant cardiac history and presented to her local medical doctor &apos;s office with an episode of severe retrosternal chest pain .
+The patient was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 14**]</PHI> for consideration of coronary angioplasty .
+Dr. <PHI TYPE="DOCTOR">Aalv Lorjes Salv Manual</PHI> <PHI TYPE="HOSPITAL">[**Hospital Customize 38**]</PHI>
+[**Hospital Customize **] dictated summary
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 55**]</PHI>
+Index [**Hospital Customize **].
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+PATHOLOGY WAS CONSISTENT WITH A VEGETATION BUT [**Hospital Customize **] SPECIFIC ORGANISM WAS FOUND AND BLOOD CULTURES WERE NEGATIVE .
+[**Hospital Customize **] FOCAL DEFICITS PULSES ( [**Doctor or Patient Name **] )
+MR. <PHI TYPE="PATIENT">[**Doctor or Patient Name 57**]</PHI> WAS ADMITTED TO THE <PHI TYPE="HOSPITAL">[**Hospital Customize 58**]</PHI> ON <PHI TYPE="DATE">12/10</PHI>/01 FOR MANAGEMENT OF HIS ENDOCARDITIS AND PROSTHETIC AORTIC VALVE DYSFUNCTION .
+HE HAD AN AORTIC ROOT AORTOGRAM IN THE CARDIAC CATHETERIZATION LABORATORY ON <PHI TYPE="DATE">12/12</PHI>/01 WHICH REVEALED SEVERE AORTIC REGURGITATION AND [**Hospital Customize **] PROXIMAL CORONARY STENOSIS .
+LOW FAT [**Hospital Customize **] ADDED SALT .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+[**Hospital Customize **] known drug allergies .
+He was in [**Hospital Customize 2**] acute distress , non-toxic .
+On hospital day 2 , the patient had [**Hospital Customize 2**] complaints .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+He went to <PHI TYPE="HOSPITAL">Ton University Hospital</PHI> where a head CT was performed that showed [**Hospital Customize 2**] evidence of bleed .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 55**]</PHI>
+She has an associated dry cough but [**Hospital Customize 2**] fevers , chills , or leg pain .
+Widowed since 1972 , [**Hospital Customize 2**] tobacco , [**Hospital Customize 2**] alcohol , lives alone .
+[**Hospital Customize **] delayed upstroke .
+[**Hospital Customize **] rubs or gallops .
+[**Hospital Customize **] hepatosplenomegaly .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 55**]</PHI>
+[**Hospital Customize **] Restrictions
+Follow up with Dr. <PHI TYPE="DOCTOR">Briz</PHI> within 4 weeks , [**Hospital Customize **] Known Allergies
+[**Hospital Customize **] dictated summary
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+MEDICATIONS ON TRANSFER TO THE <PHI TYPE="HOSPITAL">[**Hospital Customize 58**]</PHI> FROM <PHI TYPE="HOSPITAL">APER HOSPITAL</PHI> :
+There was [**Hospital Customize 2**] palpable lymphadenopathy .
+The heart had a regular rate and rhythm , normal S1 and S2 , [**Hospital Customize 2**] murmurs , rubs , or gallops .
+There was [**Hospital Customize 2**] erythema around the catheter site .
+There was [**Hospital Customize 2**] guarding or rebound .
+There was [**Hospital Customize 2**] peripheral edema .
+She answered appropriately to yes-[**Hospital Customize 2**] questions , but _____________
+[**Hospital Customize **] obvious source of infection was found , with negative cultures from blood , urine , sputum , the peritoneal fluid , and cerebrospinal fluid .
+We entertained the possibility of [**Hospital Customize 24**] a pelvic ultrasound to further characterize this lesion .
+Pending [**Hospital Customize 2**] further suggestions on their part , we have completed the metabolic work up for reversible causes of dementia and will likely discharge the patient to return to the <PHI TYPE="HOSPITAL">Termarimed</PHI> pending [**Hospital Customize 2**] further suggestions from Neurology or other consultants .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 55**]</PHI>
+[**Hospital Customize **] Restrictions
+Dr. <PHI TYPE="DOCTOR">Shidoyleflich</PHI> in 3 weeks , [**Hospital Customize **] Known Allergies
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+She was soft and slightly tender to palpation but [**Hospital Customize 2**] evidence of peritonitis .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Doctor or Patient Name 67**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> on <PHI TYPE="DATE">11/14</PHI>/2003 01:41 PM .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">[**Hospital Customize 58**]</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">KAYSLANCE , ICEROYLN</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> on <PHI TYPE="DATE">03/17</PHI>/2003 02:52 AM .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 55**]</PHI>
+[**Hospital Customize **] fevers or chills , [**Hospital Customize 2**] vaginal discharge or bleeding .
+[**Hospital Customize **] tobacco , alcohol or drug use .
+[**Hospital Customize **] issues .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Doctor or Patient Name 69**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> on <PHI TYPE="DATE">08/24</PHI>/2004 03:43 AM .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+Following evaluation and treatment , the patient &apos;s disposition at the end ofthe visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">[**Hospital Customize 58**]</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+Hypertension , asthma for 10 years , [**Hospital Customize 2**] hospitalizations , obesity , history of heart murmur , hemorrhoids and whooping cough as a [**Hospital Customize 72**] .
+[**Hospital Customize **] regular breast self examination , has not had a mammogram .
+She also had an episode of nausea with some emesis , after being treated with Zofran with [**Hospital Customize 2**] relief , a nasogastric tube was placed which drained 1200 cc of bilious fluid .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 54**]</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Doctor or Patient Name 75**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> on <PHI TYPE="DATE">02/10</PHI>/2000 03:19 PM .
+He took Nitroglycerin x one with some relief of his shortness of breath but [**Hospital Customize 2**] change in his other symptoms .
+[**Hospital Customize **] ethanol history .
+He had [**Hospital Customize 2**] carotid bruits with good bilateral upstroke .
+There were [**Hospital Customize 2**] murmurs .
+There were [**Hospital Customize 2**] EKG changes during these episodes .
+Nevertheless , because of recurrent failure , it was felt that she should be transferred up to the <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> for further evaluation .
+The left anterior descending had perhaps a mid-40% lesion only , with good left ventricular contraction and [**Hospital Customize 2**] mitral regurgitation [**Doctor or Patient Name 3**] on left ventricular angiogram .
+For the patient , at <PHI TYPE="LOCATION">Dalee , Alaska</PHI> , for Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 76**]</PHI> , c / o <PHI TYPE="HOSPITAL">[**Hospital Customize 77**]</PHI> , in <PHI TYPE="LOCATION">Stumphi Road , Biinss , South Dakota 59762</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 55**]</PHI>
+[**Hospital Customize **] paroxysmal nocturnal dyspnea .
+She is in [**Hospital Customize 2**] acute distress .
+[**Hospital Customize **] fevers or chills , [**Hospital Customize 2**] chest pain , [**Hospital Customize 2**] shortness of breath .
+[**Hospital Customize **] hemoptysis , hematemesis , abdominal pain , black or tarry stools , dysuria / frequency/urgency .
+[**Hospital Customize **] calf tenderness .
+On <PHI TYPE="DATE">12/23</PHI> , she was [**Doctor or Patient Name 3**] by Dr. <PHI TYPE="DOCTOR">Stonge</PHI> at <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> where a 3 x 7 cm left mid clavicular [**Doctor or Patient Name **] was noted .
+The patient subsequently had a limited chest CT at <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> which showed diffuse bilateral pulmonary metastases , metastases to the sternum , rib , multiple spinal [**Doctor or Patient Name 9**] ; internal mammary lymphadenopathy .
+There has been [**Hospital Customize 2**] GI or GU symptoms except for constipation .
+[**Hospital Customize **] KNOWN DRUG ALLERGIES .
+There was [**Hospital Customize 2**] egophony .
+Work-up for the source of the primary tumor which is still unknown included a mammogram which identified [**Hospital Customize 2**] suspicious microcalcifications and [**Hospital Customize 2**] dominant masses .
+Per the patient &apos;s wishes , Dr. <PHI TYPE="DOCTOR">Dalywoo Droreite</PHI> the <PHI TYPE="HOSPITAL">[**Hospital Customize 82**]</PHI> was consulted for a second opinion regarding the management of her malignancy .
+Per the patient &apos;s wishes , she was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 82**]</PHI> for chemotherapy .
+The head , eyes , ears , nose and throat examination revealed [**Hospital Customize 2**] ocular abnormalities .
+Neck - [**Hospital Customize 2**] lymphadenopathy ; [**Hospital Customize 2**] carotid bruits ; jugular venous pressure not elevated ; [**Hospital Customize 2**] goiter .
+She was generally [**Hospital Customize 24**] well with resolution of her temperature until <PHI TYPE="DATE">4/1</PHI>/97 at 9:20 P.M. , when she was noted to be unresponsive with fixed dilated pupils .
+Evaluation in the emergency room revealed the patient to be [**Doctor or Patient Name 1**] and he was evaluated by ophthalmology who also felt that the patient had [**Hospital Customize 2**] injury to his eyes .
+There were [**Hospital Customize 2**] complications .
+There was [**Hospital Customize 2**] evidence of infection .
+Index [**Hospital Customize **].
+She is a pleasant lady in [**Hospital Customize 2**] acute distress , blood pressure 130/70 , irregularly irregular pulses of 70 .
+She did well overnight with [**Hospital Customize 2**] chest pain or shortness of breath .
+Previous echocardiogram in 1989 showed concentric left ventricular hypertrophy with 2 to 3+ aortic insufficiency , mild PS , [**Hospital Customize 2**] RWNA .
+Recently in good health with [**Hospital Customize 2**] dyspnea on exertion .
+The patient was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> for further management .
+[**Hospital Customize **] allergies .
+[**Hospital Customize **] bruits .
+[**Hospital Customize **] clubbing , cyanosis or edema .
+[**Hospital Customize **] further symptoms .
+[**Hospital Customize **] subvalvular stenosis and minimal coronary artery disease .
+The patient had one 10 beat episode of V-tach on admission with normal electrolytes at the time , and there was [**Hospital Customize 2**] further ventricular ectopic activity .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+He was admitted to the <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> at that time and was treated with Bactrim and steroids .
+On <PHI TYPE="DATE">02/06</PHI>/91 , he was [**Doctor or Patient Name 3**] in <PHI TYPE="HOSPITAL">[**Hospital Customize 87**]</PHI> and at that point , his temperature was noted to be 101.4 and he had malaise and diarrhea .
+At that time , his oxygen saturation was only 90% on room air and his chest X-Ray showed [**Hospital Customize 2**] change .
+He was [**Doctor or Patient Name 3**] in <PHI TYPE="HOSPITAL">[**Hospital Customize 87**]</PHI> where he was noted to have jaundice and newly palpable liver edge .
+[**Hospital Customize **] other cultures grew out and the patient &apos;s clinical status deteriorated .
+The patient was an alert , jaundiced gentleman in [**Hospital Customize 2**] acute distress .
+The next morning , he was [**Hospital Customize 24**] well with the intact drain draining bilious material without any difficulty .
+The patient was [**Hospital Customize 24**] well with minimal to [**Hospital Customize 2**] belly pain and [**Hospital Customize 2**] nausea or vomiting .
+He is also to have <PHI TYPE="HOSPITAL">[**Hospital Customize 88**]</PHI> for his [**Doctor or Patient Name 10**] stent care .
+Index [**Hospital Customize **]. <PHI TYPE="ID">M2ZRS51Y3Q</PHI>
+The patient was in her usual state of health until <PHI TYPE="DATE">7/10</PHI>/98 when she was admitted to the <PHI TYPE="HOSPITAL">[**Hospital Customize 89**]</PHI> with a chief complaint of falling and mental status changes .
+On arrival to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> the patient stated that she had not had a bowel movement for many days and that she had [**Hospital Customize 2**] appetite .
+Her lungs had few rhonchi , [**Hospital Customize 2**] rales .
+A KUB showed a large loop of dilated bowel but [**Hospital Customize 2**] free air and a tortuous calcified aorta .
+There was diffuse atrophy and [**Hospital Customize 2**] evidence of recent bleed .
+There was [**Hospital Customize 2**] evidence of an intraventricular thrombus .
+Her ferritin was 83 and there was [**Hospital Customize 2**] evidence of guaiac positive stools .
+At <PHI TYPE="HOSPITAL">[**Hospital Customize 92**]</PHI> , she had a hematocrit of 25 and was transfused 2 units of packed red blood cells .
+She was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> Intensive Care Unit where on <PHI TYPE="DATE">January 25</PHI> in the morning her hematocrit was found to be 27.4 .
+She is an obese , elderly woman in [**Hospital Customize 2**] acute distress .
+She had [**Hospital Customize 2**] spider angiomata , [**Hospital Customize 2**] palmar erythema , [**Hospital Customize 2**] xanthomas and [**Hospital Customize 2**] caput medusae .
+She did very well over the course of her admission with [**Hospital Customize 2**] evidence of further bleeding .
+She is to follow up with Dr. <PHI TYPE="DOCTOR">Acrookesjo</PHI> in one week and Dr. <PHI TYPE="DOCTOR">Work</PHI> the gastrointestinal fellow here at <PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI> in 2 weeks .
+Elderly obese woman lying comfortably in bed in [**Hospital Customize 2**] acute distress .
+A repeat urinalysis done later in the course of the hospitalization revealed [**Hospital Customize 2**] white blood cells .
+However , she has been reluctant to even move from the bed to the chair since admission to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> .
+The patient was free of angina until six weeks prior to admission when he began to have anginal symptoms described as a heaviness beginning in the scapula , moving to the retrosternal chest and radiating to the left shoulder with [**Hospital Customize 2**] other associated symptoms .
+Addition of diltiazem to the patient &apos;s aspirin and Dyazide medical treatment had [**Hospital Customize 2**] improvement in symptoms .
+EKG showed normal sinus rhythm , normal axis and intervals , [**Hospital Customize 2**] changes from previous EKG , [**Hospital Customize 2**] signs of ischemia or infarction .
+It was thought that the drop in hematocrit was secondary to his chemotherapy , some small dilutional effect and small blood loss from the PTCA , although there was [**Hospital Customize 2**] evidence of significant bleeding .
+She has been [**Doctor or Patient Name 3**] by Dr. <PHI TYPE="DOCTOR">Tokbelb</PHI> , her primary care physician in <PHI TYPE="HOSPITAL">Itgreenredan Hospital</PHI> , and also Dr. <PHI TYPE="DOCTOR">Kotefyfechird</PHI> , her cardiologist , and also an endocrinologist at <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> .
+[**Hospital Customize **] known drug allergies .
+There is [**Hospital Customize 2**] family history of parathyroid or thyroid diseases .
+[**Hospital Customize **] ethanol or tobacco use .
+On physical examination , she is a pleasant woman in [**Hospital Customize 2**] acute distress .
+Postoperatively , the patient did well and was able to cough and phonate completely with [**Hospital Customize 2**] changes from preoperative .
+She had [**Hospital Customize 2**] muscular weakness noted .
+She had had [**Hospital Customize 2**] further episodes of tingling in her fingers after the initial episode which had prompted us originally to draw the ionized calcium .
+She will be sent [**Doctor or Patient Name 10**] with [**Doctor or Patient Name 10**] <PHI TYPE="HOSPITAL">[**Hospital Customize 95**]</PHI> .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Doctor or Patient Name 96**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> on <PHI TYPE="DATE">04/14</PHI>/2004 02:47 PM .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+She said that she has had [**Hospital Customize 2**] p.o. intake for about 3 days .
+The patient was to follow-up with the <PHI TYPE="HOSPITAL">[**Hospital Customize 97**]</PHI> as an outpatient for further treatment .
+Index [**Hospital Customize **]. <PHI TYPE="ID">MIEQVK9Q4Z</PHI>
+[**Hospital Customize **] cultures were positive but the chest x-ray showed bilateral densities more on the left than the [**Doctor or Patient Name 5**] compatible with aspiration pneumonia .
+There were [**Hospital Customize 2**] radiographic indications of congestive heart failure .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+At operation , there was [**Hospital Customize 2**] gross adenopathy or renal vein involvement , and it was felt that the tumor was completely excised .
+The oncology fellows from <PHI TYPE="HOSPITAL">[**Hospital Customize 98**]</PHI> followed her course and recommended holding off on her Hydrea while she is hospitalized , and they will follow her as an outpatient and restart her Hydrea when her hematocrit is over 40% .
+FOLLOW-UP will be with Dr. <PHI TYPE="DOCTOR">Suot N. Dragtente</PHI> and with her <PHI TYPE="HOSPITAL">[**Hospital Customize 98**]</PHI> oncology fellows .
+1. <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI>
+Because of her age and mental condition and the fact that she had cerebral atrophy , the decision was made for comfort unless she has any further problem and [**Hospital Customize 2**] further chemotherapy or treatment will be given .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+There was [**Hospital Customize 2**] change compared with a previous study of <PHI TYPE="DATE">12</PHI>/92 .
+[**Hospital Customize **] tetanus shot had been received .
+The patient has [**Hospital Customize 2**] known drug allergies .
+There was a minimal corneal reflex and [**Hospital Customize 2**] response to nasal tickle on the left .
+In <PHI TYPE="DATE">October</PHI> 1990 , the patient was admitted again to the <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> with diarrhea and acute renal failure secondary to hypovolemia .
+The patient complained of intermittent shortness of breath , but [**Hospital Customize 2**] rigors , chest pain , or GI symptoms .
+[**Hospital Customize **] known drug allergies .
+[**Hospital Customize **] splenomegaly or abdominal masses .
+[**Hospital Customize **] cervical , axillary , supraclavicular , or inguinal lymphadenopathy .
+[**Hospital Customize **] clubbing , cyanosis , or edema .
+The plan at this time was made to further consider the options and the patient will follow-up with <PHI TYPE="HOSPITAL">[**Hospital Customize 101**]</PHI> next week .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+The patient was [**Hospital Customize 24**] well status post radiation therapy and chemotherapy , when she began to develop severe headaches .
+ALLERGIES are [**Hospital Customize 2**] known drug allergies .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+The patient has a long history of alcohol abuse and alcoholic liver disease as well as seizure disorder related to alcohol withdrawal and multiple <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> admissions for detox and multiple detox facilities in the past .
+He was transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 102**]</PHI> for further evaluation .
+Chest exam coarse upper airway sounds , [**Hospital Customize 2**] rales .
+[**Hospital Customize **] organism was ever cultured out of the sputum .
+Index [**Hospital Customize **]. <PHI TYPE="ID">CFFCLP030B</PHI>
+1. <PHI TYPE="HOSPITAL">[**Hospital Customize 103**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">JEDL , SHONDLONDNAALE</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> on <PHI TYPE="DATE">04/26</PHI>/2000 03:19 PM .
+There was [**Hospital Customize 2**] splenomegaly .
+This is a 69-year-old male who was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> with coronary artery disease .
+On <PHI TYPE="DATE">10/13</PHI>/96 he was admitted to the <PHI TYPE="HOSPITAL">[**Hospital Customize 104**]</PHI> with chest pain and abdominal pain and in atrial fibrillation .
+The patient had not had chest pain since the seventh and was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> in [**Doctor or Patient Name 1**] condition .
+<PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">CA NA CEA</PHI> , M.D. <PHI TYPE="DOCTOR">WIN E [**Doctor or Patient Name **]</PHI> , M.D. / DR. <PHI TYPE="DOCTOR">[**Doctor or Patient Name **]</PHI> <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> , <PHI TYPE="LOCATION">Ka Pemco</PHI>
+[**Hospital Customize **] restrictions .
+The patient was transferred to the [**Doctor or Patient Name 105**] service at the <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> and underwent cardiac catheterization which was negative for disease .
+Carotids were 2+ on the [**Doctor or Patient Name 5**] , absent on the left with [**Hospital Customize 2**] bruits .
+She has bibasilar crackles , [**Hospital Customize 2**] wheezes .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+Extremities on the [**Doctor or Patient Name 5**] , she has a II+ femoral , [**Hospital Customize 2**] distal pulses beyond that .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+An echocardiogram at the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> in 1997 revealed a normal ejection [**Doctor or Patient Name 34**] and [**Hospital Customize 2**] wall motion abnormality .
+She does not smoke and has [**Hospital Customize 2**] history of coronary artery disease .
+The patient was intubated , given thiamine and D50 as well as intravenous Lasix and she was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> Emergency Room .
+Urine analysis showed [**Hospital Customize 2**] urinary tract infection .
+KUB showed [**Hospital Customize 2**] bowel obstruction .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+[**Hospital Customize **] known drug allergies .
+The patient was an obese man in [**Hospital Customize 2**] acute distress .
+He had [**Hospital Customize 2**] spontaneous cardiac or neurologic activity at this time , and he was declared dead at 12:15 A.M. on <PHI TYPE="DATE">12/3</PHI>/96 .
+She is now referred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> for evaluation of her mitral valvular disease .
+There is [**Hospital Customize 2**] history of rheumatic heart disease recalled by the patient , removal of benign lump in the left breast .
+Ms. <PHI TYPE="PATIENT">[**Doctor or Patient Name 113**]</PHI> is a very pleasant woman who appears her stated age and is in [**Hospital Customize 2**] acute distress .
+There was [**Hospital Customize 2**] evidence of edema in the extremities .
+It was felt that because her neurological examination was non-focal at this time and that these changes represented [**Hospital Customize 2**] real change in her mental status from the time of admission , that [**Hospital Customize 2**] further work-up was required .
+[**Hospital Customize **] alcohol use .
+Index [**Hospital Customize **]. <PHI TYPE="ID">ECLH84D9K5</PHI>
+He was admitted to <PHI TYPE="HOSPITAL">[**Hospital Customize 115**]</PHI> with severe recurrent pancreatitis , nausea , vomiting , and abdominal pain .
+He was transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> for further surgical evaluation .&apos;
+By the end of <PHI TYPE="DATE">June</PHI> , it became clear that Mr. <PHI TYPE="PATIENT">[**Doctor or Patient Name **]</PHI> would require aggressive surgical intervention in order to eradicate his intra-abdominal bursts of intermittent sepsis ; however , long discussions with the patient and his wife , who was his health-care proxy , revealed that they felt that [**Hospital Customize 2**] further aggressive intervention be attempted .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+[**Hospital Customize **] edema .
+There was [**Hospital Customize 2**] neck vein distension or carotid bruits .
+An electrocardiogram showed [**Hospital Customize 2**] evidence of QT prolongation prior to discharge , and pulmonary function tests will be performed before the patient goes [**Doctor or Patient Name 10**] today .
+The patient will follow up with Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 117**]</PHI> at <PHI TYPE="HOSPITAL">[**Hospital Customize 118**]</PHI> in <PHI TYPE="LOCATION">Connecticut</PHI> .
+[**Hospital Customize **] known drug allergies .
+[**Hospital Customize **] hernias .
+There was [**Hospital Customize 2**] other obvious finding on the initial exploratory laparotomy and the peritoneal fluid that was encountered appeared just ascitic in nature .
+Index [**Hospital Customize **]. <PHI TYPE="ID">S4OTEZ98XD</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+However , it should be stated that all of her cultures while at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> were negative for growth .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+The patient continued to have guaiac positive stools but [**Hospital Customize 2**] evidence of bright red blood per rectum or large amounts of melena .
+We have a low threshold for starting antibiotics ; however , chest x-ray reveals [**Hospital Customize 2**] acute changes and the patient remained 96% on room air throughout this admission without any stigmata over recurrent pneumonia including cough , dyspnea or shortness of breath .
+[**Hospital Customize **] known drug allergies
+His wound was intact with [**Hospital Customize 2**] evidence of infection .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+OTHER DIAGNOSIS ; Conditions , Infections , Complications , affecting Treatment / Stay DM ( diabetes mellitus ) CRI ( chronic renal dysfunction ) HTN ( hypertension ) hypercholesterolemia ( elevated cholesterol ) elevated triglycerides ( elevated triglycerides ) prostate CA ( prostate cancer ) [**Hospital Customize **] ( unspecified or generalized [**Hospital Customize **] ) meniere &apos;s dz ( menieres disease ) essential tremor ( tremor ) atypical chest pain ( atypical chest pain ) CAD ( coronary artery disease ) gout ( gout ) cva ( cerebrovascular accident ) pacemaker ( pacemaker ) PUD ( peptic ulcer disease ) UGIB ( upper GI bleeding)
+Unable to check own FS due to essential tremor , <PHI TYPE="HOSPITAL">[**Hospital Customize 88**]</PHI> checks FS Qmo and had not been by until today .
+Ruled out for MI and [**Hospital Customize 2**] events on telemetry .
+Pt will need close monitor of fbs by <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> .
+He has [**Hospital Customize 2**] family but is refusing placement , and he is unable to afford assisted living .
+For <PHI TYPE="HOSPITAL">[**Hospital Customize 88**]</PHI> -- Pt needs Hct and Chem 7 checked on <PHI TYPE="DATE">9/2</PHI>/04 .
+Also pt needs to have fbs checked by <PHI TYPE="HOSPITAL">[**Hospital Customize 88**]</PHI> with results called to PCP if &gt; 250 .
+in instructions [**Hospital Customize **] dictated summary
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+In <PHI TYPE="DATE">March</PHI> of l987 , she was referred to a Neurologist in <PHI TYPE="LOCATION">Zorak , Conn</PHI> and had an MRI , evoked potentials , EMG , and CT scan but [**Hospital Customize 2**] lumbar puncture .
+Her skull was normocephalic and atraumatic , pupils were equal , round , and reactive to light , and [**Hospital Customize 2**] afferent pupillary defect was noted .
+[**Hospital Customize **] jugular venous distention was observed .
+[**Hospital Customize **] old EKG was available for comparison .
+Multivitamins one tablet p.o. q.d. , Halcion 0.l25 mg p.o. q.h.s. p.r.n. ( forty tablets , [**Hospital Customize 2**] refills ) , and Acthar 40 units intramuscularly q.d. times two days and then 20 units intramuscularly q.d. times three days .
+She is from <PHI TYPE="LOCATION">Maryland</PHI> , apparently had [**Hospital Customize 2**] blood transfusions before the birth of her children so it is presumed heterosexual transmission .
+On admission revealed a cachetic woman in [**Hospital Customize 2**] acute distress with [**Doctor or Patient Name 1**] vital signs .
+There was [**Hospital Customize 2**] evidence of edema .
+Index [**Hospital Customize **]. <PHI TYPE="ID">BOKMII88JZ</PHI>
+She is a 70 year old white woman in good general health until <PHI TYPE="DATE">November</PHI> l990 when she developed sudden shortness of breath and was taken to <PHI TYPE="HOSPITAL">[**Hospital Customize 115**]</PHI> .
+She has [**Hospital Customize 2**] known drug allergies .
+There were [**Hospital Customize 2**] palpable masses .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 122**]</PHI> SURGICAL GROUP
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+The electrocardiogram showed a short PR interval with [**Hospital Customize 2**] delta wave , clockwise rotation present .
+[**Hospital Customize **] acute pathology was noted and [**Hospital Customize 2**] treatment was necessary at this time .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+The patient was a well appearing white middle aged woman in [**Hospital Customize 2**] apparent distress .
+There was [**Hospital Customize 2**] evidence of any jaundice .
+[**Hospital Customize **] murmurs were appreciated .
+There was [**Hospital Customize 2**] evidence of any hepatosplenomegaly .
+[**Hospital Customize **] costovertebral angle tenderness was noted .
+By the time of discharge , the patient was [**Hospital Customize 24**] well .
+There was [**Hospital Customize 2**] evidence of any wound infection .
+There are [**Hospital Customize 2**] known drug ALLERGIES .
+He was an obese , anxious , white man in [**Hospital Customize 2**] apparent distress .
+Neck was normal , there was [**Hospital Customize 2**] lymphadenopathy , [**Hospital Customize 2**] costovertebral angle tenderness .
+There was [**Hospital Customize 2**] jugular venous distention .
+Chest x-ray revealed [**Hospital Customize 2**] infiltrates with a normal cardiac sillhouette .
+There were [**Hospital Customize 2**] arrhythmias .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+She developed [**Hospital Customize 2**] problems with edema or with her wound during her hospital stay .
+According to her scanty records , an MRI of the spine showed diffuse spinal column involvement with lesions in T4 and T8 with [**Hospital Customize 2**] cord compression at that time .
+The patient &apos;s Decadron dose was increased to 12 mg q day and he was also started on MS Contin and radiation therapy was being planned and arranged at the <PHI TYPE="HOSPITAL">[**Hospital Customize 97**]</PHI> .
+HEENT exam atraumatic , [**Hospital Customize 2**] oral lesions .
+Abdomen non-distended , positive bowel sounds , soft , non-tender , [**Hospital Customize 2**] hepatosplenomegaly or masses .
+Rectal normal tone , guaiac positive brown stool , [**Hospital Customize 2**] perirectal lesions or erythema .
+Motor exam normal tone , positive asterixis , [**Hospital Customize 2**] drift .
+Deep tendon reflexes were 2+ in the upper extremities , 1+ in the patella reflexes , [**Hospital Customize 2**] reflexes at the ankles , upgoing Babinski toes bilaterally .
+There were cultures obtained seeping from the wound at <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> and those also grew out Pseudomonas aeruginosa .
+He was evaluated by the Surgery Department and it is there feeling that there is [**Hospital Customize 2**] indication for surgical intervention / amputation at this time .
+He has had [**Hospital Customize 2**] significant episode of tachycardia or blood pressure alteration during the final days of hospitalization .
+His neurological exam remained [**Doctor or Patient Name 1**] with [**Hospital Customize 2**] evidence of increasing lower extremity edema .
+Index [**Hospital Customize **]. <PHI TYPE="ID">FXZQ7B8JJX</PHI>
+Dr. <PHI TYPE="DOCTOR">Valo Freiermplauchefelv</PHI> ( <PHI TYPE="PHONE">349-034-0703</PHI> ) within 1 week , [**Hospital Customize **] Known Allergies
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+The patient presented to <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> with a fever .
+He has [**Hospital Customize 2**] symptoms of shortness of breath , cough , diarrhea , nausea , vomiting , choking on food , [**Hospital Customize 2**] new medications .
+The patient &apos;s mental status improved greatly after the onset of intravenous antibiotics , [**Hospital Customize 24**] much better , was much more awake and alert and the plan was to possibly send him [**Doctor or Patient Name 10**] on [**Doctor or Patient Name **] antibiotics and full <PHI TYPE="HOSPITAL">[**Hospital Customize 95**]</PHI> services .
+A portable echo showed [**Hospital Customize 2**] pericardial effusion and his left ventricle was severely diffusely hypokinetic with septal dyskinesis .
+He was [**Doctor or Patient Name 3**] in <PHI TYPE="HOSPITAL">[**Hospital Customize 97**]</PHI> on <PHI TYPE="DATE">10-29</PHI>-90 and EKG changes with ST elevations in V2 through V4 and flipped T waves in leads 3 and aVF was noted .
+[**Hospital Customize **] aneurysm , [**Hospital Customize 2**] clot .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+There were [**Hospital Customize 2**] rashes .
+He had [**Hospital Customize 2**] chest pain or shortness of breath .
+There were [**Hospital Customize 2**] murmurs or rubs .
+The abdomen was negative and there was [**Hospital Customize 2**] edema of the feet .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED TO OBSERVATION AT <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> .
+A KUB performed on the night of admission showed [**Hospital Customize 2**] free air and [**Hospital Customize 2**] small bowel obstruction or ileus .
+This was not in a clear vascular distribution and there was [**Hospital Customize 2**] air evident in the wall of the small or large bowel .
+However , repeated abdominal x-rays and CT scans continued to show [**Hospital Customize 2**] signs of obstruction or perforation .
+Index [**Hospital Customize **]. <PHI TYPE="ID">ODPRJ04EKW</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+The patient was [**Doctor or Patient Name 3**] at the <PHI TYPE="HOSPITAL">[**Hospital Customize 125**]</PHI> and then he was referred to the <PHI TYPE="HOSPITAL">Purckecation Balpoingdelt Pabarnes- Campa Memorial Hospital</PHI> .
+The patient has been on cardiac medications since and has had [**Hospital Customize 2**] new episodes .
+The heart had normal rate and rhythm , with normal Sl and S2 and [**Hospital Customize 2**] significant heart murmur was heard .
+[**Hospital Customize **] [**Doctor or Patient Name **] was noticed .
+The patient had [**Hospital Customize 2**] pronator drift .
+[**Hospital Customize 2**] significant arrhythmias .
+Otherwise , there were [**Hospital Customize 2**] further episodes of blurred vision .
+The patient will also be followed by his regular Urologist at <PHI TYPE="HOSPITAL">[**Hospital Customize 125**]</PHI> within one week after discharge for his continuing hematuria .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+The patient has been lethargic and bed ridden for the past two weeks , although there was [**Hospital Customize 2**] evidence of fever or chills over this time .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+As her baseline mental status is completely alert and oriented , this caused concern amongst the staff of the rehabilitation [**Doctor or Patient Name **] and the patient was transferred to the <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> .
+The patient had [**Hospital Customize 2**] known drug allergies .
+There were [**Hospital Customize 2**] spider angiomata .
+There was [**Hospital Customize 2**] S3 appreciated .
+Abdominal examination revealed that the abdomen was soft , non-tender , non-distended , [**Hospital Customize 2**] organomegaly , [**Hospital Customize 2**] masses , normal active bowel sounds .
+The patient &apos;s admission chest x-ray revealed [**Hospital Customize 2**] infiltrate , [**Hospital Customize 2**] congestive heart failure .
+A neurologic work-up was undertaken which included a CT scan of the head which revealed [**Hospital Customize 2**] acute bleed and a lumbar puncture which revealed a glucose of 72 , protein 65 , white blood cell count 19 , red blood cell count 11,500 with [**Hospital Customize 2**] evidence of xanthrochromasia .
+Pt had <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> set up at [**Doctor or Patient Name 10**] and ready for d / c.
+[**Hospital Customize **] dictated summary
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+At the time of this dictation , the patient is [**Hospital Customize 24**] quite well , eating , ambulating , and taking his medications .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+That area was resected with [**Hospital Customize 2**] evidence of metastatic disease .
+[**Hospital Customize **] KNOWN DRUG ALLERGIES .
+She has been [**Hospital Customize 24**] Betadine paint and blow drying the area several times a day and after each bowel movement and urine without incident .
+The [**Doctor or Patient Name 5**] ventricle is dilated and diffusely hypokinetic and there is [**Hospital Customize 2**] evidence of constrictive physiology which was [**Doctor or Patient Name 3**] on <PHI TYPE="DATE">December 6</PHI> , 1995 .
+There is [**Hospital Customize 2**] fistula [**Doctor or Patient Name 3**] .
+He just claims to have [**Hospital Customize 2**] appetite and has very poor effort with feeding .
+The chest X-ray shows [**Hospital Customize 2**] evidence of pneumonia .
+Physicians that took care of this patient while at the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> are as follows :
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+He had [**Hospital Customize 2**] carotid pulses , [**Hospital Customize 2**] gag reflex , and [**Hospital Customize 2**] pupillary reflex , and his pupils were fixed and dilated .
+One of several <PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI> admissions for this 88-year-old woman with a history of breast cancer initially diagnosed in 1997 and treated with surgery , radiation , and hormonal treatment .
+There had been [**Hospital Customize 2**] focal neurologic changes .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+As per <PHI TYPE="HOSPITAL">[**Hospital Customize 131**]</PHI> patient notes .
+[**Hospital Customize **] murmurs were audible .
+The abdomen was soft , obese , nontender , nondistended , [**Hospital Customize 2**] masses were noted .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 88**]</PHI> services from <PHI TYPE="LOCATION">Ha</PHI> have been arranged for physical therapy three times per week for the next week .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name **]</PHI> was consulted and the patient was transferred by <PHI TYPE="HOSPITAL">Ton Len N&apos;ss Community Hospital</PHI> to <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> Pediatric Intensive Care Unit for evaluation and management by Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name **]</PHI> on <PHI TYPE="DATE">07/20</PHI> in the p.m.
+There is [**Hospital Customize 2**] clinical evidence of pneumonia that could have precipitated this event and all X-Rays have been unremarkable .
+<PHI TYPE="DOCTOR">[**Doctor or Patient Name **]</PHI> , M.D. , at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> Pediatric Intensive Care Unit .
+EKG showed sinus tachycardia at 100 and echo revealed pericardial effusion , a 10 mm pulsus paradoxus was noted , and [**Hospital Customize 2**] evidence of tamponade .
+[**Hospital Customize **] lymphadenopathy .
+Few inspiratory wheezes and [**Hospital Customize 2**] rhonchi .
+Well healed Pfannenstiel scars and [**Hospital Customize 2**] masses .
+[**Hospital Customize **] masses .
+[**Hospital Customize **] masses and guaiac negative .
+[**Hospital Customize **] edema or cyanosis .
+There was [**Hospital Customize 2**] evidence of tamponade .
+Thoracic Surgery was also consulted and they felt that there was [**Hospital Customize 2**] need for a pericardial window at the time .
+The Ifex was held as it was felt that it could have precipitated the mental status changes and that she was to receive [**Hospital Customize 2**] further Ifex .
+She had [**Hospital Customize 2**] further hallucinations since stopping the Ifex .
+There is [**Hospital Customize 2**] thyroid , cervical , or supraclavicular adenopathy .
+She has [**Hospital Customize 2**] complaints at the time of presentation .
+Denies cigarette , or alcohol use , she is married and has one [**Hospital Customize 72**] .
+Is negative , there is [**Hospital Customize 2**] breast carcinoma .
+soft , nontender , nondistended , positive bowel sounds , there is [**Hospital Customize 2**] hepatosplenomegaly .
+There was [**Hospital Customize 2**] known incontinence .
+Alcohol ; he has [**Hospital Customize 2**] recent use .
+Cardiovascular examination ; regular rate and rhythm with [**Hospital Customize 2**] murmurs , rubs , or gallops .
+It was not felt likely to be due to Parkinson &apos;s disease , as he had [**Hospital Customize 2**] significant response to Eldopa in the past and the patient had [**Hospital Customize 2**] evidence of tremor , although he was quite rigid and bradykinetic .
+He was evaluated by the speech and swallow pathology group at the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> and it was decided that he was able to swallow on his own with a soft solid diet with supervision .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+[**Hospital Customize **] evidence of septic arthritis .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+HEENT , normocephalic , atraumatic , well healed [**Doctor or Patient Name 5**] jaw incision , slight swelling [**Doctor or Patient Name 5**] jaw slightly tender to the touch , there is [**Hospital Customize 2**] erythema .
+A head CT was done to evaluate a possible hydrocephalus , [**Hospital Customize 2**] hydrocephalus was [**Doctor or Patient Name 3**] where there was an old infarct in the [**Doctor or Patient Name 5**] frontal lobe white matter and the occipital region with a pseudomeningocele , status post resection of the [**Doctor or Patient Name 5**] skull based tumor extending to the C2 level .
+Index [**Hospital Customize **]. <PHI TYPE="ID">TZPH6E32B8</PHI>
+Multiple abdominal ultrasound revealed [**Hospital Customize 2**] biliary dilatation ; there was evidence of gallbladder polyps versus stones on one ultrasound .
+The patient underwent TAH / BSO , partial omentectomy at <PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI> in <PHI TYPE="DATE">10</PHI>-90 .
+On admission , the patient has [**Hospital Customize 2**] complaints except anxiety .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+[**Hospital Customize **] stone was found at the common bile duct .
+[**Hospital Customize **] dysuria .
+He has [**Hospital Customize 2**] lesions or bleeding .
+Washings , cultures , and viral studies were negative or remained [**Hospital Customize 2**] growth to date .
+The patient had [**Hospital Customize 2**] active bleeding during this admission .
+He ruled out for myocardial infarction by serial enzymes and [**Hospital Customize 2**] further workup was pursued .
+The patient was discharged to [**Doctor or Patient Name 10**] with <PHI TYPE="HOSPITAL">[**Hospital Customize 88**]</PHI> Services .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+The patient is a 47 year old patient of Dr. <PHI TYPE="DOCTOR">Laymie Fournier</PHI> and Dr. <PHI TYPE="DOCTOR">Leebjescobe</PHI> in <PHI TYPE="LOCATION">Co In Saorlirv Frea , West Virginia</PHI> who was well until a bout of double pneumonia in <PHI TYPE="DATE">May</PHI> 1992 , at which time he was hospitalized at <PHI TYPE="HOSPITAL">[**Hospital Customize 137**]</PHI> .
+The patient was [**Doctor or Patient Name 3**] in consultation by the Electrophysiology service , Dr. <PHI TYPE="DOCTOR">Slusslashgodle</PHI> , who said that he had [**Hospital Customize 2**] indication for patch placement at the time of surgery .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+An echocardiogram then revealed an ejection [**Doctor or Patient Name 34**] of 40% and an endomyocardial biopsy revealed [**Hospital Customize 2**] ejection .
+The rhythm revealed sinus tachycardia with [**Hospital Customize 2**] palpable or measurable blood pressure .
+A transvenous pacing wire was attempted and a pacing rhythm was obtained but with [**Hospital Customize 2**] palpable blood pressure .
+This is a 63 year old patient who had [**Hospital Customize 2**] significant medical history until 1987 , when he developed a left arm embolism which was treated with SVG from the left thigh .
+A repeat echo showed [**Hospital Customize 2**] recurrent intraventricular thrombus and a carotid Doppler study was negative .
+The patient suffered [**Hospital Customize 2**] further dizzy spells during the further postop days .
+She has small amounts of active hemoptysis , [**Hospital Customize 2**] evidence of superior mediastinal syndrome .
+[**Hospital Customize **] murmur , rub or gallop or cardiomegaly was noted .
+On admission revealed a massively obese white female in [**Hospital Customize 2**] acute distress .
+There was [**Hospital Customize 2**] palpable lymphadenopathy .
+There were [**Hospital Customize 2**] palpable abnormalities on rectovaginal exam .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> , Doctor <PHI TYPE="DOCTOR">Lou</PHI> , <PHI TYPE="DATE">02-15</PHI>-90 , operated and removed the tumor via craniotomy incision .
+PAST MEDICAL HISTORY is a pacemaker that was placed for tri-vesicular block and bradycardia , but [**Hospital Customize 2**] past medical history of myocardial infarction or any heart problems .
+She has [**Hospital Customize 2**] neck nodes .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+The patient is 57 years old with a history of a rheumatic heart , mitral stenosis , pulmonary hypertension who was transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> from <PHI TYPE="HOSPITAL">E Health</PHI> for evaluation of possible mitral valve prolapseplasty .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+The patient has previously been [**Doctor or Patient Name 1**] however he has shown signs and symptoms and radiographic evidence of recurrence and so he presented to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> for possible hemipelvectomy .
+His head is atraumatic , neck was supple with [**Hospital Customize 2**] lymphadenopathy , lungs are clear .
+He was passing flatus , but [**Hospital Customize 2**] bowel movements by <PHI TYPE="DATE">May 17</PHI> , 2000 .
+The patient has arranged to be followed by <PHI TYPE="HOSPITAL">[**Hospital Customize 95**]</PHI> , physical therapist and he will continue on his antibiotics .
+<PHI TYPE="DOCTOR">[**Doctor or Patient Name 141**]</PHI> , M.D. ORTHOPAEDIC SURGERY <PHI TYPE="HOSPITAL">ANNENTESAUBEOR-RINERS [**Hospital Customize 142**] RAELLFORDGET COMMUNITY HOSPITAL</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+extraocular muscles intact , pupils equal , round , reactive to light and accommodation , [**Hospital Customize 2**] icterus .
+neck was supple , [**Hospital Customize 2**] jugular venous distention .
+[**Hospital Customize **] lymphadenopathy , carotids without bruits .
+Cardiology wise , electrocardiogram revealed [**Hospital Customize 2**] [**Doctor or Patient Name 5**] bundle branch block although [**Hospital Customize 2**] ischemia and he was treated with intravenous nitroglycerin .
+The history of present illness and PAST MEDICAL HISTORY are unavailable , because there was [**Hospital Customize 2**] History and Physical on the chart .
+ALLERGIES are [**Hospital Customize 2**] known drug allergies .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+On <PHI TYPE="DATE">09</PHI>/93 the patient underwent transplant evaluation at <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> .
+The patient was transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> on <PHI TYPE="DATE">02/20</PHI>/94 , again for possible heart-lung transplantation .
+Cultures were negative , and note , [**Hospital Customize 2**] pus or purulent fluid was found upon debridement .
+There were [**Hospital Customize 2**] intraoperative or postoperative complications following the AICD placement .
+There were [**Hospital Customize 2**] intraoperative complications , and [**Hospital Customize 2**] postoperative complications .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+On <PHI TYPE="DATE">9/2</PHI>/98 he was admitted to <PHI TYPE="HOSPITAL">[**Hospital Customize 144**]</PHI> with palpitations and was found to have an irregular wide complex tachycardia thought to be due to atrial fibrillation and conduction down his accessory pathway .
+There were [**Hospital Customize 2**] complications .
+Following the procedure there was [**Hospital Customize 2**] further evidence of wide complex tachycardia .
+Accordingly he was [**Doctor or Patient Name 3**] by Neurology who felt that there was [**Hospital Customize 2**] evidence of a secondary process .
+He did have a head CT which showed [**Hospital Customize 2**] evidence of a bleed or stroke .
+<PHI TYPE="DOCTOR">SEAN SLUSSLASHGODLE</PHI> , M.D. CARDIAC EP LAB <PHI TYPE="HOSPITAL">ANWARENLA GLENWER [**Hospital Customize **] HOSPITAL OF</PHI>
+A pleasant man who was anicteric , he is afebrile and he has [**Hospital Customize 2**] supraclavicular adenopathy .
+Patient reports [**Hospital Customize 2**] significant changes in how he feels over the past week .
+Refractory CLL with bone marrow involvement , status post MUD , mini-allo stem cell transplant , <PHI TYPE="DATE">December</PHI> , 2002 , Acanthamoeba infection of skin and sinuses , recently treated with IV pentamidine and p.o. voriconazole , history of recurrent CMB infection , recent ARS on CRI , thought due to medication toxicity ( creatinine on discharge from <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> on <PHI TYPE="DATE">October 16</PHI> was 2.6) .
+Workup on admission included a chest x-ray negative for pneumonia , an MRI of the liver to investigate for focal lesion , with [**Hospital Customize 2**] evidence for abscess or focal lesion on report .
+Index [**Hospital Customize **]. <PHI TYPE="ID">UWHS3TCPJ2</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+The patient is a frail , cachectic woman in [**Hospital Customize 2**] acute distress .
+The patient was then observed and discharged that evening on her normal regimen of pain [**Doctor or Patient Name 105**] with <PHI TYPE="HOSPITAL">[**Hospital Customize 95**]</PHI> support for assistance with activities of daily living .
+He had [**Hospital Customize 2**] chest pain , palpitations , diaphoresis , or nausea .
+He called the EMT &apos;s and was found to be in pulmonary edema by chest x-ray at <PHI TYPE="HOSPITAL">[**Hospital Customize 137**]</PHI> .
+His ECG showed [**Hospital Customize 2**] ischemic changes .
+(1) Insulin dependent diabetes mellitus x 15 years with [**Hospital Customize 2**] retinopathy or foot lesions .
+Regular rate and rhythm with [**Hospital Customize 2**] extra heart sounds and [**Hospital Customize 2**] murmurs .
+[**Hospital Customize **] edema with 2+ pulses .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+This is an 81-year-old who presented with postmenopausal spotting and had an endometrial biopsy which was read at the <PHI TYPE="HOSPITAL">[**Hospital Customize 147**]</PHI> as showing grade I adenocarcinoma .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+Index [**Hospital Customize **]. <PHI TYPE="ID">WLDOVN4PV4</PHI>
+He was taken [**Doctor or Patient Name 20**] to <PHI TYPE="HOSPITAL">[**Hospital Customize 92**]</PHI> where he arrived at about 3:00 AM and a CT scan showed ? basal subarachnoid hemorrhage and hydrocephalus .
+It showed [**Hospital Customize 2**] aneurysm and [**Hospital Customize 2**] dissection and [**Hospital Customize 2**] shunting lesions .
+The <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> Admitting Desk was also notified as were Dr. <PHI TYPE="DOCTOR">Liftjesc</PHI> , Dr. <PHI TYPE="DOCTOR">Telshey Vital</PHI> , Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 148**]</PHI> , and the patient &apos;s primary care physician , Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 149**]</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+The patient &apos;s granddaughter , however , works at <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> and therefore the family elected to bring the patient [**Doctor or Patient Name 10**] and then bring her to <PHI TYPE="HOSPITAL">[**Hospital Customize 85**]</PHI> .
+Chest x-ray showed significant kiphosis but otherwise [**Hospital Customize 2**] significant lesions at all .
+She had [**Hospital Customize 2**] respiratory distress but did choose to sit in an upright position .
+The patient had [**Hospital Customize 2**] stridor and it was clear that she must be breathing around the epiglottis .
+S1 and S2 , [**Hospital Customize 2**] murmurs , rubs or gallops .
+Soft , nontender , positive bowel sounds , [**Hospital Customize 2**] hepatosplenomegaly , [**Hospital Customize 2**] bruits .
+Direct laryngoscopy was performed but this revealed only a large amount of base of tongue edema with minimally visible epiglottis which was also significantly edematous and [**Hospital Customize 2**] distinct [**Doctor or Patient Name **] or lesion could be noted .
+She continued in sinus rhythm after this episode of SVT and again had [**Hospital Customize 2**] problems with her blood pressure during that .
+On <PHI TYPE="DATE">4/5</PHI>/91 in the ICU under controlled conditions , she was electively extubated and had [**Hospital Customize 2**] problems .
+She was kept on Ceftriaxone but [**Hospital Customize 2**] further steroids were given .
+She was followed on the regular floor 24 hours after extubation and had [**Hospital Customize 2**] further problems with her airway .
+Unfortunately the episodes of atrial fibrillation and SVT were apparently not documented well enough in terms of EKG strips to aid Cardiology and therefore , they gave us an informal consult so that [**Hospital Customize 2**] formal consult will be found in this chart .
+Nonetheless , their input was greatly appreciated and she was taken off of Digoxin and had [**Hospital Customize 2**] further problems with her heart .
+She , of note , had [**Hospital Customize 2**] history of foreign body ingestion or any abrasion or trauma to this area .
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Doctor or Patient Name 153**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> on <PHI TYPE="DATE">09/24</PHI>/2005 08:04 AM .
+Following evaluation and treatment , the patient &apos;s disposition at the end of the visit was ADMITTED AS AN INPATIENT TO <PHI TYPE="HOSPITAL">[**Hospital Customize **]</PHI> .
+The patient &apos;s symptoms improved with the above measures and the patient [**Hospital Customize 2**] longer complained of chest pain during the hospitalization .
+A GI consultation was made and they felt that the rectal bleeding is most likely from the hemorrhoids and [**Hospital Customize 2**] further intervention was felt to be necessary .
+The patient had a follow up MRI scan which showed [**Hospital Customize 2**] significant change of tumor [**Doctor or Patient Name **] .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Doctor or Patient Name 154**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> on <PHI TYPE="DATE">08/25</PHI>/2002 01:40 PM .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+She eventually ruled in for a myocardial infarction and was transferred to <PHI TYPE="HOSPITAL">[**Hospital Customize 147**]</PHI> on <PHI TYPE="DATE">02/21</PHI> .
+[**Hospital Customize **] S3 was present .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+<PHI TYPE="PATIENT">Cean [**Doctor or Patient Name 155**]</PHI> is a 38 year old male who is admitted in transfer from the <PHI TYPE="HOSPITAL">[**Hospital Customize 156**]</PHI> in <PHI TYPE="LOCATION">Ville , Virginia</PHI> for further evaluation and management of accelerating chest pains syndrome .
+Since that time , he has had multiple admissions to <PHI TYPE="HOSPITAL">[**Hospital Customize 157**]</PHI> with recurrent chest pain .
+He was admitted to <PHI TYPE="HOSPITAL">[**Hospital Customize 157**]</PHI> with a typical episode of this discomfort in <PHI TYPE="DATE">October</PHI> of l994 .
+He was transferred at that time to the <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> .
+That was his [**Doctor or Patient Name 20**] <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> admission .
+There is [**Hospital Customize 2**] history of drug abuse or smoking .
+His abdomen was obese with [**Hospital Customize 2**] palpable organomegaly .
+Rheumatology felt that there was [**Hospital Customize 2**] good evidence of a primary vasculitic process as the source of his presumed small vessell coronary disease and [**Hospital Customize 2**] further rheumatologic work-up was undertaken .
+His compliment [**Doctor or Patient Name 9**] were normal and he had [**Hospital Customize 2**] evidence of hepatitis , B serologies which also measured to see if there was some chronic inflammatory process .
+He tolerated that procedure well and had [**Hospital Customize 2**] recurrent anginal pain throughout the rest of his hospitalization .
+Lungs were clear to auscultation , there were [**Hospital Customize 2**] wheezes or rales .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+[**Hospital Customize 27**] / AT , PERRLA , EOMI , oropharynx clear .
+The temperature spikes did continue but have reached to a degree [**Hospital Customize 2**] higher than 100 degrees Farenheit and occurred a significantly decreased number of times .
+Since the patient &apos;s last admission she gives [**Hospital Customize 2**] history of chest or back pain and continues to be quite active .
+Laboratory data obtained revealed [**Hospital Customize 2**] significant changes from her initial postoperative [**Doctor or Patient Name 9**] .
+The epidural catheter had been removed prior to their evaluation and [**Hospital Customize 2**] return of significant function was noted over the ensuing two days aside from flexion and extension of the toes but still the patient maintained profound proximal lower extremity weakness .
+Her ultimate diagnosis was subsequently felt to be a segmental infarction of the anterior and lateral part of her T10 level spinal cord and there was [**Hospital Customize 2**] evidence of that recovery of her left lower extremity would be obtained .
+The patient will follow up with Dr. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 159**]</PHI> and she is to maintain rehabilitation care at the <PHI TYPE="HOSPITAL">[**Hospital Customize 160**]</PHI> .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+This is to notify you that your patient , <PHI TYPE="PATIENT">[**Doctor or Patient Name 161**]</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> on <PHI TYPE="DATE">09/20</PHI>/2000 12:41 PM .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 93**]</PHI>
+6. Cytomegalovirus-positive , [**Hospital Customize 2**] history of cytomegalovirus disease .
+[**Hospital Customize **] murmur .
+Abdomen was soft and nontender , [**Hospital Customize 2**] hepatosplenomegaly , guaiac positive ( oral bleeding from Kaposi &apos;s sarcoma ) .
+This is to notify you that your patient , <PHI TYPE="PATIENT">AKOTEBONTKAYS , JUANQUINTLEO</PHI> arrived in the Emergency Department at <PHI TYPE="HOSPITAL">[**Hospital Customize 90**]</PHI> on <PHI TYPE="DATE">07/31</PHI>/2000 07:36 PM .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+Her Flecainide was discontinued and she was referred to <PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI> for further evaluation .
+1. <PHI TYPE="DOCTOR">[**Doctor or Patient Name 108**]</PHI> , MD <PHI TYPE="HOSPITAL">LIODIMAN BASSPRINGTY HOSPITAL</PHI> <PHI TYPE="LOCATION">Plaport , [**Hospital Customize 162**]</PHI>
+She has [**Hospital Customize 2**] known drug allergies .
+The patient was a pleasant elderly female in [**Hospital Customize 2**] acute distress .
+[**Hospital Customize **] guarding or rebound .
+[**Hospital Customize 2**] edema .
+[**Hospital Customize 2**] masses , lesions or nipple discharge .
+[**Hospital Customize **] axillary lymphadenopathy .
+<PHI TYPE="HOSPITAL">[**Hospital Customize 86**]</PHI>
+[**Hospital Customize **] lymphadenopathy or thyromegaly .
+The extremities had [**Hospital Customize 2**] clubbing , cyanosis or edema .
+Sputum gram stain showed [**Hospital Customize 2**] polys and [**Hospital Customize 2**] bacteria .
+[**Hospital Customize **] known drug allergies .
+There was [**Hospital Customize 2**] rebound and [**Hospital Customize 2**] hepatosplenomegaly .
+[**Hospital Customize **] incisional scars .
+Total_Position: 694, TP: 232, FP: 462

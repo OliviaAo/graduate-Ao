@@ -22,7 +22,7 @@
 		</SavedIdentifiers>
 		<SavedIdentifiers>
 			<Label>Institutions</Label>
-			<FileLocation>conf/peopleDictionary/peopleDictionary50.txt</FileLocation>
+			<FileLocation>conf/peopleDictionary/peopleDictionary.txt</FileLocation>
 			<ReplaceWith>xxxPEOPLExxx</ReplaceWith>
 			<CaseSensitive>false</CaseSensitive>
 		</SavedIdentifiers>

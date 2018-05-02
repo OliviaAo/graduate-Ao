@@ -1,4 +1,8 @@
- #!/usr/bin/perl
+#_______________________________________________________________________________
+# Function: De-ID Scrubber (Improved --- Add HMS Dictionarys and Regx Function )
+# Auhor: Ao Li 
+# Date: 28-04-2018
+#_______________________________________________________________________________
 
 #**************************************************************************************************************
 #file: deid.pl	 Original author: M. Douglass 2004	
@@ -83,7 +87,7 @@ my $comparison = ""; # 1=comparison with gold standard, 0=no comparison with gol
 $alllists = "";
 $pid_patientname_list = "";
 $pid_dateshift_list = "";
-$country_list = "";
+$country_list = ""; 
 $company_list = "";
 $ethnicity_list = "";
 $hospital_list = "";
@@ -178,6 +182,14 @@ $more_us_states_abbre_file = "lists/more_us_state_abbreviations.txt";
 $us_area_code_file = "lists/us_area_code.txt";
 $medical_phrases_file = "dict/medical_phrases.txt"; 
 $unambig_common_words_file = "dict/notes_common.txt";
+
+# Ao's improve1: adding training dictionary People and Position:
+$position_names_file = "lists/positionDictionary/positionDictionary50.txt";
+$people_names_file = "lists/peopleDictionary/peopleDictionary50.txt";
+
+# Ao's improve2: using Regx to recognize doctors' name:
+# $doctor_names_file = "lists/doctor_names.txt";
+# $doctor_names_regx_file = "lists/doctor_names_regx.txt";
 
 ############################################################################################################
 # Declares some arrays of context words that can be used to identify PHI
@@ -350,21 +362,18 @@ if ($#ARGV == 1) {
 	    $location_list = ($1);
 
 	}	
-	if ($cfline =~ /\bDoctor\s+names\s*\=\s*([a-z])/ig) {
-	    $doctor_list = ($1);
-
-	}
-
-	if ($cfline =~ /\bLocalPlaces\s+names\s*\=\s*([a-z])/ig) {
+    if ($cfline =~ /\bDoctor\s+names\s*\=\s*([a-z])/ig) {
+    	$doctor_list = ($1);
+    
+    }
+    if ($cfline =~ /\bLocalPlaces\s+names\s*\=\s*([a-z])/ig) {
 	    $local_list = ($1);
 	}
 
 	if ($cfline =~ /\bState\s+names\s*\=\s*([a-z])/ig) {
 	    $state_list = ($1);
 	}
-
-    }
-
+	}
 }
 
 # Prints an error message on the screen if number of arguments is incorrect
@@ -685,60 +694,75 @@ sub setup {
     }
     close LP;
 
+    # Create name regx file from the text:
+    # &regx();
+
     #Added to reduce false positives
     &setup_hash($medical_phrases_file,"MedicalPhrase");
    
     # Sets up hashes of some PHI lists for direct identification
     if ($namefilter =~ /y/) {
-	&setup_hash($female_unambig_file,"Female First Name (un)");
-	&setup_hash($female_ambig_file,"Female First Name (ambig)");
-	&setup_hash($male_unambig_file,"Male First Name (un)");
-	&setup_hash($male_ambig_file,"Male First Name (ambig)");
-	&setup_hash($last_unambig_file,"Last Name (un)");
-	&setup_hash($last_popular_file,"Last Name (popular/ambig)"); 
-	&setup_hash($last_ambig_file,"Last Name (ambig)");
-	&setup_hash($female_popular_file, "Female First Name (popular/ambig)");
-	&setup_hash($male_popular_file, "Male First Name (popular/ambig)");
-	
+	# &setup_hash($female_unambig_file,"Female First Name (un)");
+	# &setup_hash($female_ambig_file,"Female First Name (ambig)");
+	# &setup_hash($male_unambig_file,"Male First Name (un)");
+	# &setup_hash($male_ambig_file,"Male First Name (ambig)");
+	# &setup_hash($last_unambig_file,"Last Name (un)");
+	# &setup_hash($last_popular_file,"Last Name (popular/ambig)"); 
+	# &setup_hash($last_ambig_file,"Last Name (ambig)");
+	# &setup_hash($female_popular_file, "Female First Name (popular/ambig)");
+	# &setup_hash($male_popular_file, "Male First Name (popular/ambig)");
+	print "here1";
+
 	if ($doctor_list =~ /y/) {
-	    &setup_hash($doctor_first_unambig_file, "Doctor First Name");
-	    &setup_hash($doctor_last_unambig_file, "Doctor Last Name");
+	    # &setup_hash($doctor_first_unambig_file, "Doctor First Name");
+	    # &setup_hash($doctor_last_unambig_file, "Doctor Last Name");
+
+	    # Expand people name dictionary:
+	    print "here";
+	    &setup_hash($people_names_file,"Doctor or Patient Name");
+
+	    # Expand name dictionary:
+	    # &setup_hash($doctor_names_file, "Doctor");
+	    # &setup_hash($doctor_names_regx_file, "Doctor Regx");
 	}
 	
-    }
+	}
 
     if ($locfilter =~ /y/) {
-	if ($location_list =~ /y/) {
-	    &setup_hash($locations_ambig_file,"Location (ambig)");
-	    &setup_hash($locations_unambig_file,"Location (un)"); 
+	# if ($location_list =~ /y/) {
+	#     &setup_hash($locations_ambig_file,"Location (ambig)");
+	#     &setup_hash($locations_unambig_file,"Location (un)"); 
 	  
-	} else {
-	    @loc_unambig = ();
-	    @more_loc_unambig = ();
-	    @loc_ambig = ();
-	}
+	# } else {
+	#     @loc_unambig = ();
+	#     @more_loc_unambig = ();
+	#     @loc_ambig = ();
+	# }
 
 
 	if ($hospital_list =~ /y/) {
-	    &setup_hash($hospital_file,"Hospital");
-	}
-	if ($ethnicity_list =~ /y/) {		
-	    &setup_hash($ethnicities_unambig_file, "Ethnicity");
-	}
-	if ($company_list =~ /y/) {	
-	    &setup_hash($companies_file, "Company");
-	    &setup_hash($companies_ambig_file, "Company (ambig)");
-	
-	}
-	if ($country_list =~ /y/) {
-	    &setup_hash($countries_file, "Country");
-	}
+	    # &setup_hash($hospital_file,"Hospital");
 
-	if ($local_list =~ /y/){
-	    &setup_hash($local_places_unambig_file, "Location (un)"); 
-	    &setup_hash($local_places_ambig_file, "Location (ambig)"); 
-	
+	    # Expand position dictionary:
+	    &setup_hash($position_names_file,"Hospital Customize");
 	}
+	# if ($ethnicity_list =~ /y/) {		
+	#     &setup_hash($ethnicities_unambig_file, "Ethnicity");
+	# }
+	# if ($company_list =~ /y/) {	
+	#     &setup_hash($companies_file, "Company");
+	#     &setup_hash($companies_ambig_file, "Company (ambig)");
+	
+	# }
+	# if ($country_list =~ /y/) {
+	#     &setup_hash($countries_file, "Country");
+	# }
+
+	# if ($local_list =~ /y/){
+	#     &setup_hash($local_places_unambig_file, "Location (un)"); 
+	#     &setup_hash($local_places_ambig_file, "Location (ambig)"); 
+	
+	# }
     }
 
     # Preloads PHI in some lists into corresponding arrays    
@@ -802,13 +826,63 @@ my %pidPtNames; # key = pid, value = [0] first name [1] last name
 #***********************************************************************************************************
 #***********************************************************************************************************
 #***********************************************************************************************************
+sub regx(){
+	# Add Regex Matching from HMS Scrubber:
+	open DF, $data_file or die "Cannot open $data_file";
+    open DRF, ">$doctor_names_regx_file" or die "Cannot open $doctor_names_regx_file";
+    my @doctor_regx_list = ();
+    my $doctor_names_regx = "";
+    while ($cfline = <DF>){
+	# Doctor format1: 2-token-name. ex: DR. Sam Smith. both names must be intialUppercase
+	if ($cfline=~ /(([dD][Rr]([Ss])?))(\.|,)* <PHI TYPE=\"DOCTOR\">(([^\Wa-z0-9_][^\WA-Z0-9_]*\b)(\s+[^\Wa-z0-9_][^\WA-Z0-9_]*\b))/){
+		$doctor_names_regx = ($5);
+		push @doctor_regx_list, "$doctor_names_regx\n";
+	}
+	# Doctor format2: with ands ex: Dr. Antonioni and Gelman
+	elsif ($cfline=~ /(([dD][Rr]([Ss])?))(\.|,)* <PHI TYPE=\"DOCTOR\">(\w+\s(and|AND)\s(\w+))/){
+		$doctor_names_regx = ($5);
+		push @doctor_regx_list, "$doctor_names_regx\n";
+	}
+	# Doctor format3: ex: Dr. F. Gelman.
+	elsif ($cfline=~ /(([dD][Rr]([Ss])?))(\.)*\s<PHI TYPE=\"DOCTOR\">((\w+)(\.)*\s(\w+))/){
+		$doctor_names_regx = ($5);
+		push @doctor_regx_list, "$doctor_names_regx\n";
+	}
+	# Doctor format4: ex Dr. Antonioni
+	elsif ($cfline=~ /(([dD][Rr]([Ss])?))(\.|,)* <PHI TYPE=\"DOCTOR\">(\w+)/){
+		$doctor_names_regx = ($5);
+		push @doctor_regx_list, "$doctor_names_regx\n";
+	}
+	# Doctor format5: 2-token-name. without '.''  ex: Dr. Fas Aas 
+	elsif ($cfline=~ /(([dD][Rr]([Ss])?))(\.|,)* <PHI TYPE=\"DOCTOR\">((\W\w+)(\W\w+))/){
+		$doctor_names_regx = ($5);
+		push @doctor_regx_list, "$doctor_names_regx\n";
+	}
+	# Doctor format6: MD2. ex: Olivia MD. 
+	elsif ($cfline=~ /(\w+\W\s*\w+\W*)(((M|m)(\.)*(\s*)(D|d)(\.)*))/){
+		$doctor_names_regx = ($1);
+		push @doctor_regx_list, "$doctor_names_regx\n";
+	}
+	# Doctor format7: Drs plural. ex: DRS. Ao Li
+	elsif ($cfline=~ /(Drs|DRS)(\.)* <PHI TYPE=\"DOCTOR\">(.+)/){
+		$doctor_names_regx = ($3);
+		push @doctor_regx_list, "$doctor_names_regx\n";
+	}   
+	}
+	@sorted = sort { lc($a) cmp lc($b) } @doctor_regx_list; # alphabetical sort
+	foreach(@sorted) {
+		print DRF "$_";
+	}
+	close DRF;
+	close DF;
 
+}
 sub deid {
     
     $allText = ""; 
     $allallText = "";
     open DF, $data_file or die "Cannot open $data_file";
-
+    
     my $paraCount = 0;
 
     my $stpos = 0;
@@ -930,17 +1004,17 @@ sub deid {
 	    } # end if this is a new patient
 
 	    #output the header to output file	    
-            $allText = "";       #reset, 
+        $allText = "";       #reset, 
 	    $allallText = "";    #reset
 	    $stpos = 0;
 	    $para = "";
 
 	    #if output mode, output the header line (with patient and note ID) to .res file
-            if ($comparison == 0) {
-	      open TF, ">>$deid_text_file" or die "Cannot open $deid_text_file";   #now open in append mode
-	      print TF "\n$line";
-	      close TF;
-            }   
+        if ($comparison == 0) {
+	    	open TF, ">>$deid_text_file" or die "Cannot open $deid_text_file";   #now open in append mode
+	      	print TF "\n$line";
+	      	close TF;
+        }   
 	    next; #skip to next line
 	  }  #end if this is start of a record
 	else {  #else this is not the start of a record, just append the line to the end of the current text
@@ -948,8 +1022,8 @@ sub deid {
 	    $allText .= $line."\n";
 	    $allallText .= $line."\n";	  
             
-            #$myline = $line;
-            #chomp $myline;
+        #$myline = $line;
+        #chomp $myline;
 	    #$allText .= $myline."\n";
 	    #$allallText .= $myline."\n";	  
 	}
@@ -1179,9 +1253,9 @@ sub findPHI {
     }
 
     if ($locfilter =~ /y/) {
-	&wardname($text, 0);
-	&location1 ($text, 0);
-	&location2 ($text, 0);
+	# &wardname($text, 0);
+	# &location1 ($text, 0);
+	# &location2 ($text, 0);
     }
 
     if ($emailfilter =~ /y/) {
@@ -1202,12 +1276,12 @@ sub findPHI {
 
     if ($namefilter =~ /y/) {
 
-	&name1 ($text, 0);
-	&name2 ($text, 0);
-	&name3 ($text, 0);
-	&knownPatientName($text, 0);
-	&problem ($text, 0);
-	&signatureField ($text, 0);
+	# &name1 ($text, 0);
+	# &name2 ($text, 0);
+	# &name3 ($text, 0);
+	# &knownPatientName($text, 0);
+	# &problem ($text, 0);
+	# &signatureField ($text, 0);
     }
 
     if ($unitfilter =~ /y/) {
