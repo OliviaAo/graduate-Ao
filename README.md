@@ -74,14 +74,43 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
    * Working Path: Tools/DEID/deid-1.1
    * Deidentification principle: Pattern Matching
    * Usage:       
-        * Add dictionary to the Configuration File:
+        * Add Dictionary to the Configuration File and Remove Annotation in the Processing File:
         ```
-        (i) Add the dictionary to the lists/scrubberConfigurationFile
-            E.g. lists/stripped_hospital.txt
-        ```      
+        (i) Add dictionaries under the 'lists' folder
+            E.g. lists/peopleDictionary/peopleDictionary90.txt
+        ```   
+        ```
+        (ii) Remove annotation in 'deid.pl' in line 187-188, 722 and 747.
+            (This step only needs to do when you want to use the training dictionary.)
+        ```
+        
         ```diff
-        + Note: The easiest way to add dictionary for this method is just copy and paste our 
-        +       dictionary content into that files already existed.             
+        + Note: The original DE-ID has been expanded three more functions.
+        - 1) Imported HMS Name Dictionary Function:
+          The imported dictionary is stored as 'doctor_names.txt'.
+          If you want to start this function, pls remove the annotation in line 191 and 725.
+        
+        - 2) Regx Matching Function:
+          Becuase Regx is not a real dictionary, the program will first using regx to match names.
+          Then store the matched names into 'doctor_names_regx.txt' automatically.
+          If you want to start this function, pls remove the annotation in line 192, 726 and 698.
+        
+        - 3) Only Use the Training People Dictionary and Position Dictionary Funtion:
+        + 3.1)If you want to try "only use the training People dictionary"
+          Modify the orginal deid.config file 
+            Name filter = y
+            Doctor names = y
+            and all other filters and names = n
+          
+          Add annotation in line 705-713, 717-718 and 1277-1285.
+          
+        + 3.2)If you want to try "only use the training Position dictionary"
+          Modify the original deid.config file
+            Location filter = y
+            Hospital names = y
+            and all other filters and names = n
+            
+          Add annotation in line 732-740, 744, 749-765 and 1255-1259. 
         ```
         
         * Scrub on the test dataset:
@@ -103,8 +132,12 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         (i) Open performanceAnalysis/deid_analysis.py
         ```
         ```
-        (ii) Set the output path for the results and Run the file.
-             It will show the Total number of scrubbed, the number of True positive and the number or False positive number for People and Position category.
+        (ii) Setup the input file path and output Result folder path, then Run the file.
+             It will show 
+                           the total number of scrubbed, 
+                           the number of True Positive, 
+                           the number of False Positive
+                                                          for People and Position category
         ```
 
 #### 3. PHI-Reducer
