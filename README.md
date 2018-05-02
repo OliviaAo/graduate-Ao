@@ -28,36 +28,43 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
    * Working Path: Tools/HMS-Scrubber/scrubber-core-2.8
    * Deidentification principle: Pattern Matching
    * Usage      
-        * Add dictionary to the Configuration File:
+        * Add Dictionary to the Scruuber's Configuration File:
         ```
-        (i) Add the dictionary to the conf/scrubberConfigurationFile 
+        (i) Add dictionaries to the scrubber configuration file, which is under the 'conf' folder.
             E.g. conf/ScrubberConfiguration.xml
         ```      
         ```diff
-        + Note: dictionary should under the 'conf' folder
+        + Note: dictionary files should put under the 'conf' folder
         ```
         
-        * Scrub on the test dataset:
+        * Scrub on the Test Dataset:
         ```
         (i) Run 'sh scrubber.sh <input_file> <config_file>'
              E.g. sh scrubber.sh test.xml conf/ScrubberConfiguration.xml
         ```
         ```
-        (ii) System will create a new file under the root folder
-              The scrubbed text is in under 'success' Folder.
-        ```
-        
-        * Analyse on the scubbed texts:
-        ```
-        (i) Open performanceAnalysis/hms_analysis.py
-        ```
-        ```
-        (ii) Set the output path for the results and Run the file.
-             It will show the Total scubbed number, True positive number, False positive number for each category
+        (ii) System will create a new folder under the root folder
+              The scrubbed text is in under 'success' folder.
         ```
         ```diff
-        + If you want to calculate the Recall, you need to mannualy calculate the total number of the PHI.
-        + I use Sublime Text3 and use command+F to find the PHI I interested, 
+        + Note: test dataset should reformat first. (Add header and tailer)
+        ```
+        
+        * Analyse on the Scrubbed Text:
+        ```
+        (i) Open performanceAnalysis/hms_analysis.py file
+        ```
+        ```
+        (ii) Setup the input file path and output Result folder path, then Run the file.
+             It will show 
+                           the total number of scrubbed, 
+                           the number of True Positive, 
+                           the number of False Positive
+                                                          for People and Position category
+        ```
+        ```diff
+        + If you want to calculate the Recall, you need to mannualy calculate the total number of PHI in the scrubbed text.
+        + I use Sublime Text3 and use command+F to find the PHIs that I interested. 
         + It will show you the total number in the left corner.
         ```
        
@@ -96,7 +103,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         ```
         ```
         (ii) Set the output path for the results and Run the file.
-             It will show the Total scubbed number, True positive number, False positive number for each category
+             It will show the Total number of scrubbed, the number of True positive and the number or False positive number for People and Position category.
         ```
 
 #### 3. PHI-Reducer
