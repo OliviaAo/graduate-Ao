@@ -172,8 +172,12 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
         (i) Open performanceAnalysis/phi_reducer_analysis.py
         ```
         ```
-        (ii) Set the output path for the results and Run the file.
-             It will show the Total scubbed number, True positive number, False positive number for each category
+        (ii) Setup the input file path and output Result folder path, then Run the file.
+             It will show 
+                           the total number of scrubbed, 
+                           the number of True Positive, 
+                           the number of False Positive
+                                                          for People and Position category
         ```
 
 
