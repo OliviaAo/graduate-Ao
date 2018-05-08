@@ -1,11 +1,81 @@
-On <PHI TYPE="DATE">September 6</PHI> , she began the next cycle of second line chemotherapy consisting of Carboplatin , Ifosfamide , and [LOCATION] .
-The patient is to be transferred to <PHI TYPE="HOSPITAL">[LOCATION].ryfear Medical Center</PHI> for further care including physical therapy , occupational therapy , and further nutritional support .
-Include Albuterol nebulizer 2.5 mg nebs q.4h , Colace 100 mg p.o. b.i.d. , Vitamin D 5000 units p.o. q.weekly , iron sulfate 325 mg p.o. t.i.d. , folate 1 mg p.o. q.d. , regular insulin sliding scale , Lopressor 25 mg p.o. t.i.d. , Neutrophos 250 mg p.o. t.i.d. , [LOCATION] 2 tablets p.o. b.i.d. , multivitamins with minerals one tab p.o. q.d. , trazadone 50 mg p.o. q.h.s. p.r.n. insomnia , Zocor 40 mg p.o. q.h.s. , Atrovent nebulizers 0.5 mg nebs q.i.d. p.r.n. shortness of breath , Pulmicort two puffs inhaled b.i.d. and Nexium 40 mg p.o. b.i.d.
-He was subsequently switched to Imipenem and [LOCATION] and was maintained on those medications throughout the hospital course .
-The patient is a 79-year-old male with a history of [LOCATION] &apos;s disease x &apos;s 18 years , prostate cancer , urinary incontinence and recent subdurals after fall .
-The patient was admitted to the Surgical Service under the care of Dr. <PHI TYPE="DOCTOR">[LOCATION] [LOCATION]/PHI> .
-7. [LOCATION] .
-On admission included Dilantin , 100 mg po t.i.d. ; Cardizem , 120 mg po t.i.d. ; [LOCATION] , 20 mg po t.i.d. ; Beclomethasone , two puffs po q day ; aspirin , 325 mg po q day ; nitropaste , 1.5 inches q six hours .
+All sites were successfully embolized with [LOCATION] with non-selective arterial embolization of the spleen occurring as well .
+2. [LOCATION] .
+The patient received postoperative chemotherapy with 5-FU and [LOCATION] .
 [LOCATION] .
+Ms. <PHI TYPE="PATIENT">Counts</PHI> has known metastatic breast cancer and has been on treatment with [LOCATION] and [LOCATION] .
+We will continue her on treatment with [LOCATION] .
+The patient was begun on Gentamicin , Vancomycin and [LOCATION] , which was changed to [LOCATION] and Ceftazidime .
+Vasotec 40 mg q.day , [LOCATION] 1 tablet q.day , Demerolprn , Clonidine .
+His intensive care unit stay was notable for intensive care unit psychosis which was treated with [LOCATION] and Ativan .
+The patient was admitted to the ICU and was fully monitored with an A-line and [LOCATION] .
+The patient is a 58 year old female with a history of [LOCATION] &apos;s disease for more than twenty years who presented to the <PHI TYPE="HOSPITAL">Gemenadentoolpai Medical Center</PHI> with a revolving anterolateral wall myocardial infarction on <PHI TYPE="DATE">08-01</PHI>-93 .
+Her past medical history is remarkable for a history of [LOCATION] &apos;s disease .
+The patient was seen in consultation by the Neurology Department because of the history of [LOCATION] &apos;s disease .
+Sepsis , ARDS , [LOCATION]
+After the wound was further opened , he was started on ampicillin , [LOCATION] , and Flagyl antibiotics and he was placed on a bid dressing change and packing .
+We continued his ampicillin , [LOCATION] , and [LOCATION] .
+The patient was continued on ampicillin and [LOCATION] .
+[LOCATION] .
+On admission , she was diuresed with [LOCATION] and was negative 1-2 liters per day for several days .
+A Speech and [LOCATION] evaluation initially deemed her an aspiration risk , and she was taken of PO &apos;s .
+For her FEN , the patient was able to take PO &apos;s and , per Speech and [LOCATION] consult , was permitted to take PO &apos;s with one to one supervision .
+She also had an episode of nausea with some emesis , after being treated with [LOCATION] with no relief , a nasogastric tube was placed which drained 1200 cc of bilious fluid .
+[LOCATION] .
+The patient is to arrange follow up with a GI doctor in <PHI TYPE="LOCATION">Jotar Boulevard , [LOCATION] , South Dakota 62848</PHI> through his primary-care physician .
+[LOCATION] and basic cystic protein stains are still pending .
+[LOCATION] and shortness of breath :
+He was admitted to the <PHI TYPE="HOSPITAL">Retelk County Medical Center</PHI> at that time and was treated with [LOCATION] and steroids .
+Actually in reviewing the records at this point , it appears that Pentamidine was not started initially so on the antibiotics of Erythromycin and [LOCATION] , the patient &apos;s respiratory status worsened and his LDH climbed so he began Pentamidine on <PHI TYPE="DATE">02/10</PHI>/91 .
+He was admitted to the Short Stay Unit , given Ancef and [LOCATION] per the team for antibiotic prophylaxis and observed overnight .
+The oncology fellows from <PHI TYPE="HOSPITAL">Venbonlea Health</PHI> followed her course and recommended holding off on her [LOCATION] while she is hospitalized , and they will follow her as an outpatient and restart her Hydrea when her hematocrit is over 40% .
+[LOCATION] .
+AZT 100 mg p.o. t.i.d. , Ferrous sulfate , and [LOCATION] .
+On <PHI TYPE="DATE">September 6</PHI> , she began the next cycle of second line chemotherapy consisting of Carboplatin , Ifosfamide , and [LOCATION] .
+The patient is allergic Ampicillin , Tylenol , Clinoril , Biaxin , Codeine , [LOCATION] and Aminophylline .
+She was continued on her Trazodone , Neurontin and [LOCATION] .
+[LOCATION] .
+Cultures from his abdomen subsequently grew out methicillin resistant Staphylococcus aureus and [LOCATION] .
+Coumadin 5 mg q.d. ( this was discontinued one week prior to admission ) , Digoxin 0.25 mg q.d. , Mevacor 20 mg q.d. , Propranolol 20 mg q.d. , and [LOCATION] for dental procedures .
+6. Line sepsis most recently secondary to Enterococcus and [LOCATION] .
+Include Cardizem CD 180 mg daily ; Monopril 10 mg daily ; Digoxin .25 mg daily ; and [LOCATION] 40 mg every other day .
+To Quinidine , [LOCATION] , and sulfa antibiotics .
+As such , the patient was given Vancomycin and [LOCATION] for levels .
+Antianginals were increased and including [LOCATION] was increased to 90 q.d.
+3) [LOCATION] .
+The patient underwent <PHI TYPE="HOSPITAL">Lenti Pidesrah Non Community Hospital</PHI> multiple sclerosis treatment , group II protocol with [LOCATION] and ACTH induction with the plan for maintenance Methylprednisolone after discharge .
+2) [LOCATION] - Patient had a steady drop in hematocrit from the admission value of 43.5 to the range of about 3l by hospital day number eight which remained stable at this point .
+Work-up included an iron of l24 , TIBC of 207 , a ferritin of l24 , and [LOCATION] and folate were pending but unlikely to be contributing to this acute drop .
+Subsequently , urine culture prior to initiation of antibiotic therapy grew out pan sensitive E. coli , greater than l00,000 including sensitivities to [LOCATION] .
+[LOCATION] one and a half years ago .
+According to her scanty records , an MRI of the spine showed diffuse spinal column involvement with lesions in [LOCATION] and T8 with no cord compression at that time .
+He was treated with Ceftazidime , gentamicin , and [LOCATION] and also was started on a Dopamine drip for treatment of his sepsis .
+3) [LOCATION] of T9 through T12 .
+Blood cultures drawn at the outside hospital grew out Pseudomonas that was sensitive to Imipenem and [LOCATION] .
+He was subsequently switched to Imipenem and [LOCATION] and was maintained on those medications throughout the hospital course .
+The plan is to complete a full course of Imipenem and [LOCATION] for his Pseudomonas cellulitis .
+Of note , he is a very poor historian given his difficulty speaking and inability to write from his [LOCATION] &apos;s disease .
+He was switched over the [LOCATION] and [LOCATION] for his aspiration pneumonia and again his mental status improved .
+He was diuresed with [LOCATION] and Diuril and was oxygenating fairly well while intubated .
+MS Contin 60 mg po bid and [LOCATION] .
+She underwent a sigmoid resection on <PHI TYPE="DATE">5/17</PHI>/96 by Dr. <PHI TYPE="DOCTOR">[LOCATION] [LOCATION]/PHI> .
+The heart had normal rate and rhythm , with normal Sl and [LOCATION] and no significant heart murmur was heard .
+[LOCATION] .
+7. [LOCATION] .
+[LOCATION] .
+[LOCATION] intravenous drip .
+She also received Cisplatin 35 per meter squared on <PHI TYPE="DATE">06/19</PHI> and [LOCATION] and [LOCATION] on <PHI TYPE="DATE">06/18</PHI> .
+This was accompanied with some anxiety , which was treated with intermittent morphine and [LOCATION] .
+His family stated that he had a progressive mental decline over the past three years and was initially diagnosed with [LOCATION] &apos;s disease or features consistent with [LOCATION] .
+It was not felt likely to be due to [LOCATION] &apos;s disease , as he had no significant response to [LOCATION] in the past and the patient had no evidence of tremor , although he was quite rigid and bradykinetic .
+Despite maximal efforts with coloids , renal range dopamine and [LOCATION] , the patient &apos;s creatinine continued to rise .
+He was treated with appropriate antibiotics for his [LOCATION] pneumonia , as well as for his abdominal process .
+Inpatient antibiotic and antiviral treatment included prophylactic acyclovir and [LOCATION] per protocol , empiric Levaquin , empiric caspofungin , and empiric fluconazole .
+He was treated with pulsed IV steroids and [LOCATION] , was augmented with mycophenolate Mofetil .
+A repeat CAT scan of the sinuses with finding of progressive thickening of the left maxillary sinus and both sets of ethmoid air cells since prior study of <PHI TYPE="DATE">November 9</PHI> , indicating progressive infection of [LOCATION] and any possible superinfection with bacterial sinusitis .
+Discharge medications were prednisone 30 q.d. , Imuran 120 q.d. , cyclosporin 400 b.i.d. and [LOCATION] 20 b.i.d. and Colace 100 b.i.d.
+The surgery was followed by XRT and chemotherapy with vincristine and [LOCATION] .
+She was given prescriptions for Percocet , Colace , Decadron taper and [LOCATION] .
+2. [LOCATION] .
 Diarrhea responded initially to [LOCATION] , but subsequent medical compliance was poor .
-Total_Position: 11, TP: 1, FP: 10
+3. [LOCATION] :
+Total_Position: 88, TP: 5, FP: 83

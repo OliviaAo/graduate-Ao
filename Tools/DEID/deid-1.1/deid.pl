@@ -711,14 +711,14 @@ sub setup {
 	# &setup_hash($last_ambig_file,"Last Name (ambig)");
 	# &setup_hash($female_popular_file, "Female First Name (popular/ambig)");
 	# &setup_hash($male_popular_file, "Male First Name (popular/ambig)");
-	print "here1";
+
 
 	if ($doctor_list =~ /y/) {
 	    # &setup_hash($doctor_first_unambig_file, "Doctor First Name");
 	    # &setup_hash($doctor_last_unambig_file, "Doctor Last Name");
 
 	    # Expand people name dictionary:
-	    print "here";
+
 	    &setup_hash($people_names_file,"Doctor or Patient Name");
 
 	    # Expand name dictionary:
