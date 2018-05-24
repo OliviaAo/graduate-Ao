@@ -239,13 +239,39 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
        (i) Open performanceAnalysis/mist_analysis.py
        ```
        ```
-       (ii) Set the output path for the results and Run the file.
-            It will show the Total scubbed number, True positive number, False positive number for each category
+       (ii) Setup the input file path and output Result folder path, then Run the file.
+             It will show 
+                           the total number of scrubbed, 
+                           the number of True Positive, 
+                           the number of False Positive
+                                                          for People and Position category
        ```
        ```diff
        + Note: I have combined [Patient] with [Doctor] as People and [Location] with [Hospital] as Position
        ```
-
+#### 5. MetaMap
+   * Environment: Java
+   * Working Path: Tools/MetaMap/public_mm
+   * Usage:       
+        * Reformat original text:
+        ```
+        (i) Run originalReformat.py 
+        ```
+       
+        * Generate potential PHI lists based on the reformatted text:
+        ```
+        (i) Run generateProtectedWordList.py
+            It will generate 3 files --- Hospital, Location and Date potential PHI lists.
+        ```
+        
+        * Remove all of the words that are not in the potential PHI list:
+        ```
+        (i) 
+        ```
+        ```
+        (ii)
+        ```
+        
 ## Articles:
 - [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1.pdf)
 - [BoB, a best-of-breed automated text de-identification system for VHA clinical documents'](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/2.pdf)
