@@ -250,27 +250,81 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
        + Note: I have combined [Patient] with [Doctor] as People and [Location] with [Hospital] as Position
        ```
 #### 5. MetaMap
-   * Environment: Java
+   * Environment: Java & Python
    * Working Path: Tools/MetaMap/public_mm
-   * Usage:       
-        * Reformat original text:
+   * Usage:   
+        * Generate gold standard from original clinial texts:
         ```
-        (i) Run originalReformat.py 
+        (i) Run performanceAnalysis/generateGoldStandard.py
+            It will generate gold standard for Doctor, Patient, Location and Hospital PHI category for measurement.
+            The generated file will be created on 'generatedFile/goldstandard' path.
         ```
-       
-        * Generate potential PHI lists based on the reformatted text:
+        * Remove tags from original texts:
         ```
-        (i) Run generateProtectedWordList.py
-            It will generate 3 files --- Hospital, Location and Date potential PHI lists.
+        (i) Run performanceAnalysis/removePHITag.py 
+            It will remove PHI tags on original clinical text in order to not confusing MetaMap.
+            The generated file will be created on 'generatedFile/reformattedText' path.
         ```
         
-        * Remove all of the words that are not in the potential PHI list:
+        * Use MetaMap processing on the texts without tags:
         ```
-        (i) 
+        (i) Run MetaMap on Mac Terminal:
+            command: "metamap16 text_need_to_process_on_MetaMap text_generated_from_MetaMap"
+            
+            An example command is as following:
+            metamap16 generatedFile/reformattedText/reformatted_original_test90.xml /
+            generatedFile/metamapText/metamap_original_test90.xml
         ```
+       ```diff
+       + Note: Need to install MetaMap in previous.
+       ```
+       
+        * Generate protected words lists based on the text generated from MetaMap:
         ```
-        (ii)
+        (i) Run performanceAnalysis/colanderScrubbed.py
+            Words that are not mapped from MetaMap will be removed. In other words, words that are mapped from MetaMap
+            will be regarded as protected words.
+            
+            The generated file will be created on 'generatedFile/scrubbedText' path.
+            For example: 'generatedFile/scrubbedText/90/scrubbed_original_test90.xml'
         ```
+        
+        * (Option) Generate potential PHI lists based on the text generated from MetaMap (Improved Colander Approach):
+        ```
+        (i) Run performanceAnalysis/generateProtectedWordList.py
+            It will generate 4 potential PHI lists for Hospital, Location, Doctor and Patient PHI categories
+            based on the results from MetaMap.
+            
+            The generated file will be created on 'generatedFile/protentialPHIList' path.
+        ```
+        
+        * (Opition) Remove all words in potential PHI list (Improved Colander Approach):
+        ```
+        (i)  Run performanceAnalysis/scrubbedProtentialPHI.py
+             Words that are in the potential PHI list will be removed. But for measurement, it will be replaced
+             with "*****" in thie project.
+             
+             The generated file will be created on 'generatedFile/scrubbedText' path.
+             For example: 'generatedFile/scrubbedText/90/scrubbed_improved_test90.xml'
+        ```
+        * Retag PHI into the clinical text:
+        ```
+        (i)  Run performanceAnalysis/addPHITag.py
+             For the sake of comparing the scrubbed results with gold standard, PHI tags need to be retagged into
+             the clinical text.
+             
+             The generated file will be created on 'generatedFile/scrubbedText' path.
+             For example: 
+                 original colander: 'generatedFile/scrubbedText/90/scrubbed_original_annotation_test90.xml'
+                 improved colander: 'generatedFile/scrubbedText/90/scrubbed_improved_annotation_test90.xml'
+        ```
+        * Analyse on the scrubbed text:
+        ```
+        (i) Run performanceAnalysis/colander_analysis.py
+            
+            Compare the retag text with gold standard.
+        ```
+
         
 ## Articles:
 - [Automatic de-identification of textual documents in the electronic health record: a review of recent research](https://github.com/OliviaAo/graduate-Ao/tree/master/Documents/References/1.pdf)
