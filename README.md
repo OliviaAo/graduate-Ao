@@ -251,7 +251,7 @@ This project runs on Mac, if you want to run on windows, please see the User Gui
        ```
 #### 5. MetaMap
    * Environment: Java & Python
-   * Working Path: Tools/MetaMap/public_mm
+   * Working Path: Tools/MetaMap (You need to download full version of MetaMap program yourself)
    * Usage:   
         * Generate gold standard from original clinial texts:
         ```
