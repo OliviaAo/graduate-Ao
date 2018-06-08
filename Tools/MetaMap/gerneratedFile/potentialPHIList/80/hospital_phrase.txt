@@ -1,0 +1,46 @@
+Anticoagulation clinic 
+BLOOD BANK 
+Cardiac Catheterization Laboratory 
+Cardiac intensive care unit 
+Cardiac surgery service 
+Cardiology 
+Clinic 
+Community hospital 
+EMERGENCY ROOM 
+Emergency Department 
+Endoscopy 
+Evaluation services 
+Group 
+HOSPITAL 
+Health centre 
+Heart Service 
+Hospital, General 
+ICU 
+INTENSIVE CARE UNIT 
+LONG-TERM CARE FACILITY 
+Long stay hospital 
+Long term care facility 
+Medical Center 
+Medical Service 
+Medical centers 
+Medical centre 
+Medical intensive care unit 
+NURSING HOME 
+Neurology department 
+OPERATING ROOM 
+Oncology, Radiation 
+Pain Clinic 
+Pharmacy 
+Post Anesthesia Care Unit 
+Protocol Group 
+Pulmonary Service 
+Short Stay Unit 
+Stroke service 
+Surgical department 
+Surgical intensive care unit 
+Thoracic surgery service 
+University Medical Center 
+VA 
+care rehabilitation Hospital 
+hospital day 
+outpatient laboratory 

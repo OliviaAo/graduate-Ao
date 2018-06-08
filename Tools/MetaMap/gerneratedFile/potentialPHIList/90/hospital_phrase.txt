@@ -1,0 +1,31 @@
+Cardiac Catheterization Laboratory 
+Cardiac intensive care unit 
+Cardiac surgery service 
+Cardiology 
+Clinic 
+Community medical centre 
+EMERGENCY ROOM 
+Emergency Department 
+Endoscopy 
+Gastroenterology service 
+General surgical service 
+HOSPITAL 
+Home Health 
+ICU 
+INTENSIVE CARE UNIT 
+Medical Center 
+Medical Service 
+Medical centre 
+Mobile 
+NURSING HOME 
+Neurology clinic 
+Neurology service 
+OPERATING ROOM 
+Oncology, Radiation 
+PIO 
+Pain Clinic 
+Pulmonary Service 
+Recovery room 
+Surgical intensive care unit 
+University Medical Center 
+hospital community 

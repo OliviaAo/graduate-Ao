@@ -1,0 +1,41 @@
+Area 
+BH 
+Block 
+CK 
+CP 
+CT 
+Centre County 
+County 
+D.C. 
+DR 
+Delaware 
+FS 
+Floor 
+GM 
+IV 
+LH 
+LV 
+Level 
+MB 
+MG 
+MO 
+Massachusetts 
+NU 
+New Mexico 
+PA 
+PC 
+PM 
+PO 
+Region 
+Reservoir 
+ST 
+South Dakota 
+TD 
+TL 
+TO 
+UA 
+UP 
+VI 
+VQ 
+VT 
+stated 

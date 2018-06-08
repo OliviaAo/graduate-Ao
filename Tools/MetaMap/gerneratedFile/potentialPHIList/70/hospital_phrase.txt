@@ -1,0 +1,56 @@
+Air 
+Anticoagulation clinic 
+Cardiac Catheterization Laboratory 
+Cardiac surgery service 
+Cardiology 
+Cardiology service 
+Clinic 
+Community hospital 
+Community medical centre 
+Coronary care unit 
+EMERGENCY ROOM 
+Emergency Department 
+Endoscopy 
+Gastroenterology service 
+Group 
+HOSPICE 
+HOSPITAL 
+Health centre 
+Heart Service 
+Hematology clinic 
+Hospital Service 
+ICU 
+INTENSIVE CARE UNIT 
+Institution 
+Medical Center 
+Medical Service 
+Medical centre 
+Mobile 
+NIA 
+NURSING HOME 
+Neurological intensive care unit 
+Neurology clinic 
+Neurology service 
+OPERATING ROOM 
+Occupational therapy service 
+Oncology clinic 
+Oncology, Radiation 
+PACU 
+PIO 
+Pain Clinic 
+Palliative 
+Pathology service 
+Pediatric intensive care unit 
+Pharmacy 
+Post Anesthesia Care Unit 
+SIG 
+Short Stay Unit 
+Stroke service 
+Surgical intensive care unit 
+Thoracic surgery service 
+University Medical Center 
+VA 
+Vascular surgery service 
+Ward, Emergency 
+hospital day 
+university hospital 

@@ -1,0 +1,68 @@
+Air 
+BLOOD BANK 
+CRITICAL CARE UNIT 
+Cardiac Catheterization Laboratory 
+Cardiac intensive care unit 
+Cardiac surgery service 
+Cardiology 
+Cardiology service 
+Chronic Care Facility 
+Clinic 
+Community hospital 
+Community medical centre 
+Diabetes service 
+EMERGENCY ROOM 
+Emergency Department 
+Endoscopy 
+Evaluation services 
+Group 
+HOSPICE 
+HOSPITAL 
+Health centre 
+Heart Service 
+ICU 
+INTENSIVE CARE UNIT 
+Infusion Unit 
+Institution 
+Intensive care units 
+LONG-TERM CARE FACILITY 
+Laboratory, Hospital 
+Long term care facility 
+Medical Center 
+Medical Service 
+Medical centre 
+Medical intensive care unit 
+Methadone 
+Mobile 
+NLM 
+NURSING HOME 
+Neurological intensive care unit 
+Neurology clinic 
+Neurology service 
+OPERATING ROOM 
+Oncology, Radiation 
+PACU 
+PIO 
+Pain Clinic 
+Palliative 
+Pathology department 
+Pediatric intensive care unit 
+Pharmacy 
+Protocol Group 
+Pulmonary Service 
+Pulmonary care Unit 
+REHABILITATION CENTER 
+Radiation service 
+Radiotherapy department 
+Recovery room 
+Rehab facility 
+Skilled Nursing Facility 
+Stroke service 
+Surgical intensive care unit 
+University Medical Center 
+Urology clinic 
+VA 
+Ward, Emergency 
+hospital day 
+medical facility 
+university hospital 
